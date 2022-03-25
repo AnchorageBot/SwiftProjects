@@ -12,5 +12,9 @@ This code repository holds Swift code resulting from projects
 
 [Practical Artificial Intelligence with Swift](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/)
 
+## Creators of Swift Knowledge
+
+[Dr. John Gallaugher's tutorials](https://gallaugher.com)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
