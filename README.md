@@ -4,8 +4,7 @@ This code repository holds Swift code resulting from projects
 
 ## Integrated Development Environment
 
-Apple Swift
-https://www.apple.com/swift/
+[Apple Swift](https://www.apple.com/swift/)
 
 ## How-to Code with Swift Project Books
 
