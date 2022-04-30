@@ -1,6 +1,6 @@
 ## Swift Projects
 
-This code repository holds Swift code resulting from projects
+This code repository holds Swift code resulting from various swift projects
 
 ## Integrated Development Environment
 
