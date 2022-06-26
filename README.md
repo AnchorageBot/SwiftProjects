@@ -2,7 +2,9 @@
 
 This code repository holds [Swift](https://www.apple.com/swift/) code resulting from various projects
 
-## Integrated Development Environment
+## Integrated Development Environments
+
+[Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 
 [Xcode](https://developer.apple.com/xcode/)
 
