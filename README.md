@@ -1,10 +1,10 @@
 ## Swift Projects
 
-This code repository holds Swift code resulting from various swift projects
+This code repository holds [Swift](https://www.apple.com/swift/) code resulting from various projects
 
 ## Integrated Development Environment
 
-[Apple Swift](https://www.apple.com/swift/)
+[Xcode](https://developer.apple.com/xcode/)
 
 ## How-to Code with Swift Project Books
 
