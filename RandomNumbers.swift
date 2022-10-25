@@ -9,11 +9,11 @@ Swift Playgrounds 4.1
 
 /* References
 
- Random Numbbers via Stackoverflow
- https://stackoverflow.com/questions/24007129/how-does-one-generate-a-random-number-in-swift
+Random Numbers via Stackoverflow
+https://stackoverflow.com/questions/24007129/how-does-one-generate-a-random-number-in-swift
  
- Swift Reference Book
- https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+Swift Reference Book
+https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 
 Swift Playgrounds Release Notes
 https://developer.apple.com/swift-playgrounds/release-notes/
