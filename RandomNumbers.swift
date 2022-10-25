@@ -1,6 +1,11 @@
 // This script will generate random numbers
 
-// Swift 5.7
+/* Made with:
+
+Swift 5.7
+Swift Playgrounds 4.1
+
+*/
 
 /* References
 
@@ -9,6 +14,9 @@
  
  Swift Reference Book
  https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+
+Swift Playgrounds Release Notes
+https://developer.apple.com/swift-playgrounds/release-notes/
  
  */
 
