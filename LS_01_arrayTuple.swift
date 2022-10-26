@@ -14,7 +14,7 @@
  Chapter 1
  */
 
-// An array is an ordered list using [ ]
+// An array is an ordered list, of only one type, using [ ]
 // explicitly typed array examples
 let immutable_array : [Int] = [1,2,3]
 print("this is an immutable array which uses let and integer type ", immutable_array)
@@ -22,7 +22,7 @@ print("this is an immutable array which uses let and integer type ", immutable_a
 var string_array : [String] = ["a","b","c"]
 print("this is a mutable array which uses var and string type ",string_array)
 
-// A tuple is an unordered list using ( )
+// A tuple is a ordered list, which can hold multiple types, using ( )
 // Tuples are designed for related & interconnected data are often used to return multiple values from a function 
 let serverError = (code:500, message:"Internal Server Error")
     
