@@ -47,9 +47,7 @@ print(crew)
 print()
 
 crew["Security Officer"] = "Michael Eddington"
-print(["Security Officer"])
+print(crew["Security Officer"])
 print()
 
 print(crew)
-
-print
