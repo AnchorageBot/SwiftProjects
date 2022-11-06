@@ -22,8 +22,8 @@ print("this is an immutable array which uses keyword let and integer type ", imm
 var mutable_array : [String] = ["a","b","c"]
 print("this is a mutable array which uses keyword var and string type ",mutable_array)
 
-var mixed_array : [Any] = [1,"a"]
-print("this is a mixed type array ", mixed_array)
+var mutable_mixed_array : [Any] = [1,"a"]
+print("this is a mutable, mixed type array ", mutable_mixed_array)
 
 // A tuple is an ordered list, which can hold multiple types, using ( ) syntax
 // Tuples are designed for related & interconnected data are often used to return multiple values from a function 
