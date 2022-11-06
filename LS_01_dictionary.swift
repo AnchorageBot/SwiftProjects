@@ -44,4 +44,12 @@ print()
 
 crew.removeValue(forKey: "Constable")
 print(crew)
+print()
 
+crew["Security Officer"] = "Michael Eddington"
+print(["Security Officer"])
+print()
+
+print(crew)
+
+print
