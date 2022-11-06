@@ -51,7 +51,6 @@ for num_range in 1...9 {
 print()
 
 let string_of_characters = "Swift"
-
 for characters in string_of_characters {
     print("character = \(characters)")
 }
