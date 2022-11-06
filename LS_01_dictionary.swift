@@ -33,7 +33,6 @@ print()
 
 crew["Doctor"] = "Julian Bashir"
 crew["ShuttleBay DoorCode"] = "3B"
-print()
 
 print(crew["Doctor"])
 print(crew["ShuttleBay DoorCode"])
