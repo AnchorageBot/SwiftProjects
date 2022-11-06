@@ -70,7 +70,6 @@ while countDown > 0 {
     countDown -= 1
     print(countDown)
 }
-
 print()
 
 // A switch statement considers a value and compares it against several possible matching patterns. It then executes an appropriate block of code, based on the first pattern that matches successfully
@@ -88,7 +87,6 @@ case 2:
 default:
     print("variable equals something else")
 }
-
 print()
 
 var someNumber = 15
