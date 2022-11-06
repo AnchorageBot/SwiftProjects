@@ -75,6 +75,7 @@ print()
 
 // A switch statement considers a value and compares it against several possible matching patterns. It then executes an appropriate block of code, based on the first pattern that matches successfully
 // Switches must cover all possible values
+// Switches use { } syntax
 
 let integerSwitch = 3
 switch integerSwitch {
