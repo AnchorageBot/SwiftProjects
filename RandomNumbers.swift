@@ -1,9 +1,10 @@
-// This script will generate random numbers
+// This script will generate (pseudo?)random numbers
 
 /* Made with:
 
-Swift 5.7
+iPad
 Swift Playgrounds 4.1
+Swift 5.7
 
 */
 
