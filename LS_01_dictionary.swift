@@ -26,14 +26,22 @@ var crew = ["Captain": "Benjamin Sisko",
 
 print(crew["Captain"])
 print(crew["HolodeckDoorCode"])
+print()
 
 print(crew)
+print()
 
 crew["Doctor"] = "Julian Bashir"
 crew["ShuttleBay DoorCode"] = "3B"
+print()
 
 print(crew["Doctor"])
 print(crew["ShuttleBay DoorCode"])
+print()
 
+print(crew)
+print()
+
+crew.removeValue(forKey: "Constable")
 print(crew)
 
