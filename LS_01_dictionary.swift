@@ -27,8 +27,13 @@ var crew = ["Captain": "Benjamin Sisko",
 print(crew["Captain"])
 print(crew["HolodeckDoorCode"])
 
+print(crew)
+
 crew["Doctor"] = "Julian Bashir"
 crew["ShuttleBay DoorCode"] = "3B"
 
 print(crew["Doctor"])
 print(crew["ShuttleBay DoorCode"])
+
+print(crew)
+
