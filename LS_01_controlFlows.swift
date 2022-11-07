@@ -20,8 +20,8 @@
 
 // if-else loops are conditional statements that use true/false to check multiple statements
 // if-else loops use a { } syntax
-let ifVariable = 5
 
+let ifVariable = 5
 if ifVariable == 1 {
     print("variable equals one")
 }
@@ -99,4 +99,26 @@ case 21:
     print("Numer is 21!")
 default:
     print("Number is something else")
+}
+print()
+
+let greeting = "Hello"
+switch greeting {
+case "Hello":
+    print("Oh hello there")
+case "Goodbye":
+    print("See you later")
+default:
+    print("Please repeat that?")
+}
+print()
+
+let switchingTuple = ("Yes", 123)
+switch switchingTuple {
+case ("Yes", 123):
+    print("Tuple contains 'Yes' and '123'")
+case ("Yes", _):
+    print("Tuple contains 'Yes' and something else")
+case (let string, _):
+    print("Tuple contains the string '\(string)' and something else")
 }
