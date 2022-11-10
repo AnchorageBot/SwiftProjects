@@ -39,5 +39,5 @@ case .laser(powerLevel: 0...10 ):
 case .laser:
     print("It's a space laser!")
 case .missile(let range):
-    print("It's a planetary missile with range \(range)!")
+    print("It's a space missile with range \(range)!")
 }
