@@ -21,11 +21,12 @@
 
 /*
  
- Structures and classes are good choices for storing data and modeling behavior in your apps, but their similarities can make it difficult to choose one over the other.
+ Structures and classes are good choices for storing data and modeling behavior in your apps, but their similarities 
+ can make it difficult to choose one over the other.
  
  Consider the following recommendations to help choose which option makes sense when adding a new data type to your app:
  
- * Use structures by default.
+ * Use structures by default
  * Use Structures When You Don’t Control Identity
  * Use classes when you need Objective-C interoperability
  * Use classes when you need to control the identity of the data you’re modeling
