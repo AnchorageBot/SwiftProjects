@@ -1,4 +1,4 @@
-// This script will generate examples of functions with optionals
+// This script will generate examples of functions which use optionals
 
 /*
  
