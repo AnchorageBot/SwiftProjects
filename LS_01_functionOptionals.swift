@@ -17,7 +17,9 @@
  
  */
 
-/* Functions are self-contained chunks of code that perform a specific task. You give a function a name
+/* 
+
+Functions are self-contained chunks of code that perform a specific task. You give a function a name
 that identifies what it does, and this name is used to “call” the function to perform its task when needed.
 
 If the tuple type to be returned from a function has the potential to have “no value” for the entire tuple,
