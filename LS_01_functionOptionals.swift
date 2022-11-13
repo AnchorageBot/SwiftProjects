@@ -17,11 +17,16 @@
  
  */
 
-// Functions are self-contained chunks of code that perform a specific task. You give a function a name that identifies what it does, and this name is used to “call” the function to perform its task when needed.
+/* Functions are self-contained chunks of code that perform a specific task. You give a function a name
+that identifies what it does, and this name is used to “call” the function to perform its task when needed.
 
-// If the tuple type to be returned from a function has the potential to have “no value” for the entire tuple, you can use an optional tuple return type to reflect the fact that the entire tuple can be nil.
+If the tuple type to be returned from a function has the potential to have “no value” for the entire tuple,
+you can use an optional tuple return type to reflect the fact that the entire tuple can be nil.
 
-// To handle an empty array safely, write a minMax(array:) function with an optional tuple return type and return a value of nil when the array is empty
+To handle an empty array safely, write a minMax(array:) function with an optional tuple return type
+and return a value of nil when the array is empty
+
+*/
 
 func minMax(array: [Int]) -> (min: Int, max: Int)? {
     if array.isEmpty { return nil }
