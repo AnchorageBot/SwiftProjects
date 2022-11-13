@@ -22,7 +22,7 @@
 /*
  
  Structures and classes are good choices for storing data and modeling behavior in your apps, but their similarities 
- can make it difficult to choose one over the other.
+ can make it difficult to choose one over the other
  
  Consider the following recommendations to help choose which option makes sense when adding a new data type to your app:
  
