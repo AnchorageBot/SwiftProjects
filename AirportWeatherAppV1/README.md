@@ -21,3 +21,8 @@ Apple Developer Resources:
 Github Resources:
 
   - [Formatting & editing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+Udemy Resources:
+
+  - [Create Apps on your iPad - Swift Playgrounds for Beginners](https://www.udemy.com/course/swift-playgrounds-for-beginners-create-apps-on-your-ipad/)
+  
