@@ -1,4 +1,4 @@
-###### Airport Weather App, Version 1
+## Airport Weather App, Version 1
 
 Apple Developer Resources: 
 
