@@ -9,6 +9,8 @@ Apple Developer Resources:
   - [Build your first app in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2022/110348/)
 
   - [Swift UI Sample App Tutorials (Playgrounds or Xcode)](https://developer.apple.com/tutorials/sample-apps)
+  
+  - [Intro to Swift UI (Xcode)](https://developer.apple.com/videos/play/wwdc2020/10119/)
 
   - [Weather App Tutorial](https://developer.apple.com/videos/play/wwdc2022/10003/)
 
