@@ -12,9 +12,9 @@ Apple Developer Resources:
   
   - [Intro to Swift UI (Xcode)](https://developer.apple.com/videos/play/wwdc2020/10119/)
 
-  - [Weather App Tutorial](https://developer.apple.com/videos/play/wwdc2022/10003/)
+  - [Meet WeatherKit](https://developer.apple.com/videos/play/wwdc2022/10003/)
 
-  - [Weather App Sample Code](https://developer.apple.com/documentation/weatherkit/fetching_weather_forecasts_with_weatherkit)
+  - [WeatherKit Sample Code](https://developer.apple.com/documentation/weatherkit/fetching_weather_forecasts_with_weatherkit)
 
   - [Forums](https://developer.apple.com/forums/)
 
