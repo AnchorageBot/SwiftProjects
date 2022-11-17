@@ -14,7 +14,7 @@ Apple Developer Resources:
 
   - [Meet WeatherKit](https://developer.apple.com/videos/play/wwdc2022/10003/)
 
-  - [WeatherKit Sample Code](https://developer.apple.com/documentation/weatherkit/fetching_weather_forecasts_with_weatherkit)
+  - [WeatherKit Framework](https://developer.apple.com/documentation/WeatherKit)
 
   - [Forums](https://developer.apple.com/forums/)
 
