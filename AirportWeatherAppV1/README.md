@@ -2,6 +2,8 @@
 
 Apple Developer Resources: 
 
+  - [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+
   - [Build your first app in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2022/110348/)
 
   - [Sample App Tutorials](https://developer.apple.com/tutorials/sample-apps)
