@@ -3,6 +3,8 @@
 Apple Developer Resources: 
 
   - [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+  
+  - [Build a SwiftUI view in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2020/10643)
 
   - [Build your first app in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2022/110348/)
 
