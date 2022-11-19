@@ -4,9 +4,9 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 ## Integrated Development Environments
 
-[Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
+[Swift Playgrounds - iPad & Mac](https://www.apple.com/swift/playgrounds/)
 
-[Xcode](https://developer.apple.com/xcode/)
+[Xcode - Mac](https://developer.apple.com/xcode/)
 
 ## How-to Code with Swift Project Books
 
