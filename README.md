@@ -14,6 +14,10 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [Practical Artificial Intelligence with Swift](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/)
 
+## Open Source Swift Resources
+
+[Swift Package Index](https://swiftpackageindex.com)
+
 ## Creators of Swift Knowledge
 
 [Dr. John Gallaugher's tutorials](https://gallaugher.com)
