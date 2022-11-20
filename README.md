@@ -16,9 +16,11 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 ## Open Source Swift Resources
 
-[Swift Package Index](https://swiftpackageindex.com)
+[Apple's Swift Algorithms Package](https://github.com/apple/swift-algorithms)
 
 [Apple's Swift Collections Package](https://github.com/apple/swift-collections)
+
+[Swift Package Index](https://swiftpackageindex.com)
 
 ## Creators of Swift Knowledge
 
