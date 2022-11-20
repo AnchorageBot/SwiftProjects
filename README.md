@@ -20,6 +20,8 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [Apple's Swift Collections Package](https://github.com/apple/swift-collections)
 
+[Apple's Swift Numerics Package](https://github.com/apple/swift-numerics)
+
 [Swift Package Index](https://swiftpackageindex.com)
 
 ## Creators of Swift Knowledge
