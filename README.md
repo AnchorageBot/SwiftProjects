@@ -28,6 +28,8 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [Apple Developer Forums](https://developer.apple.com/forums/)
 
+[Apple Developer Videos](https://developer.apple.com/videos/all-videos/)
+
 [Dr. John Gallaugher's Tutorials](https://gallaugher.com)
 
 [Swift.org](https://www.swift.org)
