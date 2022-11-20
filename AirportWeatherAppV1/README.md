@@ -16,7 +16,7 @@ Apple Developer Resources:
 
   - [WeatherKit Framework](https://developer.apple.com/documentation/WeatherKit)
 
-  - [Forums](https://developer.apple.com/forums/)
+  - [Developer Forums](https://developer.apple.com/forums/)
 
 Udemy Resources:
 
