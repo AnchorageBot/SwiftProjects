@@ -18,6 +18,8 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [Swift Package Index](https://swiftpackageindex.com)
 
+[Apple's Swift Collections Pacakge](https://github.com/apple/swift-collections)
+
 ## Creators of Swift Knowledge
 
 [Dr. John Gallaugher's tutorials](https://gallaugher.com)
