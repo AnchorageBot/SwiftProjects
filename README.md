@@ -26,7 +26,11 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 ## Creators of Swift Knowledge
 
+[Apple Developer Forums](https://developer.apple.com/forums/)
+
 [Dr. John Gallaugher's tutorials](https://gallaugher.com)
+
+[The Swift Forums](https://forums.swift.org)
 
 ## Github Resources:
 
