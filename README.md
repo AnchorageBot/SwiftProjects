@@ -34,6 +34,8 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [The Swift Forums](https://forums.swift.org)
 
+[WWDC22](https://developer.apple.com/wwdc22/)
+
 ## Github Resources:
 
 [Formatting & editing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
