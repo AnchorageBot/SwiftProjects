@@ -2,6 +2,8 @@
 
 Apple Developer Resources: 
 
+  - [Developer Forums](https://developer.apple.com/forums/)
+
   - [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
   
   - [Intro to Swift UI (Xcode)](https://developer.apple.com/videos/play/wwdc2020/10119/)  
@@ -15,8 +17,6 @@ Apple Developer Resources:
   - [Meet WeatherKit](https://developer.apple.com/videos/play/wwdc2022/10003/)
 
   - [WeatherKit Framework](https://developer.apple.com/documentation/WeatherKit)
-
-  - [Developer Forums](https://developer.apple.com/forums/)
 
 Udemy Resources:
 
