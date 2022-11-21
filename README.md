@@ -32,6 +32,8 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [Dr. John Gallaugher's Tutorials](https://gallaugher.com)
 
+[Stackoverflow](https://stackoverflow.com/questions/tagged/swift)
+
 [Swift.org](https://www.swift.org)
 
 [The Swift Forums](https://forums.swift.org)
