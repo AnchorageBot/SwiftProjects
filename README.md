@@ -36,6 +36,8 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [Apple Developer Videos](https://developer.apple.com/videos/all-videos/)
 
+[Apple's WWDC22](https://developer.apple.com/wwdc22/)
+
 [Dr. John Gallaugher's Tutorials](https://gallaugher.com)
 
 [Stackoverflow](https://stackoverflow.com/questions/tagged/swift)
@@ -43,8 +45,6 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 [Swift.org](https://www.swift.org)
 
 [The Swift Forums](https://forums.swift.org)
-
-[WWDC22](https://developer.apple.com/wwdc22/)
 
 ## Github Resources:
 
