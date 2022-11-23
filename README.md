@@ -28,6 +28,8 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [Swift Package Index](https://swiftpackageindex.com)
 
+[Unicode - Full Emoji List v 15.0](https://unicode.org/emoji/charts/full-emoji-list.html)
+
 ## Creators of Swift Knowledge
 
 [Apple Developer Forums](https://developer.apple.com/forums/)
