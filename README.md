@@ -16,7 +16,9 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 ## Open Source Swift Resources
 
-[Apple's File System Basics](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html#//apple_ref/doc/uid/TP40010672-CH2-SW12)
+[Apple's File System - Basics](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html#//apple_ref/doc/uid/TP40010672-CH2-SW12)
+
+[Apple's File System - Bundle Structures](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13)
 
 [Apple's Swift Algorithms Package](https://github.com/apple/swift-algorithms)
 
