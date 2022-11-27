@@ -44,6 +44,8 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [Hacking with Swift](https://www.hackingwithswift.com)
 
+[Nick Walter's Udemy Courses](https://www.udemy.com/user/nicholaswalter2/)
+
 [Stackoverflow](https://stackoverflow.com/questions/tagged/swift)
 
 [Swift.org](https://www.swift.org)
