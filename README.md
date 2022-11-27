@@ -26,6 +26,8 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [Apple's Swift Numerics Package](https://github.com/apple/swift-numerics)
 
+[Apple's SF Symbols](https://developer.apple.com/sf-symbols/)
+
 [Swift Package Index](https://swiftpackageindex.com)
 
 [Unicode - Full Emoji List v 15.0](https://unicode.org/emoji/charts/full-emoji-list.html)
