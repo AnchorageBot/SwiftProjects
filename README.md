@@ -56,5 +56,7 @@ This code repository holds [Swift](https://www.apple.com/swift/) code resulting 
 
 [Formatting & editing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+[Markdown](https://commonmark.org/help/)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
