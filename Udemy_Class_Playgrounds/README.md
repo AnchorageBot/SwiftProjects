@@ -1,4 +1,4 @@
-## Apple
+## Apple Resources
 
 [Swift Playgrounds User Guide for iPadOS](https://support.apple.com/en-am/guide/playgrounds-ipad/welcome/ipados)
 
