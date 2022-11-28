@@ -2,7 +2,7 @@
 
 [Swift Playgrounds User Guide for iPadOS](https://support.apple.com/en-am/guide/playgrounds-ipad/welcome/ipados)
 
-[iPad Screen](Udemy_Class_Playgrounds/5CB8E729-003F-4EF6-A78C-4B9647FE77BF.jpeg)
+[iPad Screen](https://github.com/AnchorageBot/SwiftProjects/blob/main/Udemy_Class_Playgrounds/5CB8E729-003F-4EF6-A78C-4B9647FE77BF.jpeg)
 
 ## Udemy Instructor: Nick Walter
 
