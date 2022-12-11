@@ -10,3 +10,5 @@
 
 - [PyLeap App - Trevor Beaton](https://learn.adafruit.com/pyleap-app)
 
+- [PyLeap iOS](https://github.com/adafruit/PyLeap-iOS)
+
