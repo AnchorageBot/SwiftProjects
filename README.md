@@ -1,6 +1,6 @@
 # Swift Projects
 
-This code repository holds [Swift](https://www.apple.com/swift/) code resulting from various projects
+This github repository holds [Swift](https://www.apple.com/swift/) code resulting from various projects
 
 ## Integrated Development Environments
 
