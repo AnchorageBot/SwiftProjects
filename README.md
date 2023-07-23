@@ -48,6 +48,8 @@ Open Source Swift Resources
 
 * [Apple's File System - Bundle Structures](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13)
 
+* [Swift Package Index](https://swiftpackageindex.com)
+
 * [Apple's Swift Algorithms Package](https://github.com/apple/swift-algorithms)
 
 * [Apple's Swift Collections Package](https://github.com/apple/swift-collections)
@@ -55,8 +57,6 @@ Open Source Swift Resources
 * [Apple's Swift Numerics Package](https://github.com/apple/swift-numerics)
 
 * [Apple's SF Symbols](https://developer.apple.com/sf-symbols/)
-
-* [Swift Package Index](https://swiftpackageindex.com)
 
 * [Unicode - Full Emoji List v 15.0](https://unicode.org/emoji/charts/full-emoji-list.html)
 
