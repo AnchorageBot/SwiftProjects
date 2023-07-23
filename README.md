@@ -4,9 +4,9 @@ This github repository holds references for, and scripts resulting from, various
 
 Videos
 
-* [Apple Developer Videos](https://developer.apple.com/videos/all-videos/)
-
 * [Apple's WWDC](https://developer.apple.com/wwdc22/)
+
+* [Apple Developer Videos](https://developer.apple.com/videos/all-videos/)
 
 * [Nick Walter's Udemy Courses](https://www.udemy.com/user/nicholaswalter2/)
 
