@@ -18,7 +18,7 @@ Papers
 
 Books
 
-* [Learning Swift 4, 3rd Edition - Jonathon Manning, Paris Buttfield-Addison & Tim Nugent](https://www.oreilly.com/library/view/learning-swift-3rd/9781491987568/) - 2018
+* [Learning Swift 4, 3rd Edition - iOS 11 - Jonathon Manning, Paris Buttfield-Addison & Tim Nugent](https://www.oreilly.com/library/view/learning-swift-3rd/9781491987568/) - 2018
 
 * [Learn Swift 4 by Building Applications - Emil Atanasov](https://www.packtpub.com/product/learn-swift-by-building-applications/9781786463920) - 2018
 
