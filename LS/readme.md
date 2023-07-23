@@ -8,3 +8,5 @@ Divided into four parts, this book includes:
 * Building the Selfiegram app: Build model objects and the UI for your selfie app and add location support, user settings, and notifications
 * Polishing Selfiegram: Create a theme and support for sharing and add custom views, image overlays, and localization
 * Beyond app development: Debug and performance test with Xcode, automate chores with Fastlane, and user-test the app with TestFlight
+
+[Code examples](https://secretlab.games/books/learning-swift-3e)
