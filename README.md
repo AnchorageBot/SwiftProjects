@@ -24,7 +24,7 @@ Books
 
 * [Swift UI for Masterminds, 3rd Edition - iOS 16 - J.D. Gauchat](https://www.formasterminds.com/books.php) - 2022
 
-* [Practical Artificial Intelligence with Swift](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/) - 2019
+* [Practical Artificial Intelligence with Swift - Mars Geldard, Jonathon Manning, Paris Buttfield-Addison & Tim Nugent](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/) - 2019
 
 MOOCs
 
