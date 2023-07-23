@@ -30,13 +30,15 @@ Books
 
 Open Source Swift Resources
 
+* [Swift org](https://www.swift.org)
+
 * [Apple Developer Forums](https://developer.apple.com/forums/)
+
+* [The Swift Forums](https://forums.swift.org)
 
 * [Stackoverflow](https://stackoverflow.com/questions/tagged/swift)
 
 * [Hacking with Swift](https://www.hackingwithswift.com)
-
-* [The Swift Forums](https://forums.swift.org)
 
 * [Apple's File System - Basics](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html#//apple_ref/doc/uid/TP40010672-CH2-SW12)
 
