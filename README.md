@@ -28,12 +28,6 @@ Books
 
 * [Practical Artificial Intelligence with Swift - Mars Geldard, Jonathon Manning, Paris Buttfield-Addison & Tim Nugent](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/) - 2019
 
-Integrated Development Environments
-
-* [Swift Playgrounds - iPad & Mac](https://www.apple.com/swift/playgrounds/)
-
-* [Xcode - Mac](https://developer.apple.com/xcode/)
-
 Open Source Swift Resources
 
 * [Apple Developer Forums](https://developer.apple.com/forums/)
@@ -59,6 +53,12 @@ Open Source Swift Resources
 * [Apple's SF Symbols](https://developer.apple.com/sf-symbols/)
 
 * [Unicode - Full Emoji List v 15.0](https://unicode.org/emoji/charts/full-emoji-list.html)
+
+Integrated Development Environments
+
+* [Swift Playgrounds - iPad & Mac](https://www.apple.com/swift/playgrounds/)
+
+* [Xcode - Mac](https://developer.apple.com/xcode/)  
 
 License
 
