@@ -26,8 +26,6 @@ Books
 
 * [Practical Artificial Intelligence with Swift - Mars Geldard, Jonathon Manning, Paris Buttfield-Addison & Tim Nugent](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/) - 2019
 
-MOOCs
-
 Integrated Development Environments
 
 * [Swift Playgrounds - iPad & Mac](https://www.apple.com/swift/playgrounds/)
