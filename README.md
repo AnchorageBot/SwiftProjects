@@ -6,7 +6,7 @@ Videos
 
 * [Apple Developer Videos](https://developer.apple.com/videos/all-videos/)
 
-* [Apple's WWDC22](https://developer.apple.com/wwdc22/)
+* [Apple's WWDC](https://developer.apple.com/wwdc22/)
 
 * [Nick Walter's Udemy Courses](https://www.udemy.com/user/nicholaswalter2/)
 
