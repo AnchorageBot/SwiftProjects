@@ -14,6 +14,8 @@ Videos
 
 Papers
 
+* [Swift for TensorFlow: A portable, flexible platform for deep learning - Brennan Saeta, Denys Shabalin, Marc Rasi, Brad Larson, Xihui Wu, Parker Schuh, Michelle Casbon, Daniel Zheng, Saleem Abdulrasool, Aleksandr Efremov, Dave Abrahams, Chris Lattner, Richard Wei](https://arxiv.org/abs/2102.13243) - arXiv:2102.13243 [cs.LG] - 2021
+
 Books
 
 * [Learning Swift 4, 3rd Edition - Jonathon Manning, Paris Buttfield-Addison & Tim Nugent](https://www.oreilly.com/library/view/learning-swift-3rd/9781491987568/) - 2018
