@@ -61,4 +61,5 @@ Open Source Swift Resources
 * [Unicode - Full Emoji List v 15.0](https://unicode.org/emoji/charts/full-emoji-list.html)
 
 License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+* [MIT](https://choosealicense.com/licenses/mit/)
