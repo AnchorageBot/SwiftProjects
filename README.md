@@ -2,55 +2,63 @@
 
 This github repository holds references for, and scripts resulting from, various [Swift](https://www.apple.com/swift/) projects  
 
-## Integrated Development Environments
+Videos
 
-[Swift Playgrounds - iPad & Mac](https://www.apple.com/swift/playgrounds/)
+* [Nick Walter's Udemy Courses](https://www.udemy.com/user/nicholaswalter2/)
 
-[Xcode - Mac](https://developer.apple.com/xcode/)
+* [Dr. John Gallaugher's Tutorials](https://gallaugher.com)
 
-## How-to Code with Swift Project Books
+* [Apple Developer Videos](https://developer.apple.com/videos/all-videos/)
 
-[Learning Swift, 3rd Edition](https://www.oreilly.com/library/view/learning-swift-3rd/9781491987568/)
+* [Apple's WWDC22](https://developer.apple.com/wwdc22/)
 
-[Practical Artificial Intelligence with Swift](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/)
+Papers
 
-## Open Source Swift Resources
+Books
 
-[Apple's File System - Basics](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html#//apple_ref/doc/uid/TP40010672-CH2-SW12)
+* [Learning Swift 4, 3rd Edition - Jonathon Manning, Paris Buttfield-Addison & Tim Nugent](https://www.oreilly.com/library/view/learning-swift-3rd/9781491987568/) - 2018
 
-[Apple's File System - Bundle Structures](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13)
+* [Learn Swift 4 by Building Applications - Emil Atanasov](https://www.packtpub.com/product/learn-swift-by-building-applications/9781786463920) - 2018
 
-[Apple's Swift Algorithms Package](https://github.com/apple/swift-algorithms)
+* [IOS Apps for Masterminds, 4th Edition - iOS 12 - J.D. Gauchat](https://www.formasterminds.com/books.php) -2018
 
-[Apple's Swift Collections Package](https://github.com/apple/swift-collections)
+* [Swift UI for Masterminds, 3rd Edition - iOS 16 - J.D. Gauchat](https://www.formasterminds.com/books.php) - 2022
 
-[Apple's Swift Numerics Package](https://github.com/apple/swift-numerics)
+* [Practical Artificial Intelligence with Swift](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/) - 2019
 
-[Apple's SF Symbols](https://developer.apple.com/sf-symbols/)
+MOOCs
 
-[Swift Package Index](https://swiftpackageindex.com)
+Integrated Development Environments
 
-[Unicode - Full Emoji List v 15.0](https://unicode.org/emoji/charts/full-emoji-list.html)
+* [Swift Playgrounds - iPad & Mac](https://www.apple.com/swift/playgrounds/)
 
-## Creators of Swift Knowledge
+* [Xcode - Mac](https://developer.apple.com/xcode/)
 
-[Apple Developer Forums](https://developer.apple.com/forums/)
+Open Source Swift Resources
 
-[Apple Developer Videos](https://developer.apple.com/videos/all-videos/)
+* [Apple Developer Forums](https://developer.apple.com/forums/)
 
-[Apple's WWDC22](https://developer.apple.com/wwdc22/)
+* [Stackoverflow](https://stackoverflow.com/questions/tagged/swift)
 
-[Dr. John Gallaugher's Tutorials](https://gallaugher.com)
+* [Hacking with Swift](https://www.hackingwithswift.com)
 
-[Hacking with Swift](https://www.hackingwithswift.com)
+* [The Swift Forums](https://forums.swift.org)
 
-[Nick Walter's Udemy Courses](https://www.udemy.com/user/nicholaswalter2/)
+* [Apple's File System - Basics](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html#//apple_ref/doc/uid/TP40010672-CH2-SW12)
 
-[Stackoverflow](https://stackoverflow.com/questions/tagged/swift)
+* [Apple's File System - Bundle Structures](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13)
 
-[Swift.org](https://www.swift.org)
+* [Apple's Swift Algorithms Package](https://github.com/apple/swift-algorithms)
 
-[The Swift Forums](https://forums.swift.org)
+* [Apple's Swift Collections Package](https://github.com/apple/swift-collections)
 
-## License
+* [Apple's Swift Numerics Package](https://github.com/apple/swift-numerics)
+
+* [Apple's SF Symbols](https://developer.apple.com/sf-symbols/)
+
+* [Swift Package Index](https://swiftpackageindex.com)
+
+* [Unicode - Full Emoji List v 15.0](https://unicode.org/emoji/charts/full-emoji-list.html)
+
+License
 [MIT](https://choosealicense.com/licenses/mit/)
