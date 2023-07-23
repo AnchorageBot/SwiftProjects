@@ -26,6 +26,8 @@ Books
 
 * [Swift UI for Masterminds, 3rd Edition - iOS 16 - J.D. Gauchat](https://www.formasterminds.com/books.php) - 2022
 
+* [SwiftUI Apprentice - Swift 5.7, iOS 16, Xcode 14.2 - ](https://www.kodeco.com/books/swiftui-apprentice) - 2023
+
 * [Practical Artificial Intelligence with Swift - Mars Geldard, Jonathon Manning, Paris Buttfield-Addison & Tim Nugent](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/) - 2019
 
 Open Source Swift Resources
