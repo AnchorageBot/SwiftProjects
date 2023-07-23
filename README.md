@@ -38,8 +38,6 @@ Open Source Swift Resources
 
 * [Stackoverflow](https://stackoverflow.com/questions/tagged/swift)
 
-* [Hacking with Swift](https://www.hackingwithswift.com)
-
 * [Apple's File System - Basics](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html#//apple_ref/doc/uid/TP40010672-CH2-SW12)
 
 * [Apple's File System - Bundle Structures](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13)
