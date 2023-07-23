@@ -4,6 +4,6 @@ Create and implement AI-based features in your Swift apps for iOS, macOS, tvOS, 
 
 AI is increasingly essential for every developer—and you don’t need to be a data scientist or mathematician to take advantage of it in your apps. Explore Swift-based AI and ML techniques for building applications. Learn where and how AI-driven features make sense. Inspect tools such as Apple’s Python-powered Turi Create and Google’s Swift for TensorFlow to train and build models.
 
-I: Fundamentals and Tools—Learn AI basics, our task-based approach, and discover how to build or find a dataset.
-II: Task Based AI—Build vision, audio, text, motion, and augmentation-related features; learn how to convert preexisting models.
-III: Beyond—Discover the theory behind task-based practice, explore AI and ML methods, and learn how you can build it all from scratch
+* I: Fundamentals and Tools—Learn AI basics, our task-based approach, and discover how to build or find a dataset.
+* II: Task Based AI—Build vision, audio, text, motion, and augmentation-related features; learn how to convert preexisting models.
+* III: Beyond—Discover the theory behind task-based practice, explore AI and ML methods, and learn how you can build it all from scratch
