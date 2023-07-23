@@ -9,4 +9,6 @@ Divided into four parts, this book includes:
 * Polishing Selfiegram: Create a theme and support for sharing and add custom views, image overlays, and localization
 * Beyond app development: Debug and performance test with Xcode, automate chores with Fastlane, and user-test the app with TestFlight
 
-[Code examples](https://secretlab.games/books/learning-swift-3e)
+[Author's Website](https://secretlab.games/books/learning-swift-3e)
+
+[Code examples - Github](https://github.com/thesecretlab/learning-swift-3rd-ed)
