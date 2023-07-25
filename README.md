@@ -32,11 +32,11 @@ Books
 
 Open Source Swift Resources
 
-* [Swift org](https://www.swift.org)
-
 * [Apple Developer Forums](https://developer.apple.com/forums/)
 
 * [The Swift Forums](https://forums.swift.org)
+
+* [Swift org](https://www.swift.org)
 
 * [Stackoverflow](https://stackoverflow.com/questions/tagged/swift)
 
