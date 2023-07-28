@@ -1,6 +1,8 @@
 //
 //  Reference: Learn Swift by Building Applications - Emil Atanasov
 //
+//  Made with Swift 5.7, Xcode 14.3.1
+//
 //  AppDelegate.swift
 //  Test App
 //
