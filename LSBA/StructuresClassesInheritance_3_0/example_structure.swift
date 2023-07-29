@@ -1,5 +1,5 @@
 //
-//  Made with Swift 5.7, Xcode 14.3.1 on 7/29/2023
+//  Made with Swift 5.7, Xcode 14.3.1, 7/29/2023
 //
 //  Used Blank Playground Format
 //
@@ -38,7 +38,10 @@ struct Car {
 // creates an instance of a car type
 // an object (a structure instance) can have functions (methods)
 
-var audi = Car(name:"Audi R8", speed: 280, maxSpeed:331)
+var audi = Car(name:"Audi R8", speed: 230, maxSpeed:331)
 //print(audi.getDescription())
 print(audi.description)
 
+var porsche = Car(name:"Porsche Taycan Sport Turismo", speed: 220, maxSpeed:230)
+print(porsche.getDescription())
+//print(porsche.description)
