@@ -35,7 +35,7 @@ struct Car {
      }
 }
 
-// creates an instance of a car type
+// creates instances of a car type
 // an object (a structure instance) can have functions (methods)
 
 var audi = Car(name:"Audi R8", speed: 230, maxSpeed:331)
