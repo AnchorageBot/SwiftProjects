@@ -27,7 +27,7 @@ class Ship {
 }
 
 // fields contain stored properties
-// create a instances of a class
+// create instances of a class
 
 let ship = Ship()
 ship.speed = 10
