@@ -39,6 +39,6 @@ print(ship.description)
 let airShip = Ship()
 airShip.speed = 20
 airShip.isFlying = true
-//  The airship speed is 10 and can fly
+//  The airship speed is 20 and can fly
 print("Airships are ships")
 print(airShip.description)
