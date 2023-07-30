@@ -58,13 +58,17 @@ Open Source Swift Resources
 
 * [Unicode - Full Emoji List v 15.0](https://unicode.org/emoji/charts/full-emoji-list.html)
 
-Integrated Development Environments & APIs
+Integrated Development Environments
 
 * [Swift Playgrounds - iPad & Mac](https://www.apple.com/swift/playgrounds/)
 
 * [Xcode - Mac](https://developer.apple.com/xcode/)
 
+Apple APIs
+
 * [Core ML and Create ML](https://developer.apple.com/machine-learning/)
+
+* [SwiftData](https://developer.apple.com/xcode/swiftdata/)
 
 License
 
