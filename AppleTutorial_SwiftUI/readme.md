@@ -1,2 +1,2 @@
-[SwiftUI Tutorials(https://developer.apple.com/tutorials/swiftui)
+[SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui)
 
