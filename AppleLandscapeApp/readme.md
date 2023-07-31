@@ -5,4 +5,4 @@ This tutorial guides you through building Landmarks — an app for discovering a
 * [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 * [Drawing and Animation](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)
 * [App Design and Layout](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
-* Framework Integration
+* [Framework Integration](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
