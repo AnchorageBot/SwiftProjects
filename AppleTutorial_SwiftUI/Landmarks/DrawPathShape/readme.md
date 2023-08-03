@@ -5,3 +5,7 @@ This tutorial takes you through the process of creating a badge by combining pat
 If you want to create multiple badges for different kinds of landmarks, try experimenting with the overlaid symbol, varying the amount of repetition, or changing the various angles and scales.
 
 Project Phases
+* Create Drawing Data for a Badge View
+* Draw the Badge Background
+* Draw the Badge Symbol
+* Combine the Badge Foreground and Background
