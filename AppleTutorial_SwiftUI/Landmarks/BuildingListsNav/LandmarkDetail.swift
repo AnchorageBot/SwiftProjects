@@ -40,3 +40,19 @@ struct LandmarkDetail: View {
                 
                 Divider()
                 
+                Text("About \(landmark.name)")
+                    .font(.title2)
+                Text(landmark.description)
+            }
+            .padding()
+        }
+        .navigationTitle(landmark.name)
+        .navigationBarTitleDisplayMode(.inline)
+    }
+}
+
+struct LandmarkDetail_Previews: PreviewProvider {
+    static var previews: some View {
+        LandmarkDetail(landmark: landmarks[0])
+    }
+}
