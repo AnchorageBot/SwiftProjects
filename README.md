@@ -26,6 +26,8 @@ Books
 
 * [IOS Apps for Masterminds, 4th Edition - iOS 12 - J.D. Gauchat](https://www.formasterminds.com/books.php) -2018
 
+* [UIKit for Masterminds, 1st Edition - iOS 15 - J.D. Gauchat](https://www.formasterminds.com/uikit_for_masterminds/) - 2021
+
 * [Swift UI for Masterminds, 3rd Edition - iOS 16 - J.D. Gauchat](https://www.formasterminds.com/books.php) - 2022
 
 * [SwiftUI Apprentice - Swift 5.7, iOS 16, Xcode 14.2 - Caroline Begbie & Audrey Tam](https://www.kodeco.com/books/swiftui-apprentice) - 2023
