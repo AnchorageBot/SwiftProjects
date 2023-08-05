@@ -7,7 +7,7 @@
 //
 //  Xcode->File->New->File->Swift Files
 //
-// Bézier curve: https://en.wikipedia.org/wiki/Bézier_curve 
+// Bézier curve: https: //en.wikipedia.org/wiki/Bézier_curve 
 //
 
 import Foundation
