@@ -1,6 +1,6 @@
 Swift iOS
 
-*[SDK Documentation](https://developer.apple.com/documentation/ios-ipados-release-notes)
+* [SDK Documentation](https://developer.apple.com/documentation/ios-ipados-release-notes)
 
 Swift iOS Tutorials
 
