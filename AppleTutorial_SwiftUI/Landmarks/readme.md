@@ -12,7 +12,7 @@ Drawing and Animation
 
 App Design and Layout
 
-* Composing Complex Interfaces
+* [Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
 * Working with UI Controls
 
 Framework Integration
