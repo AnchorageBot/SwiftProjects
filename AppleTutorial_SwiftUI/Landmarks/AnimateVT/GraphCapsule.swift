@@ -14,6 +14,9 @@ A single line in the graph.
 //  GraphCapsule.swift
 //  Landmarks App
 //
+//  Modified with Swift 5.7, Xcode 14.3.1, 8/6/2023
+//  Ref: https //developer.apple.com/tutorials/swiftui
+//
 
 import SwiftUI
 
