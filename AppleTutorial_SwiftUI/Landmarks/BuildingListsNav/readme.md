@@ -1,6 +1,6 @@
 2nd Draft
 
-Building Lists and Navigation
+[Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
 
 With the basic landmark detail view set up, you need to provide a way for users to see the full list of landmarks, and to view the details about each location.
 
