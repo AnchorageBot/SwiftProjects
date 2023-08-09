@@ -1,7 +1,8 @@
 // Optionals.swift
 //
-// Made with Swift Playgrounds, 8/8/2023
-// Swift 5.8
+// Made with Swift Playgrounds, Swift 5.8
+// 
+// 8/8/2023
 //
 // Ref: Swift UI for Masterminds, 3rd Edition - iOS 16 - J.D. Gauchat - 2022
 //
