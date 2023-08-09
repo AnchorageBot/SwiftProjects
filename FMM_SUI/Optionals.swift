@@ -36,7 +36,7 @@ print(mynumber)
 
 mynumber = 10
 print(mynumber)
-// 10
+// Optional(10)
 
 var total = mynumber! * 10
 print(total)
