@@ -10,9 +10,11 @@
  
 A variable marked as optional may have a value or be empty
  
-Sometimes we do not have an initial value to assign to the variable during development or need to indicate the absence of a value because the current one becomes invalid
+Sometimes we do not have an initial value to assign to the variable during development
+or need to indicate the absence of a value because the current one becomes invalid
  
- Although optionals seem to work like regular variables, they do not expose their values. To read the value of an optional, we must unwrap it by adding an exclamation mark at the end of the name
+Although optionals seem to work like regular variables, they do not expose their values. 
+To read the value of an optional, we must unwrap it by adding an exclamation mark at the end of the name
  
  */
 
