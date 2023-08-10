@@ -14,8 +14,8 @@
 var count = 1
 var aOptional: Int? = 5 
 if aOptional != nil { 
-    let uvalue = aOptional! 
-        count = count + uvalue
+    let xValue = aOptional! 
+        count = count + xValue
 }
 print(count) // 6
 
@@ -24,7 +24,7 @@ print(count) // 6
 var newCount = 1
 var otherOptional: Int? = nil
 if otherOptional != nil { 
-    let uvalue = otherOptional! 
-        newCount = newCount + uvalue
+    let yValue = otherOptional! 
+        newCount = newCount + yValue
 }
 print(newCount) // 1
