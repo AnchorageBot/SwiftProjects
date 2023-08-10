@@ -10,7 +10,7 @@
 // Check whether an optional contains a value or not
 
 
-// contains a value
+// optional contains a value
 var count = 1
 var aOptional: Int? = 5 
 if aOptional != nil { 
@@ -20,7 +20,7 @@ if aOptional != nil {
 print(count) // 6
 
 
-// does not contain a value
+// optional does not contain a value
 var newCount = 1
 var otherOptional: Int? = nil
 if otherOptional != nil { 
