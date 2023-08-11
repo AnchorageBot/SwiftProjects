@@ -31,9 +31,13 @@ let multiplier = { (number: Int, times: Int) -> Int in
 
 /* 
  
-Swift can also infer the data types of the values received by the closure and therefore we don't have to declare that either. Instead, we can represent these values using shorthand argument names. 
+Swift can also infer the data types of the values received by the closure 
+and therefore we don't have to declare that either. Instead, we can represent 
+these values using shorthand argument names. 
 
-These are special placeholders made up of the $ symbol and an index starting from 0. The first value received by the closure is represented by $0, the second value by $1, and so on.
+These are special placeholders made up of the $ symbol and an index starting 
+from 0. The first value received by the closure is represented by $0, 
+the second value by $1, and so on.
  
  */
 
