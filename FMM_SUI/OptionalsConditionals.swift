@@ -6,6 +6,8 @@
 //
 // Ref: Swift UI for Masterminds, 3rd Edition - iOS 16 - J.D. Gauchat - 2022
 //
+// Optionals must be first compared against the nil keyword and then unwrapped before working with their values
+
 
 // Check whether an optional contains a value or not
 
