@@ -1,3 +1,3 @@
-[Create ML](https://developer.apple.com/documentation/CreateML)
+[Create ML](https://developer.apple.com/machine-learning/create-ml/)
 
 Create machine learning models for use in your app
