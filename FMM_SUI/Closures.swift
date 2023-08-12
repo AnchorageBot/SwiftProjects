@@ -28,7 +28,6 @@ let multiplier = { (number: Int, times: Int) -> Int in
   
 // "The result is 25"
 
-
 /* 
  
 Swift can also infer the data types of the values received by the closure 
