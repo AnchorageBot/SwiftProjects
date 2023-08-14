@@ -11,3 +11,7 @@ SwiftUI Apple Tutorials
 * [Scrumdinger App](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)
 
 SwiftUI WWDC Tutorials
+
+WWDC19
+
+*[Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410)
