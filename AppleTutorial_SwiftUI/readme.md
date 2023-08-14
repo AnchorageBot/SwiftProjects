@@ -12,6 +12,4 @@ SwiftUI Apple Tutorials
 
 SwiftUI WWDC Tutorials
 
-WWDC19
-
-* [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410)
+* [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410) WWDC19
