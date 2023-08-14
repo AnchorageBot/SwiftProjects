@@ -7,3 +7,7 @@ WWDC22
 * [What's new in Create ML](https://developer.apple.com/videos/play/wwdc2022/110332)
 
 * [Get to know Create ML Components](https://developer.apple.com/videos/play/wwdc2022/10019)
+
+WWDC19
+
+* [Understanding Images in Vision Framework](https://developer.apple.com/videos/play/wwdc2019/222)
