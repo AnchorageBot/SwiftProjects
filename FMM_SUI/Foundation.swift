@@ -4,7 +4,8 @@
 // 
 // 8/15/2023
 //
-// Ref: Swift UI for Masterminds, 3rd Edition - iOS 16 - J.D. Gauchat - 2022
+// Swift UI for Masterminds, 3rd Edition - iOS 16 - J.D. Gauchat - 2022
+// https://developer.apple.com/documentation/foundation
 //
 
 /*
