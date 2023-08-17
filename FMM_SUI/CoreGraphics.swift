@@ -23,6 +23,7 @@ Due to its characteristics, instead of being replaced, the framework was integra
 // Access the structures inside a CGRect structure
 
 import CoreGraphics
+
 var myrect = CGRect(x: 30, y: 20, width: 100, height: 200) 
 var mypoint = myrect.origin 
 var mysize = myrect.size 
