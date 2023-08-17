@@ -15,7 +15,8 @@ Core Graphics is an old framework programmed in the C language.
 
 It was developed to provide a platform-independent two-dimensional drawing engine for Apple systems. 
 
-Due to its characteristics, instead of being replaced, the framework was integrated with newer frameworks and, therefore, it remains in use.
+Due to its characteristics, instead of being replaced, the framework was integrated with newer
+frameworks and, therefore, it remains in use.
  
  */
 
