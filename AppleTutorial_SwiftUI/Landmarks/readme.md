@@ -18,5 +18,5 @@ App Design and Layout
 Framework Integration
 * [Interfacing with UI Kit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
 * [Creating a watchOS App](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app)
-* Creating a macOS App
+* [Creating a macOS App](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
 
