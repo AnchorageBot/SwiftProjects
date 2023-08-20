@@ -1,5 +1,5 @@
 //
-//  Welcome.swift
+//  WelcomeView.swift
 //  HII_Fit
 //
 //  Created on 8/19/23
