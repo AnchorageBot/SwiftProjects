@@ -3,7 +3,7 @@
  
  LS_03_guard.swift
  
- Swift Playgrounds 4.1, Swift 5.7
+ Swift Playgrounds 4.1, Swift 5.8
  
  Made on 8/22/2023
  
