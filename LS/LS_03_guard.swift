@@ -29,3 +29,18 @@ doAThing()
 
 // We can continue with our daily lives
 
+
+
+func doSomeStuff(importantVariable: Int?)
+{
+    guard let importantVariable = importantVariable else
+    {
+        // we need the variable to exist to continue
+        return
+    }
+    print("doing important work with number \(importantVariable)")
+}
+doSomeStuff(importantVariable: 3) // works as expected
+doSomeStuff(importantVariable: nil) // exits function on the guard statement
+
+
