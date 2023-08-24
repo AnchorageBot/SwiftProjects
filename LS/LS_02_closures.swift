@@ -11,11 +11,13 @@
  
  Learning Swift: Building Apps for MacOS, iOS, and Beyond, Manning et al 
  
-Closures are small, anonymous chunks of code that you can use like functions
+ Closures are small, anonymous chunks of code that you can use like functions
  
- Closures are great for passing to other functions in order to tell them how they should carry out a certain task
+ Closures are great for passing to other functions in order to tell them how they 
+  should carry out a certain task
  
- Closures have a special keyword, in. The in keyword lets Swift know where to break up the closure from its definition and its implementation
+ Closures have a special keyword, in. The in keyword lets Swift know where to break up the closure from its 
+  definition and its implementation
  
 */
 
