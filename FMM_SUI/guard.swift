@@ -12,7 +12,7 @@ The guard instruction is intended to prevent the execution of the code that foll
 the statement
 
 For example, we can break the execution of a loop when a condition is satisfied,
-as we do with an if else statement.
+as we do with an if else statement
  
  */
 
