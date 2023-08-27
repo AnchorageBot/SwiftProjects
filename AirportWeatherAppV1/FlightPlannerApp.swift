@@ -19,8 +19,6 @@ Abstract:
 
    Command N -> Swift UI
 
-   ContentView
-
 */
 
 import SwiftUI
