@@ -6,6 +6,6 @@ Apple Developer Resources:
 
   - [WeatherKit Framework](https://developer.apple.com/documentation/WeatherKit)
 
-NWS API:
+National Weather Service Resources:
 
  - [NWS API Web Service](https://www.weather.gov/documentation/services-web-api)
