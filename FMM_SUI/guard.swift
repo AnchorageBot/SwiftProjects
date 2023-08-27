@@ -29,5 +29,5 @@ for letter in phrase {
 print(phrase)
 print()
 
-var guard_letter = "The phrase contains \(counter) characters before the letter L" 
-print(guard_letter) // The phrase contains 13 characters before the letter L
+var guard_letter = "The phrase contains \(counter) characters & spaces before the letter L" 
+print(guard_letter) // The phrase contains 13 characters & spaces before the letter L
