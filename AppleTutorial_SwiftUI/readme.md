@@ -12,6 +12,8 @@ SwiftUI Apple Tutorials
 
 * [Scrumdinger App](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)
 
+* [Backyard Birds App](https://developer.apple.com/documentation/swiftui/backyard-birds-sample)
+
 SwiftUI WWDC Tutorials
 
 * [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410) WWDC19
