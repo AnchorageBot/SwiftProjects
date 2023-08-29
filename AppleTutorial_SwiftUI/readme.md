@@ -4,6 +4,8 @@ SwiftUI
 
 SwiftUI Apple Tutorials
 
+* [Learning Swift UI](https://developer.apple.com/tutorials/swiftui-concepts)
+
 * [Exploring SwiftUI Sample Apps](https://developer.apple.com/tutorials/Sample-Apps)
 
 * [Foodtruck App](https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app)
