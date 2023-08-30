@@ -2,7 +2,7 @@ SwiftUI
 
 * [Documentation](https://developer.apple.com/xcode/swiftui/)
 
-SwiftUI Apple App Tutorials
+Apple SwiftUI App Tutorials
 
 * [Learning Swift UI](https://developer.apple.com/tutorials/swiftui-concepts)
 
@@ -12,7 +12,7 @@ SwiftUI Apple App Tutorials
 
 * [Scrumdinger App](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)
 
-SwiftUI Apple App Examples
+Apple SwiftUI App Examples
 
 * [Backyard Birds App](https://developer.apple.com/documentation/swiftui/backyard-birds-sample)
 
