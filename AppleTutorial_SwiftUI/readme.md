@@ -12,7 +12,7 @@ SwiftUI Apple App Tutorials
 
 * [Scrumdinger App](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)
 
-SwiftUI Apple Sample Apps
+SwiftUI Apple Sample App Code
 
 * [Foodtruck App](https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app)
 
