@@ -16,6 +16,8 @@ SwiftUI Apple Sample App Code
 
 * [Backyard Birds App](https://developer.apple.com/documentation/swiftui/backyard-birds-sample)
 
+* [Flight Planning App](https://developer.apple.com/documentation/weatherkit/fetching_weather_forecasts_with_weatherkit)
+
 * [Foodtruck App](https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app)
 
 SwiftUI WWDC Tutorials
