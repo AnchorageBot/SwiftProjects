@@ -12,7 +12,7 @@ Apple SwiftUI App Tutorials
 
 * [Scrumdinger App](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)
 
-Apple SwiftUI App Sample Code
+Apple SwiftUI Sample App Code
 
 * [Backyard Birds App](https://developer.apple.com/documentation/swiftui/backyard-birds-sample)
 
