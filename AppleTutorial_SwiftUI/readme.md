@@ -14,9 +14,9 @@ SwiftUI Apple App Tutorials
 
 SwiftUI Apple Sample App Code
 
-* [Foodtruck App](https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app)
-
 * [Backyard Birds App](https://developer.apple.com/documentation/swiftui/backyard-birds-sample)
+
+* [Foodtruck App](https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app)
 
 SwiftUI WWDC Tutorials
 
