@@ -20,6 +20,8 @@ Apple SwiftUI App Sample Code
 
 * [Foodtruck App](https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app)
 
+* [Workout App](https://developer.apple.com/documentation/healthkit/workouts_and_activity_rings/building_a_multidevice_workout_app)
+
 SwiftUI WWDC Tutorials
 
 * [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410) WWDC19
