@@ -4,7 +4,7 @@ Discover tips and techniques for building multiplatform apps with this set of co
 
 App principles
 * [Exploring the structure of a SwiftUI app](https://developer.apple.com/tutorials/swiftui-concepts/exploring-the-structure-of-a-swiftui-app)
-* Specifying the view hierarchy of an app using a scene
+* [Specifying the view hierarchy of an app using a scene](https://developer.apple.com/tutorials/swiftui-concepts/specifying-the-view-hierarchy-of-an-app-using-a-scene)
 
 View layout
 * Maintaining the adaptable sizes of built-in views
