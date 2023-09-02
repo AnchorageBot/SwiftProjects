@@ -9,7 +9,7 @@
   Reference:
   https://developer.apple.com/tutorials/swiftui-concepts/exploring-the-structure-of-a-swiftui-app
 
-  How to create this file:
+  How to create this file with Xcode commands:
   Xcode->File->New Project -> iOS - App
 
   An app structure describes the content and behavior of your app, and each SwiftUI
