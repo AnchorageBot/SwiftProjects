@@ -7,7 +7,7 @@ App principles
 * [Specifying the view hierarchy of an app using a scene](https://developer.apple.com/tutorials/swiftui-concepts/specifying-the-view-hierarchy-of-an-app-using-a-scene)
 
 View layout
-* Maintaining the adaptable sizes of built-in views
+* [Maintaining the adaptable sizes of built-in views](https://developer.apple.com/tutorials/swiftui-concepts/maintaining-the-adaptable-sizes-of-built-in-views)
 * Scaling views to complement text
 * Layering content
 * Choosing the right way to hide a view
