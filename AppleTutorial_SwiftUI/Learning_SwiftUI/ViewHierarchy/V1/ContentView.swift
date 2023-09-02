@@ -9,6 +9,7 @@
  Reference:
  https://developer.apple.com/tutorials/swiftui-concepts/exploring-the-structure-of-a-swiftui-app
 
+ How to create this file with Xcode commands:
  Xcode->File->New Project -> iOS - App
 
  In SwiftUI, a scene contains the view hierarchy that an app displays as its user interface. A view hierarchy defines
