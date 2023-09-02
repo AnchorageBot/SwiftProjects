@@ -17,7 +17,7 @@
  An app structure describes the content and behavior of your app, and each SwiftUI
  app has one and only one main app structure
 
- This one uses scenes to make it easier to maintain
+ This app structure uses scenes, in order to make it easier to maintain
 
 */
 
