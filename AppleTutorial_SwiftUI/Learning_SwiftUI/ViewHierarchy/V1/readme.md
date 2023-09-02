@@ -1,9 +1,9 @@
 1st Draft
 
-Main Folder (Added via Xcode -> File -> New -> Group) holds two files
+Main Folder (Added via Xcode -> File -> New -> Group) holds two files (just drag and drop them into this folder)
 * ContentView.swift
 * LearnSwiftUIApp.swift
 
-View Folder (Added via Xcode -> File -> New -> Group) holds two files
+View Folder (Added via Xcode -> File -> New -> Group) holds two files (just drag and drop them into this folder)
 * AppSettingsView.swift (this is not in the tutorial, however it was created since it is referenced in the LearnSwiftUIApp.swift file)
 * JournalView.swift (this is not in the tutorial, however it was created since it is referenced in the LearnSwiftUIApp.swift file)
