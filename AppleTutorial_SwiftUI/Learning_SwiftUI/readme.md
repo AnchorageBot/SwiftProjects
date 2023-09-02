@@ -8,7 +8,7 @@ App principles
 
 View layout
 * [Maintaining the adaptable sizes of built-in views](https://developer.apple.com/tutorials/swiftui-concepts/maintaining-the-adaptable-sizes-of-built-in-views)
-* Scaling views to complement text
+* [Scaling views to complement text](https://developer.apple.com/tutorials/swiftui-concepts/scaling-views-to-complement-text)
 * Layering content
 * Choosing the right way to hide a view
 * Organizing and aligning content with stacks
