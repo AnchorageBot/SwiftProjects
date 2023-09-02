@@ -5,5 +5,5 @@ Main Folder (Added via Xcode -> File -> New -> Group) holds two files
 * LearnSwiftUIApp.swift
 
 View Folder (Added via Xcode -> File -> New -> Group) holds two files
-* AppSettingsView.swift
-* JournalView.swift
+* AppSettingsView.swift (this is not in the tutorial, however it was created since it is referenced in the LearnSwiftUIApp.swift file)
+* JournalView.swift (this is not in the tutorial, however it was created since it is referenced in the LearnSwiftUIApp.swift file)
