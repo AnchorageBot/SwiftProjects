@@ -15,6 +15,6 @@ View Folder (Added via Xcode -> File -> New -> Group) holds three files (just dr
 * JournalView.swift (this is not in the tutorial, however it was created since it is referenced in the LearnSwiftUIApp.swift file)
 * macOSView.swift (this is not in the tutorial, however it was created since it is referenced in the macOS_Scenes.swift file)
 
-Scene Folder (Added via Xcode -> File -> New -> Group) holds the files (just drag and drop the files into this folder)
+Scene Folder (Added via Xcode -> File -> New -> Group) holds two files (just drag and drop the files into this folder)
 * iOS_Scenes.swift
 * macOS_Scenes.swift
