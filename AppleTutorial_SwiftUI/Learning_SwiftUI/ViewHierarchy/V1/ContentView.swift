@@ -3,8 +3,8 @@
  ContentView.swift
  LearnSwiftUI
 
- How to create this file with keyboard and Xcode commands:
- Command Key (Splat) N -> Swift UI View
+ How to create this file with Xcode commands:
+ Xcode->File->New Project -> iOS - App
 
  Created on 8/31/23, updated on 9/2/2023
  Made with Swift 5.8, Xcode 14.3.1
