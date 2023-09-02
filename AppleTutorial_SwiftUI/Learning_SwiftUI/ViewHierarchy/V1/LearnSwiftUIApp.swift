@@ -3,14 +3,14 @@
   LearnSwiftUIApp.swift
   LearnSwiftUI
 
+  How to create this file with Xcode commands:
+  Xcode->File->New Project -> iOS - App
+
   Created on 8/31/23, updated on 9/2/2023
   Made with Swift 5.8, Xcode 14.3.1
 
   Reference:
   https://developer.apple.com/tutorials/swiftui-concepts/exploring-the-structure-of-a-swiftui-app
-
-  How to create this file with Xcode commands:
-  Xcode->File->New Project -> iOS - App
 
   An app structure describes the content and behavior of your app, and each SwiftUI
   app has one and only one main app structure. 
