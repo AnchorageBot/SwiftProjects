@@ -15,7 +15,9 @@
   https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 
  An app structure describes the content and behavior of your app, and each SwiftUI
- app has one and only one main app structure. 
+ app has one and only one main app structure
+
+ This one uses scenes to make it easier to maintain
 
 */
 
@@ -29,42 +31,13 @@ struct LearnSwiftUIApp: App {
     var body: some Scene {
 
         // compiler control statement
+        // view hierarchy that takes advantage of features specific to iOS
         #if os(iOS)
-        WindowGroup {
-
-            // Root node of the view hierarchy
-            TabView {
-
-                // custom view that creates a view hierarchy that displays journal entries
-                JournalView()
-
-
-                    .tabItem {
-                        Label("Journal", systemImage: "book")
-                    }
-
-                // custom view that displays views app settings that the user can edit
-                AppSettingsView()
-
-
-                    .tabItem {
-                        Label("Settings", systemImage: "gear")
-                    }
-            }
-        }
+        iOS_Scenes()
 
         // view hierarchy that takes advantage of features specific to the Mac
         #elseif os(macOS)
-        WindowGroup {
-
-            // custom view and root node of the view hierarchy
-            macOSView()
-        }
-
-        // Provides a settings menu that is only available in macOS
-        Setting {
-            AppSettingsView()
-        }
+        macOS_Scenes()
 
         #endif
     }
