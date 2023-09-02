@@ -6,6 +6,7 @@
  Created on 8/31/23, updated on 9/2/2023
  Made with Swift 5.8, Xcode 14.3.1
 
+ Reference:
  https://developer.apple.com/tutorials/swiftui-concepts/exploring-the-structure-of-a-swiftui-app
 
  Xcode->File->New Project -> iOS - App
