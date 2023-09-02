@@ -14,7 +14,21 @@ import SwiftUI
 
 struct JournalView: View {
     var body: some View {
-        Text("Journal")
+        VStack {
+            Text("Journal")
+                .font(.title)
+                .padding()
+         
+            Text("Sun 22")
+
+            Text("Had a wonderful time at the country fair")
+                .padding()
+
+            Text("Thu 19")
+                .padding()
+
+            Text("Spent the afternoon at the farmer's market. The food was delicious and I ...")
+        }
     }
 }
 
