@@ -3,8 +3,8 @@
  How to create this project with Xcode commands:
  Xcode->File->New Project -> iOS - App
  * This creates two files
-  * ContentView.swift
-  * LearnSwiftUIApp.swift
+   * ContentView.swift
+   * LearnSwiftUIApp.swift
 
 Main Folder (Added via Xcode -> File -> New -> Group) holds two files (just drag and drop the files into this folder)
 * ContentView.swift
