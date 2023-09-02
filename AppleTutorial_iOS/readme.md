@@ -1,3 +1,7 @@
+Swift Programming Language
+
+* [Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+
 Swift iOS
 
 * [SDK Documentation](https://developer.apple.com/documentation/ios-ipados-release-notes)
