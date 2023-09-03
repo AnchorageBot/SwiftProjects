@@ -7,6 +7,6 @@ Apple CoreML Sample App Code
 
 * [Classifying Images with Vision and Core ML](https://developer.apple.com/documentation/vision/classifying_images_with_vision_and_core_ml)
 
-WWDC Videos
+WWDC 2020 Videos
 
-* [Get models on device using Core ML Converters](https://developer.apple.com/videos/play/wwdc2020/10153/) WWDC20
+* [Get models on device using Core ML Converters](https://developer.apple.com/videos/play/wwdc2020/10153/) 
