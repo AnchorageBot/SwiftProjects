@@ -7,6 +7,8 @@ Apple CoreML Sample App Code
 
 * [Classifying Images with Vision and Core ML](https://developer.apple.com/documentation/vision/classifying_images_with_vision_and_core_ml)
 
+* [Detecting Hand Poses with Vision](https://developer.apple.com/documentation/vision/detecting_hand_poses_with_vision)
+
 * [Training a Create ML Model to Classify Flowers](https://developer.apple.com/documentation/vision/training_a_create_ml_model_to_classify_flowers)
 
 WWDC 2020 Videos
