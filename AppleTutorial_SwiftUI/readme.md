@@ -26,6 +26,6 @@ Apple SwiftUI Sample App Code
 
 * [Workout App](https://developer.apple.com/documentation/healthkit/workouts_and_activity_rings/building_a_multidevice_workout_app)
 
-SwiftUI WWDC Tutorials
+WWDC 2019 Videos
 
-* [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410) WWDC19
+* [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410) 
