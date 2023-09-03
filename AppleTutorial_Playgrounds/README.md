@@ -13,3 +13,7 @@ Apple Playgrounds Tutorials
 * [Get Started with Apps & Keep Going with Apps](https://support.apple.com/en-am/guide/playgrounds-ipad/itc2b8af4dg8/ipados)
 
 * [Exploring SwiftUI Sample Apps](https://developer.apple.com/tutorials/Sample-Apps)
+
+WWDC23 Videos
+
+* [Prototype with Xcode Playgrounds](https://developer.apple.com/videos/play/wwdc2023/10250/)
