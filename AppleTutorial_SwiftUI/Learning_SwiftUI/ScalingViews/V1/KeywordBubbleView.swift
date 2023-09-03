@@ -11,6 +11,8 @@
 
  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 
+ https://developer.apple.com/design/human-interface-guidelines/sf-symbols
+
  Created on 9/2/2023
  Made with Swift 5.8, Xcode 14.3.1
 
