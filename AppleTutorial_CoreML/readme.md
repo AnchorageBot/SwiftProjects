@@ -7,7 +7,7 @@ Apple CoreML Sample App Code
 
 * [Classifying Images with Vision and Core ML](https://developer.apple.com/documentation/vision/classifying_images_with_vision_and_core_ml)
 
-* [https://developer.apple.com/documentation/vision/training_a_create_ml_model_to_classify_flowers](https://developer.apple.com/documentation/vision/training_a_create_ml_model_to_classify_flowers)
+* [Training_a_Create_ML_model_to_classify_flowers](https://developer.apple.com/documentation/vision/training_a_create_ml_model_to_classify_flowers)
 
 WWDC 2020 Videos
 
