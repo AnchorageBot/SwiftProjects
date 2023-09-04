@@ -1,3 +1,9 @@
+Swift Programming Language
+
+* [Overview](https://developer.apple.com/swift/)
+
+* [Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+
 [Apple Core Data](https://developer.apple.com/documentation/coredata/)
 
 * Use Core Data to save your application’s permanent data for offline use, to cache temporary data, and to add undo functionality to your app on a single device.
