@@ -4,7 +4,7 @@ Sample Code
 
 Create an app with persistent data, interactive widgets, and an all new in-app purchase experience.
 
-Configure the sample code project
+
 
 To configure the Backyard Birds app to run on your devices, follow these steps:
 
