@@ -1,3 +1,9 @@
+Swift Programming Language
+
+* [Overview](https://developer.apple.com/swift/)
+
+* [Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+
 [Apple Core ML](https://developer.apple.com/machine-learning/core-ml/)
 
 * Core ML is optimized for on-device performance of a broad variety of model 
