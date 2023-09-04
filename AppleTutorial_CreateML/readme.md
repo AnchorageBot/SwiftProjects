@@ -4,9 +4,9 @@ Swift Programming Language
 
 * [Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
 
-[Create ML](https://developer.apple.com/machine-learning/create-ml/)
+Create ML
 
-* Create machine learning models for use in your app
+* [Create machine learning models for use in your app](https://developer.apple.com/machine-learning/create-ml/)
 
 Apple Create ML Sample App Code
 
