@@ -1,3 +1,12 @@
+Swift Programming Language
+
+* [Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+
+Swift Data
+
+* [Overview](https://developer.apple.com/xcode/swiftdata/)
+
+* [Documentation](https://developer.apple.com/documentation/swiftdata) 
 
 WWDC23 Videos
 
