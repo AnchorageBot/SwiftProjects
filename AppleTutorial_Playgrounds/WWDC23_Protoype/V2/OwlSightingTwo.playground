@@ -1,0 +1,52 @@
+/*
+
+ OwlSightingTwo.playground
+ LearnSwiftUI App
+
+ How to create this file with keyboard and Xcode commands:
+ Command Key (Splat) N -> iOS -> Playground -> Single View Playground
+
+ References:
+ https://developer.apple.com/videos/play/wwdc2023/10250/
+
+
+
+ https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
+
+ Created on 9/3/2023
+ Made with Swift 5.8, Xcode 14.3.1
+
+ This playground consists of the code observed in the WWDC23 video:
+ Prototype with Xcode Playgrounds
+
+ This playground still needs to be debugged:
+ import BirdSightings yields the error:  No such module 'BirdSightings'
+
+*/
+  
+import UIKit
+import CoreLocation
+import BirdSightings
+import PlaygroundSupport
+
+let birdProvider = BirdProvider(region: .northAmerica)
+let birdsToFind = birdProvider.birds.filter { $0.photo == nil }
+let owlsToFind = birdsToFind.filter { $0.family == .owls }
+
+let checklist = ChecklistView()
+for bird in owlsToFind {
+    checklist.add(bird)
+}
+
+let bird = owlsToFind.first!
+let appleParkLocation = CLLocationCoordinate2D(latitude: 37.3348655, longitude: -122.0089409)
+
+let sightingsProvider = SightingsProvider()
+let sightings = sightingsProvider.fetchSightings(of: bird.speciesCode,
+    around: appleParkLocation)
+let mostRecentSighting = sightings.first
+
+let sightingMapView = SightingMapView(sighting: mostRecentSighting)
+
+// Present the view controller in the Live View window
+PlaygroundPage.current.liveView = sightingMapView
