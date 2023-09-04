@@ -1,3 +1,9 @@
+Swift Programming Language
+
+* [Overview](https://developer.apple.com/swift/)
+
+* [Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+
 [Create ML](https://developer.apple.com/machine-learning/create-ml/)
 
 * Create machine learning models for use in your app
