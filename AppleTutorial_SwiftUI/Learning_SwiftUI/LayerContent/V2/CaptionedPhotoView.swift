@@ -49,6 +49,7 @@ struct Caption: View {
     }
 }
 
+// hacked & fused from landmarks app
 struct CircleImage: View {
     var body: some View {
         Image("Image")
@@ -79,6 +80,8 @@ struct CaptionedPhotoView_Previews: PreviewProvider {
 //                            captionText: landscapeCaption)
 //        .preferredColorScheme(.light)
 
+
+      // hacked & fused from landmarks app
       CircleImage()
     }
 }
