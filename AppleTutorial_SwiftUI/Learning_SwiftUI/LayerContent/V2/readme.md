@@ -1,3 +1,3 @@
 Hack
 
-Fusing the CircleImage struct from the landscape app
+Fusing the CircleImage struct from the landmarks app
