@@ -9,6 +9,8 @@
  References:
  https://developer.apple.com/tutorials/swiftui-concepts/exploring-the-structure-of-a-swiftui-app
 
+ https://developer.apple.com/documentation/xcode/adding-images-to-your-xcode-project
+
  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 
  Created on 9/5/2023, updated on 9/6/2023
