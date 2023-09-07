@@ -32,4 +32,8 @@ Apple SwiftUI Sample App Code
 
 WWDC 2019 Videos
 
-* [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410) 
+* [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410)
+
+XCode Updates
+
+* https://developer.apple.com/documentation/updates/xcode
