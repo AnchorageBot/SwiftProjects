@@ -34,6 +34,6 @@ WWDC 2019 Videos
 
 * [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410)
 
-XCode Updates
+XCode
 
-* https://developer.apple.com/documentation/updates/xcode
+* [Updates](https://developer.apple.com/documentation/updates/xcode)
