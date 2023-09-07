@@ -26,8 +26,7 @@ struct CaptionedPhoto: View {
     let captionText: String
 
     var body: some View {
-//        Image(assetName)
-          Image("Image")
+            Image(assetName)
             .resizable()
             .scaledToFit()
             .overlay(alignment: .bottom) {
@@ -67,11 +66,6 @@ struct CaptionedPhoto_Previews: PreviewProvider {
         CaptionedPhoto(assetName: landscapeName,
                            captionText: landscapeCaption)
         .preferredColorScheme(.dark)
-
-//        CaptionedPhoto(assetName: landscapeName,
-//                            captionText: landscapeCaption)
-//        .preferredColorScheme(.light)
-
 
     }
 }
