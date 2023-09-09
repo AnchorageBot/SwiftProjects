@@ -1,0 +1,53 @@
+/*
+
+ MapPlayground.playground
+ LearnSwiftUI_V2
+
+ How to create this file with keyboard and Xcode commands:
+ Command Key (Splat) N -> Playground -> Map Playground
+
+ References:
+ https://developer.apple.com/tutorials/swiftui-concepts/exploring-the-structure-of-a-swiftui-app
+
+ https://developer.apple.com/tutorials/swiftui-concepts/layering-content
+
+ https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
+
+ https://developer.apple.com/documentation/mapkit/
+
+ Created on 9/8/2023
+ Made with Swift 5.8, Xcode 14.3.1
+
+This is the default code
+
+*/
+
+import MapKit
+import PlaygroundSupport
+
+
+let appleParkWayCoordinates = CLLocationCoordinate2DMake(37.334922, -122.009033)
+
+// Now let's create a MKMapView
+let mapView = MKMapView(frame: CGRect(x:0, y:0, width:800, height:800))
+
+// Define a region for our map view
+var mapRegion = MKCoordinateRegion()
+
+let mapRegionSpan = 0.02
+mapRegion.center = appleParkWayCoordinates
+mapRegion.span.latitudeDelta = mapRegionSpan
+mapRegion.span.longitudeDelta = mapRegionSpan
+
+mapView.setRegion(mapRegion, animated: true)
+
+// Create a map annotation
+let annotation = MKPointAnnotation()
+annotation.coordinate = appleParkWayCoordinates
+annotation.title = "Apple Inc."
+annotation.subtitle = "One Apple Park Way, Cupertino, California."
+
+mapView.addAnnotation(annotation)
+
+// Add the created mapView to our Playground Live View
+PlaygroundPage.current.liveView = mapView
