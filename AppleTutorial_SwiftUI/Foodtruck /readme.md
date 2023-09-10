@@ -10,10 +10,10 @@ This app uses a variety of APIs and frameworks:
 
 * Source code for the foodtruck app on [GitHub](https://github.com/apple/sample-food-truck) and watch the [WWDC22 Platforms State of the Union video](https://developer.apple.com/videos/play/wwdc2022/102/)
 
-* Apple Mapkit [framework](https://developer.apple.com/documentation/mapkit)
+* Mapkit [framework](https://developer.apple.com/documentation/mapkit)
 
-* Apple Swft Charts [framework](https://developer.apple.com/documentation/charts)
+* Swft Charts [framework](https://developer.apple.com/documentation/charts)
   
-* Apple Weatherkit [framework](https://developer.apple.com/documentation/WeatherKit), [sample app](https://developer.apple.com/documentation/weatherkit/fetching_weather_forecasts_with_weatherkit) and [WWDC22 video](https://developer.apple.com/wwdc22/10003/)
+* Weatherkit [framework](https://developer.apple.com/documentation/WeatherKit), [sample app](https://developer.apple.com/documentation/weatherkit/fetching_weather_forecasts_with_weatherkit) and [WWDC22 video](https://developer.apple.com/wwdc22/10003/)
 
-* Apple Widgets [overview](https://developer.apple.com/widgets/)
+* Widgets [overview](https://developer.apple.com/widgets/)
