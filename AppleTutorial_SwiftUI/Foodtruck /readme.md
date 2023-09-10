@@ -8,9 +8,9 @@ The sample implements the new NavigationSplitView to manage the app’s views, L
 
 This app uses a variety of APIs and frameworks:
 
-* You can access the source code for the foodtruck app on [GitHub](https://github.com/apple/sample-food-truck) and watch the [WWDC22 Platforms State of the Union video](https://developer.apple.com/videos/play/wwdc2022/102/)
+* Source code for the foodtruck app on [GitHub](https://github.com/apple/sample-food-truck) and watch the [WWDC22 Platforms State of the Union video](https://developer.apple.com/videos/play/wwdc2022/102/)
 
-* You can access the Apple Mapkit [framework](https://developer.apple.com/documentation/mapkit)
+* Apple Mapkit [framework](https://developer.apple.com/documentation/mapkit)
 
-* You can access the Apple Weatherkit [framework](https://developer.apple.com/documentation/WeatherKit), [sample app](https://developer.apple.com/documentation/weatherkit/fetching_weather_forecasts_with_weatherkit) and [WWDC22 video](https://developer.apple.com/wwdc22/10003/)
+* Apple Weatherkit [framework](https://developer.apple.com/documentation/WeatherKit), [sample app](https://developer.apple.com/documentation/weatherkit/fetching_weather_forecasts_with_weatherkit) and [WWDC22 video](https://developer.apple.com/wwdc22/10003/)
 
