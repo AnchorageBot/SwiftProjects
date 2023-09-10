@@ -8,7 +8,7 @@ The sample implements the new NavigationSplitView to manage the app’s views, L
 
 This app uses a variety of APIs and frameworks:
 
-* Source code for the foodtruck app on [GitHub](https://github.com/apple/sample-food-truck) and watch the [WWDC22 Platforms State of the Union video](https://developer.apple.com/videos/play/wwdc2022/102/)
+* Code for the foodtruck app on [GitHub](https://github.com/apple/sample-food-truck) and watch the [WWDC22 Platforms State of the Union video](https://developer.apple.com/videos/play/wwdc2022/102/)
 
 * Mapkit [framework](https://developer.apple.com/documentation/mapkit)
 
