@@ -40,6 +40,8 @@ Open Source Swift Resources
 
 * [Apple Swift Language Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
 
+* [Apple Developer Tutorials](https://developer.apple.com/tutorials/app-dev-training)
+
 * [Apple Developer Forums](https://developer.apple.com/forums/)
 
 * [The Swift Forums](https://forums.swift.org)
