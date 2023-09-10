@@ -6,7 +6,7 @@ Swift Programming Language
 
 Swift iOS
 
-* [Overview](https://developer.apple.com/tutorials/app-dev-training)
+* [Overview]([https://developer.apple.com/tutorials/app-dev-training](https://developer.apple.com/ios/))
 
 * [SDK Documentation](https://developer.apple.com/documentation/ios-ipados-release-notes)
 
