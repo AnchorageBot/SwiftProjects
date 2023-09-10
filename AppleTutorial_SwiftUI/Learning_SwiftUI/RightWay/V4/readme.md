@@ -1,3 +1,3 @@
 4th Draft
 
-Modifying Apple tutorial downloads
+Modifying Apple tutorial instructions & downloads
