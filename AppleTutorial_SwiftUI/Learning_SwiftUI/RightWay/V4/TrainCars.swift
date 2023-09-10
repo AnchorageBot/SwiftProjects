@@ -30,8 +30,8 @@ struct TrainCars: View {
             Spacer()
             VStack(alignment: .leading) {
                 Toggle("Toogle to Vary Train Length", isOn: $longerTrain)
+             
                 Text("Conditional:")
-
                 HStack {
                     Image(systemName: "train.side.rear.car")
                     if longerTrain {
