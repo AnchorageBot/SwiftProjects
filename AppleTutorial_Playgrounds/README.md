@@ -6,9 +6,9 @@ Swift Programming Language
 
 Playgrounds
 
-* [Documentation](https://developer.apple.com/documentation/swift-playgrounds)
-
 * [Overview](https://developer.apple.com/swift-playgrounds/)
+
+* [Documentation](https://developer.apple.com/documentation/swift-playgrounds)
 
 Apple Playgrounds Tutorials
 
