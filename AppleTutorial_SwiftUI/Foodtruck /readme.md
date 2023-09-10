@@ -10,7 +10,7 @@ This app uses a variety of APIs and frameworks:
 
 * Code for the foodtruck app on [GitHub](https://github.com/apple/sample-food-truck) and introductory video at [WWDC22 Platforms State of the Union](https://developer.apple.com/videos/play/wwdc2022/102/)
 
-* Mapkit [framework](https://developer.apple.com/documentation/mapkit)
+* MapKit [framework](https://developer.apple.com/documentation/mapkit)
 
 * Swft Charts [framework](https://developer.apple.com/documentation/charts)
   
