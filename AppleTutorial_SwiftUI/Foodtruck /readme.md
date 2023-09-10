@@ -16,3 +16,4 @@ This app uses a variety of APIs and frameworks:
   
 * Apple Weatherkit [framework](https://developer.apple.com/documentation/WeatherKit), [sample app](https://developer.apple.com/documentation/weatherkit/fetching_weather_forecasts_with_weatherkit) and [WWDC22 video](https://developer.apple.com/wwdc22/10003/)
 
+* Apple Widgets [overview](https://developer.apple.com/widgets/)
