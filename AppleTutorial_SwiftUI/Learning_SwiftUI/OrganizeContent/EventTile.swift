@@ -65,7 +65,7 @@ struct EventTile: View {
                 Rectangle()
                     .frame(maxHeight: stripeHeight)
             }
-            .foregroundColor(.teal)
+            .foregroundColor(.yellow)
         }
         .clipShape(RoundedRectangle(cornerRadius: stripeHeight, style: .continuous))
     }
