@@ -13,6 +13,10 @@
 
  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 
+ https://developer.apple.com/sf-symbols/
+
+ https://developer.apple.com/documentation/swiftui/color
+
  Created on 9/10/2023
  Made with Swift 5.8, Xcode 14.3.1
 
