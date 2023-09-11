@@ -35,7 +35,7 @@ struct ContentView: View {
     var body: some View {
         
        EventTile(event: event)
-        .preferredColorScheme(.dark)
+        //.preferredColorScheme(.dark)
 
     }
 }
