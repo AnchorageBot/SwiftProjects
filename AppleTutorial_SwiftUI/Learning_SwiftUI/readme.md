@@ -12,7 +12,7 @@ View layout
 * [Layering content](https://developer.apple.com/tutorials/swiftui-concepts/layering-content)
 * [Choosing the right way to hide a view](https://developer.apple.com/tutorials/swiftui-concepts/choosing-the-right-way-to-hide-a-view)
 * [Organizing and aligning content with stacks](https://developer.apple.com/tutorials/swiftui-concepts/organizing-and-aligning-content-with-stacks)
-* Adjusting the space between views
+* [Adjusting the space between views](https://developer.apple.com/tutorials/swiftui-concepts/adjusting-the-space-between-views)
 
 State and data flow
 * Driving changes in your UI with state and bindings
