@@ -26,7 +26,7 @@ struct SpecificSpacing: View {
 
     var body: some View {
 
-        Text("Specific Spacing")
+        Text("Specific Spacing Example")
 
         HStack(spacing: 20) {
             TrainCar(.rear)
