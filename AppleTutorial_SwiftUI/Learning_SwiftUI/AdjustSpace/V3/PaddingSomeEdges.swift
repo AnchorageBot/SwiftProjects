@@ -19,9 +19,9 @@
  Made with Swift 5.8, Xcode 14.3.1
 
  TrainCar() is a stucture (similar to a function but it is also a custom data structure)
-   that is defined in the TrainCar.swift file and referenced by all of the other view files
+   that is defined in the TrainCar.swift file 
  TrainTrack() is a stucture (similar to a function but it is also a custom data structure)
-   that is defined in the TrainCar.swift file and referenced by all of the other view files
+   that is defined in the TrainCar.swift file 
 
 */
 
