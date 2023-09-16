@@ -5,7 +5,7 @@ This version uses two folders to organize the app files
 * Main
   * LearnSwiftUI_V5.swift (the uber grunt)
   * ContentView.swift (the one view that controls all the views)
-  * TrainCar.swift (data rich file which the files in the view folder all reference)
+  * TrainCar.swift (data rich file which all files in the view folder reference)
 * Views
   * Train_Cars.swift
   * DefaultSpacing.swift
