@@ -33,7 +33,9 @@ struct Train_Cars: View {
             //TrainCar(.middle)
             TrainCar(.front)
         }
+     
         TrainTrack()
+     
     }
 }
 
