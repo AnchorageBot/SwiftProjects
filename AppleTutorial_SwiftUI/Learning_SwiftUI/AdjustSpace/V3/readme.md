@@ -3,9 +3,9 @@
 This version uses two folders to organize the app files
 
 * Main
-  * LearnSwiftUI_V5.swift
-  * ContentView.swift
-  * TrainCar.swift (data rich file)
+  * LearnSwiftUI_V5.swift (the uber grunt)
+  * ContentView.swift (the one view that controls all the views)
+  * TrainCar.swift (data rich file which the files in the view folder all reference)
 * Views
   * Train_Cars.swift
   * DefaultSpacing.swift
@@ -19,3 +19,4 @@ How to create folders to organize app files
 * Xcode -> File -> New -> Group 
 * Then just drag and drop the files into the folders that you have created
 
+Today's tunes: Turnover
