@@ -34,11 +34,15 @@ struct ContentView: View {
 //        DefaultSpacing()
 //            .preferredColorScheme(.dark)
 
-        SpecificSpacing()
+//        SpecificSpacing()
+//            .preferredColorScheme(.dark)
+
+        ScaledSpacing()
             .preferredColorScheme(.dark)
 
     }
 }
+
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
