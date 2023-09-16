@@ -2,7 +2,7 @@
 
 How to create this project with Xcode commands:
 
-* Xcode->File->New Project -> iOS - App
+* Xcode -> File -> New Project -> iOS - App
 
 This creates two files
 
