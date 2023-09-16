@@ -26,7 +26,7 @@ struct Train_Cars: View {
 
     var body: some View {
 
-        Text("Train Car Spacing")
+        Text("Train Car Spacing Example")
 
         HStack {
             TrainCar(.rear)
