@@ -26,7 +26,7 @@ struct DefaultSpacing: View {
 
     var body: some View {
 
-        Text("Default Spacing")
+        Text("Default Spacing Example")
 
         HStack {
             TrainCar(.rear)
