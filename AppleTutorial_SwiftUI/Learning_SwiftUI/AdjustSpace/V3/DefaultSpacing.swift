@@ -33,7 +33,9 @@ struct DefaultSpacing: View {
             TrainCar(.middle)
             TrainCar(.front)
         }
+     
         TrainTrack()
+     
     }
 }
 
