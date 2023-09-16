@@ -27,6 +27,7 @@ struct ZeroSpacing: View {
     var body: some View {
 
         Text("Zero Spacing Example")
+        .padding()
 
         HStack(spacing: 0) {
             TrainCar(.rear)
