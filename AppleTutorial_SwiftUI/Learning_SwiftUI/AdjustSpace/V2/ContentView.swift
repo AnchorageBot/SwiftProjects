@@ -13,6 +13,8 @@
 
  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 
+  https://developer.apple.com/documentation/SwiftUI/Image
+
  Created on 9/15/2023
  Made with Swift 5.8, Xcode 14.3.1
 
@@ -24,11 +26,14 @@ struct ContentView: View {
 
     var body: some View {
 
-        //TrainCar(.front)
-            //.frame(width: 350)
-            //.preferredColorScheme(.dark)
+//        TrainCar(.front)
+//            .frame(width: 350)
+//            .preferredColorScheme(.dark)
 
-        Train_Cars()
+//        Train_Cars()
+//            .preferredColorScheme(.dark)
+
+        DefaultSpacing()
             .preferredColorScheme(.dark)
 
     }
@@ -39,3 +44,4 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
