@@ -18,6 +18,11 @@
  Created on 9/16/2023
  Made with Swift 5.8, Xcode 14.3.1
 
+ TrainCar() is a stucture (similar to a function but it is also a custom data structure)
+   that is defined in the TrainCar.swift file 
+ TrainTrack() is a stucture (similar to a function but it is also a custom data structure)
+   that is defined in the TrainCar.swift file 
+
 */
 
 import SwiftUI
