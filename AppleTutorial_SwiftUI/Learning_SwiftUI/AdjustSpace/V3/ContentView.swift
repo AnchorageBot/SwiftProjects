@@ -40,8 +40,14 @@ struct ContentView: View {
 //        ScaledSpacing()
 //            .preferredColorScheme(.dark)
 
-        ZeroSpacing()
-            .preferredColorScheme(.dark)
+//        ZeroSpacing()
+//            .preferredColorScheme(.dark)
+
+//        DefaultPadding()
+//            .preferredColorScheme(.dark)
+
+        PaddingSomeEdges()
+            
 
     }
 }
