@@ -46,7 +46,11 @@ struct ZeroSpacing: View {
 }
 
 struct ZeroSpacing_Previews: PreviewProvider {
+
     static var previews: some View {
-        ZeroSpacing()
+        VStack {
+            ZeroSpacing()
+        }
+
     }
 }
