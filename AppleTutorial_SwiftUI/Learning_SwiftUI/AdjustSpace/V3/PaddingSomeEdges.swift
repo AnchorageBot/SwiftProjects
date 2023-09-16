@@ -52,7 +52,9 @@ struct PaddingSomeEdges_Previews: PreviewProvider {
 
     static var previews: some View {
 
-        PaddingSomeEdges()
+        VStack {
+            PaddingSomeEdges()
+        }
 
     }
 }
