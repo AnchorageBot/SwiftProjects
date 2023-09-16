@@ -50,7 +50,7 @@ struct TrainCar: View {
             // this was not working
             //.background(Color("customPink"))
             // this works
-            .background(Color.yellow)
+            .background(Color.pink)
     }
 }
 
