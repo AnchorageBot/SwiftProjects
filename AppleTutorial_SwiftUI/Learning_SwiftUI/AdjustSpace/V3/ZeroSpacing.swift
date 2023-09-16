@@ -34,7 +34,9 @@ struct ZeroSpacing: View {
             TrainCar(.middle)
             TrainCar(.front)
         }
+     
         TrainTrack()
+     
     }
 }
 
