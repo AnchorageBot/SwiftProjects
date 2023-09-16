@@ -45,7 +45,10 @@ struct DefaultSpacing: View {
 }
 
 struct DefaultSpacing_Previews: PreviewProvider {
+
     static var previews: some View {
-        DefaultSpacing()
+        VStack {
+            DefaultSpacing()
+        }
     }
 }
