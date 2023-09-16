@@ -48,7 +48,6 @@ struct ContentView: View {
 
         PaddingSomeEdges()
             
-
     }
 }
 
