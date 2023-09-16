@@ -46,9 +46,11 @@ struct ContentView: View {
 //        DefaultPadding()
 //            .preferredColorScheme(.dark)
 
-        PaddingSomeEdges()
+//        PaddingSomeEdges()
+//            .preferredColorScheme(.dark)
+
+        SpecificPadding()
             .preferredColorScheme(.dark)
-            
     }
 }
 
