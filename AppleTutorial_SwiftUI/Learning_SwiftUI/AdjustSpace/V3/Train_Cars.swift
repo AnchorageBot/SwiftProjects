@@ -45,7 +45,11 @@ struct Train_Cars: View {
 }
 
 struct Train_Cars_Previews: PreviewProvider {
+
     static var previews: some View {
-        Train_Cars()
+        VStack {
+            Train_Cars()
+        }
     }
 }
+
