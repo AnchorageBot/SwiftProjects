@@ -15,7 +15,7 @@
 
  https://developer.apple.com/documentation/SwiftUI/Image
 
- Created on 9/15/2023
+ Created on 9/15/2023, updated on 9/16/2023
  Made with Swift 5.8, Xcode 14.3.1
 
 */
@@ -40,7 +40,10 @@ struct TrainCar: View {
 
     var body: some View {
         Image(systemName: position.rawValue)
-            .background(Color("Pink"))
+            // this was not working
+            //.background(Color("customPink"))
+            // this works
+            .background(Color.pink)
     }
 }
 
