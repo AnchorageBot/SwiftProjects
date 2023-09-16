@@ -33,7 +33,9 @@ struct SpecificSpacing: View {
             TrainCar(.middle)
             TrainCar(.front)
         }
+     
         TrainTrack()
+     
     }
 }
 
