@@ -20,6 +20,7 @@
 
  TrainCar() is a stucture (similar to a function but it is also a custom data structure)
    that is defined in this file and referenced by all of the other view files
+
  TrainTrack() is a stucture (similar to a function but it is also a custom data structure)
   that is defined in this file and referenced by all of the other view files
 
