@@ -44,14 +44,14 @@ struct TrainCar: View {
             // this was not working
             //.background(Color("customPink"))
             // this works
-            .background(Color.pink)
+            .background(Color.yellow)
     }
 }
 
 struct TrainTrack: View {
 
     var body: some View {
-
+        
         Divider()
             .frame(maxWidth: 200)
     }
