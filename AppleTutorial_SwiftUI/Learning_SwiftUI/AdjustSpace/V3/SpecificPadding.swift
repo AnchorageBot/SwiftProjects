@@ -49,7 +49,12 @@ struct SpecificPadding: View {
 }
 
 struct SpecificPadding_Previews: PreviewProvider {
+
     static var previews: some View {
-        SpecificPadding()
+
+        VStack {
+            SpecificPadding()
+        }
+        
     }
 }
