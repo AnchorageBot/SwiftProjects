@@ -45,7 +45,11 @@ struct SpecificSpacing: View {
 }
 
 struct SpecificSpacing_Previews: PreviewProvider {
+
     static var previews: some View {
-        SpecificSpacing()
+        VStack {
+            SpecificSpacing()
+        }
     }
 }
+
