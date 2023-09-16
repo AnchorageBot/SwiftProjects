@@ -39,6 +39,7 @@ struct TrainCar: View {
     }
 
     var body: some View {
+
         Image(systemName: position.rawValue)
             // this was not working
             //.background(Color("customPink"))
@@ -48,7 +49,9 @@ struct TrainCar: View {
 }
 
 struct TrainTrack: View {
+
     var body: some View {
+
         Divider()
             .frame(maxWidth: 200)
     }
