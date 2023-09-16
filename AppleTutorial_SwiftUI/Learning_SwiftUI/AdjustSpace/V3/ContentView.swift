@@ -13,7 +13,7 @@
 
  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 
- Created on 9/15/2023
+ Created on 9/15/2023, updated on 9/16/2023
  Made with Swift 5.8, Xcode 14.3.1
 
 */
@@ -37,12 +37,14 @@ struct ContentView: View {
 //        SpecificSpacing()
 //            .preferredColorScheme(.dark)
 
-        ScaledSpacing()
+//        ScaledSpacing()
+//            .preferredColorScheme(.dark)
+
+        ZeroSpacing()
             .preferredColorScheme(.dark)
 
     }
 }
-
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
