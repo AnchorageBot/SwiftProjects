@@ -50,7 +50,12 @@ struct DefaultPadding: View {
 }
 
 struct DefaultPadding_Previews: PreviewProvider {
+
     static var previews: some View {
-        DefaultPadding()
+
+        VStack {
+            DefaultPadding()
+        }
+        
     }
 }
