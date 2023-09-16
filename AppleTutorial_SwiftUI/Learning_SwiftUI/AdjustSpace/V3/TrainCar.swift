@@ -18,6 +18,9 @@
  Created on 9/15/2023, updated on 9/16/2023
  Made with Swift 5.8, Xcode 14.3.1
 
+ TrainCar() is function that is defined in this file and referenced by all of the other view files
+ TrainTrack() is a function that is defined in this file and referenced by all of the other view files
+
 */
 
 import SwiftUI
