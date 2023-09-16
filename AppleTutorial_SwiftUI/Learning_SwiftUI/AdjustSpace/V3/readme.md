@@ -13,6 +13,7 @@ This draft uses two folders to organize the individual app files
   * ScaledSpacing.swift
   * ZeroSpacing.swift
   * DefaultPadding.swift
+  * PaddingSomeEdges.swift
 
 How to create folders to organize app files
 
