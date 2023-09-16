@@ -29,7 +29,7 @@ struct ScaledSpacing: View {
 
         VStack {
 
-            Text("Scaled Spacing")
+            Text("Scaled Spacing Example")
 
             HStack(spacing:trainCarSpace) {
                 TrainCar(.front)
