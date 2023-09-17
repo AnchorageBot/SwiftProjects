@@ -9,8 +9,5 @@ Focus is on three files
 
 Technical references:
 
-* Choosing between structures and classes
- * https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes
+* [Choosing between structures and classes](https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes)
 
-* 
- *  
