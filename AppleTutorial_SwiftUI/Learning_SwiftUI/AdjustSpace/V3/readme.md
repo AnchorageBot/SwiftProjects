@@ -3,7 +3,7 @@
 This draft uses two folders to organize the individual files that comprise the app
 
 * Main
-  * LearnSwiftUI_V5.swift (the uber grunt)
+  * LearnSwiftUI_V5App.swift (the uber grunt)
   * ContentView.swift (the one view that controls all the views)
   * TrainCar.swift (data rich file which all files in the view folder reference)
 * Views
