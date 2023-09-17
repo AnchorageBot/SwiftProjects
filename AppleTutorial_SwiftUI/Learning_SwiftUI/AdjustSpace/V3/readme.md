@@ -17,6 +17,7 @@ This draft uses two folders to organize the individual files that comprise the a
   * SpecificPadding.swift
   * PaddingContainer.swift
   * AddingSpacer.swift
+  * AddPlaceholder
 
 How to create folders to organize app files
 
