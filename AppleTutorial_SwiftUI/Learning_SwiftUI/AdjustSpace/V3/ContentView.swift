@@ -55,7 +55,13 @@ struct ContentView: View {
 //        PaddingContainer()
 //            .preferredColorScheme(.dark)
 
-        AddingSpacer()
+//        AddingSpacer()
+//            .preferredColorScheme(.dark)
+
+//        AddPlaceholder()
+//            .preferredColorScheme(.dark)
+
+        StackPlaceholder()
             .preferredColorScheme(.dark)
 
     }
