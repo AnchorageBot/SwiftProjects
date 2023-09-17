@@ -52,15 +52,22 @@ struct ContentView: View {
 //        SpecificPadding()
 //            .preferredColorScheme(.dark)
 
-        PaddingContainer()
+//        PaddingContainer()
+//            .preferredColorScheme(.dark)
+
+        AddingSpacer()
             .preferredColorScheme(.dark)
 
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
- 
+    
     static var previews: some View {
-        ContentView()
+
+        VStack {
+            
+            ContentView()
+        }
     }
 }
