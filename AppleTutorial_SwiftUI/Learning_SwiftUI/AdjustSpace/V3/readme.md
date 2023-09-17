@@ -1,6 +1,6 @@
 3rd Draft
 
-This draft uses two folders to organize the individual app files
+This draft uses two folders to organize the individual files that comprise the app
 
 * Main
   * LearnSwiftUI_V5.swift (the uber grunt)
