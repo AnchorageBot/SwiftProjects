@@ -30,7 +30,8 @@ struct StackPlaceholder: View {
     var body: some View {
 
         Text("Stacking with a Placeholder Example")
-
+            .padding()
+        
         HStack {
             TrainCar(.rear)
             ZStack {
