@@ -1,0 +1,35 @@
+/*
+
+ LearnSwiftUI_V6App.swift
+ LearnSwiftUI_V6
+
+ How to create this file with Xcode commands:
+ Xcode -> File -> New Project -> iOS - App
+
+ References:
+ https://developer.apple.com/tutorials/swiftui-concepts/exploring-the-structure-of-a-swiftui-app
+
+ https://developer.apple.com/tutorials/swiftui-concepts/driving-changes-in-your-ui-with-state-and-bindings
+
+ https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
+
+ Created on 9/17/2023
+ Made with Swift 5.8, Xcode 14.3.1
+
+*/
+
+import SwiftUI
+
+@main
+
+struct LearnSwiftUI_V6App: App {
+
+    var body: some Scene {
+
+        WindowGroup {
+            ContentView()
+        }
+
+    }
+
+}
