@@ -19,3 +19,11 @@ How to create folders to organize app files
 
 * Then just drag and drop the files into the folders that you have created
 
+This draft is incomplete, needs revision, and currently flags the following issues:
+
+* Cannot find 'Recipe' in scope
+* Cannot find type 'SidebarItem' in scope
+* Cannot find type 'Recipe' in scope
+* Cannot find 'RecipeEditorForm' in scope
+* Cannot find type 'RecipeBox' in scope
+* Cannot find 'RecipeListView' in scope
