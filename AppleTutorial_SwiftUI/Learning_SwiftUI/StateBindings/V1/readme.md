@@ -28,7 +28,7 @@ Draft currently consists of the following files
 * RecipeEditor.swift
 * ContentListView.swift
 
-Draft is incomplete, needs revision, and currently flags the following issues:
+Draft is incomplete, needs revision, and Xcode currently flags the following issues:
 
 * Cannot find 'Recipe' in scope
 * Cannot find 'RecipeEditorForm' in scope
