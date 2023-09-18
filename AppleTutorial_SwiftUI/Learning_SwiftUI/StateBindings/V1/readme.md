@@ -19,7 +19,15 @@ How to create folders to organize app files
 
 * Then just drag and drop the files into the folders that you have created
 
-This draft is incomplete, needs revision, and currently flags the following issues:
+Draft currently consists of the following files
+
+* LearnSwiftUI_V6App.swift
+* ContentView.swift
+* RecipeEditorConfig.swift
+* RecipeEditor.swift
+* ContentListView.swift
+
+Draft is incomplete, needs revision, and currently flags the following issues:
 
 * Cannot find 'Recipe' in scope
 * Cannot find type 'SidebarItem' in scope
