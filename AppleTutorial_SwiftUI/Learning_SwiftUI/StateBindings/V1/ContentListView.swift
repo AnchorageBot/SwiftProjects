@@ -38,6 +38,7 @@ struct ContentListView: View {
         RecipeListView(selection: $selection, selectedSidebarItem: selectedSidebarItem)
             .navigationTitle(selectedSidebarItem.title)
             .toolbar {
+             
                 ToolbarItem {
                     Button {
                         recipeEditorConfig.presentAddRecipe(sidebarItem: selectedSidebarItem)
@@ -55,6 +56,7 @@ struct ContentListView: View {
     private func didDismissEditor() {
 
         if recipeEditorConfig.shouldSaveChanges {
+         
             if recipeEditorConfig.recipe.isNew {
                 selection = recipeBox.add(recipeEditorConfig.recipe)
 
