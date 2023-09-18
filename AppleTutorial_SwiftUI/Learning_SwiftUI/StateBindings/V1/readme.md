@@ -6,8 +6,8 @@ How to create this project with Xcode commands:
 
 This creates two files
 
-* ContentView.swift
 * ProjectName_App.swift
+* ContentView.swift
 
 How to create a View file with keyboard and Xcode commands:
 
