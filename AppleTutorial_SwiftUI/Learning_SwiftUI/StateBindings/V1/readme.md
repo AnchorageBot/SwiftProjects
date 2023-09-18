@@ -30,8 +30,8 @@ Draft currently consists of the following files
 Draft is incomplete, needs revision, and currently flags the following issues:
 
 * Cannot find 'Recipe' in scope
+* Cannot find 'RecipeEditorForm' in scope
+* Cannot find 'RecipeListView' in scope
 * Cannot find type 'SidebarItem' in scope
 * Cannot find type 'Recipe' in scope
-* Cannot find 'RecipeEditorForm' in scope
 * Cannot find type 'RecipeBox' in scope
-* Cannot find 'RecipeListView' in scope
