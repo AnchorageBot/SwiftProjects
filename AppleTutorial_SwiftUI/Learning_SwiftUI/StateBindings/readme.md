@@ -18,3 +18,7 @@ using the Binding property wrapper.
 [Binding](https://developer.apple.com/documentation/swiftui/binding): A property wrapper type that can read and write a value owned by a source of truth.
 
 * Use a binding to create a two-way connection between a property that stores data, and a view that displays and changes the data. A binding connects a property to a source of truth stored elsewhere, instead of storing data directly.
+
+[Managing user interface state](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
+
+* Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
