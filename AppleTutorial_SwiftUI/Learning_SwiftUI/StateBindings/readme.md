@@ -15,6 +15,6 @@ using the Binding property wrapper.
 
 * Use state as the single source of truth for a given value type that you store in a view hierarchy. Create a state value in an App, Scene, or View by applying the @State attribute to a property declaration and providing an initial value. Declare state as private to prevent setting it in a memberwise initializer, which can conflict with the storage management that SwiftUI provides
 
-[Binding](https://developer.apple.com/documentation/swiftui/binding)
+[Binding](https://developer.apple.com/documentation/swiftui/binding): A property wrapper type that can read and write a value owned by a source of truth.
 
 * Use a binding to create a two-way connection between a property that stores data, and a view that displays and changes the data. A binding connects a property to a source of truth stored elsewhere, instead of storing data directly.
