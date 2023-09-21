@@ -14,7 +14,9 @@ Videos
 
 Blogs
 
-*[The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
+* [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
+  
+* [Spread your wings Falcon 180B is here](https://github.com/huggingface/blog/blob/main/falcon-180b.md)
 
 Papers
 
