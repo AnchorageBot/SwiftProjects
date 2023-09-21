@@ -12,6 +12,10 @@ Videos
 
 * [Dr. John Gallaugher's Tutorials](https://gallaugher.com)
 
+Blogs
+
+*[The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
+
 Papers
 
 * [Swift for TensorFlow: A portable, flexible platform for deep learning - Brennan Saeta, Denys Shabalin, Marc Rasi, Brad Larson, Xihui Wu, Parker Schuh, Michelle Casbon, Daniel Zheng, Saleem Abdulrasool, Aleksandr Efremov, Dave Abrahams, Chris Lattner, Richard Wei](https://arxiv.org/abs/2102.13243) - arXiv:2102.13243 [cs.LG] - 2021
