@@ -13,10 +13,8 @@ Videos
 * [Dr. John Gallaugher's Tutorials](https://gallaugher.com)
 
 Blogs
-
-* [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
   
-* [Spread your wings Falcon 180B is here](https://github.com/huggingface/blog/blob/main/falcon-180b.md)
+* [Hugging Face Blog: Spread your wings Falcon 180B is here](https://github.com/huggingface/blog/blob/main/falcon-180b.md)
 
 Papers
 
