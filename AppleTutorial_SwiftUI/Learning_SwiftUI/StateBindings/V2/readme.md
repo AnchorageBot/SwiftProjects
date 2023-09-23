@@ -10,5 +10,6 @@ Main Folder Group
 * SidebarView.swift
 
 Model Folder Group
+* ModelHelpers.swift
 * Recipe.swift
 * RecipeBox.swift
