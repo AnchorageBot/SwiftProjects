@@ -13,3 +13,6 @@ Model Folder Group
 * ModelHelpers.swift
 * Recipe.swift
 * RecipeBox.swift
+
+Custom Controls Folder Group
+* StarRating.swift
