@@ -11,3 +11,4 @@ Main Folder Group
 
 Model Folder Group
 * Recipe.swift
+* RecipeBox.swift
