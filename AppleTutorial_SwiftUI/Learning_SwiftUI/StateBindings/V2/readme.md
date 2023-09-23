@@ -6,8 +6,8 @@ Main Folder Group
 * RecipesSampleApp.swift
 * ContentListView.swift
 * DetailView.swift
-* SidebarView.swift
 * RecipeListView.swift
+* SidebarView.swift
 
 Model Folder Group
 * Recipe.swift
