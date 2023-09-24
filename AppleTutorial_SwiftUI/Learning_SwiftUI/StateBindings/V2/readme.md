@@ -8,22 +8,27 @@ Main Folder Group
 * ContentListView.swift
 
 Model Folder Group
+* Command Key (Splat) N -> Swift UI View
 * ModelHelpers.swift
 * Recipe.swift
 * RecipeBox.swift
 
 Custom Controls Folder Group
+* Command Key (Splat) N -> Swift UI View
 * StarRating.swift
 
 Navigation Folder Group
+* Command Key (Splat) N -> Swift UI View
 * DetailView.swift
 * SidebarView.swift
 
 RecipeContentList Folder Group
+* Command Key (Splat) N -> Swift UI View
 * RecipeListItemView.swift
 * RecipeListView.swift
 
 RecipeDetailViews Folder Group
+* Command Key (Splat) N -> Swift UI View
 * RecipeDetailToolbar.swift
 * RecipeDetailView.swift
 * RecipeDirectionsView.swift
@@ -31,6 +36,7 @@ RecipeDetailViews Folder Group
 * RecipeNotSelectedView.swift
 
 RecipeEditor Folder Group
+* Command Key (Splat) N -> Swift UI View
 * RecipeEditor.swift
 * RecipeEditorConfig.swift
 * RecipeEditorForm.swift
