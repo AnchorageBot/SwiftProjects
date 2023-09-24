@@ -36,6 +36,10 @@ WWDC 2019 Videos
 
 * [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410)
 
+WWDC 2020 Videos
+
+* [Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/)
+
 WWDC 2023 Videos
 
 * [Demystify SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10022/)
