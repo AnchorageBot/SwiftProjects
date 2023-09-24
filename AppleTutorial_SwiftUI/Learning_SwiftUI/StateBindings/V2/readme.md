@@ -19,5 +19,5 @@ Navigation Folder Group
 * SidebarView.swift
 
 RecipeContentList Folder Group
-* RecipeListItem
+* RecipeListItemView.swift
 * RecipeListView.swift
