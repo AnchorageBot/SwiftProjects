@@ -1,5 +1,7 @@
 2nd Draft
 
+Made with Swift 5.8, Xcode 14.3.1
+
 Files, for review, from the Project Files Download:
 
 Main Folder (Group)
