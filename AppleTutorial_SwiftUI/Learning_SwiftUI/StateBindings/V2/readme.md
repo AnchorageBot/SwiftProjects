@@ -31,3 +31,4 @@ RecipeDetailViews Folder Group
 
 RecipeEditor Folder Group
 * RecipeEditor.swift
+* RecipeEditorConfig.swift
