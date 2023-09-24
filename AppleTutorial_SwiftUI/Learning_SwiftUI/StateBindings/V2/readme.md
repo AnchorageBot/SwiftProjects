@@ -2,32 +2,32 @@
 
 Files, for review, from the Project Files Download:
 
-Main Folder Group
+Main Folder (Group)
 * Xcode -> File -> New Project -> iOS - App
 * RecipesSampleApp.swift
 * ContentListView.swift
 
-Model Folder
+Model Folder (Group)
 * Command Key (Splat) N -> Swift UI View
 * ModelHelpers.swift
 * Recipe.swift
 * RecipeBox.swift
 
-Custom Controls Folder
+Custom Controls Folder (Group)
 * Command Key (Splat) N -> Swift UI View
 * StarRating.swift
 
-Navigation Folder
+Navigation Folder (Group)
 * Command Key (Splat) N -> Swift UI View
 * DetailView.swift
 * SidebarView.swift
 
-RecipeContentList Folder
+RecipeContentList Folder (Group)
 * Command Key (Splat) N -> Swift UI View
 * RecipeListItemView.swift
 * RecipeListView.swift
 
-RecipeDetailViews Folder
+RecipeDetailViews Folder (Group)
 * Command Key (Splat) N -> Swift UI View
 * RecipeDetailToolbar.swift
 * RecipeDetailView.swift
@@ -35,13 +35,13 @@ RecipeDetailViews Folder
 * RecipeIngredientsView.swift
 * RecipeNotSelectedView.swift
 
-RecipeEditor Folder
+RecipeEditor Folder (Group)
 * Command Key (Splat) N -> Swift UI View
 * RecipeEditor.swift
 * RecipeEditorConfig.swift
 * RecipeEditorForm.swift
 
-TitleViews Folder
+TitleViews Folder (Group)
 * Command Key (Splat) N -> Swift UI View
 * CompactTitleView.swift
 * RegularTitleView.swift
