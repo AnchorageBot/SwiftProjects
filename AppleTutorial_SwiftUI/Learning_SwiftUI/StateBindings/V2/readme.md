@@ -26,3 +26,4 @@ RecipeDetailViews Folder Group
 * RecipeDetailToolbar.swift
 * RecipeDetailView.swift
 * RecipeDirectionsView.swift
+* RecipeIngredientsView.swift
