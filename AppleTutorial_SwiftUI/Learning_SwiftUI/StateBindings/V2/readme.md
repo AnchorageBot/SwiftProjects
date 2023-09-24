@@ -25,3 +25,4 @@ RecipeContentList Folder Group
 RecipeDetailViews Folder Group
 * RecipeDetailToolbar.swift
 * RecipeDetailView.swift
+* RecipeDirectionsView.swift
