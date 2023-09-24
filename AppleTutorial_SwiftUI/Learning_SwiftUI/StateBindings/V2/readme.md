@@ -3,6 +3,7 @@
 Files, for review, from the Project Files Download:
 
 Main Folder Group
+* Xcode->File->New Project -> iOS - App
 * RecipesSampleApp.swift
 * ContentListView.swift
 
