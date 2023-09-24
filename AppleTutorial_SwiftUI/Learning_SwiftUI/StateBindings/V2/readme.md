@@ -58,6 +58,7 @@ TitleViews Folder (Group)
 
 Resources Folder
 * recipeData.json
+* placeholder.pdf
 * AppleCake.jpg
 * ChickpeaCurry.jpg
 * MushroomTapioca.jpg
