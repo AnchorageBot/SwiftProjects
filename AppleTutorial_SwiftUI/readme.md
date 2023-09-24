@@ -36,6 +36,10 @@ WWDC 2019 Videos
 
 * [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410)
 
+WWDC 2023 Videos
+
+* [Demystify SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10022/)
+
 XCode
 
 * [Updates](https://developer.apple.com/documentation/updates/xcode)
