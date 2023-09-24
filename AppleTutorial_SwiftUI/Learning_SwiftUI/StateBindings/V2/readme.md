@@ -40,3 +40,7 @@ RecipeEditor Folder Group
 * RecipeEditor.swift
 * RecipeEditorConfig.swift
 * RecipeEditorForm.swift
+
+TitleViews Group
+* Command Key (Splat) N -> Swift UI View
+* CompactTitleView.swift
