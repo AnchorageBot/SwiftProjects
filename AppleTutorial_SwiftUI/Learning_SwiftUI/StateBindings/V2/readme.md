@@ -7,6 +7,8 @@ Main Folder (Group)
 * Xcode -> File -> New -> Group
 * RecipesSampleApp.swift
 * ContentListView.swift
+* recipeData.json
+* Contents.json
 
 Model Folder (Group)
 * Command Key (Splat) N -> Swift UI View
