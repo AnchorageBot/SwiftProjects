@@ -15,7 +15,6 @@ Custom Controls Folder Group
 * StarRating.swift
 
 Navigation Folder Group
-* 
 * DetailView.swift
 * SidebarView.swift
 
