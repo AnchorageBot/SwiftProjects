@@ -44,3 +44,4 @@ RecipeEditor Folder Group
 TitleViews Group
 * Command Key (Splat) N -> Swift UI View
 * CompactTitleView.swift
+* RegularTitleView.swift
