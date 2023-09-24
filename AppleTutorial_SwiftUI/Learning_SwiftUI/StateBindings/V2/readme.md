@@ -21,3 +21,6 @@ Navigation Folder Group
 RecipeContentList Folder Group
 * RecipeListItemView.swift
 * RecipeListView.swift
+
+RecipeDetailViews Folder Group
+* RecipeDetailToolbar.swift
