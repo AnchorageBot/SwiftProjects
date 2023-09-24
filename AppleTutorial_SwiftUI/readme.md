@@ -40,7 +40,7 @@ WWDC 2020 Videos
 
 * [Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/)
 
-WWDC 2023 Videos
+WWDC 2021 Videos
 
 * [Demystify SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10022/)
 
