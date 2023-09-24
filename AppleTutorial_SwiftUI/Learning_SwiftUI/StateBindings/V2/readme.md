@@ -28,3 +28,6 @@ RecipeDetailViews Folder Group
 * RecipeDirectionsView.swift
 * RecipeIngredientsView.swift
 * RecipeNotSelectedView.swift
+
+RecipeEditor Folder Group
+* RecipeEditor.swift
