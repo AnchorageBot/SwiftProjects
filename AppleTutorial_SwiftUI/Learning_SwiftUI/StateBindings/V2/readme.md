@@ -7,27 +7,27 @@ Main Folder Group
 * RecipesSampleApp.swift
 * ContentListView.swift
 
-Model Folder Group
+Model Folder
 * Command Key (Splat) N -> Swift UI View
 * ModelHelpers.swift
 * Recipe.swift
 * RecipeBox.swift
 
-Custom Controls Folder Group
+Custom Controls Folder
 * Command Key (Splat) N -> Swift UI View
 * StarRating.swift
 
-Navigation Folder Group
+Navigation Folder
 * Command Key (Splat) N -> Swift UI View
 * DetailView.swift
 * SidebarView.swift
 
-RecipeContentList Folder Group
+RecipeContentList Folder
 * Command Key (Splat) N -> Swift UI View
 * RecipeListItemView.swift
 * RecipeListView.swift
 
-RecipeDetailViews Folder Group
+RecipeDetailViews Folder
 * Command Key (Splat) N -> Swift UI View
 * RecipeDetailToolbar.swift
 * RecipeDetailView.swift
@@ -35,16 +35,24 @@ RecipeDetailViews Folder Group
 * RecipeIngredientsView.swift
 * RecipeNotSelectedView.swift
 
-RecipeEditor Folder Group
+RecipeEditor Folder
 * Command Key (Splat) N -> Swift UI View
 * RecipeEditor.swift
 * RecipeEditorConfig.swift
 * RecipeEditorForm.swift
 
-TitleViews Group
+TitleViews Folder
 * Command Key (Splat) N -> Swift UI View
 * CompactTitleView.swift
 * RegularTitleView.swift
 
-Resources
+Resources Folder
 * recipeData.json
+* AppleCake.jpg
+* ChickpeaCurry.jpg
+* MushroomTapioca.jpg
+* PassionfruitMangoSorbet.jpg
+* PeanutButterTruffles.jpg
+* SpicyTomatoSauce.jpg
+* ThreeBeanSalad.jpg
+* VegetableDumplings.jpg
