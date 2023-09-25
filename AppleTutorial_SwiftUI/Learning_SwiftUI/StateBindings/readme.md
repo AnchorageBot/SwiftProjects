@@ -22,3 +22,9 @@ using the Binding property wrapper.
 [Managing user interface state](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
 
 * Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
+
+- - - -
+
+WWDC 2020 Videos
+
+* [Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/)
