@@ -36,6 +36,8 @@ WWDC 2019 Videos
 
 * [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410)
 
+* [SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)
+
 WWDC 2020 Videos
 
 * [App essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10037/)
