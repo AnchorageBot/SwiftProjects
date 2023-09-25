@@ -34,6 +34,8 @@ Apple SwiftUI Sample App Code
 
 WWDC 2019 Videos
 
+* [Building Custom Views with Swift UI](https://developer.apple.com/videos/play/wwdc2019/237/)
+
 * [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410)
 
 * [Dataflow through Swift UI](https://developer.apple.com/videos/play/wwdc2019/226/)
