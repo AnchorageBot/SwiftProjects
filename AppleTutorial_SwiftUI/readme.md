@@ -38,9 +38,9 @@ WWDC 2019 Videos
 
 WWDC 2020 Videos
 
-* [Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/)
-
 * [App essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10037/)
+
+* [Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/)
 
 WWDC 2021 Videos
 
