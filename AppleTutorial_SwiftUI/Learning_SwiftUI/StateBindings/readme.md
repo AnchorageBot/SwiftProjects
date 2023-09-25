@@ -28,3 +28,5 @@ using the Binding property wrapper.
 WWDC 2020 Videos
 
 * [Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/)
+
+Data is a complex part of any app, but SwiftUI makes it easy to ensure a smooth, data-driven experience from prototyping to production. Discover @State and @Binding, two powerful tools that can preserve and seamlessly update your Source of Truth.
