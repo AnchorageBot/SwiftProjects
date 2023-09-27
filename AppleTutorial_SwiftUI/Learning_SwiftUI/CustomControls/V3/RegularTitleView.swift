@@ -37,7 +37,7 @@ struct RegularTitleView: View {
                 and write to that property
 
                 The dollar sign ($) prefix on the variable name recipe indicates
-                that the call is passing a binding to StarRating.
+                that the call is passing a binding to StarRating
             */
             StarRating(rating: $recipe.rating)
         }
