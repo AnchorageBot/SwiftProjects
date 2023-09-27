@@ -1,4 +1,4 @@
-Exploring SwiftUI Sample Apps
+[Exploring SwiftUI Sample Apps](https://developer.apple.com/tutorials/Sample-Apps)
 
 Explore these SwiftUI samples using Swift Playgrounds on iPad or in Xcode to learn about defining user interfaces, responding to user interactions, and managing data flow.
 
