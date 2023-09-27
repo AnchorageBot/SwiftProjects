@@ -18,7 +18,9 @@ Apple SwiftUI App Tutorials
 
 * [Develop Apps for iOS](https://developer.apple.com/tutorials/app-dev-training)
 
-* [Landmarks App](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+* [Introducing Swift UI](https://developer.apple.com/tutorials/swiftui)
+
+  * [Landmarks App](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 
 Apple SwiftUI Sample App Code
 
