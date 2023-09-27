@@ -17,4 +17,4 @@ View layout
 State and data flow
 * [Driving changes in your UI with state and bindings](https://developer.apple.com/tutorials/swiftui-concepts/driving-changes-in-your-ui-with-state-and-bindings)
 * [Creating a custom input control that binds to a value](https://developer.apple.com/tutorials/swiftui-concepts/creating-a-custom-input-control-that-binds-to-a-value)
-* Defining the source of truth using a custom binding
+* [Defining the source of truth using a custom binding](https://developer.apple.com/tutorials/swiftui-concepts/defining-the-source-of-truth-using-a-custom-binding)
