@@ -73,11 +73,14 @@ struct DetailView: View {
             if recipeBox.contains(recipeId) {
 
                 RecipeDetailView(recipe: recipe)
-                    .navigationTitle(recipe.wrappedValue.title)
-                    #if os(iOS)
 
                     // accepts a string value not a binding to a string value, so the view passes the recipe binding’s wrappedValue
+
+                    .navigationTitle(recipe.wrappedValue.title)
+
+                    #if os(iOS)
                     .navigationBarTitleDisplayMode(.inline)
+
                     #endif
                     .toolbar {
 
