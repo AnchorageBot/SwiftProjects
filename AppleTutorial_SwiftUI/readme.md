@@ -16,9 +16,9 @@ Apple SwiftUI App Tutorials
 
 * [Exploring SwiftUI Sample Apps](https://developer.apple.com/tutorials/Sample-Apps)
 
-* [Landmarks App](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+* [Develop Apps for iOS](https://developer.apple.com/tutorials/app-dev-training)
 
-* [Scrumdinger App](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)
+* [Landmarks App](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 
 Apple SwiftUI Sample App Code
 
