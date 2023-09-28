@@ -28,3 +28,6 @@ Tabs Folder (Group)
 * StoryView.swift
 * FavoritesView.swift
 * FunFactsView.swift
+
+Database Folder (Group)
+* Data.swift
