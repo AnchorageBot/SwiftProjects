@@ -27,3 +27,4 @@ Tabs Folder (Group)
 * HomeView.swift
 * StoryView.swift
 * FavoritesView.swift
+* FunFactsView.swift
