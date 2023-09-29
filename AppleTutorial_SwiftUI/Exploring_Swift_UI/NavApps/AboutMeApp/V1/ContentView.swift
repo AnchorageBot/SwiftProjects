@@ -58,7 +58,7 @@ struct ContentView: View {
 
             FunFactsView()
                 .tabItem {
-                    Label("Fun Facts", systemImage: "dice")
+                    Label("Random Facts", systemImage: "dice")
                         //.preferredColorScheme(.dark)
                 }
 
