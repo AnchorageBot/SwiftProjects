@@ -12,6 +12,7 @@
  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 
  Created on 9/27/2023 with Swift 5.9, Xcode 15.0
+ Updated on 9/28/2023
 
 */
 
@@ -36,6 +37,8 @@ struct HomeView: View {
 
             Text(information.name)
                 .font(.title)
+
+            .preferredColorScheme(.dark)
 
         }
     }
