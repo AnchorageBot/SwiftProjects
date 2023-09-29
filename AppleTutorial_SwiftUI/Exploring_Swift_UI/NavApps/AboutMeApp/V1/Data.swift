@@ -32,8 +32,8 @@ struct Info {
 
 let information = Info(
     image: "Placeholder",
-    name: "My Name",
-    story: "It's a good story",
+    name: "Me",
+    story: "It has the best words",
     hobbies: ["🏄‍♀️", "🎧", "📚"],
     foods: ["🥐", "🌮", "🍣"],
     colors: [Color.red, Color.green, Color.blue],
