@@ -52,9 +52,16 @@ struct ContentView: View {
 
             FavoritesView()
                 .tabItem {
-                    Label("Fun Facts", systemImage: "hand.thumbsup")
+                    Label("Favorites", systemImage: "heart")
                         //.preferredColorScheme(.dark)
                 }
+
+            FunFactsView()
+                .tabItem {
+                    Label("Fun Facts", systemImage: "dice")
+                        //.preferredColorScheme(.dark)
+                }
+
 
             //.preferredColorScheme(.dark)
 
