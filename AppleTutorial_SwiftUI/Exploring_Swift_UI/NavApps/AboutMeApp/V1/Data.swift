@@ -31,7 +31,7 @@ struct Info {
 }
 
 let information = Info(
-    image: "Placeholder",
+    image: "icybay",
     name: "Me",
     story: "It has the best words",
     hobbies: ["🏄‍♀️", "🎧", "📚"],
