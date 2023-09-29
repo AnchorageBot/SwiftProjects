@@ -32,7 +32,7 @@ let information = Info(
     image: "Placeholder",
     name: "My Name",
     story: "It's a good story",
-    hobbies: ["Fun stuff", "More fun stuff"],
+    hobbies: ["🏄‍♀️", "🎧", "📚"],,
     foods: ["🥐", "🌮", "🍣"],
     colors: [Color.red, Color.green, Color.blue],
     funFacts: ["Einstein is often right",
