@@ -40,7 +40,7 @@ let information = Info(
     funFacts: ["Einstein is often right",
               "Antimatter is subject to gravity",
               "The photoelectric effect is monetizable",
-              "The normal distribution works",
+              "The normal distribution exists for a reason",
               "60% of the time it works every time",
               "Brian Fantana is a tremendous anchorman",
               "The truth is out there",
