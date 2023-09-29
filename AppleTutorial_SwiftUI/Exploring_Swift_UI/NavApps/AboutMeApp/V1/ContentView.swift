@@ -23,6 +23,7 @@
  https://developer.apple.com/documentation/SwiftUI/Label
 
  Created on 9/27/2023 with Swift 5.9, Xcode 15.0
+ Updated on 9/28/2023
 
 */
 
@@ -39,19 +40,23 @@ struct ContentView: View {
             HomeView()
                 .tabItem {
                     Label("Home", systemImage: "person")
+                        //.preferredColorScheme(.dark)
                 }
 
             StoryView()
                 .tabItem {
                     Label("Story", systemImage: "book")
+                        //.preferredColorScheme(.dark)
                 }
+
 
             FavoritesView()
                 .tabItem {
                     Label("Fun Facts", systemImage: "hand.thumbsup")
+                        //.preferredColorScheme(.dark)
                 }
 
-         .preferredColorScheme(.dark)
+            //.preferredColorScheme(.dark)
 
         }
 
