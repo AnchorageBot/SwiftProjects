@@ -26,7 +26,7 @@ struct FunFactsView: View {
 
         VStack {
 
-            Text("Fun Facts")
+            Text("Random Fact")
                 .font(.largeTitle)
                 .fontWeight(.bold)
 
@@ -35,7 +35,7 @@ struct FunFactsView: View {
                 .font(.title)
                 .frame(minHeight: 400)
 
-            Button("Show Random Fact") {
+            Button("Press for Random Fact") {
                 funFact = information.funFacts.randomElement()!
             }
         }
