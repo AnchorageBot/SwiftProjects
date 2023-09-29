@@ -53,7 +53,7 @@ struct FavoritesView: View {
             }
             .padding()
 
-            Text("Favorite Colors")
+            Text("Colors")
                 .font(.title2)
 
             HStack(spacing: 30) {
