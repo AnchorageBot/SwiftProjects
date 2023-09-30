@@ -15,3 +15,6 @@ Preview Content Folder
 * FunFactsView
 * HomeView
 * StoryView
+
+Assets
+* Placeholder
