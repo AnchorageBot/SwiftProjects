@@ -13,3 +13,9 @@ StoryView sets up the navigation for the app, and StoryPageView displays the con
 
 You can start in StoryData and write your own narrative, or you can learn about and modify the look and feel
 of the app in StoryView and StoryPageView.
+
+- - - -
+
+[SF Symbols 5](https://developer.apple.com/sf-symbols/)
+
+With over 5,000 symbols, SF Symbols is a library of iconography designed to integrate seamlessly with San Francisco, the system font for Apple platforms. Symbols come in nine weights and three scales, and automatically align with text. They can be exported and edited using vector graphics editing tools to create custom symbols with shared design characteristics and accessibility features. SF Symbols 5 introduces a collection of expressive animations, over 700 new symbols, and enhanced tools for custom symbols.
