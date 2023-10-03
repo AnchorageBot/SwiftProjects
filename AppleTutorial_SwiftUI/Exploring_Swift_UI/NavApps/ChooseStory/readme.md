@@ -24,7 +24,7 @@ With over 5,000 symbols, SF Symbols is a library of iconography designed to inte
 SF Symbol Videos
 
 * WWDC 19 [Introducing SF Symbols](https://developer.apple.com/videos/play/wwdc2019/206)
-* WWDC 20 [SF Symbols 2](https://developer.apple.com/videos/play/wwdc2020/10207))
+* WWDC 20 [SF Symbols 2](https://developer.apple.com/videos/play/wwdc2020/10207)
 * WWDC 21 [What’s new in SF Symbols](https://developer.apple.com/videos/play/wwdc2021/10097)
 * WWDC 22 [What's new in SF Symbols 4](https://developer.apple.com/videos/play/wwdc2022/10157)
 * WWDC 23 [What’s new in SF Symbols 5](https://developer.apple.com/videos/play/wwdc2023/10197)
