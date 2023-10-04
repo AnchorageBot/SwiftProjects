@@ -38,7 +38,7 @@ import SwiftUI
 @main
 
 // Use structures to represent common kinds of data
-struct Explore_SwiftUI_V2_App: App {
+struct Explore_SwiftUI_V2App: App {
 
     // The content and behavior of the app
     var body: some Scene {
