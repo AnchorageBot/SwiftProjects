@@ -25,3 +25,4 @@ Main Folder (Group)
 
 AppData (Group)
 * MyStory.swift
+* StoryModels.swift
