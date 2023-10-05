@@ -1,6 +1,6 @@
 2nd Draft
 
-Project Files from the Project Download - Source file is a playground named Choose Your Own Story.swiftpm
+Project Files from the Project Download - Source file is a playground named: Choose Your Own Story.swiftpm
 
 Code holds the following files/folders:
 * App Folder
