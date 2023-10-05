@@ -12,3 +12,5 @@ Swift Programming Language
 Apple Core Data Sample App Code
 
 * [Handling Different Data Types in Core Data](https://developer.apple.com/documentation/coredata/handling_different_data_types_in_core_data)
+
+  * [Loading and Displaying a Large Data Feed](https://developer.apple.com/documentation/coredata/loading_and_displaying_a_large_data_feed)
