@@ -16,4 +16,4 @@ Create additional files via keyboard command:
 * Command (Splat) N autogenerates: 
 * NewFile.swift
 
-Edit existing files and create new until the app works
+Edit existing files and create additional new ones until the app works
