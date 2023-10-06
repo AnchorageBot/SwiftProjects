@@ -12,7 +12,5 @@ Underneath the 'Code' heading (on the upper left of the screen) are two files:
 * ContentView.swift
 * MyApp.swift
 
-Edit these two files as needed
-
 Create additional files via keyboard command:
 * Command (Splat) N 
