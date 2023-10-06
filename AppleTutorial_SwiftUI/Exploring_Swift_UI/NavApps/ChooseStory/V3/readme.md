@@ -15,3 +15,5 @@ Underneath the 'Code' heading (on the upper left of the screen) are two files:
 Create additional files via keyboard command:
 * Command (Splat) N
 * NewFile.swift
+
+Edit existing files and create new until the app works
