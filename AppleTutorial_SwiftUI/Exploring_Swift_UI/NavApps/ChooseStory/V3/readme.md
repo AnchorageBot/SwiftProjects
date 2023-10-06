@@ -13,4 +13,5 @@ Underneath the 'Code' heading (on the upper left of the screen) are two files:
 * MyApp.swift
 
 Create additional files via keyboard command:
-* Command (Splat) N 
+* Command (Splat) N
+* NewFile.swift
