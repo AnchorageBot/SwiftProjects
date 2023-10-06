@@ -1,3 +1,18 @@
 3rd Draft
 
 Made with Playgrounds 4.3.1
+
+How to create this with Playground commands:
+* Open Playgrounds
+* Select the App option (bottom left of screen)
+* Right click and rename the resulting App
+* Double click the renamed App to open it
+
+Underneath the 'Code' heading (on the upper left of the screen) are two files:
+* ContentView.swift
+* MyApp.swift
+
+Edit these two files as needed
+
+Create additional files via keyboard command:
+* Command (Splat) N 
