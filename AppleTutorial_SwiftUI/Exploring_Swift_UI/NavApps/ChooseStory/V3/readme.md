@@ -14,6 +14,6 @@ Underneath the 'Code' heading (on the upper left of the screen) are two autogene
 
 Create additional files via keyboard command:
 * Command (Splat) N autogenerates: 
- * NewFile.swift
+* NewFile.swift
 
 Edit existing files and create new until the app works
