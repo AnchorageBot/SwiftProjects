@@ -16,4 +16,4 @@ Xcode -> File -> New -> Group
 Then just drag and drop the files into the folders that you have created
 
 Main Folder (Group)
-* .
+
