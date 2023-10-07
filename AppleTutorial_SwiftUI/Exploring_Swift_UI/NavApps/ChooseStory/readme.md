@@ -1,4 +1,4 @@
-Choose Your Own Story
+[Choose Your Own Story](https://developer.apple.com/tutorials/sample-apps/chooseyourownstory)
 
 Provide dynamic navigation between views.
 
