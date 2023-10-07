@@ -14,7 +14,7 @@ This creates two files
 
 References:
 
- https://developer.apple.com/tutorials/sample-apps/dateplanner
+https://developer.apple.com/tutorials/sample-apps/dateplanner
 
 https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 
