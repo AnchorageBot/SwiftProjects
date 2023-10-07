@@ -25,3 +25,4 @@ Main Folder (Group)
 
 AppData Folder (Group)
 * DatePlannerApp.swift
+* Event.swift
