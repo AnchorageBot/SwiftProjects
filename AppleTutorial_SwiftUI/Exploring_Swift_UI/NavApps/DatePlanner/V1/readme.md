@@ -31,3 +31,11 @@ AppData Folder (Group)
 AppViews Folder (Group)
 * DatePlannerApp.swift
 * EventList.swift
+
+Current Errors
+* Event.swift
+  * Cannot find 'EventSymbols' in scope
+  * Cannot find 'ColorOptions' in scope
+* EventList.swift
+  * Cannot find 'EventRow' in scope
+  * Cannot find 'EventEditor' in scope   
