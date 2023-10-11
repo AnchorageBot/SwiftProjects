@@ -25,7 +25,7 @@
 
  https://developer.apple.com/documentation/swift/__(_:_:)-8buau
 
- Created on 10/8/2023 with Swift 5.9, Xcode 15.0
+ Created on 10/8/2023 and updated on 10/11/2023 with Swift 5.9, Xcode 15.0
 
  The event model holds all of the data needed to visualize and organize events
  in your list
@@ -70,7 +70,7 @@ struct Event: Identifiable, Hashable {
     }
 
     var isWithinSevenDays: Bool {
-        !isPast && date < Date.now.sevenDaysout
+        !isPast && date < Date.now.sevenDaysOut
     }
 
     var isWithinSevenToThirtyDays: Bool {
@@ -85,7 +85,7 @@ struct Event: Identifiable, Hashable {
         symbol: "case.fill",
         title: "Sayulita Trip",
         tasks: [
-            EventTask(text: "Buy plane tickets")
+            EventTask(text: "Buy plane tickets"),
             EventTask(text: "Get a new bathing suit"),
             EventTask(text: "Find an airbnb"),
         ],
