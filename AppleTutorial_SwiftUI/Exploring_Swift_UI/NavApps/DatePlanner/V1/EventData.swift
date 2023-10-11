@@ -29,7 +29,7 @@
 
  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Switch
 
- Created on 10/9/2023 and updated on 10/10/23 with Swift 5.9, Xcode 15.0
+ Created on 10/9/2023 and updated on 10/11/2023 with Swift 5.9, Xcode 15.0
 
  The EventData observable object populates the data in your event list
 
@@ -58,7 +58,7 @@ class EventData: ObservableObject {
                       EventTask(text: "Get tickets"),
                       EventTask(text: "Pick up Carmen at the airport and bring her to the show"),
                       ],
-              date: Date.roundedHoursFromNow( 60 * 60* 22)),
+              date: Date.roundedHoursFromNow( 60 * 60 * 22)),
 
         Event(symbol: "facemask.fill",
               color: .indigo,
@@ -127,7 +127,7 @@ class EventData: ObservableObject {
                 EventTask(text: "Get a new bathing suit"),
                 EventTask(text: "Find a hotel room"),
               ],
-              date: Date.roundedHoursFromNow(60* 60 * 24 * 19)),
+              date: Date.roundedHoursFromNow(60 * 60 * 24 * 19)),
     ]
 
     func delete(_ event: Event) {
@@ -148,16 +148,16 @@ class EventData: ObservableObject {
                 self.events
                     .filter {
                         switch period {
-                         
+
                         case .nextSevenDays:
                             return $0.isWithinSevenDays
-                         
+
                         case .nextThirtyDays:
                             return $0.isWithinSevenToThirtyDays
-                         
+
                         case .future:
                             return $0.isDistant
-                         
+
                         case .past:
                             return $0.isPast
                         }
