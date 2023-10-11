@@ -32,7 +32,7 @@ AppViews Folder (Group)
 * DatePlannerApp.swift
 * EventList.swift
 
-Current errors that need to be resolved
+Current errors that need to be resolved before the app will run
 * Event.swift
   * Cannot find 'EventSymbols' in scope
   * Cannot find 'ColorOptions' in scope
