@@ -148,13 +148,17 @@ class EventData: ObservableObject {
                 self.events
                     .filter {
                         switch period {
+                         
                         case .nextSevenDays:
                             return $0.isWithinSevenDays
+                         
                         case .nextThirtyDays:
                             return $0.isWithinSevenToThirtyDays
+                         
                         case .future:
                             return $0.isDistant
-                        case .past
+                         
+                        case .past:
                             return $0.isPast
                         }
                     }
