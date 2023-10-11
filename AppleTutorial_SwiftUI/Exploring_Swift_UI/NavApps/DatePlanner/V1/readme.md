@@ -13,6 +13,10 @@ How to create a View file with keyboard and Xcode commands:
 
 * Command Key (Splat) N -> Swift UI View
 
+How to create a Swift file with keyboard and Xcode commands:
+
+* Command Key (Splat) N -> Swift File
+
 How to create folders to organize app files
 
 * Xcode -> File -> New -> Group
