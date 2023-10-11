@@ -29,7 +29,7 @@
 
  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Switch
 
- Created on 10/9/2023 with Swift 5.9, Xcode 15.0
+ Created on 10/9/2023 and updated on 10/10/23 with Swift 5.9, Xcode 15.0
 
  The EventData observable object populates the data in your event list
 
