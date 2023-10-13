@@ -10,7 +10,7 @@ Reviewed the project download files and noted that the following files were not 
 * SymbolPicker
 * TaskRow
 
-This draft adds these missing files to V1 which originally consisted of the following tutorial files:
+Draft V1 consisted of the following tutorial files:
 
 Main Folder (Group)
 * Explore_SwiftUI_V4App.swift
@@ -25,7 +25,7 @@ AppViews Folder (Group)
 * DatePlannerApp.swift
 * EventList.swift
 
-This draft consists of the following files arranged as follows:
+Draft V2 draft consists of the following files arranged as follows:
 
 Main Folder (Group)
 * Explore_SwiftUI_V4App.swift
