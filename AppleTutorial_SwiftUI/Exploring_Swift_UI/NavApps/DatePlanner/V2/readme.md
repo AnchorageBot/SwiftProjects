@@ -9,3 +9,5 @@ Reviewed the download files and noted that the following files were not listed o
 * SFSymbolStyling
 * SymbolPicker
 * TaskRow
+
+This draft adds these missing files to V1 which consisted of the following tutorial files
