@@ -56,4 +56,5 @@ Consider downloading the [Apple SF Symbols App](https://developer.apple.com/sf-s
 
 * WWDC21 Video [Explore the SF Symbols 3 app](https://developer.apple.com/videos/play/wwdc2021/10288/)
 * WWDC22 Video [What's new in SF Symbols 4](https://developer.apple.com/videos/play/wwdc2022/10157)
-* WWDC23 Video [What’s new in SF Symbols 5](https://developer.apple.com/videos/play/wwdc2023/10197) 
+* WWDC23 Video [What’s new in SF Symbols 5](https://developer.apple.com/videos/play/wwdc2023/10197)
+* WWDC23 Video [ Animate symbols in your app](https://developer.apple.com/videos/play/wwdc2023/10258)
