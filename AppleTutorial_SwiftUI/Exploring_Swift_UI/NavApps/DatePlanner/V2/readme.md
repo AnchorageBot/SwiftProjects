@@ -47,3 +47,8 @@ AppViews Folder (Group)
 - - - - 
 
 Consider downloading the [Apple SF Symbols App](https://developer.apple.com/sf-symbols/) and installing it
+
+* When using the SF Symbols app you can right-click any symbol and choose Copy Name
+
+        let image = UIImage(systemName: "star")
+        let imageView = UIImageView(image: image)
