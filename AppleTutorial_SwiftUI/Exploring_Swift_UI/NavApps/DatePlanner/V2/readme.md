@@ -43,3 +43,7 @@ AppData Folder (Group)
 * EventTask.swift
 
 AppViews Folder (Group)
+
+- - - - 
+
+Consider downloading the [Apple SF Symbols App](https://developer.apple.com/sf-symbols/) and installing it
