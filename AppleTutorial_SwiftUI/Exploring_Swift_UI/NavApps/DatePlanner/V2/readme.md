@@ -53,3 +53,6 @@ Consider downloading the [Apple SF Symbols App](https://developer.apple.com/sf-s
 
         let image = UIImage(systemName: "star")
         let imageView = UIImageView(image: image)
+
+* WWDC21 Video [Explore the SF Symbols 3 app](https://developer.apple.com/videos/play/wwdc2021/10288/)
+* WWDC23 Video [What’s new in SF Symbols 5](https://developer.apple.com/videos/play/wwdc2023/10197) 
