@@ -9,5 +9,16 @@ App Folder
 * README.md
 
 The App folder contains the following files:
-
-
+* ColorOption
+* DatePlannerApp
+* Event
+* EventData
+* EventDetail
+* EventEditor
+* EventList
+* EventRow
+* EventSymbols
+* EventTask
+* SFSymbolStyling
+* SymbolPicker
+* TaskRow
