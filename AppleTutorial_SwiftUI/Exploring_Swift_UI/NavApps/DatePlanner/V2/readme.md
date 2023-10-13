@@ -54,6 +54,14 @@ Consider downloading the [Apple SF Symbols App](https://developer.apple.com/sf-s
         let image = UIImage(systemName: "star")
         let imageView = UIImageView(image: image)
 
+* Swift UI code sample
+
+       // Symbol effects in SwiftUI
+
+        Image(systemName: "wifi.router")
+            .symbolEffect(.variableColor.iterative.reversing)
+            .symbolEffect(.scale.up)
+  
 * WWDC21 Video [Explore the SF Symbols 3 app](https://developer.apple.com/videos/play/wwdc2021/10288/)
 * WWDC22 Video [What's new in SF Symbols 4](https://developer.apple.com/videos/play/wwdc2022/10157)
 * WWDC23 Video [What’s new in SF Symbols 5](https://developer.apple.com/videos/play/wwdc2023/10197)
