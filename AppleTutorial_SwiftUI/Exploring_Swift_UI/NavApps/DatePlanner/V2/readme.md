@@ -39,7 +39,7 @@ AppData Folder (Group)
 * ColorOption.swift
 * Event.swift
 * EventData.swift
-* EventSymbols
+* EventSymbols.swift
 * EventTask.swift
 
 AppViews Folder (Group)
