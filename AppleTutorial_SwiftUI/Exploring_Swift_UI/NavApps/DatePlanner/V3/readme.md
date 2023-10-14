@@ -4,7 +4,7 @@ Project Files from the Project Download - Source file is a playground named: Dat
 
 Code holds the following files/folders:
 
-App Folder
+* App Folder
 * License.txt
 * README.md
 
