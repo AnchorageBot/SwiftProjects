@@ -36,13 +36,14 @@ Main Folder (Group)
 * ContentView.swift
 
 AppData Folder (Group)
-* ColorOption
+* ColorOption.swift
 * Event.swift
 * EventData.swift
 * EventSymbols
 * EventTask.swift
 
 AppViews Folder (Group)
+* DatePlannerApp.swift
 
 - - - - 
 
