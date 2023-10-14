@@ -69,6 +69,6 @@ Consider downloading and installing the [Apple SF Symbols App](https://developer
 
 - - - -
 
-Consider downloading and installing the Apple TestFlight App
+Consider downloading and installing the [Apple TestFlight App](https://developer.apple.com/testflight/)
 
-
+* Beta Testing made simple with TestFlight
