@@ -29,8 +29,8 @@ Main Folder (Group)
 
 AppData Folder (Group)
 * Event.swift
-* EventTask.swift
 * EventData.swift
+* EventTask.swift
 
 AppViews Folder (Group)
 * DatePlannerApp.swift
