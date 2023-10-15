@@ -48,7 +48,7 @@ AppViews Folder (Group)
 * EventRow.swift
 * SFSymbolStyling.swift
 * SymbolPicker.swift
-* TaskRow
+* TaskRow.swift
 - - - - 
 
 TaskRow.swift
