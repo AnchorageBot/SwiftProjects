@@ -48,6 +48,7 @@ AppViews Folder (Group)
 * EventRow.swift
 * SFSymbolStyling.swift
 * SymbolPicker.swift
+* TaskRow
 - - - - 
 
 Consider downloading and installing the [Apple SF Symbols App](https://developer.apple.com/sf-symbols/)
