@@ -53,6 +53,8 @@ AppViews Folder (Group)
 
 TaskRow.swift
 
+Failed to build the scheme error
+
 'onChange(of:perform:)' was deprecated in iOS 17.0: Use `onChange` with a two or zero parameter action closure instead.
 
 - - - - 
