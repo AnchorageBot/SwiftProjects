@@ -5,7 +5,6 @@ Reviewed the project download files and noted that the following files were not 
 * EventDetail
 * EventRow
 * EventSymbols
-* EventTask
 * SFSymbolStyling
 * SymbolPicker
 * TaskRow
