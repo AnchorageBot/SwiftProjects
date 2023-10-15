@@ -43,10 +43,10 @@ AppData Folder (Group)
 
 AppViews Folder (Group)
 * DatePlannerApp.swift
-* EventDetail
+* EventDetail.swift
 * EventList.swift
-* EventRow
-
+* EventRow.swift
+* SFSymbolStyling.swift
 - - - - 
 
 Consider downloading and installing the [Apple SF Symbols App](https://developer.apple.com/sf-symbols/)
