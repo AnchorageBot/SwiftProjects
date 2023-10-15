@@ -51,6 +51,12 @@ AppViews Folder (Group)
 * TaskRow
 - - - - 
 
+TaskRow.swift
+
+'onChange(of:perform:)' was deprecated in iOS 17.0: Use `onChange` with a two or zero parameter action closure instead.
+
+- - - - 
+
 Consider downloading and installing the [Apple SF Symbols App](https://developer.apple.com/sf-symbols/)
 
 * When using the SF Symbols app you can right-click any symbol and choose Copy Name
