@@ -44,6 +44,8 @@ AppData Folder (Group)
 AppViews Folder (Group)
 * DatePlannerApp.swift
 * EventList.swift
+* EventDetail
+* EventRow
 
 - - - - 
 
