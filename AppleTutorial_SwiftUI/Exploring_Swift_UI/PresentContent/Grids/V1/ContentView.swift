@@ -28,6 +28,8 @@
 
  https://developer.apple.com/documentation/uikit/uitableviewcell/1623229-contentview
 
+ https://en.wikipedia.org/wiki/ROYGBIV
+
  Created on 10/16/2023 and updated on 10/11/2023 with Swift 5.9, Xcode 15.0
 
  The basics of building and configuring an app with SwiftUI
