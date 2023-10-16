@@ -30,7 +30,7 @@
 
  Created on 10/16/2023 and updated on 10/11/2023 with Swift 5.9, Xcode 15.0
 
- the basics of building and configuring an app with SwiftUI
+ The basics of building and configuring an app with SwiftUI
 
 */
 
