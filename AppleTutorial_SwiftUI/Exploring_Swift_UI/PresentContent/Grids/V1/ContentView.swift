@@ -96,7 +96,7 @@ struct ContentView: View {
 
 Xcode default code, September 2023
 
-This works; uncomment and comment out the below code if you want to use it
+This works; uncomment it and comment out the below code if you want to use it
 
 struct ContentView_Previews: PreviewProvider {
 
@@ -112,7 +112,7 @@ struct ContentView_Previews: PreviewProvider {
 
  Xcode default code, October 2023
 
- This also works; uncomment and comment out the above code if you want to use it
+ This also works; uncomment it and comment out the above code if you want to use it
 
 */
 
