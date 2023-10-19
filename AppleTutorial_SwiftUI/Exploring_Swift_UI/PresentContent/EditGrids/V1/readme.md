@@ -22,3 +22,12 @@ How to create folders to organize app files
 * Xcode -> File -> New -> Group
 
 Then just drag and drop the files into the folders that you have created
+
+Main Folder (Group)
+
+* Explore_SwiftUI_V6App.swift
+* ContentView.swift
+  
+AppData Folder (Group)
+
+* Symbol.swift
