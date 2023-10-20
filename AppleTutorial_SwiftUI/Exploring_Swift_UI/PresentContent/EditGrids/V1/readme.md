@@ -31,4 +31,7 @@ Main Folder (Group)
 AppData Folder (Group)
 
 * Symbol.swift
+
+AppViews Folder (Group)
+
 * SymbolDetail.swift
