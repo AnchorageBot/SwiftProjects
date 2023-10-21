@@ -1,7 +1,7 @@
 /*
 
  Symbol.swift
- Explore_SwiftUI_V5
+ Explore_SwiftUI_V6
 
  How to create a View file with keyboard and Xcode commands:
 
