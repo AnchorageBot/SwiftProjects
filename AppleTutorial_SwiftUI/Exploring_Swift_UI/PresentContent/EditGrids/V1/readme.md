@@ -1,4 +1,4 @@
-1st Draft
+1st Draft - Modifies the tutorial
 
 How to create this project with Xcode commands:
 
