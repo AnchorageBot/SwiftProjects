@@ -49,6 +49,7 @@ struct SymbolDetail: View {
                 .foregroundColor(.accentColor)
                 .symbolEffect(.pulse)
                 //.symbolEffect(.pulse, options: .repeat(3))
+                .symbolEffect(.variableColor.reversing)
 
         }
         .padding()
