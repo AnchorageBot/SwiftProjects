@@ -51,7 +51,7 @@ struct SymbolDetail: View {
 
 /*
 
-Xcode default code, pre October 2023
+Xcode default code snippet, pre October 2023
 
 This works; uncomment it and comment out the #Preview code below if you want to use this code snippet
 
@@ -60,12 +60,13 @@ struct Details_Previews: PreviewProvider {
         SymbolDetail(symbol: Symbol(name: "star"))
     }
 }
+ 
 */
 
 
 /*
 
-Xcode default code, post October 2023
+Xcode default code snippet, post October 2023
 
 This works; uncomment it and comment out the struct code if you want to use this code snippet
 
