@@ -19,7 +19,7 @@
 
  Created on 10/19/2023 and updated on 10/20/2023 with Swift 5.9, Xcode 15.0
 
- Creates an image view using an SF Symbol
+ Creates an image view using a SF Symbol
 
 */
 
