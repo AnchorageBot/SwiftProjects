@@ -9,7 +9,7 @@
 
  References:
 
- https://developer.apple.com/tutorials/sample-apps/dateplanner
+ https://developer.apple.com/tutorials/sample-apps/editinggrids
 
  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 
