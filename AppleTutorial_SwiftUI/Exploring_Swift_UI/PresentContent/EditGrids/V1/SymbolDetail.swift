@@ -68,7 +68,7 @@ struct Details_Previews: PreviewProvider {
 
 Xcode default code snippet, post October 2023
 
-This works; uncomment it and comment out the struct code if you want to use this code snippet
+This works; uncomment it and comment out the struct code above if you want to use this code snippet
 
 #Preview {
     SymbolDetail(symbol: Symbol(name: "star"))
