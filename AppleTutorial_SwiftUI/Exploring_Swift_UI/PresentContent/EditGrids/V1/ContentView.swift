@@ -22,8 +22,6 @@
 
  https://developer.apple.com/sf-symbols/
 
- https://developer.apple.com/sf-symbols/
-
  Created on 10/18/2023 and updated on 10/20/2023 with Swift 5.9, Xcode 15.0
 
  Creates an image view using an SF Symbol
