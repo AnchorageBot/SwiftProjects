@@ -22,7 +22,7 @@
 
  https://developer.apple.com/sf-symbols/
 
- Created on 10/18/2023 and updated on 10/20/2023 with Swift 5.9, Xcode 15.0
+ Created on 10/18/2023 and updated on 10/21/2023 with Swift 5.9, Xcode 15.0
 
  Creates an image view using an SF Symbol
 
@@ -37,7 +37,13 @@ struct ContentView: View {
         VStack {
 
             SymbolDetail(symbol: Symbol(name: "star"))
-            
+
+            SymbolDetail(symbol: Symbol(name: "brain"))
+
+            SymbolDetail(symbol: Symbol(name: "bicycle"))
+
+            SymbolDetail(symbol: Symbol(name: "map"))
+
         }
         .padding()
     }
@@ -46,4 +52,5 @@ struct ContentView: View {
 #Preview {
 
     ContentView()
+ 
 }
