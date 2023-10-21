@@ -47,6 +47,9 @@ struct SymbolDetail: View {
                 .scaledToFit()
                 .symbolRenderingMode(.hierarchical)
                 .foregroundColor(.accentColor)
+                .symbolEffect(.pulse)
+                //.symbolEffect(.pulse, options: .repeat(3))
+
         }
         .padding()
     }
