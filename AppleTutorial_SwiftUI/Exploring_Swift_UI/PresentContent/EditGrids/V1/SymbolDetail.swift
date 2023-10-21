@@ -15,9 +15,13 @@
 
  https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes
 
+ https://developer.apple.com/documentation/swiftui/image
+
+ https://developer.apple.com/documentation/symbols
+
  https://developer.apple.com/sf-symbols/
 
- Created on 10/19/2023 and updated on 10/20/2023 with Swift 5.9, Xcode 15.0
+ Created on 10/19/2023 and updated on 10/21/2023 with Swift 5.9, Xcode 15.0
 
  Creates an image view using a SF Symbol
 
