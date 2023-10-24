@@ -1,1 +1,1 @@
-2nd Draft - Adds a Navigation Grid
+2nd Draft - Follows the Tutorial - Adds a Navigation Grid
