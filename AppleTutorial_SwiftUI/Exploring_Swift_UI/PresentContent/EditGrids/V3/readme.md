@@ -1,1 +1,1 @@
-3rd Draft - Follows the Tutorial - Adds an editing mode
+3rd Draft - adapting playgrounds files to Xcode
