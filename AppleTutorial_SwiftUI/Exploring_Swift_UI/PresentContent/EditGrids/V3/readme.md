@@ -1,4 +1,4 @@
-3rd Draft - adapting playgrounds files to Xcode
+3rd Draft - Modifies the tutorial - Uses Xcode 
 
 
 Not there yet
