@@ -1,4 +1,4 @@
-2nd Draft - Modifies the Tutorial and uses Xcode - Adds a Navigation Grid
+2nd Draft - Modifies the tutorial - Uses Xcode and adds a navigation grid
 
 How to create this project with Xcode commands:
 
