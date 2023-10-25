@@ -38,33 +38,33 @@ struct ContentView: View {
 
         VStack {
 
-            /* Option One 
+            /* Option One */
 
-            SymbolDetail(symbol: Symbol(name: "star"))
+            //SymbolDetail(symbol: Symbol(name: "star"))
 
-            SymbolDetail(symbol: Symbol(name: "brain"))
+            //SymbolDetail(symbol: Symbol(name: "brain"))
 
-            SymbolDetail(symbol: Symbol(name: "bicycle"))
+            //SymbolDetail(symbol: Symbol(name: "bicycle"))
 
-            SymbolDetail(symbol: Symbol(name: "map"))
-            */
+            //SymbolDetail(symbol: Symbol(name: "map"))
 
 
-            /* Option Two
+            /* Option Two */
 
             SymbolGrid()
-            */
 
-            /* Option Three
 
-            SymbolPicker(symbol: .constant(nil))
-             */
+            /* Option Three */
+
+            //SymbolPicker(symbol: .constant(nil))
+
 
 
             /* Option Four */
+
             //SymbolDetail(symbol: Symbol(name: "star"))
-            SymbolGrid()
-            SymbolPicker(symbol: .constant(nil))
+            //SymbolGrid()
+            //SymbolPicker(symbol: .constant(nil))
 
         }
         .padding()
