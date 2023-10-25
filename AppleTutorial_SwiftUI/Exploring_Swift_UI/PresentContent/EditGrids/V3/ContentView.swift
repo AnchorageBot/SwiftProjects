@@ -51,7 +51,7 @@ struct ContentView: View {
 
             /* Option Two */
 
-            SymbolGrid()
+            //SymbolGrid()
 
 
             /* Option Three */
@@ -65,6 +65,12 @@ struct ContentView: View {
             //SymbolDetail(symbol: Symbol(name: "star"))
             //SymbolGrid()
             //SymbolPicker(symbol: .constant(nil))
+
+            /* Option Five */
+
+            SymbolGrid()
+            SymbolPicker(symbol: .constant(nil))
+
 
         }
         .padding()
