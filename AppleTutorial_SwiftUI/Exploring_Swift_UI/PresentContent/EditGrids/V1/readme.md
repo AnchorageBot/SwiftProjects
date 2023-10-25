@@ -1,4 +1,4 @@
-1st Draft - Modifies the tutorial - Animates symbols
+1st Draft - Modifies the tutorial - Uses Xcode and animates symbols
 
 How to create this project with Xcode commands:
 
