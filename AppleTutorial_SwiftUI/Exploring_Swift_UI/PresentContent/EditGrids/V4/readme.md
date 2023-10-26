@@ -1,6 +1,6 @@
 4th Draft
 
-Project Files from the Project Download - Source file is a playground named: EditGrids.swiftpm
+Project Files from the Project Download - Source file is a playground named: EditingGrids.swiftpm
 
 Code holds the following files/folders:
 
