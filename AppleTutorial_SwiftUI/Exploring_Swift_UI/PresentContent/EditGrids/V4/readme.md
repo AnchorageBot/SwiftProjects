@@ -9,3 +9,8 @@ App Folder
 * README.md
 
 The App folder contains the following files:
+* SymbolGridApp
+* Symbol
+* SymbolDetail
+* SymbolGrid
+* SymnolPicker
