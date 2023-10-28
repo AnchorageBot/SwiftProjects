@@ -45,6 +45,9 @@ Glossary
 [Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types)
 * In Swift, there are two kinds of types: named types and compound types
 
+[View](https://developer.apple.com/documentation/swiftui/view)
+* A type that represents part of your app’s user interface and provides modifiers that you use to configure views
+
 [VStack](https://developer.apple.com/documentation/swiftui/vstack/)
 * A view that arranges its subviews in a vertical line
 
