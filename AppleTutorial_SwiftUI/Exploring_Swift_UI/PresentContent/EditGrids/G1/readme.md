@@ -18,5 +18,8 @@ Glossary
 [Image](https://developer.apple.com/documentation/swiftui/image)
 * A view that displays an image
 
+[State](https://developer.apple.com/documentation/swiftui/state)
+* A property wrapper type that can read and write a value managed by SwiftUI
+
 [Symbols](https://developer.apple.com/documentation/symbols)
 * Apply universal animations to symbol-based images
