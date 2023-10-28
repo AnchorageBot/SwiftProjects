@@ -13,3 +13,4 @@ Glossary
 * A view that displays an image
 
 [Symbols](https://developer.apple.com/documentation/symbols)
+* Apply universal animations to symbol-based images
