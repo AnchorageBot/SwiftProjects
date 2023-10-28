@@ -35,3 +35,6 @@ Glossary
 
 [VStack](https://developer.apple.com/documentation/swiftui/vstack/)
 * A view that arranges its subviews in a vertical line
+
+[WindowGroup](https://developer.apple.com/documentation/SwiftUI/WindowGroup)
+* A scene that presents a group of identically structured windows
