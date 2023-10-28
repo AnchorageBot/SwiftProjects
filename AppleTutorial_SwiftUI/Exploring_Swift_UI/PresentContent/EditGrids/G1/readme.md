@@ -3,6 +3,9 @@ Glossary
 [App](https://developer.apple.com/documentation/SwiftUI/App)
 * A type that represents the structure and behavior of an app
 
+[Basic Data Types](https://developer.apple.com/documentation/quicktime-file-format/well-known_types/)
+
+
 [Binding](https://developer.apple.com/documentation/swiftui/binding)
 * A property wrapper type that can read and write a value owned by a source of truth
 
