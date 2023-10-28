@@ -36,6 +36,9 @@ Glossary
 [State](https://developer.apple.com/documentation/swiftui/state)
 * A property wrapper type that can read and write a value managed by SwiftUI
 
+[Statements](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements)
+* In Swift, there are three kinds of statements: simple statements, compiler control statements, and control flow statements
+
 [Symbols](https://developer.apple.com/documentation/symbols)
 * Apply universal animations to symbol-based images
 
