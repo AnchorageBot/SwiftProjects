@@ -11,3 +11,5 @@ Glossary
 
 [Image](https://developer.apple.com/documentation/swiftui/image)
 * A view that displays an image
+
+[Symbols](https://developer.apple.com/documentation/symbols)
