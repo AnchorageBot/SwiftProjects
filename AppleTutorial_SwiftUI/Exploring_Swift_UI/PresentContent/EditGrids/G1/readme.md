@@ -27,6 +27,9 @@ Glossary
 [LazyVGrid](https://developer.apple.com/documentation/SwiftUI/LazyVGrid)
 * A container view that arranges its child views in a grid that grows vertically, creating items only as needed
 
+[Preview](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
+* Generate dynamic, interactive previews of your custom views
+
 [Scene](https://developer.apple.com/documentation/swiftui/scene)
 * A part of an app’s user interface with a life cycle managed by the system
 
