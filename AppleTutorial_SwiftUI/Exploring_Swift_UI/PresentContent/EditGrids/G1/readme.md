@@ -21,6 +21,9 @@ Glossary
 [Image](https://developer.apple.com/documentation/swiftui/image)
 * A view that displays an image
 
+[Import Declaration](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Import-Declaration)
+* An import declaration lets you access symbols that are declared outside the current file. The basic form imports the entire module; it consists of the import keyword followed by a module name:
+
 [LazyVGrid](https://developer.apple.com/documentation/SwiftUI/LazyVGrid)
 * A container view that arranges its child views in a grid that grows vertically, creating items only as needed
 
