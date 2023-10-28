@@ -18,6 +18,9 @@ Glossary
 [Image](https://developer.apple.com/documentation/swiftui/image)
 * A view that displays an image
 
+[LazyVGrid](https://developer.apple.com/documentation/SwiftUI/LazyVGrid)
+* A container view that arranges its child views in a grid that grows vertically, creating items only as needed
+
 [State](https://developer.apple.com/documentation/swiftui/state)
 * A property wrapper type that can read and write a value managed by SwiftUI
 
