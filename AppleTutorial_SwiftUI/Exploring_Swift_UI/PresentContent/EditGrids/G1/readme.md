@@ -29,3 +29,6 @@ Glossary
 
 [Symbols](https://developer.apple.com/documentation/symbols)
 * Apply universal animations to symbol-based images
+
+[VStack](https://developer.apple.com/documentation/swiftui/vstack/)
+* A view that arranges its subviews in a vertical line
