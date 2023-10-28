@@ -39,6 +39,9 @@ Glossary
 [Symbols](https://developer.apple.com/documentation/symbols)
 * Apply universal animations to symbol-based images
 
+[Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types)
+* In Swift, there are two kinds of types: named types and compound types
+
 [VStack](https://developer.apple.com/documentation/swiftui/vstack/)
 * A view that arranges its subviews in a vertical line
 
