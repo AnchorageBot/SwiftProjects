@@ -28,7 +28,7 @@ Glossary
 * A container view that arranges its child views in a grid that grows vertically, creating items only as needed
 
 [Scene](https://developer.apple.com/documentation/swiftui/scene)
-* https://developer.apple.com/documentation/swiftui/scene
+* A part of an app’s user interface with a life cycle managed by the system
 
 [ScrollView](https://developer.apple.com/documentation/SwiftUI/ScrollView)
 * A scrollable view
