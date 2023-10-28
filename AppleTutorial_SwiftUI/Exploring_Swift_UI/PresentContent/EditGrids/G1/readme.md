@@ -15,6 +15,9 @@ Glossary
 [Content View](https://developer.apple.com/documentation/uikit/uitableviewcell/1623229-contentview)
 * The content view of the cell object
 
+[Declarations](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations)
+* Introduce types, operators, variables, and other names and constructs
+
 [Environment](https://developer.apple.com/documentation/swiftui/environment)
 * A property wrapper that reads a value from a view’s environment
 
