@@ -13,6 +13,9 @@ Glossary
 [Content View](https://developer.apple.com/documentation/uikit/uitableviewcell/1623229-contentview)
 * The content view of the cell object
 
+[Control Flow](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow)
+* Structure code with branches, loops, and early exits
+
 [Declarations](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations)
 * Introduce types, operators, variables, and other names and constructs
 
