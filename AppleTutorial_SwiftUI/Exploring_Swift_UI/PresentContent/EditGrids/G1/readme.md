@@ -62,6 +62,9 @@ Glossary
 [Symbols](https://developer.apple.com/documentation/symbols)
 * Apply universal animations to symbol-based images
 
+[TabView](https://developer.apple.com/documentation/swiftui/tabview)
+* A view that switches between multiple child views using interactive user interface elements
+
 [Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types)
 * In Swift, there are two kinds of types: named types and compound types
 
