@@ -10,6 +10,9 @@ Glossary
 [Body](https://developer.apple.com/documentation/SwiftUI/App/body-swift.property)
 * The content and behavior of the app
 
+[Classes and Structures](https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes)
+* Decide how to store data and model behavior
+
 [Content View](https://developer.apple.com/documentation/uikit/uitableviewcell/1623229-contentview)
 * The content view of the cell object
 
