@@ -53,6 +53,9 @@ Glossary
 [Statements](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements)
 * In Swift, there are three kinds of statements: simple statements, compiler control statements, and control flow statements
 
+[Structures and Classes](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures)
+* Model custom types that encapsulate data
+
 [Symbols](https://developer.apple.com/documentation/symbols)
 * Apply universal animations to symbol-based images
 
