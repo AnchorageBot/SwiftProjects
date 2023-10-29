@@ -19,6 +19,10 @@ Glossary
 [Environment](https://developer.apple.com/documentation/swiftui/environment)
 * A property wrapper that reads a value from a view’s environment
 
+[Enumerations and Structures](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour#Enumerations-and-Structures)
+* Like classes and all other named types, enumerations can have methods associated with them
+* Structures support many of the same behaviors as classes, including methods and initializers. One of the most important differences between structures and classes is that structures are always copied when they’re passed around in your code, but classes are passed by reference.
+
 [Image](https://developer.apple.com/documentation/swiftui/image)
 * A view that displays an image
 
