@@ -23,6 +23,9 @@ Glossary
 * Like classes and all other named types, enumerations can have methods associated with them
 * Structures support many of the same behaviors as classes, including methods and initializers. One of the most important differences between structures and classes is that structures are always copied when they’re passed around in your code, but classes are passed by reference.
 
+[Error Handling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour#Error-Handling)
+* There are several ways to handle errors
+
 [Image](https://developer.apple.com/documentation/swiftui/image)
 * A view that displays an image
 
