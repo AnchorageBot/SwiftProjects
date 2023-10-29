@@ -1,5 +1,6 @@
 Glossary
 - - - -
+
 [App](https://developer.apple.com/documentation/SwiftUI/App)
 * A type that represents the structure and behavior of an app
 
@@ -56,3 +57,10 @@ Glossary
 
 [WindowGroup](https://developer.apple.com/documentation/SwiftUI/WindowGroup)
 * A scene that presents a group of identically structured windows
+- - - -
+Documentation
+- - - -
+
+[Swift Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language)
+
+[Swift UI Framework](https://developer.apple.com/documentation/swiftui)
