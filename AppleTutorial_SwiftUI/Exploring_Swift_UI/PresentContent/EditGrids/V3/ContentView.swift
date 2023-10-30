@@ -24,7 +24,7 @@
 
  https://developer.apple.com/documentation/uikit/uitableviewcell/1623229-contentview
 
- Created on 10/18/2023 and updated on 10/24/2023 with Swift 5.9, Xcode 15.0
+ Created on 10/18/2023 and updated on 10/29/2023 with Swift 5.9, Xcode 15.0
 
  Creates an image view using an SF Symbol
 
@@ -38,7 +38,9 @@ struct ContentView: View {
 
         //VStack {
 
-        TabView {
+        //TabView {
+
+        NavigationStack {
 
             /* Option One */
 
@@ -53,7 +55,7 @@ struct ContentView: View {
 
             /* Option Two */
 
-            //SymbolGrid()
+            SymbolGrid()
 
 
             /* Option Three */
@@ -70,9 +72,8 @@ struct ContentView: View {
 
             /* Option Five */
 
-            SymbolGrid()
-            SymbolPicker(symbol: .constant(nil))
-
+            //SymbolGrid()
+            //SymbolPicker(symbol: .constant(nil))
 
         }
         .padding()
