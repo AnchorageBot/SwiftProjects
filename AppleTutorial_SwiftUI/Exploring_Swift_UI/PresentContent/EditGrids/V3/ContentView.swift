@@ -24,6 +24,8 @@
 
  https://developer.apple.com/documentation/uikit/uitableviewcell/1623229-contentview
 
+ https://developer.apple.com/documentation/swiftui/navigationstack
+
  Created on 10/18/2023 and updated on 10/29/2023 with Swift 5.9, Xcode 15.0
 
  Creates an image view using an SF Symbol
