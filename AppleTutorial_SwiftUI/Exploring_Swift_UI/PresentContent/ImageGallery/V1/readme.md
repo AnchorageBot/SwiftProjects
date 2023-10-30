@@ -1,4 +1,4 @@
-1st Draft - Modifies the tutorial - Uses Xcode and animates symbols
+1st Draft - Modifies the tutorial - Uses Xcode and passes photo data from DataModel to its view hierarchy
 
 How to create this project with Xcode commands:
 
