@@ -80,7 +80,14 @@ struct ContentView: View {
     }
 }
 
+/*
+
+The Xcode simulator appears to more quickly when this is commented out
+
 #Preview {
 
     ContentView()
 }
+
+
+*/
