@@ -29,3 +29,5 @@ Main Folder (Group)
 * ContentView.swift
   
 AppData Folder (Group)
+
+* Item.swift
