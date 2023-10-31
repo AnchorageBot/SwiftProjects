@@ -7,7 +7,7 @@ Methodology
 * Right click the file and choose rename (update with your app's name)
 
 Swift Playgrounds autogenerates two files:
-* ContentView
 * MyApp
+* ContentView
 
 Edit these two files and add/create more files as needed for your app
