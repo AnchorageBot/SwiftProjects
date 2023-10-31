@@ -3,9 +3,11 @@ Made with Swift Playgrounds 4.3.1 on 10/30/2023 - This folder holds autogenerate
 
 Methodology
 * Open Swiftplaygrounds App
-* Select App
-* Right click and choose rename
+* Select App (there are two choices to select - App and Playground)
+* Right click the file and choose rename (update with your app's name)
 
 Swift Playgrounds autogenerates two files:
 * ContentView
 * MyApp
+
+Edit these two files and add/create more files as needed for your app
