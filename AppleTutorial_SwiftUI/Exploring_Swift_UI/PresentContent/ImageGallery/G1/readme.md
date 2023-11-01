@@ -47,6 +47,9 @@ Glossary
 [FileManager](https://developer.apple.com/documentation/foundation/filemanager)
 * A convenient interface to the contents of the file system, and the primary means of interacting with it
 
+[GeometryReader](https://developer.apple.com/documentation/SwiftUI/GeometryReader)
+* A container view that defines its content as a function of its own size and coordinate space
+
 [GridItem](https://developer.apple.com/documentation/swiftui/griditem)
 * A description of a row or a column in a lazy grid
 
