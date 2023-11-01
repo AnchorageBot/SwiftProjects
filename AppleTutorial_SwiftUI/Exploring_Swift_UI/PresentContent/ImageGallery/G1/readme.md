@@ -4,6 +4,9 @@ Glossary
 [App](https://developer.apple.com/documentation/SwiftUI/App)
 * A type that represents the structure and behavior of an app
 
+[Array](https://developer.apple.com/documentation/swift/array)
+* An ordered, random-access collection
+
 [Binding](https://developer.apple.com/documentation/swiftui/binding)
 * A property wrapper type that can read and write a value owned by a source of truth
 
