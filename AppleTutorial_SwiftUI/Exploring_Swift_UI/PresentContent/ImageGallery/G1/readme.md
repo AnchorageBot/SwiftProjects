@@ -68,6 +68,9 @@ Glossary
 [ObservableObject](https://developer.apple.com/documentation/combine/observableobject)
 * A type of object with a publisher that emits before the object has changed
 
+[ProgressView](https://developer.apple.com/documentation/swiftui/progressview)
+* A view that shows the progress toward completion of a task
+
 [Preview](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
 * Generate dynamic, interactive previews of your custom views
 
