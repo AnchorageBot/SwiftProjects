@@ -38,6 +38,9 @@ Glossary
 [Error Handling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour#Error-Handling)
 * There are several ways to handle errors
 
+[FileManager](https://developer.apple.com/documentation/foundation/filemanager)
+* A convenient interface to the contents of the file system, and the primary means of interacting with it
+
 [GridItem](https://developer.apple.com/documentation/swiftui/griditem)
 * A description of a row or a column in a lazy grid
 
