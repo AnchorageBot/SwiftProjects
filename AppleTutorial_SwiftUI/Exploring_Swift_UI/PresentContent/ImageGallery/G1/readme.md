@@ -44,6 +44,9 @@ Glossary
 [NavigationStack](https://developer.apple.com/documentation/swiftui/navigationstack)
 * A view that displays a root view and enables you to present additional views over the root view
 
+[ObservableObject](https://developer.apple.com/documentation/combine/observableobject)
+* A type of object with a publisher that emits before the object has changed
+
 [Preview](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
 * Generate dynamic, interactive previews of your custom views
 
