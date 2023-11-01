@@ -1,6 +1,9 @@
 Glossary
 - - - -
 
+[addItem(_:)](https://developer.apple.com/documentation/appkit/nsmenu/1518176-additem)
+* Adds a menu item to the end of the menu
+
 [App](https://developer.apple.com/documentation/SwiftUI/App)
 * A type that represents the structure and behavior of an app
 
