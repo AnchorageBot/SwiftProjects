@@ -83,6 +83,9 @@ Glossary
 [Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types)
 * In Swift, there are two kinds of types: named types and compound types
 
+[URL](https://developer.apple.com/documentation/foundation/url)
+* A value that identifies the location of a resource, such as an item on a remote server or the path to a local file
+
 [View](https://developer.apple.com/documentation/swiftui/view)
 * A type that represents part of your app’s user interface and provides modifiers that you use to configure views
 
