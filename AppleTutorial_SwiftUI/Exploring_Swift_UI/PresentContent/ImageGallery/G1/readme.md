@@ -66,6 +66,9 @@ Glossary
 [LazyVGrid](https://developer.apple.com/documentation/SwiftUI/LazyVGrid)
 * A container view that arranges its child views in a grid that grows vertically, creating items only as needed
 
+[NavigationLink](https://developer.apple.com/documentation/swiftui/navigationlink)
+* A view that controls a navigation presentation
+
 [NavigationStack](https://developer.apple.com/documentation/swiftui/navigationstack)
 * A view that displays a root view and enables you to present additional views over the root view
 
