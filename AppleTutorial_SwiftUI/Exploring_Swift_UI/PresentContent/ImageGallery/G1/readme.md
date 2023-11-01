@@ -68,6 +68,9 @@ Glossary
 [Preview](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
 * Generate dynamic, interactive previews of your custom views
 
+[removeItem(atPath:)](https://developer.apple.com/documentation/foundation/filemanager/1408573-removeitem)
+* Removes the file or directory at the specified path
+
 [Scene](https://developer.apple.com/documentation/swiftui/scene)
 * A part of an app’s user interface with a life cycle managed by the system
 
