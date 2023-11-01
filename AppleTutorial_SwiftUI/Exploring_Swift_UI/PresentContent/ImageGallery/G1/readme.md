@@ -19,6 +19,9 @@ Glossary
 [Body](https://developer.apple.com/documentation/SwiftUI/App/body-swift.property)
 * The content and behavior of the app
 
+[Button](https://developer.apple.com/documentation/swiftui/button)
+* A control that initiates an action
+
 [Bundle](https://developer.apple.com/documentation/foundation/bundle)
 * https://developer.apple.com/documentation/foundation/bundle
 
