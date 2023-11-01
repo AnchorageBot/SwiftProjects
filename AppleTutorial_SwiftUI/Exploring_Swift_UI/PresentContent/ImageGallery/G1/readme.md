@@ -49,6 +49,7 @@ Glossary
 
 [GeometryReader](https://developer.apple.com/documentation/SwiftUI/GeometryReader)
 * A container view that defines its content as a function of its own size and coordinate space
+* This view returns a flexible preferred size to its parent layout
 
 [GridItem](https://developer.apple.com/documentation/swiftui/griditem)
 * A description of a row or a column in a lazy grid
