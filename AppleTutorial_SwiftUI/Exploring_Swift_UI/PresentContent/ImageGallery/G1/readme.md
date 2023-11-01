@@ -19,6 +19,9 @@ Glossary
 [Body](https://developer.apple.com/documentation/SwiftUI/App/body-swift.property)
 * The content and behavior of the app
 
+[Bundle](https://developer.apple.com/documentation/foundation/bundle)
+* https://developer.apple.com/documentation/foundation/bundle
+
 [Classes and Structures](https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes)
 * Decide how to store data and model behavior
 
