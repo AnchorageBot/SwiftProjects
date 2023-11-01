@@ -7,6 +7,9 @@ Glossary
 [Array](https://developer.apple.com/documentation/swift/array)
 * An ordered, random-access collection
 
+[AsyncImage](https://developer.apple.com/documentation/swiftui/asyncimage)
+* A view that asynchronously loads and displays an image
+
 [Binding](https://developer.apple.com/documentation/swiftui/binding)
 * A property wrapper type that can read and write a value owned by a source of truth
 
