@@ -23,7 +23,7 @@ Glossary
 * A control that initiates an action
 
 [Bundle](https://developer.apple.com/documentation/foundation/bundle)
-* https://developer.apple.com/documentation/foundation/bundle
+* A representation of the code and resources stored in a bundle directory on disk
 
 [Classes and Structures](https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes)
 * Decide how to store data and model behavior
