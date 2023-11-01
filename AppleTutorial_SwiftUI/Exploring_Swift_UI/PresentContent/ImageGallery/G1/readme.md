@@ -38,6 +38,9 @@ Glossary
 [Error Handling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour#Error-Handling)
 * There are several ways to handle errors
 
+[GridItem](https://developer.apple.com/documentation/swiftui/griditem)
+* A description of a row or a column in a lazy grid
+
 [Identifiable](https://developer.apple.com/documentation/Swift/Identifiable)
 * A class of types whose instances hold the value of an entity with stable identity
 
