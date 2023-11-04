@@ -124,6 +124,9 @@ Glossary
 [URL](https://developer.apple.com/documentation/foundation/url)
 * A value that identifies the location of a resource, such as an item on a remote server or the path to a local file
 
+[UUID](https://developer.apple.com/documentation/foundation/uuid)
+* A universally unique value to identify types, interfaces, and other items
+
 [View](https://developer.apple.com/documentation/swiftui/view)
 * A type that represents part of your app’s user interface and provides modifiers that you use to configure views
 
