@@ -35,3 +35,4 @@ AppData Folder (Group)
 
 AppViews Folder (Group)
 * GridItemView.swift
+* GridView.swift
