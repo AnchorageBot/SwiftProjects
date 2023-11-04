@@ -90,6 +90,9 @@ Glossary
 [Preview](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
 * Generate dynamic, interactive previews of your custom views
 
+[Published](https://developer.apple.com/documentation/combine/published)
+* A type that publishes a property marked with an attribute
+
 [removeItem(atPath:)](https://developer.apple.com/documentation/foundation/filemanager/1408573-removeitem)
 * Removes the file or directory at the specified path
 
