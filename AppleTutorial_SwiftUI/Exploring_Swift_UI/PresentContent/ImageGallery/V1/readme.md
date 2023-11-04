@@ -30,5 +30,5 @@ Main Folder (Group)
   
 AppData Folder (Group)
 
-* Item.swift
 * DataModel.swift
+* Item.swift
