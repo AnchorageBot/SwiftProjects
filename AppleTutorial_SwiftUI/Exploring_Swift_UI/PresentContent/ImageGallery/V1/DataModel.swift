@@ -79,7 +79,7 @@ class DataModel: ObservableObject {
         }
     }
 
-    /// Adds an item to the data collection.
+    // Adds an item to the data collection.
     func addItem(_ item: Item) {
         items.insert(item, at: 0)
     }
@@ -95,7 +95,7 @@ class DataModel: ObservableObject {
 
 
 extension URL {
-    /// Indicates whether the URL has a file extension corresponding to a common image format.
+    // Indicates whether the URL has a file extension corresponding to a common image format.
     var isImage: Bool {
         let imageExtensions = ["jpg", "jpeg", "png", "gif", "heic"]
         return imageExtensions.contains(self.pathExtension)
