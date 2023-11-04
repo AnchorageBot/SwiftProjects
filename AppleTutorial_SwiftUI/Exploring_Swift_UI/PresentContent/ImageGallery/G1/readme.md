@@ -92,6 +92,7 @@ Glossary
 
 [Published](https://developer.apple.com/documentation/combine/published)
 * A type that publishes a property marked with an attribute
+* Access the publisher with the $ operator
 
 [removeItem(atPath:)](https://developer.apple.com/documentation/foundation/filemanager/1408573-removeitem)
 * Removes the file or directory at the specified path
