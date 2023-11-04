@@ -1,7 +1,7 @@
 /*
 
- Explore_SiwftUI_V7App.swift
- Explore_SwiftUI_V7
+ Explore_SiwftUI_V5App.swift
+ Explore_SwiftUI_V5
 
  How to create this project with Xcode commands:
 
