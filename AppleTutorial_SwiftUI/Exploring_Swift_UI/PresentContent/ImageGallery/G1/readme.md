@@ -135,6 +135,9 @@ Glossary
 
 [WindowGroup](https://developer.apple.com/documentation/SwiftUI/WindowGroup)
 * A scene that presents a group of identically structured windows
+
+[ZStack](https://developer.apple.com/documentation/swiftui/zstack)
+* A view that overlays its subviews, aligning them in both axes
 - - - -
 Documentation
 - - - -
