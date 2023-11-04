@@ -47,6 +47,9 @@ Glossary
 [Error Handling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour#Error-Handling)
 * There are several ways to handle errors
 
+[Extensions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions/)
+* Add functionality to an existing type
+
 [FileManager](https://developer.apple.com/documentation/foundation/filemanager)
 * A convenient interface to the contents of the file system, and the primary means of interacting with it
 
@@ -69,6 +72,9 @@ Glossary
 [LazyVGrid](https://developer.apple.com/documentation/SwiftUI/LazyVGrid)
 * A container view that arranges its child views in a grid that grows vertically, creating items only as needed
 
+[Model Data](https://developer.apple.com/documentation/swiftui/model-data)
+* Manage the data that your app uses to drive its interface
+
 [NavigationLink](https://developer.apple.com/documentation/swiftui/navigationlink)
 * A view that controls a navigation presentation
 
@@ -83,6 +89,10 @@ Glossary
 
 [Preview](https://developer.apple.com/documentation/swiftui/previews-in-xcode)
 * Generate dynamic, interactive previews of your custom views
+
+[Published](https://developer.apple.com/documentation/combine/published)
+* A type that publishes a property marked with an attribute
+* Access the publisher with the $ operator
 
 [removeItem(atPath:)](https://developer.apple.com/documentation/foundation/filemanager/1408573-removeitem)
 * Removes the file or directory at the specified path
@@ -113,6 +123,9 @@ Glossary
 
 [URL](https://developer.apple.com/documentation/foundation/url)
 * A value that identifies the location of a resource, such as an item on a remote server or the path to a local file
+
+[UUID](https://developer.apple.com/documentation/foundation/uuid)
+* A universally unique value to identify types, interfaces, and other items
 
 [View](https://developer.apple.com/documentation/swiftui/view)
 * A type that represents part of your app’s user interface and provides modifiers that you use to configure views
