@@ -28,7 +28,9 @@
 
  https://developer.apple.com/documentation/uikit/uitableviewcell/1623229-contentview
 
- Created on 11/2/2023 with Swift 5.9, Xcode 15.0
+ Created on 11/2/2023 and updated on 11/4/2023 with Swift 5.9, Xcode 15.0
+
+ Follows a set of guidelines created by the App protocol. This allows your project to run and behave just like any other app.
 
 */
 
@@ -43,7 +45,7 @@ struct Explore_SwiftUI_V7App: App {
         WindowGroup {
 
             ContentView()
-
+            
         }
     }
 }
