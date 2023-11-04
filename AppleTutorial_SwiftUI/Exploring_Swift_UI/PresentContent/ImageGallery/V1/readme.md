@@ -32,3 +32,5 @@ AppData Folder (Group)
 
 * DataModel.swift
 * Item.swift
+
+AppViews Folder (Group)
