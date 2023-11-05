@@ -34,6 +34,13 @@ The Resources folder contains the following files
 * heartSpring.jpg
 * newGrowthofAntlers.jpg
 * owlsAtMammoth.jpg
+* rainbowAndBadlands.jpg
+* redTailedHawk.jpg
+* riverOtter.jpg
+* soaringTheRainbow.jpg
+* sunriseAtGrottoGeyser.jpg
+* towerCreekBASIN.jpg
+* yellowBelliedMarmot.jpg
 - - - - 
 
 Select all
