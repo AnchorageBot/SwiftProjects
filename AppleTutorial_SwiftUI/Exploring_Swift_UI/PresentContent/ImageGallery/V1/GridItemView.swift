@@ -23,7 +23,7 @@
 
  https://developer.apple.com/documentation/swiftui/previews-in-xcode
 
- Created on 11/2/2023 and updated on 11/4/2023 with Swift 5.9, Xcode 15.0
+ Created on 11/2/2023 and updated on 11/5/2023 with Swift 5.9, Xcode 15.0
 
  Loads an image asynchronously from a URL using AsyncImage
 
@@ -101,3 +101,12 @@ struct GridItemView_Previews: PreviewProvider {
         }
     }
 }
+
+
+/*
+#Preview {
+
+    GridItemView(size: 50, item: Item(url: url))
+
+}
+*/
