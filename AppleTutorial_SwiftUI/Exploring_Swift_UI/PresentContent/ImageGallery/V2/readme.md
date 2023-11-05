@@ -14,6 +14,7 @@ The App folder contains the following files:
 * DetailView
 * FileManagerExtensions
 * GridItemView
+* GridView
 * ImageGalleryApp
 * Item
 * PhotoPicker
