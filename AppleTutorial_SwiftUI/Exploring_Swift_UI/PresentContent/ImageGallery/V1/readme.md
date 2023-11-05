@@ -55,3 +55,24 @@ AppViews Folder (Group)
 * PhotoPicker.swift
 
 1st Draft is missing the following .jpg files:
+* bobcat.jpg
+* bullElk.jpg
+* bullElkSparring.jpg
+* bullTuleElkAndTwoFemales.jpg
+* coyoteAndBison.jpg
+* doubleRainbowLowerMammoth.jpg
+* doubleRainbowYellowstone.jpg
+* grizzly.jpg
+* grizzlyCubs.jpg
+* groundSquirrel.jpg
+* harborSeal.jpg
+* heartSpring.jpg
+* newGrowthofAntlers.jpg
+* owlsAtMammoth.jpg
+* rainbowAndBadlands.jpg
+* redTailedHawk.jpg
+* riverOtter.jpg
+* soaringTheRainbow.jpg
+* sunriseAtGrottoGeyser.jpg
+* towerCreekBASIN.jpg
+* yellowBelliedMarmot.jpg
