@@ -18,3 +18,12 @@ The App folder contains the following files:
 * ImageGalleryApp
 * Item
 * PhotoPicker
+
+- - - - 
+
+Select all
+* Splat a
+Copy
+* Splat c
+Paste
+* Splat v
