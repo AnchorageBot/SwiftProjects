@@ -46,10 +46,11 @@ AppViews Folder (Group)
 * Cannot find 'ColumnStepper' in scope
 * Cannot find 'DetailView' in scope
 
-1st Draft is missing the following files:
+1st Draft is missing the following .swift files:
 * ColumnStepper.swift
 * DetailView.swift
 * FileManagerExtensions.swift
 * ImageGalleryApp.swift
 * PhotoPicker.swift
 
+1st Draft is missing the following .jpg files:
