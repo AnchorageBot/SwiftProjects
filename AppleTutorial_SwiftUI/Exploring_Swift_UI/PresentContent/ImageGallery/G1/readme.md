@@ -96,6 +96,9 @@ Glossary
 [ObservableObject](https://developer.apple.com/documentation/combine/observableobject)
 * A type of object with a publisher that emits before the object has changed
 
+[path(withComponents:)](https://developer.apple.com/documentation/foundation/nsstring/1417198-path)
+* Returns a string built from the strings in a given array by concatenating them with a path separator between each pair
+
 [ProgressView](https://developer.apple.com/documentation/swiftui/progressview)
 * A view that shows the progress toward completion of a task
 
