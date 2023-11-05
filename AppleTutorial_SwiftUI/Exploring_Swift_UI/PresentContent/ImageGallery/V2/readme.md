@@ -26,6 +26,7 @@ The Resources folder contains the following files
 * bullTuleElkAndTwoFemales.jpg
 * coyoteAndBison.jpg
 * doubleRainbowLowerMammoth.jpg
+* doubleRainbowYellowstone.jpg
 - - - - 
 
 Select all
