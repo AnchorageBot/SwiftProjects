@@ -37,6 +37,9 @@ Glossary
 [Declarations](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations)
 * Introduce types, operators, variables, and other names and constructs
 
+[Do Catch](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#Handling-Errors-Using-Do-Catch)
+* You use a do-catch statement to handle errors by running a block of code. If an error is thrown by the code in the do clause, it’s matched against the catch clauses to determine which one of them can handle the error
+
 [Environment](https://developer.apple.com/documentation/swiftui/environment)
 * A property wrapper that reads a value from a view’s environment
 
@@ -63,6 +66,9 @@ Glossary
 [GridItem](https://developer.apple.com/documentation/swiftui/griditem)
 * A description of a row or a column in a lazy grid
 
+[Guard](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Guard-Statement)
+* A guard statement is used to transfer program control out of a scope if one or more conditions aren’t met
+
 [Identifiable](https://developer.apple.com/documentation/Swift/Identifiable)
 * A class of types whose instances hold the value of an entity with stable identity
 
@@ -84,8 +90,14 @@ Glossary
 [NavigationStack](https://developer.apple.com/documentation/swiftui/navigationstack)
 * A view that displays a root view and enables you to present additional views over the root view
 
+[Nil](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#nil)
+* You set an optional variable to a valueless state by assigning it the special value nil
+
 [ObservableObject](https://developer.apple.com/documentation/combine/observableobject)
 * A type of object with a publisher that emits before the object has changed
+
+[path(withComponents:)](https://developer.apple.com/documentation/foundation/nsstring/1417198-path)
+* Returns a string built from the strings in a given array by concatenating them with a path separator between each pair
 
 [ProgressView](https://developer.apple.com/documentation/swiftui/progressview)
 * A view that shows the progress toward completion of a task
