@@ -37,6 +37,9 @@ Glossary
 [Declarations](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations)
 * Introduce types, operators, variables, and other names and constructs
 
+[Do Catch](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#Handling-Errors-Using-Do-Catch)
+* You use a do-catch statement to handle errors by running a block of code. If an error is thrown by the code in the do clause, it’s matched against the catch clauses to determine which one of them can handle the error
+
 [Environment](https://developer.apple.com/documentation/swiftui/environment)
 * A property wrapper that reads a value from a view’s environment
 
