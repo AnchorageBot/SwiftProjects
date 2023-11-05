@@ -53,6 +53,9 @@ Glossary
 [FileManager](https://developer.apple.com/documentation/foundation/filemanager)
 * A convenient interface to the contents of the file system, and the primary means of interacting with it
 
+[ForEach](https://developer.apple.com/documentation/SwiftUI/ForEach)
+* A structure that computes views on demand from an underlying collection of identified data
+
 [GeometryReader](https://developer.apple.com/documentation/SwiftUI/GeometryReader)
 * A container view that defines its content as a function of its own size and coordinate space
 * This view returns a flexible preferred size to its parent layout
