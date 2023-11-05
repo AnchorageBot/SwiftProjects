@@ -63,6 +63,9 @@ Glossary
 [GridItem](https://developer.apple.com/documentation/swiftui/griditem)
 * A description of a row or a column in a lazy grid
 
+[Guard](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Guard-Statement)
+* A guard statement is used to transfer program control out of a scope if one or more conditions aren’t met
+
 [Identifiable](https://developer.apple.com/documentation/Swift/Identifiable)
 * A class of types whose instances hold the value of an entity with stable identity
 
