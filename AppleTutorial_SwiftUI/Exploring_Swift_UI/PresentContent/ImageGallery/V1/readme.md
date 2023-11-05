@@ -36,3 +36,12 @@ AppData Folder (Group)
 AppViews Folder (Group)
 * GridItemView.swift
 * GridView.swift
+
+- - - -
+
+Tutorial has the following issues
+* Value of type 'FileManager' has no member 'documentDirectory'
+* Value of type 'FileManager' has no member 'getContentsOfDirectory'
+* Value of type 'FileManager' has no member 'removeItemFromDocumentDirectory'
+* Cannot find 'ColumnStepper' in scope
+* Cannot find 'DetailView' in scope
