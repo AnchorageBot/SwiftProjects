@@ -39,11 +39,17 @@ AppViews Folder (Group)
 
 - - - -
 
-Draft has the following issues:
+1st Draft has the following issues:
 * Value of type 'FileManager' has no member 'documentDirectory'
 * Value of type 'FileManager' has no member 'getContentsOfDirectory'
 * Value of type 'FileManager' has no member 'removeItemFromDocumentDirectory'
 * Cannot find 'ColumnStepper' in scope
 * Cannot find 'DetailView' in scope
 
-Draft is missing the following files:
+1st Draft is missing the following files:
+* ColumnStepper.swift
+* DetailView.swift
+* FileManagerExtensions.swift
+* ImageGalleryApp.swift
+* PhotoPicker.swift
+
