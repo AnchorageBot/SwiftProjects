@@ -45,6 +45,7 @@ AppViews Folder (Group)
 * Value of type 'FileManager' has no member 'removeItemFromDocumentDirectory'
 * Cannot find 'ColumnStepper' in scope
 * Cannot find 'DetailView' in scope
+* Cannot find 'PhotoPicker' in scope
 
 1st Draft is missing the following .swift files:
 * ColumnStepper.swift
