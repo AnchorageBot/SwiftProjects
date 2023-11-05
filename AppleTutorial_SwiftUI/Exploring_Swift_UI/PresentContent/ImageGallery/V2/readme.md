@@ -23,7 +23,9 @@ The App folder contains the following files:
 
 Select all
 * Splat a
+
 Copy
 * Splat c
+
 Paste
 * Splat v
