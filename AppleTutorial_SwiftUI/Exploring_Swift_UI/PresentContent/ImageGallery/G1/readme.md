@@ -90,6 +90,9 @@ Glossary
 [NavigationStack](https://developer.apple.com/documentation/swiftui/navigationstack)
 * A view that displays a root view and enables you to present additional views over the root view
 
+[Nil](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#nil)
+* You set an optional variable to a valueless state by assigning it the special value nil
+
 [ObservableObject](https://developer.apple.com/documentation/combine/observableobject)
 * A type of object with a publisher that emits before the object has changed
 
