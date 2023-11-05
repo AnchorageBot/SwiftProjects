@@ -1,6 +1,6 @@
 2nd Draft
 
-Project Files from the Project Download - Source file is a playground named: xxxx.swiftpm
+Project Files from the Project Download - Source file is a playground named: ImageGallery.swiftpm
 
 Code holds the following files/folders:
 
@@ -9,3 +9,11 @@ App Folder
 * README.md
 
 The App folder contains the following files:
+* ColumnStepper
+* DataModel
+* DetailView
+* FileManagerExtensions
+* GridItemView
+* ImageGalleryApp
+* Item
+* PhotoPicker
