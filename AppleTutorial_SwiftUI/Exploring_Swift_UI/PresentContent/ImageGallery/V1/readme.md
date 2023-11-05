@@ -39,9 +39,11 @@ AppViews Folder (Group)
 
 - - - -
 
-Tutorial has the following issues
+Draft has the following issues:
 * Value of type 'FileManager' has no member 'documentDirectory'
 * Value of type 'FileManager' has no member 'getContentsOfDirectory'
 * Value of type 'FileManager' has no member 'removeItemFromDocumentDirectory'
 * Cannot find 'ColumnStepper' in scope
 * Cannot find 'DetailView' in scope
+
+Draft is missing the following files:
