@@ -27,6 +27,13 @@ The Resources folder contains the following files
 * coyoteAndBison.jpg
 * doubleRainbowLowerMammoth.jpg
 * doubleRainbowYellowstone.jpg
+* grizzly.jpg
+* grizzlyCubs.jpg
+* groundSquirrel.jpg
+* harborSeal.jpg
+* heartSpring.jpg
+* newGrowthofAntlers.jpg
+* owlsAtMammoth.jpg
 - - - - 
 
 Select all
