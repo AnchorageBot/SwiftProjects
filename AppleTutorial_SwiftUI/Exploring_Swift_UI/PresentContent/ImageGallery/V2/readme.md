@@ -19,6 +19,12 @@ The App folder contains the following files:
 * Item
 * PhotoPicker
 
+The Resources folder contains the following files
+* bobcat.jpg
+* bullElk.jpg
+* bullElkSparring.jpg
+* bullTuleElkAndTwoFemales.jpg
+* coyoteAndBison.jpg
 - - - - 
 
 Select all
