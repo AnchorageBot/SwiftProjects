@@ -32,6 +32,7 @@ AppData Folder (Group)
 
 * DataModel.swift
 * Item.swift
+* FileManagerExtensions.swift
 
 AppViews Folder (Group)
 
