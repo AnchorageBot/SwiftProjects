@@ -129,6 +129,9 @@ Glossary
 [Statements](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements)
 * In Swift, there are three kinds of statements: simple statements, compiler control statements, and control flow statements
 
+[Stepper](https://developer.apple.com/documentation/swiftui/stepper)
+* A control that performs increment and decrement actions
+
 [Structures and Classes](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures)
 * Model custom types that encapsulate data
 
