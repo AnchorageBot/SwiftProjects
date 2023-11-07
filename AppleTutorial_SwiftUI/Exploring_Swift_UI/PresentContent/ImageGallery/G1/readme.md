@@ -120,6 +120,7 @@ Glossary
 
 [State](https://developer.apple.com/documentation/swiftui/state)
 * A property wrapper type that can read and write a value managed by SwiftUI
+* Use state as the single source of truth for a given value type that you store in a view hierarchy
 
 [Statements](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements)
 * In Swift, there are three kinds of statements: simple statements, compiler control statements, and control flow statements
