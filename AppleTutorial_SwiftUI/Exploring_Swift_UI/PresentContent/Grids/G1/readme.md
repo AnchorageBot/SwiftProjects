@@ -78,6 +78,10 @@ Glossary
 [Import Declaration](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Import-Declaration)
 * An import declaration lets you access symbols that are declared outside the current file. The basic form imports the entire module; it consists of the import keyword followed by a module name:
 
+[Init](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/)
+* Initializers are called to create a new instance of a particular type.
+* In its simplest form, an initializer is like an instance method with no parameters, written using the init keyword
+
 [LazyVGrid](https://developer.apple.com/documentation/SwiftUI/LazyVGrid)
 * A container view that arranges its child views in a grid that grows vertically, creating items only as needed
 
@@ -120,9 +124,13 @@ Glossary
 
 [State](https://developer.apple.com/documentation/swiftui/state)
 * A property wrapper type that can read and write a value managed by SwiftUI
+* Use state as the single source of truth for a given value type that you store in a view hierarchy
 
 [Statements](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements)
 * In Swift, there are three kinds of statements: simple statements, compiler control statements, and control flow statements
+
+[Stepper](https://developer.apple.com/documentation/swiftui/stepper)
+* A control that performs increment and decrement actions
 
 [Structures and Classes](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures)
 * Model custom types that encapsulate data
