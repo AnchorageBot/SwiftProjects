@@ -37,5 +37,6 @@ AppData Folder (Group)
 AppViews Folder (Group)
 
 * ColumnStepper.swift
+* DetailView.swift
 * GridItemView.swift
 * GridView.swift
