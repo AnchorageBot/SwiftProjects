@@ -40,3 +40,4 @@ AppViews Folder (Group)
 * DetailView.swift
 * GridItemView.swift
 * GridView.swift
+* PhotoPicker.swift
