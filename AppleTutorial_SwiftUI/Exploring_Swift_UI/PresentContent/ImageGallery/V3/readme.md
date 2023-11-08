@@ -1,4 +1,4 @@
-2nd Draft - Passes photo data from DataModel to its view hierarchy - Modifies the tutorial - Uses Xcode
+2nd Draft - Passes photo data from DataModel to its view hierarchy - Modifies the tutorial - Uses Xcode - Works but it is super slow
 
 How to create this project with Xcode commands:
 
