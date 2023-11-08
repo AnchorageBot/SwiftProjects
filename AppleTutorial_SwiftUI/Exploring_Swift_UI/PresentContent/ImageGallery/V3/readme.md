@@ -31,8 +31,8 @@ Main Folder (Group)
 AppData Folder (Group)
 
 * DataModel.swift
-* Item.swift
 * FileManagerExtensions.swift
+* Item.swift
 
 AppViews Folder (Group)
 
