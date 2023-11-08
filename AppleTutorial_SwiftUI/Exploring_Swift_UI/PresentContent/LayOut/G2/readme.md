@@ -145,6 +145,7 @@ Glossary
 * In Swift, there are two kinds of types: named types and compound types
 
 [UIKit](https://developer.apple.com/documentation/uikit)
+* Construct and manage a graphical, event-driven user interface for your iOS, iPadOS, or tvOS app
 
 [URL](https://developer.apple.com/documentation/foundation/url)
 * A value that identifies the location of a resource, such as an item on a remote server or the path to a local file
