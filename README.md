@@ -22,6 +22,8 @@ Papers
 
 * [Apple Machine Learning Research Papers](https://machinelearning.apple.com)
 
+* [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/research/siri-voices)
+
 Books
 
 * [Learning Swift 4, 3rd Edition - iOS 11 - Jonathon Manning, Paris Buttfield-Addison & Tim Nugent](https://www.oreilly.com/library/view/learning-swift-3rd/9781491987568/) - 2018
