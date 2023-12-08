@@ -14,7 +14,7 @@ Videos
 
 Blogs
   
-* [Hugging Face Blog: Spread your wings Falcon 180B is here](https://github.com/huggingface/blog/blob/main/falcon-180b.md)
+* [Hugging Face Blog: Personal Copilot: Train your own coding assistant](https://huggingface.co/blog/personal-copilot)
 
 Papers
 
