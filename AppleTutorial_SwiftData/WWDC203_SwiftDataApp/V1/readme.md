@@ -2,7 +2,7 @@ Made with Swift 5.9, Xcode 15.0.1
 
 - - - -
 
-Project Files, for review, copied from the Project Files Download
+Project Files, for review, copied from the Apple Project Files Download
 
 * Splat A = Select all
 * Splat C = Copy selection
