@@ -17,6 +17,7 @@ Model Folder (Group)
 * Splat (Command Key) N -> Swift UI View
 * Xcode -> File -> New -> Group
 * Card.swift
+* SampleDeck.swift
 
 Views Folder (Group)
 * Splat (Command Key) N -> Swift UI View
