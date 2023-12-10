@@ -12,7 +12,7 @@ Flashcard Folder (Group)
 * SwiftDataFlashCardSample.swift
 
 Model Folder (Group)
-* Command Key (Splat) N -> Swift UI View
+* Splat (Command Key) N -> Swift UI View
 * Xcode -> File -> New -> Group
 
 Views Folder (Group)
