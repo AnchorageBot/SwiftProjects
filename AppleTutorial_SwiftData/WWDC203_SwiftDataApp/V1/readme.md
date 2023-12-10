@@ -1,5 +1,7 @@
 Made with Swift 5.9, Xcode 15.0.1
 
+Splat A = Copy all
+
 Files, for review, from the Project Files Download:
 
 Flashcard Folder (Group)
