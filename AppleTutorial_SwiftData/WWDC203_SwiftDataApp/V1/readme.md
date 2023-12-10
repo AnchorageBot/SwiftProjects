@@ -16,11 +16,11 @@ Model Folder (Group)
 * Xcode -> File -> New -> Group
 
 Views Folder (Group)
-* Command Key (Splat) N -> Swift UI View
+* Splat (Command Key) N -> Swift UI View
 * Xcode -> File -> New -> Group
 
 Support Folder (Group)
-* Command Key (Splat) N -> Swift UI View
+* Splat (Command Key) N -> Swift UI View
 * Xcode -> File -> New -> Group
 
 
