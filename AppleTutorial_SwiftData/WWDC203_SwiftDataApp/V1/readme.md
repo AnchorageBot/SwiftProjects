@@ -8,6 +8,8 @@ Files, for review, from the Project Files Download:
 * Splat C = Copy selection
 * Splat V = Paste
 
+- - - - 
+
 Flashcard Folder (Group)
 * Xcode -> File -> New Project -> iOS - App
 * Xcode -> File -> New -> Group
