@@ -24,6 +24,7 @@ Model Folder (Group)
 Views Folder (Group)
 * Splat (Command Key) N -> Swift UI View
 * Xcode -> File -> New -> Group
+* ContentView.swift
 
 Support Folder (Group)
 * Splat (Command Key) N -> Swift UI View
