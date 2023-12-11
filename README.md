@@ -22,6 +22,8 @@ Papers
 
 * [Apple Machine Learning Research Papers](https://machinelearning.apple.com)
 
+> * [Apple mlX - MLX is a NumPy-like array framework designed for efficient and flexible machine learning on Apple silicon](https://ml-explore.github.io/mlx/build/html/index.html) 
+
 * [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/research/siri-voices)
 
 Books
