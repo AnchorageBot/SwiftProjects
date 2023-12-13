@@ -40,7 +40,4 @@ Support Folder (Group)
 * HorizontalFlip.swift
 * PreviewSampleData.swift
 * UTType+FlashCards.swift
-
-
-
-
+* Design.swift
