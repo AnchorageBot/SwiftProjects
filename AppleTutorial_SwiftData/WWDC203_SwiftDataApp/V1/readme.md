@@ -26,6 +26,7 @@ Views Folder (Group)
 * Xcode -> File -> New -> Group
 * ContentView.swift
 * CardCarousel.swift
+* CardContainerView.swift
 
 Support Folder (Group)
 * Splat (Command Key) N -> Swift UI View
