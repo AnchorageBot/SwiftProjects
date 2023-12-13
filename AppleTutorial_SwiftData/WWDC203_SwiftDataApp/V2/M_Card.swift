@@ -10,8 +10,8 @@ import SwiftData
 
 @Model
 final class Card: ObservableObject {
-    @Published var front: String
-    @Published var back: String
+    var front: String
+    var back: String
     var creationDate: Date
 
     init(front: String, back: String, creationDate: Date = .now) {
