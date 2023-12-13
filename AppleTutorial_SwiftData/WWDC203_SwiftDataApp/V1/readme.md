@@ -39,6 +39,7 @@ Support Folder (Group)
 * Xcode -> File -> New -> Group
 * HorizontalFlip.swift
 * PreviewSampleData.swift
+* UTType+FlashCards.swift
 
 
 
