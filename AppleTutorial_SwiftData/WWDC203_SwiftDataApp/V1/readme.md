@@ -30,6 +30,7 @@ Views Folder (Group)
 * CardEditorView.swift
 * CardGalleryItem.swift
 * CardGallery.swift
+* CardReaderView.swift
 
 Support Folder (Group)
 * Splat (Command Key) N -> Swift UI View
