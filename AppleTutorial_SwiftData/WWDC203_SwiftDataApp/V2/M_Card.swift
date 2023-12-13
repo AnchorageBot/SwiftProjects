@@ -8,6 +8,7 @@ A model that represents a card.
 import Foundation
 import SwiftData
 
+@Model
 final class Card: ObservableObject {
     @Published var front: String
     @Published var back: String
