@@ -28,6 +28,7 @@ Views Folder (Group)
 * CardCarousel.swift
 * CardContainerView.swift
 * CardEditorView.swift
+* CardGalleryItem.swift
 
 Support Folder (Group)
 * Splat (Command Key) N -> Swift UI View
