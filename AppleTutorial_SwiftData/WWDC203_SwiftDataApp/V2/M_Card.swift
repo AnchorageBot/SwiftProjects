@@ -6,6 +6,7 @@ A model that represents a card.
 */
 
 import Foundation
+import SwiftData
 
 final class Card: ObservableObject {
     @Published var front: String
