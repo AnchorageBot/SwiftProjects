@@ -38,6 +38,7 @@ Support Folder (Group)
 * Splat (Command Key) N -> Swift UI View
 * Xcode -> File -> New -> Group
 * HorizontalFlip.swift
+* PreviewSampleData.swift
 
 
 
