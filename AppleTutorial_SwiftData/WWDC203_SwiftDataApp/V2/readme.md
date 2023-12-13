@@ -6,3 +6,6 @@ We will modify:
 
 * Card.swift -> original file
 * M_Card.swift -> modified file
+
+* CardEditorView.swift -> original file
+* M_CardEditorView.swift -> modified file
