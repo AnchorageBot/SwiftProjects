@@ -1,4 +1,4 @@
-We will make a flash card app by coding along with Julia Apple
+We will update a flash card app by coding along with Julia Apple
 
 [Build an app with SwiftData](https://developer.apple.com/videos/play/wwdc2023/10154)
 
