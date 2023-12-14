@@ -9,3 +9,6 @@ As part of the code along we will modify:
 
 * CardEditorView.swift -> original file
 > * M_CardEditorView.swift -> modified file
+
+* ContentView.swift -> original file
+> * M_ContentView.swift -> modified file
