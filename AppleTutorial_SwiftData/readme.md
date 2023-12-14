@@ -14,4 +14,6 @@ WWDC23 Videos
 
 * [Meet SwiftData](https://developer.apple.com/videos/play/wwdc2023/10187/)
 
+* [Discover Observation in Swift UI](https://developer.apple.com/videos/play/wwdc2023/10149/)
+
 * Code Along Tutorial - [Build an app with SwiftData](https://developer.apple.com/videos/play/wwdc2023/10154)
