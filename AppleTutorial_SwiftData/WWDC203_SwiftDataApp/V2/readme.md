@@ -2,7 +2,7 @@ Made with Swift 5.9, Xcode 15.0.1, December 2023
 
 - - - -
 
-As part of the code along we will modify:
+As part of the code along we will modify the app files:
 
 * Card.swift -> original file
 > * M_Card.swift -> modified file
