@@ -6,6 +6,7 @@ The main entry for the app.
 */
 
 import SwiftUI
+import SwiftData
 
 @main
 struct SwiftDataFlashCardSample: App {
