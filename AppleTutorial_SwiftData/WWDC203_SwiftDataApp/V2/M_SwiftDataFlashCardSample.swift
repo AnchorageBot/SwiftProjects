@@ -14,5 +14,6 @@ struct SwiftDataFlashCardSample: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: Card.self)
     }
 }
