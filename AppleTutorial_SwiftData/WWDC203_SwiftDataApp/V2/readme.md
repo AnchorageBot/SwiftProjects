@@ -12,3 +12,6 @@ As part of the code along we will modify the app files:
 
 * ContentView.swift -> original file
 > * M_ContentView.swift -> modified file
+
+* SwiftDataFlashCardSample.swift -> original file
+> * M_SwiftDataFlashCardSample.swift -> modified file
