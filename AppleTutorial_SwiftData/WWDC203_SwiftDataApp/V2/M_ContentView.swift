@@ -9,7 +9,7 @@ import SwiftUI
 import SwiftData
 
 struct ContentView: View {
-    @State private var cards: [Card] 
+    @Query private var cards: [Card] 
     @State private var editing = false
     @State private var navigationPath: [Card] = []
 
