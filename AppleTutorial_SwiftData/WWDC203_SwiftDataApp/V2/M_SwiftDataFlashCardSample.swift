@@ -19,6 +19,6 @@ struct SwiftDataFlashCardSample: App {
             ContentView()
                 .modelContainer(for: Card.self)
         }
-        .modelContainer(for: Card.self)
+        #endif
     }
 }
