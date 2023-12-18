@@ -34,4 +34,5 @@ struct ContentView: View {
 #Preview {
     ContentView()
         .frame(minWidth: 500, minHeight: 500)
+        .modelContainer(previewContainer)
 }
