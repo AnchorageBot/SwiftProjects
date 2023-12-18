@@ -12,6 +12,7 @@ struct ContentView: View {
     @Query private var cards: [Card] 
     @State private var editing = false
     @State private var navigationPath: [Card] = []
+    @Environment(\.modelContext) private var modelContext
 
     var body: some View {
         NavigationStack(path: $navigationPath) {
