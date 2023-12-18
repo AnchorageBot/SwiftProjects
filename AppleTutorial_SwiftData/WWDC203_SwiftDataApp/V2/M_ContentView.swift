@@ -20,6 +20,7 @@ struct ContentView: View {
                 withAnimation { navigationPath.append(card) }
             } addCard: {
                 let newCard = Card(front: "Sample Front", back: "Sample Back")
+                modelContext.insert(object: newCard)
                 // save card
                 withAnimation {
                     navigationPath.append(newCard)
