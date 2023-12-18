@@ -11,6 +11,9 @@ import SwiftData
 @main
 struct SwiftDataFlashCardSample: App {
     var body: some Scene {
+        #if os(iOS) || os(macOS)
+        DocumentGroup(editing: Card.self, contentType: <#UTType#>) {
+            <#code#>
         WindowGroup {
             ContentView()
         }
