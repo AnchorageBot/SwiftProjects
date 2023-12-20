@@ -10,9 +10,12 @@ Project Files, for review, copied from the Apple Project Files Download
 
 - - - - 
 
-Folder (Group)
+Multiplatform Folder (Group)
 * Xcode -> File -> New Project -> iOS - App
 * Xcode -> File -> New -> Group
 
-Folder (Group)
+Watch Folder (Group)
+* Splat (Command Key) N -> Swift UI View
+
+Widgets Folder (Group)
 * Splat (Command Key) N -> Swift UI View
