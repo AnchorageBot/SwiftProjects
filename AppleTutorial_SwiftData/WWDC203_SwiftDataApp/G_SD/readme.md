@@ -8,6 +8,9 @@ Glossary
 [@Model](https://developer.apple.com/documentation/swiftdata/preserving-your-apps-model-data-across-launches)
 * Allows SwiftData to save instances of a model class
 
+[@Query](https://developer.apple.com/documentation/swiftdata/query)
+* A property wrapper that fetches a set of models and keeps those models in sync with the underlying data
+
 - - - -
 Documentation
 
