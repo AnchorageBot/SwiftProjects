@@ -10,4 +10,4 @@ Documentation
 
 [SwiftData Framework](https://developer.apple.com/documentation/swiftdata)
 
-[Wift Language](https://developer.apple.com/documentation/swift)
+[Swift Language](https://developer.apple.com/documentation/swift)
