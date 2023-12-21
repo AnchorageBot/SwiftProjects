@@ -12,10 +12,11 @@ Swift Data
 
 WWDC23 Videos
 
+* Code Along Tutorial - [Build an app with SwiftData](https://developer.apple.com/videos/play/wwdc2023/10154)
+
 * [Discover Observation in Swift UI](https://developer.apple.com/videos/play/wwdc2023/10149/)
 
 * [Meet SwiftData](https://developer.apple.com/videos/play/wwdc2023/10187/)
 
 * [Migrate to SwiftData](https://developer.apple.com/videos/play/wwdc2023/10189/)
 
-* Code Along Tutorial - [Build an app with SwiftData](https://developer.apple.com/videos/play/wwdc2023/10154)
