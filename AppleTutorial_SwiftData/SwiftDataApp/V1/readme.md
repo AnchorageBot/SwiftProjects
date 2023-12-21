@@ -23,3 +23,21 @@ Model Folder (Group)
 
 Views Folder (Group)
 * Splat (Command Key) N -> Swift UI View
+* Xcode -> File -> New -> Group
+* ContentView.swift
+* CardCarousel.swift
+* CardContainerView.swift
+* CardEditorView.swift
+* CardGalleryItem.swift
+* CardGallery.swift
+* CardReaderView.swift
+* EditorToolbar.swift
+* FlashCardView.swift
+
+Support Folder (Group)
+* Splat (Command Key) N -> Swift UI View
+* Xcode -> File -> New -> Group
+* HorizontalFlip.swift
+* PreviewSampleData.swift
+* UTType+FlashCards.swift
+* Design.swift
