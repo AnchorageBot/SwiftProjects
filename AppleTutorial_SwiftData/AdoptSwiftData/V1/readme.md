@@ -14,10 +14,12 @@ Project Files, for review, copied from the Apple Project Files Download
 
 - - - - 
 
-Folder (Group)
+Trips Folder (Group)
+
 * Xcode -> File -> New Project -> iOS - App
 * Xcode -> File -> New -> Group
-* SwiftDataFlashCardSample.swift
+  
+* Persistence.swift
 
 Folder (Group)
 * Splat (Command Key) N -> Swift UI View
