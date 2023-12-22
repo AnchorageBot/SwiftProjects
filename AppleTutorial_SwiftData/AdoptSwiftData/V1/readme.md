@@ -4,6 +4,8 @@ Made with Swift 5.9, Xcode 15.1, December 2023
 
 Sample Trips App in Core Data format
 
+- - - -
+
 Project Files, for review, copied from the Apple Project Files Download
 
 * Splat A = Select all
