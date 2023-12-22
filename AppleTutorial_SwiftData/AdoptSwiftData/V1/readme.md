@@ -23,6 +23,7 @@ Trips Folder (Group)
 * Xcode -> File -> New -> Group
   
 * Persistence.swift
+* Trip+Extension.swift
 
 
 
