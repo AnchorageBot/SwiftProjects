@@ -18,9 +18,11 @@ Trips Folder (Group)
 
 * Xcode -> File -> New Project -> iOS - App
 * Xcode -> File -> New -> Group
+
+* Splat (Command Key) N -> Swift UI View
+* Xcode -> File -> New -> Group
   
 * Persistence.swift
 
-Folder (Group)
-* Splat (Command Key) N -> Swift UI View
-* Xcode -> File -> New -> Group
+
+
