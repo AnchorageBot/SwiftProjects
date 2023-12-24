@@ -14,10 +14,14 @@ Project Files, for review, copied from the Apple Project Files Download
 
 - - - - 
 
-Trips Folder (Group)
+Main Folder (Group)
 
 * Xcode -> File -> New Project -> iOS - App
 * Xcode -> File -> New -> Group
+
+* TripsApp.swift
+
+Trips Folder (Group)
 
 * Splat (Command Key) N -> Swift UI View
 * Xcode -> File -> New -> Group
