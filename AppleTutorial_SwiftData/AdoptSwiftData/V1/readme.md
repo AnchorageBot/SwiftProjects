@@ -30,6 +30,7 @@ Trips Folder (Group)
 * Persistence.swift
 * Trip+Extension.swift
 * BucketListItem+Extension.swift
+* TripListItem.swift
 
 
 
