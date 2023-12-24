@@ -34,6 +34,7 @@ Trips Folder (Group)
 * AddTripView.swift
 * UpdateTripView.swift
 * TripDetailView.swift
+* EditLivingAccommodationsView.swift
 
 
 
