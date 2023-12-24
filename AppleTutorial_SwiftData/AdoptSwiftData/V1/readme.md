@@ -31,6 +31,7 @@ Trips Folder (Group)
 * Trip+Extension.swift
 * BucketListItem+Extension.swift
 * TripListItem.swift
+* AddTripView.swift
 
 
 
