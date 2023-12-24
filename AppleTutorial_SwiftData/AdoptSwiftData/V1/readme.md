@@ -20,6 +20,7 @@ Main Folder (Group)
 * Xcode -> File -> New -> Group
 
 * TripsApp.swift
+* ContentView.swift
 
 Trips Folder (Group)
 
