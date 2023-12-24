@@ -33,6 +33,7 @@ Trips Folder (Group)
 * TripListItem.swift
 * AddTripView.swift
 * UpdateTripView.swift
+* TripDetailView.swift
 
 
 
