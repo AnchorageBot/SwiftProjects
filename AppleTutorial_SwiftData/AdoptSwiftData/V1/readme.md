@@ -36,6 +36,7 @@ Trips Folder (Group)
 * TripDetailView.swift
 * EditLivingAccommodationsView.swift
 * BucketListView.swift
+* BucketListItemView.swift
 
 
 
