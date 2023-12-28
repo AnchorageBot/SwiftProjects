@@ -22,7 +22,7 @@ Papers
 
 * [Apple Machine Learning Research Papers](https://machinelearning.apple.com)
 
-> * [Apple mlX - MLX is a NumPy-like array framework designed for efficient and flexible machine learning on Apple silicon](https://ml-explore.github.io/mlx/build/html/index.html)
+> * [Apple mlX - MLX is a NumPy-like array framework designed for efficient and flexible machine learning on Apple silicon - Github](https://ml-explore.github.io/mlx/build/html/index.html)
 > * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory - Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar - arXiv:2312.11514v1](https://doi.org/10.48550/arXiv.2312.11514)
 
 * [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/research/siri-voices)
