@@ -2,7 +2,7 @@ Made with Swift 5.9, Xcode 15.1, December 2023
 
 - - - -
 
-As part of the code along we will modify the app files:
+As part of the code along tutorial we will modify the app files:
 
 Main Folder
 
