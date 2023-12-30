@@ -18,7 +18,7 @@ As part of the code along tutorial we will modify the app files:
 
 Main Folder
 
-* TripsApp.swift -> original file
-> * M_TripsApp.swift -> modified file
-* ContentView.swift -> original file
-> * M_ContentView.swift -> modified file
+* TripsApp.swift -> original file (Core Data format)
+> * M_TripsApp.swift -> modified file (SwiftData format)
+* ContentView.swift -> original file (Core Data format)
+> * M_ContentView.swift -> modified file (SwiftData format)
