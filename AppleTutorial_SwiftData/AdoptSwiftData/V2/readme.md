@@ -22,3 +22,10 @@ Main Folder
 > * M_TripsApp.swift -> modified file (SwiftData format)
 * ContentView.swift -> original file (Core Data format)
 > * M_ContentView.swift -> modified file (SwiftData format)
+
+- - - - 
+
+New SwiftData Files
+
+Shared Folder
+* Trip.swift
