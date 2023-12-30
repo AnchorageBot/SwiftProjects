@@ -38,6 +38,7 @@ Trips Folder (Group)
 * BucketListView.swift
 * BucketListItemView.swift
 * AddBucketListItemView.swift
+* SwiftUIHelper.swift
 
 
 
