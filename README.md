@@ -14,7 +14,7 @@ Videos
 
 Blogs
   
-* [Hugging Face Blog: Personal Copilot: Train your own coding assistant](https://huggingface.co/blog/personal-copilot)
+* [Hugging Face Blog](https://huggingface.co/blog)
 
 Papers
 
