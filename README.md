@@ -16,7 +16,7 @@ AI/ML Blogs
   
 * [Hugging Face Blog](https://huggingface.co/blog)
 
-Apple Papers
+Apple ML Papers
 
 * [Apple Machine Learning Research Papers](https://machinelearning.apple.com)
 
