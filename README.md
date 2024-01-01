@@ -12,11 +12,11 @@ Videos
 
 * [Dr. John Gallaugher's Tutorials](https://gallaugher.com)
 
-Blogs
+AI/ML Blogs
   
 * [Hugging Face Blog](https://huggingface.co/blog)
 
-Papers
+Apple Papers
 
 * [Apple Machine Learning Research Papers](https://machinelearning.apple.com)
 
@@ -26,7 +26,7 @@ Papers
 
 > * [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/research/siri-voices)
 
-Models & Resources
+Apple ML Models & Resources
 
 * [Apple Ferret](https://github.com/apple/ml-ferret)
 * [Apple mlX - MLX is a NumPy-like array framework designed for efficient and flexible machine learning on Apple silicon - Github](https://ml-explore.github.io/mlx/build/html/index.html)
