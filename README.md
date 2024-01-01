@@ -16,7 +16,7 @@ AI/ML Blogs
   
 * [Hugging Face Blog](https://huggingface.co/blog)
 
-Apple ML Research [Website](https://machinelearning.apple.com) & Papers (including [arXiv](https://arxiv.org))
+Apple ML Research [Website](https://machinelearning.apple.com) & Papers (including ones on [arXiv](https://arxiv.org))
 
 > * [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis - 2017](https://machinelearning.apple.com/research/siri-voices)
 
