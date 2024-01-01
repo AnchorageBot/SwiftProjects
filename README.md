@@ -20,9 +20,9 @@ Papers
 
 * [Apple Machine Learning Research Papers](https://machinelearning.apple.com)
 
-> * [Swift for TensorFlow: A portable, flexible platform for deep learning - Brennan Saeta, Denys Shabalin, Marc Rasi, Brad Larson, Xihui Wu, Parker Schuh, Michelle Casbon, Daniel Zheng, Saleem Abdulrasool, Aleksandr Efremov, Dave Abrahams, Chris Lattner, Richard Wei - arXiv:2102.13243 [cs.LG] - 2021](https://arxiv.org/abs/2102.13243) 
+> * [Swift for TensorFlow: A portable, flexible platform for deep learning - Brennan Saeta, Denys Shabalin, Marc Rasi, Brad Larson, Xihui Wu, Parker Schuh, Michelle Casbon, Daniel Zheng, Saleem Abdulrasool, Aleksandr Efremov, Dave Abrahams, Chris Lattner, Richard Wei - arXiv:2102.13243 cs.LG - 2021](https://arxiv.org/abs/2102.13243) 
 
-> * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory - Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar - arXiv:2312.11514v1 - 2023](https://doi.org/10.48550/arXiv.2312.11514)
+> * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory - Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar - arXiv:2312.11514v1 cs.CL - 2023](https://doi.org/10.48550/arXiv.2312.11514)
 
 > * [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/research/siri-voices)
 
