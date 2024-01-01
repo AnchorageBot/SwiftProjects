@@ -20,6 +20,8 @@ AI/ML Blogs
 
 > * [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis - 2017](https://machinelearning.apple.com/research/siri-voices)
 
+> * [Ferret: Refer and Ground Anything Anywhere at Any Granularity - Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang - arXiv:2310.07704 cs.CV - 2023](https://arxiv.org/abs/2310.07704)
+
 > * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory - Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar - arXiv:2312.11514v1 cs.CL - 2023](https://doi.org/10.48550/arXiv.2312.11514)
 
 > * [Swift for TensorFlow: A portable, flexible platform for deep learning - Brennan Saeta, Denys Shabalin, Marc Rasi, Brad Larson, Xihui Wu, Parker Schuh, Michelle Casbon, Daniel Zheng, Saleem Abdulrasool, Aleksandr Efremov, Dave Abrahams, Chris Lattner, Richard Wei - arXiv:2102.13243 cs.LG - 2021](https://arxiv.org/abs/2102.13243) 
