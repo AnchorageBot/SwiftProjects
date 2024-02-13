@@ -2,6 +2,8 @@
 
 This github repository holds references for, and scripts resulting from, various [Swift](https://www.apple.com/swift/) projects  
 
+- - - -
+
 Videos
 
 * [Swift in 100 Seconds - Fireship](https://youtu.be/nAchMctX4YA?si=pcjche84IyvLPXIQ)
