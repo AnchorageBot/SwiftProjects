@@ -4,6 +4,8 @@ This github repository holds references for, and scripts resulting from, various
 
 Videos
 
+* [Swift in 100 Seconds - Fireship](https://youtu.be/nAchMctX4YA?si=pcjche84IyvLPXIQ)
+
 * [Apple's WWDC](https://developer.apple.com/wwdc22/)
 
 * [Apple Developer Videos](https://developer.apple.com/videos/all-videos/)
