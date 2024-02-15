@@ -83,6 +83,8 @@ Open Source Swift Resources
 
 * [Unicode - Full Emoji List v 15.0](https://unicode.org/emoji/charts/full-emoji-list.html)
 
+* [Apple Pkl](https://github.com/apple/pkl?tab=readme-ov-file)
+
 Integrated Development Environments
 
 * [Swift Playgrounds - iPad & Mac](https://www.apple.com/swift/playgrounds/)
