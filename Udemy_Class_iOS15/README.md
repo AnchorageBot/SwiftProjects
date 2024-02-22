@@ -1,3 +1,7 @@
-## Udemy Instructor: Nick Walter
+Nick Walter
+
+- - - -
   
-  - [Noob to App Store - iPhone Apps with Swift, SwiftUI, & iOS 15](https://www.udemy.com/course/make-your-first-iphone-app-using-swift-swiftui-and-ios-15/)
+[Noob to App Store - iPhone Apps with Swift, SwiftUI, & iOS 15](https://www.udemy.com/course/make-your-first-iphone-app-using-swift-swiftui-and-ios-15/)
+
+- - - -
