@@ -34,19 +34,19 @@ struct WeatherView: View {
         
             .padding()
         
-        /*
+        
          
-         // Failed attempt to link back to ContentView screen
+         // Attempt to link back to ContentView screen
          
          TabView {
          
-         NavigaitionView()
+         NavigationView()
          .tabItem {
          Label("Home", systemImage: "home")
          }
          }
          
-        */
+        
     }
 }
 
