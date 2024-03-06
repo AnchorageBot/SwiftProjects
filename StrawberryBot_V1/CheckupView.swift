@@ -10,7 +10,8 @@
 /*
  Abstract:
  
- The checkup view shows the most recent analysis of the plant photograph received from AI and allows the user to purchase another analysis
+ The checkup view shows the most recent analysis of the plant photograph received from AI 
+   and allows the user to purchase another analysis
  
  References:
  
