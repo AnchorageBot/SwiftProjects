@@ -1,12 +1,10 @@
-StrawberryBot_V1
+StrawberryBot_V1 - Draft undergoing review and revision
 
 - - - -
 
 This app will assist with growing strawberries
 
 - - - -
-
-1st Draft
 
 How to create this project with Xcode commands:
 
