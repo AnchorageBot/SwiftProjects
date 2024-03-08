@@ -42,6 +42,6 @@ App Views Folder (Group)
 
 Drafts Folder (Group)
 * NavView
-* Naview2
+* NavView2
 
 
