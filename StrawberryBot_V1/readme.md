@@ -40,6 +40,8 @@ App Views Folder (Group)
 * WeatherView.swift
 * MapView.swift
 
-Database Folder (Group)
+Drafts Folder (Group)
+* NavView
+* Naview2
 
 
