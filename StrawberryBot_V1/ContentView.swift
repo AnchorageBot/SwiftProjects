@@ -5,7 +5,7 @@
 //
 //  Created by ATS on 3/5/24
 //  Xcode version 15.2
-//  Last revised on 
+//  Last revised on 3/8/24 by ATS and Claude
 
 /*
  Abstract:
@@ -25,9 +25,12 @@
 import SwiftUI
 
 struct ContentView: View {
+    
     var body: some View {
+        
         VStack {
             
+            // Place holder until the button code is correctly refactored
             Image(systemName: "leaf")
                 .imageScale(.large)
                 .foregroundColor(Color.green)
@@ -35,6 +38,7 @@ struct ContentView: View {
             
                 .padding()
             
+            // Once refactored the button will take the user to the NavigationView
             Button("Let's Garden!") {
                 NavigationLink {
                     NavigationView()
@@ -47,7 +51,6 @@ struct ContentView: View {
                 .padding()
             
         }
-        .padding()
     }
 }
 
