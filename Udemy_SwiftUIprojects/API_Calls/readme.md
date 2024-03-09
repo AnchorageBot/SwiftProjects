@@ -2,7 +2,7 @@
 
 - - - -
 
-This app will assist with growing strawberries
+This app will assist with ordering a cup of coffee
 
 - - - -
 
