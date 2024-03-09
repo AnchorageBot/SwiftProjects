@@ -6,6 +6,25 @@
 //  Created by ATS on 3/5/24
 //  Xcode version 15.2, Swift 5.9
 //  Last revised on 3/8/24 by ATS and Claude
+//
+
+/*
+  Abstract:
+  
+  The navigation view allows the user to select a view that either:
+      1. Takes the user to the content view
+      2. photographs a plant
+      3. analyzes the plant photograph
+      4. shows the garden's weather
+      5. shows the garden's location
+  
+  References:
+  
+ @@ -24,68 +25,114 @@
+  
+  https://developer.apple.com/tutorials/Sample-Apps
+  
+  */
 
 import SwiftUI
 
