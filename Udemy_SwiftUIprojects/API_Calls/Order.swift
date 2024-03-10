@@ -17,11 +17,11 @@
 
 import Foundation
 
-
-struct Order: Codeable {
+struct Order: Codable {
     //var id: , Int?
     //let name: "Java Joe", String
     //let coffeeName: "Americano", String
     //let total: , Double
     //let size: "Large", String
 }
+
