@@ -43,3 +43,9 @@ Models
 * Order.swift
 
 * OrderData.JSON
+
+- - - -
+
+Client
+
+* CoffeeClient
