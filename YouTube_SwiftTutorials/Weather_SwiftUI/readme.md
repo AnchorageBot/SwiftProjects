@@ -30,3 +30,8 @@ How to create folders to organize app files
 * Then just drag and drop the files into the folders that you have created
 
 - - - -
+
+Main
+
+* WxCoreLocate_V1App.swift
+* ContentView.swift
