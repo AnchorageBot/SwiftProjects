@@ -40,7 +40,7 @@ To open the Info tab (previously info.plist)
 Add categories
 
 * Right click under 'Key' and then click 'Add Row'
-* Select Privacy - Location When in Use Useage Description
+* Select 'Privacy - Location When in Use Useage Description'
 
 - - - -
 
