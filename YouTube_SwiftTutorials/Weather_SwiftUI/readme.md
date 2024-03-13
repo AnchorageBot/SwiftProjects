@@ -35,3 +35,7 @@ Main
 
 * WxCoreLocate_V1App.swift
 * ContentView.swift
+
+- - - -
+
+* WeatherData.swift
