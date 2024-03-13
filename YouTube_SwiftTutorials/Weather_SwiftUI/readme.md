@@ -37,6 +37,11 @@ To open the Info tab (previously info.plist)
 * Select your app target.
 * Then, select "Info" tab.
 
+Add categories
+
+* Right click add
+* Select Privacy - Location When in Use Useage Description
+
 - - - -
 
 Main
