@@ -10,7 +10,16 @@
  
  Abstract:
  
+ Data transfer criteria
+ 
  References:
+ www.youtube.com/@Cebraiil
+ 
+ https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types
+ 
+ https://developer.apple.com/documentation/swift/codable
+ 
+ https://developer.apple.com/documentation/objectivec/nsobject/
  
  */
 
