@@ -22,6 +22,10 @@
  
    https://developer.apple.com/documentation/objectivec/nsobject/
  
+   https://developer.apple.com/documentation/corelocation/configuring_your_app_to_use_location_services
+ 
+   https://developer.apple.com/documentation/corelocation
+ 
  */
 
 import Foundation
