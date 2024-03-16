@@ -15,6 +15,7 @@
  
  References:
  
+   Build a Weather App with SwiftUI | JSON API & CoreLocation Tutorial
    www.youtube.com/@Cebraiil
  
    https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types
