@@ -3,7 +3,8 @@
 //  WxCoreLocate_V1
 //
 //  Created by ATS on 3/11/24
-//  Revised on 3/12/24
+//  Revised on 3/16/24
+//  Xcode 15.2
 //
 
 /*
@@ -57,8 +58,24 @@ class LocationManager: NSObject, ObservableObject, CLLocationManagerDelegate {
     private let locationManager = CLLocationManager()
     @Published var location: CLLocation?
     
-    overide init() {
+    override init() {
         super.init()
         locationManager.delegate = self
     }
+    
+    func requestLocation() {
+        locationManager.requestWhenInUseAuthorization()
+        locationManager.startUpdatingLocation()
+    }
+    
+    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
+        guard let location = locations.last else {return}
+        self.location = location
+        locationManager.startUpdatingLocation()
+    }
+    
+    func locationManager(_ manager: CLLocationManager, didFailWithError error: Error) {
+        print(error.localizedDescription)
+    }
 }
+
