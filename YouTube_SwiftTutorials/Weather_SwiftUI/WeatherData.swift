@@ -26,6 +26,8 @@
  
    https://developer.apple.com/documentation/corelocation
  
+   https://developer.apple.com/documentation/xcode/configuring-the-build-settings-of-a-target
+ 
  */
 
 import Foundation
