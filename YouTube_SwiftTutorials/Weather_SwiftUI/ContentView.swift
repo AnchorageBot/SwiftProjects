@@ -3,7 +3,7 @@
 //  WxCoreLocate_V1
 //
 //  Created by ATS on 3/11/24
-//  Revised on 3/16/24
+//  Revised on 3/17/24
 //  Xcode 15.2
 //
 
@@ -39,12 +39,26 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Image(systemName: "cloud")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, weather!")
+            
+            if let weatherData = weatherData {
+                Text("\(Int(weatherData.temperature))C")
+                    .font(.custom("", size: 70))
+                    .padding()
+                
+                VStack{
+                    Text("\(weatherData.locationName)")
+                        .font(.title2).bold()
+                        .foregroundColor(.blue)
+                }
+                Spacer()
+                Text("CodeLab")
+                    .bold()
+                    .padding()
+                    .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
+            } else {
+                
+            }
         }
-        .padding()
     }
 }
 
