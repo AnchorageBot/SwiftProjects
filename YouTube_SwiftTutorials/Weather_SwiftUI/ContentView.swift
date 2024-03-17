@@ -15,6 +15,9 @@
  
  References:
  
+    Build a Weather App with SwiftUI | JSON API & CoreLocation Tutorial
+    www.youtube.com/@Cebraiil
+ 
     https://developer.apple.com/documentation/uikit/view_controllers/displaying_and_managing_views_with_a_view_controller
  
     https://developer.apple.com/documentation/uikit/view_controllers/managing_content_in_your_app_s_windows/
