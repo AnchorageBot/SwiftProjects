@@ -33,6 +33,10 @@ import SwiftUI
 import CoreLocation
 
 struct ContentView: View {
+    @StateObject private var locationManager = LocationManager()
+    @State private var weatherData: WeatherData?
+    
+    
     var body: some View {
         VStack {
             Image(systemName: "cloud")
