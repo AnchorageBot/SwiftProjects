@@ -22,6 +22,10 @@
  
     https://developer.apple.com/documentation/uikit/view_controllers/managing_content_in_your_app_s_windows/
  
+    https://www.meteomatics.com
+ 
+    https://www.meteomatics.com/en/weather-api/
+ 
  */
 
 
