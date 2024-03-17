@@ -33,9 +33,9 @@ import SwiftUI
 import CoreLocation
 
 struct ContentView: View {
+    
     @StateObject private var locationManager = LocationManager()
     @State private var weatherData: WeatherData?
-    
     
     var body: some View {
         VStack {
@@ -56,10 +56,27 @@ struct ContentView: View {
                     .padding()
                     .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
             } else {
-                
+                ProgressView()
             }
         }
+        .frame(width: 300, height: 300)
+        .background(.ultraThinMaterial)
+        .cornerRadius(20)
+        .onAppear {
+            locationManager.requestLocation()
+        }
+        .onReceive(locationManager.$location) { location in
+            guard let location = location else { return }
+            fetchWeatherData(for: location)
+        }
     }
+    
+    private func fetchWeatherData(for location: CLLocation) {
+        let apiKey = ""
+        let urlString = ""
+        guard let url = URL(string: urlString) else {return}
+    }
+    
 }
 
 #Preview {
