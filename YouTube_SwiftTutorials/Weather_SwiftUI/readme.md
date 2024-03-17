@@ -33,9 +33,9 @@ How to create folders to organize app files
 
 To open the Info tab (previously info.plist)
 
-* Select the project root directory from the Project Navigator.
-* Select your app target.
-* Then, select "Info" tab.
+* Select the project root directory from the Project Navigator
+* Select your app target
+* Then, select "Info" tab
 
 Add categories
 
