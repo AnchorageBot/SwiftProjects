@@ -75,6 +75,11 @@ struct ContentView: View {
         let apiKey = ""
         let urlString = ""
         guard let url = URL(string: urlString) else {return}
+        
+        URLSession.shared.dataTask(with: url) { data, _ , error in guard let data = data else {return}
+            
+            // 6, 7
+        }
     }
     
 }
