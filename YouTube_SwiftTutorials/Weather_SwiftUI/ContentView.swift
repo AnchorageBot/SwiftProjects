@@ -54,7 +54,7 @@ struct ContentView: View {
                 Text("CodeLab")
                     .bold()
                     .padding()
-                    .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
+                    .foregroundColor(.blue)
             } else {
                 ProgressView()
             }
