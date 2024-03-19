@@ -14,6 +14,8 @@
     Manages the app launch process
  
  References:
+
+    https://www.anthropic.com
  
     https://developer.apple.com/documentation/uikit/uiapplicationdelegate/3656306-main
  
