@@ -37,14 +37,14 @@ Add categories
 
 - - - -
 
-Main
+Main Group
 
 * WxCoreLocate_V1App.swift
 * ContentView.swift
 
 - - - -
 
-ViewModel
+ViewModel Group
 
 * WeatherData.swift
 
