@@ -26,14 +26,14 @@ How to create folders to organize app files
 
 - - - -
 
-Main
+Main Group
 
 * WxCoreLocate_V2App.swift
 * ContentView.swift
 
 - - - -
 
-WxModel
+WxModel Group
 
 * WeatherData.swift
 * APIClient.swift
