@@ -1,6 +1,6 @@
 //
 //  Main Group
-//  WxCoreLocate_V1App.swift
+//  WxCoreLocate_V2App.swift
 //  WxCoreLocate_V2
 //
 //  Created by Claude and ATS on 3/18/24
