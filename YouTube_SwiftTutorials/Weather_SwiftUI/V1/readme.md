@@ -1,3 +1,6 @@
+1st Draft
+
+- - - -
 How to create this project with Xcode commands:
 
 * Xcode-> File-> New Project -> iOS - App
