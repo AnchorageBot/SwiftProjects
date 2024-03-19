@@ -1,9 +1,10 @@
 //
+//  ViewModel Group
 //  WeatherData.swift
 //  WxCoreLocate_V1
 //
 //  Created by ATS on 3/11/24
-//  Revised on 3/16/24
+//  Revised on 3/18/24
 //  Xcode 15.2
 //
 
