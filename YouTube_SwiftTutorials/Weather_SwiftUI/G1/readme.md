@@ -8,4 +8,5 @@ Glossary of Terms
 
 [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
+[SF Symbols](https://developer.apple.com/sf-symbols/)
 - - - -
