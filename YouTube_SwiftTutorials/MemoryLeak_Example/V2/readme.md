@@ -1,4 +1,4 @@
-App with a button and no memory leak
+App with a button and memory leak - with comments
 
 - - - -
 
