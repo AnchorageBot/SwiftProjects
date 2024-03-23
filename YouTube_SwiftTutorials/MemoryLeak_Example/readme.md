@@ -30,4 +30,9 @@ To open instruments
   
 - - - -
 
+[Lazy Stack Views - Apple Dev Documentation](https://developer.apple.com/documentation/swiftui/grouping-data-with-lazy-stack-views#)
+* These stacks are “lazy” in that the stack views don’t create items until they need to be rendered onscreen
+
+- - - -
+
 [Claude - Anthropic](https://www.anthropic.com)
