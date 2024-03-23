@@ -4,6 +4,10 @@ Using Xcode Instruments to debug a memory leak
 
 [Memory Leaks in iOS: Find, Diagnose, & Fix (2022) - iOS Academy](https://youtu.be/b2AgibUg47k?si=s-BGr0OsS9vSUHb7)
 
+How to debug with Xcode
+* Splat (command), space bar
+* Type in "instruments" and hit return
+
 - - - -
 
 Getting started with instruments - WWDC19
