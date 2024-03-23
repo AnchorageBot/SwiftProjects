@@ -59,8 +59,8 @@ class SecondVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // Set the background color of the view to red
-        view.backgroundColor = .red
+        // Set the background color of the view to green
+        view.backgroundColor = .green
         
         // Configure the back button
         backButton.setTitle("Go Back", for: .normal)
