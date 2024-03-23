@@ -6,6 +6,10 @@ Using Xcode Instruments to debug a memory leak
 
 - - - -
 
+Getting started with instruments - WWDC19
+
+- - - -
+
 [How to analyze hangs with instruments - WWDC23](https://developer.apple.com/videos/play/wwdc2023/10248/)
 * Event handling and rendering loop
 * Busy main thread hang
