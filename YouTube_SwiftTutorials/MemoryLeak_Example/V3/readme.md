@@ -9,6 +9,10 @@ With these changes, the memory leak is resolved, and the SecondVC instance will 
 
 - - - -
 
+[Claude - Anthropic](https://www.anthropic.com)
+
+- - - -
+
 How to create this project with Xcode commands:
 
 * Xcode-> File-> New Project -> iOS - App
