@@ -16,3 +16,5 @@ This creates the following files:
 - - - -
 
 How to debug with Xcode
+* Splat (command), space bar
+* Type in "instruments" and hit return
