@@ -3,17 +3,17 @@
 //
 // Created by ATS on 3/20/24
 // Xcode 15.2
-// Refactored by Claude on 3/22/24
+// Refactored by Claude on 3/23/24
 //
 
 /*
 Abstract:
     A view controller manages a view hierarchy and the state information needed to keep those views up-to-date
-    This version demonstrates creating a button using Auto Layout and constraints
+    This version demonstrates navigation between view controllers using a button
 References:
-    Auto Layout Guide - Apple Developer Documentation
-    https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/
-    https://developer.apple.com/documentation/uikit/nslayoutconstraint
+    View Controller Programming Guide for iOS - Apple Developer Documentation
+    https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/
+    https://developer.apple.com/documentation/uikit/uiviewcontroller
     https://developer.apple.com/documentation/uikit/uibutton
 */
 
@@ -47,21 +47,42 @@ class ViewController: UIViewController {
     
     // Selector method called when the button is tapped
     @objc private func didTapButton() {
-        let vc = SecondVC()
-        present(vc, animated: true)
+        let secondVC = SecondVC()
+        present(secondVC, animated: true)
     }
 }
 
 class SecondVC: UIViewController {
+    // Declare the button as a property to keep a reference to it
+    let backButton = UIButton(type: .system)
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
         // Set the background color of the view to red
         view.backgroundColor = .red
+        
+        // Configure the back button
+        backButton.setTitle("Go Back", for: .normal)
+        backButton.addTarget(self, action: #selector(didTapBackButton), for: .touchUpInside)
+        
+        // Add the back button as a subview of the view controller's view
+        view.addSubview(backButton)
+        
+        // Enable Auto Layout for the back button
+        backButton.translatesAutoresizingMaskIntoConstraints = false
+        
+        // Create and activate constraints for the back button
+        NSLayoutConstraint.activate([
+            backButton.centerXAnchor.constraint(equalTo: view.centerXAnchor),
+            backButton.centerYAnchor.constraint(equalTo: view.centerYAnchor),
+            backButton.widthAnchor.constraint(equalToConstant: 200),
+            backButton.heightAnchor.constraint(equalToConstant: 50)
+        ])
     }
     
-    // Deinitializer to observe when SecondVC is deallocated
-    deinit {
-        print("SecondVC deinitializer called")
+    // Selector method called when the back button is tapped
+    @objc private func didTapBackButton() {
+        dismiss(animated: true)
     }
 }
