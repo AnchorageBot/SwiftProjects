@@ -14,3 +14,5 @@ This creates the following files:
 * ViewController.swift
 
 - - - -
+
+How to debug with Xcode
