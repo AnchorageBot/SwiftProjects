@@ -10,4 +10,4 @@ Using Xcode Instruments to debug a memory leak
 
 - - - -
 
-Claude - Anthropichttps://www.anthropic.com)
+[Claude - Anthropic](https://www.anthropic.com)
