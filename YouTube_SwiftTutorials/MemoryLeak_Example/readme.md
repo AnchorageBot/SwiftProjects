@@ -26,6 +26,8 @@ Track down hangs with Xcode and on device detection - WWDC22
 
 To open instruments
 * Product menu -> profile
+* Time profile template (first pass/analysis)
+  
 - - - -
 
 [Claude - Anthropic](https://www.anthropic.com)
