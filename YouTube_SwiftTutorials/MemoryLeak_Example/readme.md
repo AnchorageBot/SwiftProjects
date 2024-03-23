@@ -19,6 +19,9 @@ Track down hangs with Xcode and on device detection - WWDC22
 * Busy main thread hang
 * Async hang
 * Blocked main thread hang
+
+To open instruments
+* Product menu -> profile
 - - - -
 
 [Claude - Anthropic](https://www.anthropic.com)
