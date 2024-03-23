@@ -12,6 +12,10 @@ The SecondVC class is also simplified by removing the MyView property, as it's n
 
 - - - -
 
+[Claude - Anthropic](https://www.anthropic.com)
+
+- - - -
+
 How to create this project with Xcode commands:
 
 * Xcode-> File-> New Project -> iOS - App
