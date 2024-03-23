@@ -10,6 +10,9 @@ By using Auto Layout and constraints, the button is positioned and sized relativ
 
 The SecondVC class is also simplified by removing the MyView property, as it's not necessary for the purpose of this example.
 
+With these changes, the user can navigate from the button screen to the red screen by tapping the "Tap Me" button, and then return to the button screen by tapping the "Go Back" button on the red screen.
+This example demonstrates a simple navigation flow between two view controllers using buttons and the present(_:animated:) and dismiss(animated:) methods.
+
 - - - -
 
 [Claude - Anthropic](https://www.anthropic.com)
