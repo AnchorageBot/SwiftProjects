@@ -8,6 +8,10 @@ The memory leak in this code occurs because the MyView instance holds a strong r
 
 - - - -
 
+[Claude - Anthropic](https://www.anthropic.com)
+
+- - - -
+
 How to create this project with Xcode commands:
 
 * Xcode-> File-> New Project -> iOS - App
