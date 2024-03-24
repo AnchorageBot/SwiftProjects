@@ -16,6 +16,8 @@
  
     Live: WeatherKit + SwiftUI
     www.youtube.com/@a_swiftly_tilting_planet
+
+    https://developer.apple.com/weatherkit/get-started/
  
     https://developer.apple.com/tutorials/app-dev-training/managing-content-views/
  
