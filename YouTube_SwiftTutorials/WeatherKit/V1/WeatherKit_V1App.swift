@@ -15,6 +15,13 @@
  
  References:
  
+    Live: WeatherKit + SwiftUI
+    www.youtube.com/@a_swiftly_tilting_planet
+ 
+    https://developer.apple.com/weatherkit/get-started/
+ 
+    https://developer.apple.com/weatherkit/get-started/
+ 
     https://developer.apple.com/documentation/uikit/uiapplicationdelegate/3656306-main
  
     https://developer.apple.com/documentation/swiftui/app/main()/
