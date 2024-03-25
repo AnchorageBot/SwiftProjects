@@ -12,7 +12,9 @@
  
  Abstract:
  
-    The primary role of a content view is to display the app's data. A view controller manages a view hierarchy and the state information needed to keep those views up-to-date
+    The primary role of a content view is to display the app's data. 
+ 
+ This code represents a weather app's main content view, which displays current weather information, hourly forecast, and a 10-day forecast using data provided by the weatherViewModel. The view is built using SwiftUI, which allows for a declarative and concise way of constructing the user interface.
  
  References:
  
