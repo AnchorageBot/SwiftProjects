@@ -84,9 +84,15 @@ class WeatherViewModel: ObservableObject {
         }
     }
     
-    // video location 17:36/27:27
+    func isSameHourOrLater(date1: Date, date2: Date) -> Bool {
+        let calendar = Calendar.current
+        let comparisonResult = calendar.compare(date1, to: date2, toGranularity: .hour)
+        
+        return comparisonResult == .orderedSame || comparisonResult == .orderedDescending
+    }
     
-}
+    // video location 19:02/27:27
+    
     
     struct HourWeather {
         let time: String
@@ -99,3 +105,4 @@ class WeatherViewModel: ObservableObject {
         let lowTemperature: String
         let highTemperature: String
     }
+}
