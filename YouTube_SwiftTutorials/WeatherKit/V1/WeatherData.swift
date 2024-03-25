@@ -92,7 +92,22 @@ class WeatherViewModel: ObservableObject {
     }
     
     // video location 19:02/27:27
-    
+    func dayFormatter(date: Date) -> String {
+        let dateFormatter = DateFormatter()
+        dateFormatter.dateFormat = "EEE"
+        
+        let calendar = Calendar.current
+        
+        let inputDataComponents = calendar.dateComponents([.day], from: date)
+        let currentDateComponents = calendar.dateComponents([.day], from: Date())
+        
+        if inputDataComponents == currentDateComponents {
+            return "Today"
+        } else {
+            return dateFormatter.string(from: date)
+        }
+        
+    }
     
     struct HourWeather {
         let time: String
