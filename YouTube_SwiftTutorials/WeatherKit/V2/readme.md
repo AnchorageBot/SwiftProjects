@@ -4,9 +4,13 @@
 
 [Get started with WeatherKit - Apple Dev](https://developer.apple.com/weatherkit/get-started/)
 
+- - - -
+
+[Anthropic](https://www.anthropic.com)
+
 - - - - 
 
-2nd Draft with comments
+2nd Draft with comments by Claude
 
 - - - -
 How to create this project with Xcode commands:
