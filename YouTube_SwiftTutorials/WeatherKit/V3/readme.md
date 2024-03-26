@@ -59,4 +59,7 @@ To use WeatherKit, you need to configure it in your project's settings:
 
 Check your provisioning profile: 
 * Ensure that your project is using the correct provisioning profile that includes the WeatherKit entitlement.
+* Go to the Apple Developer portal (https://developer.apple.com/).
+* Navigate to the "Certificates, Identifiers & Profiles" section.
+* Locate your provisioning profile
 
