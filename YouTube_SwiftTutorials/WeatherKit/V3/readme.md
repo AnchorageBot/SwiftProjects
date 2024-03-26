@@ -49,5 +49,14 @@ WxViews Group
 
 * WeatherData.swift
 
+- - - - 
 
+To use WeatherKit, you need to configure it in your project's settings:
+* Open your project in Xcode.
+* Select your project in the project navigator.
+* Go to the "Signing & Capabilities" tab.
+* Click on the "+" button and add the "WeatherKit" capability.
+
+Check your provisioning profile: 
+* Ensure that your project is using the correct provisioning profile that includes the WeatherKit entitlement.
 
