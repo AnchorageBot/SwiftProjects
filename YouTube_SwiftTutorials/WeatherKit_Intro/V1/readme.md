@@ -26,3 +26,16 @@ How to create folders to organize app files
 * Then just drag and drop the files into the folders that you have created
 
 - - - -
+
+- - - - 
+
+To use WeatherKit, you need to configure it in your project's settings:
+* Open your project in Xcode.
+* Select your project in the project navigator.
+* Go to the "Signing & Capabilities" tab.
+* Click on the "+" button and add the "WeatherKit" capability.
+
+Ensure that your project is using the correct provisioning profile that includes the WeatherKit entitlement:
+* Go to the Apple Developer portal (https://developer.apple.com/).
+* Navigate to the "Certificates, Identifiers & Profiles" section.
+* Locate your provisioning profile
