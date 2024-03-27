@@ -8,12 +8,16 @@
 
 How to employ WeatherKit in a App:
 
+Xcode actions:
+
 * Ensure that you have an active Apple Developer Program membership, as it is required to use WeatherKit.
 * Open your project in Xcode.
 * Select your project at the top of the project navigator (the blue icon with your project's name).
 * Go to the "Signing & Capabilities" tab.
 * Click on the "+" button and add the "WeatherKit" capability. This will automatically add the necessary frameworks and entitlements to your project.
 * Ensure that your project is using the correct provisioning profile that includes the WeatherKit entitlement:
+
+Apple Developer actions
 
 * Go to the Apple Developer portal (https://developer.apple.com/).
 * Navigate to the "Certificates, Identifiers & Profiles" section.
