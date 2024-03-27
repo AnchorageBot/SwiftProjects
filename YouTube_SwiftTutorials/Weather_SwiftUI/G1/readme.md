@@ -10,6 +10,6 @@ Glossary of Terms
 
 [SF Symbols](https://developer.apple.com/sf-symbols/)
 
-[Xcode - Tuning & Debugging and more](https://developer.apple.com/documentation/xcode)
+[Xcode - Creating, Tuning, Debugging, and more](https://developer.apple.com/documentation/xcode)
 
 - - - -
