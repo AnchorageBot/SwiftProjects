@@ -6,7 +6,7 @@
 
 - - - - 
 
-How to employ WeatherKit in a App:
+How to employ Apple WeatherKit in a App:
 
 Xcode actions:
 
