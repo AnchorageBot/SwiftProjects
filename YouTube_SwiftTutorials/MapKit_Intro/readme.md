@@ -6,5 +6,7 @@
 
 - - - -
 
+ How to get the users current location and convert it into a friendly location name for your iOS Apps
+
 - - - -
 
