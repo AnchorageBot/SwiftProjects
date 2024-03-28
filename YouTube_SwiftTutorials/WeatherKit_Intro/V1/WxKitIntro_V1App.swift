@@ -9,7 +9,7 @@
 
 /*
 Abstract:
-This code serves as the entry point of the WeatherKit_V1 app. It sets up the app's main structure using the App protocol and specifies the initial view to be displayed when the app launches. The ContentView will contain the main content and layout of the app, which is defined in a separate file.
+This code serves as the entry point of the WxKitIntro_V1App app. It sets up the app's main structure using the App protocol and specifies the initial view to be displayed when the app launches. The ContentView will contain the main content and layout of the app, which is defined in a separate file.
 
 References:
 - SwiftUI App Life Cycle: https://developer.apple.com/documentation/swiftui/app
