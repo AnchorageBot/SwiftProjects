@@ -12,10 +12,10 @@ Abstract:
 The primary role of a content view is to display the app's data.
 
 References:
-- About App Development with UIKit
-    https://developer.apple.com/documentation/uikit/about_app_development_with_uikit
-- UIKit Framework
-    https://developer.apple.com/documentation/uikit
+- Swift UI
+    https://developer.apple.com/xcode/swiftui/
+- Swift UI - Apple Deve
+    https://developer.apple.com/documentation/swiftui/     
 - Introduction to WeatherKit (iOS 16) – WWDC 2022 - iOS Academy
     www.youtube.com/@iOSAcademy
 - Anthropic AI Claude
