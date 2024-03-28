@@ -12,7 +12,7 @@ A view that provides weather data for a location
 References:
 - Swift UI
     https://developer.apple.com/xcode/swiftui/
-- Swift UI - Apple Dev
+- Swift UI - Apple Deve
     https://developer.apple.com/documentation/swiftui/
 - Introduction to WeatherKit (iOS 16) – WWDC 2022 - iOS Academy
     www.youtube.com/@iOSAcademy
@@ -65,17 +65,17 @@ struct WeatherView: View {
                         .foregroundColor(.white)
                 }
                 
-                // Display minute forecast
-                let minuteForecast = weather.minuteForecast
-                
-                Text("Minute Forecast")
-                    .font(.title)
-                    .foregroundColor(.white)
-                
-                // Iterate over the minute forecast and display each minute's information
-                ForEach(minuteForecast.forecast, id: \.date) { minute in
-                    Text("\(minute.date.formatted()): \(minute.precipitation.description)")
+                // Display minute forecast if available
+                if let minuteForecast = weather.minuteForecast {
+                    Text("Minute Forecast")
+                        .font(.title)
                         .foregroundColor(.white)
+                    
+                    // Iterate over the minute forecast and display each minute's information
+                    ForEach(minuteForecast.forecast, id: \.date) { minute in
+                        Text("\(minute.date.formatted()): \(minute.precipitation.description)")
+                            .foregroundColor(.white)
+                    }
                 }
             } else {
                 // Display a progress view while weather data is being fetched
