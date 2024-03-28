@@ -9,6 +9,10 @@
 Abstract:
 A view that provides weather data for a location
 
+ The WeatherViewModel handles the location updates and fetches the weather data using the WeatherService when the user's location is available.
+ 
+ The WeatherView displays the current weather, daily forecast, and minute forecast (if available) based on the data provided by the WeatherViewModel.
+
 References:
 - Swift UI
     https://developer.apple.com/xcode/swiftui/
