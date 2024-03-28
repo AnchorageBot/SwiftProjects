@@ -10,6 +10,8 @@
 
 - - - -
 
+[Anthropic AI, Claude](https://www.anthropic.com)
+
 - - - -
 How to create this project with Xcode commands:
 
