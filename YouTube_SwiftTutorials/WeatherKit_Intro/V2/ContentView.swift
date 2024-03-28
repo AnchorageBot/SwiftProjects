@@ -14,7 +14,7 @@ The primary role of a content view is to display the app's data.
 References:
 - Swift UI
     https://developer.apple.com/xcode/swiftui/
-- Swift UI - Apple Deve
+- Swift UI - Apple Dev
     https://developer.apple.com/documentation/swiftui/
 - Introduction to WeatherKit (iOS 16) – WWDC 2022 - iOS Academy
     www.youtube.com/@iOSAcademy
