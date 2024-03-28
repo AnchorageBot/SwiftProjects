@@ -1,6 +1,6 @@
 //
-//  WxView.swift
-//  WxKitIntro_V1
+//  WeatherView.swift
+//  WxKitIntro_V2
 //
 //  Created by ATS and Claude on 3/27/24
 //
