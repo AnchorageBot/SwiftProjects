@@ -2,8 +2,6 @@
 
 [Get started with WeatherKit - Apple Dev](https://developer.apple.com/weatherkit/get-started/)
 
-- - - -
-
 [Anthropic AI, Claude ](https://www.anthropic.com)
 
 - - - -
