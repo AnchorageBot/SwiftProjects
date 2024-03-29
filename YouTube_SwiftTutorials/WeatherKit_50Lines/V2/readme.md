@@ -33,5 +33,5 @@ How to create folders to organize app files
 - - - -
 
 Main Group
-* WxKit50_V1App.swift
+* WxKit50_V2App.swift
 * ContentView.swift
