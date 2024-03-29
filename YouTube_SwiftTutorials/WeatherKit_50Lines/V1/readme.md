@@ -6,7 +6,7 @@
 
 - - - - 
 
-1st Draft
+1st Draft - Follows the YouTube tutorial
 
 - - - -
 How to create this project with Xcode commands:
