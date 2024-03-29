@@ -16,7 +16,7 @@ Xcode actions:
 * Select your project at the top of the project navigator (the blue icon with your project's name).
 * Go to the "Signing & Capabilities" tab.
 * Click on the "+" button and add the "WeatherKit" capability. This will automatically add the necessary frameworks and entitlements to your project.
-* Ensure that your project is using the correct provisioning profile that includes the WeatherKit entitlement:
+* Ensure that your project is using the correct provisioning profile that includes the WeatherKit entitlement (copy/paste the bundle id from Apple Developer)
 
 Apple Developer actions
 
