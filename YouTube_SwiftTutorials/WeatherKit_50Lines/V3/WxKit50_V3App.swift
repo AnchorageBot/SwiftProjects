@@ -12,15 +12,17 @@
 Abstract:
 This code serves as the entry point of the WxKit50_V3 app. It sets up the app's main structure using the App protocol and specifies the initial view to be displayed when the app launches. The ContentView will contain the main content and layout of the app, which is defined in a separate file.
 
-References:
-- SwiftUI App Life Cycle: https://developer.apple.com/documentation/swiftui/app
-- SwiftUI App Protocol: https://developer.apple.com/documentation/swiftui/app
-- SwiftUI WindowGroup: https://developer.apple.com/documentation/swiftui/windowgroup
-- Xcode 14: Weather App in 50 lines of code with the new WeatherKit - Tech & Code
-    www.youtube.com/@TechCode50
-- Anthropic AI Claude
-    https://www.anthropic.com
-*/
+ References:
+ - SwiftUI App Life Cycle: https://developer.apple.com/documentation/swiftui/app
+ - SwiftUI App Protocol: https://developer.apple.com/documentation/swiftui/app
+ - SwiftUI WindowGroup: https://developer.apple.com/documentation/swiftui/windowgroup
+ - WeatherKit: https://developer.apple.com/weatherkit/get-started/
+ - CoreLocate: https://developer.apple.com/documentation/corelocation
+ - Xcode 14: Weather App in 50 lines of code with the new WeatherKit - Tech & Code
+     www.youtube.com/@TechCode50
+ - Anthropic AI Claude
+     https://www.anthropic.com
+ */
 
 // Import the SwiftUI framework, which provides the necessary components and functionality for building the app's user interface.
 import SwiftUI
