@@ -14,15 +14,17 @@ Abstract:
 The primary role of a content view is to display the app's data.
 This code represents a weather app's main content view, which displays current weather information and a 3-day forecast bar graph with weather images. The view is built using SwiftUI, which allows for a declarative and concise way of constructing the user interface.
 
-References:
-- SwiftUI App Life Cycle: https://developer.apple.com/documentation/swiftui/app
-- SwiftUI App Protocol: https://developer.apple.com/documentation/swiftui/app
-- SwiftUI WindowGroup: https://developer.apple.com/documentation/swiftui/windowgroup
-- Xcode 14: Weather App in 50 lines of code with the new WeatherKit - Tech & Code
-    www.youtube.com/@TechCode50
-- Anthropic AI Claude
-    https://www.anthropic.com
-*/
+ References:
+ - SwiftUI App Life Cycle: https://developer.apple.com/documentation/swiftui/app
+ - SwiftUI App Protocol: https://developer.apple.com/documentation/swiftui/app
+ - SwiftUI WindowGroup: https://developer.apple.com/documentation/swiftui/windowgroup
+ - WeatherKit: https://developer.apple.com/weatherkit/get-started/
+ - CoreLocate: https://developer.apple.com/documentation/corelocation
+ - Xcode 14: Weather App in 50 lines of code with the new WeatherKit - Tech & Code
+     www.youtube.com/@TechCode50
+ - Anthropic AI Claude
+     https://www.anthropic.com
+ */
 
 import SwiftUI
 import WeatherKit
