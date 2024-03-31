@@ -19,3 +19,7 @@ Glossary
 - - - -
 
 [Models, shapes, and meshes](https://developer.apple.com/documentation/realitykit/realitykit-models-shapes-meshes)
+
+- - - -
+
+[Designing RealityKit content with Reality Composer Pro](https://developer.apple.com/documentation/visionos/designing-realitykit-content-with-reality-composer-pro)
