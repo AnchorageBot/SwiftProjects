@@ -4,4 +4,4 @@
 
 - - - -
 
-1st Draft - Following the YouTube intro
+1st Draft - Following along with the tutorial
