@@ -8,7 +8,7 @@
 
 - - - -
 
-How to setup the project
+How to setup the project:
 
 * Open Xcode
 * Select the visionOS tab
@@ -16,3 +16,9 @@ How to setup the project
 * Initial Scene: Window
 * Immersive Space Renderer: RealityKit
 * Immersive Space: Mixed
+
+This yields the following files:
+
+* ProjectNameApp.swift
+* ContentView.swift
+* ImmersiveView.swift
