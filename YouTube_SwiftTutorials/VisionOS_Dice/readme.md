@@ -8,7 +8,7 @@
 
 - - - -
 
-How to setup the project:
+How to setup a visionOS project:
 
 * Open Xcode
 * Select the visionOS tab
