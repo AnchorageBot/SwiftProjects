@@ -4,7 +4,7 @@
 
 - - - - 
 
-1st Draft
+1st Draft - Following along with the tutorial
 
 - - - -
 How to create this project with Xcode commands:
