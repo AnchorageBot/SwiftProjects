@@ -15,3 +15,7 @@ Glossary
 [PhysicsBodyComponent](https://developer.apple.com/documentation/realitykit/physicsbodycomponent)
 
 [PhysicsMotionComponent](https://developer.apple.com/documentation/realitykit/physicsmotioncomponent)
+
+- - - -
+
+[Models, shapes, and meshes](https://developer.apple.com/documentation/realitykit/realitykit-models-shapes-meshes)
