@@ -1,4 +1,4 @@
-App with a button and a memory leak
+1st Draft - Following along with the tutorial - App with a button and a memory leak
 
 - - - -
 
