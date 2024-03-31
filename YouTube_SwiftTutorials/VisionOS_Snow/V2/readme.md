@@ -1,5 +1,5 @@
 - - - -
 
-2nd Draft - Coding along with the YouTube tutorial
+2nd Draft - Autoformat files, extensively commented
 
 - - - -
