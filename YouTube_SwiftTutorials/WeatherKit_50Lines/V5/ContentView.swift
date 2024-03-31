@@ -35,6 +35,7 @@ struct ContentView: View {
     static let location = CLLocation(latitude: 61.21667, longitude: -149.89361)
     
     // Declare a state variable to store the weather data
+    // private indicates that it is only used in the ContentView
     @State private var weather: Weather?
     
     // Define an asynchronous function to fetch the weather data
