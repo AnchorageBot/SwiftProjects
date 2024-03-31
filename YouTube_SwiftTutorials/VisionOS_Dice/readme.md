@@ -5,3 +5,14 @@
 [RealityKit - Apple Dev Docs](https://developer.apple.com/documentation/RealityKit)
 
 [VisionOS - Apple Dev Docs](https://developer.apple.com/documentation/visionos)
+
+- - - -
+
+How to build
+
+* Open Xcode
+* Select the visionOS tab
+* Select the App icon under the Application tab
+* Initial Scene: Window
+* Immersive Space Renderer: RealityKit
+* Immersive Space: Mixed
