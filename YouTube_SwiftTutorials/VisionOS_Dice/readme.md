@@ -8,7 +8,7 @@
 
 - - - -
 
-How to build
+How to setup the project
 
 * Open Xcode
 * Select the visionOS tab
