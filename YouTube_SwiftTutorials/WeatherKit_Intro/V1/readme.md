@@ -6,7 +6,7 @@
 
 - - - -
 
-1st Draft - UIKit
+1st Draft - UIKit - Following along with the tutorial
 
 - - - -
 How to create this project with Xcode commands:
