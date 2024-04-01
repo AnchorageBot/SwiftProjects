@@ -12,3 +12,4 @@ How to work with Reality Composer Pro:
 How to set up Reality Composer Pro:
 
 * Reality Composer Pro -> Settings -> Viewport Color -> Choose a darker color to contrast white snow
+* Left middle of screen -> + -> Particle emitter
