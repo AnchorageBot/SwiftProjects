@@ -8,3 +8,7 @@ How to work with Reality Composer Pro:
 
 * Xcode -> Project Navigator -> Packages -> RealityKitContent -> Package
 * Package -> Open in Reality Composer Pro
+
+How to set up Reality Composer Pro:
+
+* Reality Composer Pro -> Settings -> Viewport Color -> Choose a darker color to contrast white snow
