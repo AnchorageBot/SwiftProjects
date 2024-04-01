@@ -14,6 +14,7 @@ How to set up Reality Composer Pro:
 * Reality Composer Pro -> Settings -> Viewport Color -> Choose a darker color to contrast white snow
 * Center left of screen -> + -> Particle emitter
 * Center right of screen -> Particle Emitter -> Six blocks -> Snow
+* Adjust the various parameters until you are happy with the snow particles
 * File -> Save
 
 How to get it to snow in the Xcode VisionOS simulator
