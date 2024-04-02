@@ -3,3 +3,5 @@
 [WWDC23: Meet SwiftUI for spatial computing | Apple](https://youtu.be/HEE8qjXQYPc?si=vMyGz0R5rF_1t3nb)
 
 [WWDC23: Develop your first immersive app | Apple](https://m.youtube.com/watch?v=9xe2x58mc4M)
+
+[WWDC23: Explore App Store Connect for spatial computing | Apple](https://youtu.be/g8ix6UenXHU?si=LRi8A_Me_yKahffg)
