@@ -4,6 +4,8 @@
 
 [WWDC23: Meet Object Capture for iOS | Apple](https://youtu.be/zrSlmedQfq0?si=CwN1ujyYT3G-BSiW)
 
+[WWDC23: Get started with building apps for spatial computing | Apple](https://youtu.be/lVAM8ct5fwY?si=1V_ZrGX3QYeOmFP8)
+
 [WWDC23: Develop your first immersive app | Apple](https://m.youtube.com/watch?v=9xe2x58mc4M)
 
 [WWDC23: Explore App Store Connect for spatial computing | Apple](https://youtu.be/g8ix6UenXHU?si=LRi8A_Me_yKahffg)
