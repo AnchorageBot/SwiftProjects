@@ -1,4 +1,4 @@
-2nd Draft - With comments
+2nd Draft - Extensively commented
 
 - - - -
 
