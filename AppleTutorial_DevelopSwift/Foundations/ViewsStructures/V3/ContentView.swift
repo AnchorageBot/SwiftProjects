@@ -43,8 +43,7 @@ struct DayForecast: View {
     
     var WxEmojiColor: Color {
         if seeSun {
-            return Color.yellow
-                
+            return Color.yellow 
         } else {
             return Color.blue
         }
