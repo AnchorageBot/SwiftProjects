@@ -15,9 +15,9 @@ struct ContentView: View {
         
         HStack {
             
-            DayForecast(day: "Mon", seeSun: true, high: 60, low: 50)
+            DayForecast(day: "Mon", seeSun: true, high: 50, low: 40)
             
-            DayForecast(day: "Tue", seeSun: false, high: 50, low: 40)
+            DayForecast(day: "Tue", seeSun: false, high: 40, low: 30)
         }
     }
 }
