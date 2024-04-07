@@ -18,6 +18,9 @@ struct ContentView: View {
             DayForecast(day: "Mon", seeSun: true, high: 50, low: 40)
             
             DayForecast(day: "Tue", seeSun: false, high: 40, low: 30)
+            
+            DayForecast(day: "Wed", seeSun: true, high: 50, low: 40)
+            
         }
     }
 }
@@ -43,7 +46,7 @@ struct DayForecast: View {
     
     var WxEmojiColor: Color {
         if seeSun {
-            return Color.yellow 
+            return Color.yellow
         } else {
             return Color.blue
         }
