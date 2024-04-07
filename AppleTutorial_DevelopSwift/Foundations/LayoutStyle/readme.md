@@ -1,3 +1,5 @@
+Chapter 3
+
 Layout and style
 
 Design an interface
