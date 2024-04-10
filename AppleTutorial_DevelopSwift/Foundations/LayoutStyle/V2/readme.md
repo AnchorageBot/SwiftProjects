@@ -1,4 +1,4 @@
-2nd Draft
+2nd Draft - Section 4 of the tutorial
 
 - - - -
 
@@ -24,3 +24,10 @@ How to create folders to organize app files
 * Xcode -> File -> New -> Group
 
 * Then just drag and drop the files into the folders that you have created
+
+- - - -
+Keyboard shortcuts
+* Splat (command) a = select all
+* Splat c = copy
+* Splat v = paste
+
