@@ -8,4 +8,4 @@ Glossary and Concepts
 
 * Right click on keywords such as struct, var, and VStack to oepn a menu of options
 
-* [ZStack](https://developer.apple.com/documentation/swiftui/zstack) - A view that overlays its subviews, aligning them in both axes
+* [ZStack - A view that overlays its subviews, aligning them in both axes](https://developer.apple.com/documentation/swiftui/zstack) 
