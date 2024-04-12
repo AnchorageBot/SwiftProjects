@@ -17,6 +17,8 @@ References:
 - SwiftUI App Life Cycle: https://developer.apple.com/documentation/swiftui/app
 - SwiftUI App Protocol: https://developer.apple.com/documentation/swiftui/app
 - SwiftUI WindowGroup: https://developer.apple.com/documentation/swiftui/windowgroup
+- Managing assets with asset catalogs:
+    https://developer.apple.com/documentation/xcode/managing-assets-with-asset-catalogs
 - Develop in Swift Tutorials - Layout and style
     https://developer.apple.com/tutorials/develop-in-swift/design-an-interface
 - Anthropic AI Claude
