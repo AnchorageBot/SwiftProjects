@@ -40,11 +40,14 @@ struct FeaturesPage: View {
             Text("Features")
                 .font(.title)
                 .fontWeight(.semibold)
-                .padding()
+                .padding(.bottom)
+                //.padding(.top, 100)
             
             FeaturesCard(iconName: "person.2.crop.square.stack.fill", description: "Description and image")
        
             FeaturesCard(iconName:"quote.bubble.fill", description: "Short summary")
+            
+            Spacer()
             
         }
         .padding()
@@ -53,6 +56,7 @@ struct FeaturesPage: View {
 
 #Preview {
     FeaturesPage()
+        .frame(maxHeight: .infinity)
         //.background(Gradient(colors: gradientColors))
-        .foregroundStyle(.white)
+        //.foregroundStyle(.white)
 }
