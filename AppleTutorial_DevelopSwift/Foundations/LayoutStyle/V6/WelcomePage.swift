@@ -1,17 +1,16 @@
 //
-//  WelcomePage.swift
+//  FeaturesCard.swift
 //  OnboardingFlow
 //
-//  Created by ATS on 4/7/24
+//  Created by ATS on 4/9/24
 //  Made with Xcode 15.3
-//  Revised on 4/11/24
+//  Revised on 4/13/24
 //
-//  Section 6 of the tutorial
-//
+//  Chapter 8 of the tutorial
 
 /*
 Abstract:
- This code defines the WelcomePage struct, which invites the user to the app. The view is built using SwiftUI, which allows for a declarative and concise way of constructing the user interface.
+ This code defines the FeaturesCard struct, which defines a list of cards describing the app’s features. The view is built using SwiftUI, which allows for a declarative and concise way of constructing the user interface.
 
 References:
 - SwiftUI App Life Cycle: https://developer.apple.com/documentation/swiftui/app
@@ -26,40 +25,37 @@ References:
 
 import SwiftUI
 
-struct WelcomePage: View {
+struct FeaturesCard: View {
+    
+    let iconName: String
+    let description: String
     
     var body: some View {
         
-        VStack {
+        HStack {
             
-            ZStack {
-                
-                RoundedRectangle(cornerRadius: 30)
-                    .frame(width: 150, height: 150)
-                    .foregroundStyle(.tint)
-                
-                Image(systemName: "figure.2.and.child.holdinghands")
-                    .font(.largeTitle)
-                
-            }
+            Image(systemName: iconName)
+                .font(.largeTitle)
+                .frame(width: 50)
+                .padding(.trailing, 10)
             
-            Text("Welcome to the app!")
-                .font(.title)
-                .fontWeight(.semibold)
-                .padding(.top)
-                //.border(.black, width: 1.5)
+            Text(description)
             
-            Text("Description")
-                .font(.title2)
-                //.border(.black, width: 1.5)
+            Spacer()
+            
         }
-            //.border(.orange, width: 1.5)
-            .padding()
-            //.border(.purple, width: 1.5)
+        .padding()
+        .background {
+            
+        RoundedRectangle(cornerRadius: 12)
+            .foregroundStyle(.tint)
+            //.opacity(0.25)
+            //.brightness(-0.4)
     }
-    
+    .foregroundStyle(.white)
+    }
 }
 
 #Preview {
-    WelcomePage()
+    FeaturesCard(iconName: "person.2.crop.square.stack.fill", description: "Description and image")
 }
