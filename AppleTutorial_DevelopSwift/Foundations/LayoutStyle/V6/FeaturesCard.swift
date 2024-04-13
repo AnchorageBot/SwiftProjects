@@ -4,6 +4,9 @@
 //
 //  Created by ATS on 4/9/24
 //  Made with Xcode 15.3
+//  Revised on 4/13/24
+//
+//  Chapter 8 of the tutorial
 //
 
 /*
@@ -43,8 +46,14 @@ struct FeaturesCard: View {
             
         }
         .padding()
-        .background(.tint, in: (RoundedRectangle(cornerRadius: 12)))
-        .foregroundStyle(.white)
+        .background {
+            
+        RoundedRectangle(cornerRadius: 12)
+            .foregroundStyle(.tint)
+            //.opacity(0.25)
+            //.brightness(-0.4)
+    }
+    .foregroundStyle(.white)
     }
 }
 
