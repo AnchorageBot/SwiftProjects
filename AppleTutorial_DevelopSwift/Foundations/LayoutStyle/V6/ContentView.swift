@@ -29,7 +29,6 @@ import SwiftUI
 
 struct ContentView: View {
     
-    
     // gradientTop and gradientBottom RGB values are created and defined in Assets
     let gradientColors: [Color] = [
         .gradientTop,
