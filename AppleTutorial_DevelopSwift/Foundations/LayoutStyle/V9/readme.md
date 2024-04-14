@@ -8,10 +8,10 @@
 
 RGB Settings for Gradients in Assets:
 
-* gardenGreen: RGB(141, 182, 0)
-* skyBlue: RGB(135, 206, 235)
-* leafGreen: RGB(76, 187, 23)
-* sunYellow: RGB(255, 204, 0)
+* gardenGreen: Red: 0.553, Green: 0.714, Blue: 0.000, Alpha: 1.000
+* skyBlue: Red: 0.529, Green: 0.808, Blue: 0.922, Alpha: 1.000
+* leafGreen: Red: 0.298, Green: 0.733, Blue: 0.090, Alpha: 1.000
+* sunYellow: Red: 1.000, Green: 0.800, Blue: 0.000, Alpha: 1.000
 
 To apply these colors, go to the Assets.xcassets folder in Xcode, create new color sets with the corresponding names (gardenGreen, skyBlue, leafGreen, sunYellow), and set their RGB values as provided above.
 
