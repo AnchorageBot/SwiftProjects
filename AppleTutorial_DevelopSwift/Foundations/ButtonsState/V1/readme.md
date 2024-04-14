@@ -31,3 +31,8 @@ Keyboard shortcuts
 * Splat c = copy
 * Splat v = paste
 
+- - - -
+
+Align code with keyboard command
+
+* Option + Shift + Command + F
