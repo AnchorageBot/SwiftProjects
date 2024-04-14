@@ -25,7 +25,7 @@ In this case, you should keep the AccentColor and AppIcon color sets in your Ass
 
 * AccentColor: This color set is used by the system to automatically color certain UI elements, such as buttons, navigation bars, and tab bars. It helps maintain a consistent look and feel throughout your app.
 * AppIcon: This color set is used to define the colors used in your app's icon. It is not directly related to the colors used within your app's user interface.
-* 
+
 However, you should remove the GradientBottom and GradientTop color sets since they are no longer needed in the refactored code. Instead, you will be adding the new color sets (gardenGreen, skyBlue, leafGreen, and sunYellow) to define the colors for your app's new nature-themed gradient and UI elements.
 
 Here's what you should do:
