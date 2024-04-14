@@ -26,8 +26,14 @@ How to create folders to organize app files
 * Then just drag and drop the files into the folders that you have created
 
 - - - -
+
 Keyboard shortcuts
 * Splat (command) a = select all
 * Splat c = copy
 * Splat v = paste
 
+- - - -
+
+Align code with keyboard command
+
+* Option + Shift + Command + F
