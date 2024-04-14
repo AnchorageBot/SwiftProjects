@@ -1,6 +1,6 @@
 Chapter 3
 
-Layout and style
+[Layout and style](https://developer.apple.com/tutorials/develop-in-swift/design-an-interface)
 
 Design an interface
 
