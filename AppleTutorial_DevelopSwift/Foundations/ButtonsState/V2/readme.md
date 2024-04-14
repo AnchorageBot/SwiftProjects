@@ -34,6 +34,6 @@ Keyboard shortcuts
 
 - - - -
 
-Align code with keyboard command
+Align code using keyboard command
 
 * Control + I
