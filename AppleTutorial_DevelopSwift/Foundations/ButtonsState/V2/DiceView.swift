@@ -5,7 +5,7 @@
 //  Created by ATS on 4/14/24
 //  Xcode version 15.3
 //
-//  Chapters 2 and 3 of the tutorial
+//  Sections 2 and 3 of the tutorial
 //
 
 /*
