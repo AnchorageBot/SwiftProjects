@@ -35,4 +35,4 @@ Keyboard shortcuts
 
 Align code with keyboard command
 
-* Option + Shift + Command + F
+* Control + I
