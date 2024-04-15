@@ -2,6 +2,8 @@ Glossary and Concepts
 
 - - - -
 
+* [Debugging](https://developer.apple.com/documentation/xcode/debugging)
+
 * [Declaring a custom view - Define views and assemble them into a view hierarchy](https://developer.apple.com/documentation/swiftui/declaring-a-custom-view)
 
 * [Managing assets with asset catalogs](https://developer.apple.com/documentation/xcode/managing-assets-with-asset-catalogs)
