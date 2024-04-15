@@ -38,4 +38,10 @@ Align code using keyboard command
 
 * Control + I
 
+- - - -
+
+Disable debugging in Xcode
+
+* Product -> Stop
+
 
