@@ -1,4 +1,4 @@
-6th Draft - Use images in button labels
+7th Draft - Improve your app design
 
 - - - -
 
