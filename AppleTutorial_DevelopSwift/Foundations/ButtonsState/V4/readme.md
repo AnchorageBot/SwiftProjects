@@ -1,4 +1,4 @@
-4th Draft 
+4th Draft - Create a dynamic display of dice
 
 - - - -
 
