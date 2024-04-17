@@ -29,8 +29,10 @@ How to create folders to organize app files
 
 Add background color to the app
 
-* Assests -> + -> Color Set
+* Assets -> + -> Color Set -> "appBackground"
+* Click on "appBackground"
 * Inspector pane -> Color RGB settings
+* ContentView -> Struct ContentView: View -> .background(.appBackground)
 
 - - - -
 
