@@ -69,8 +69,11 @@ struct ContentView: View {
             //.labelStyle(.iconOnly)
         }
         .padding()
+        /// frame makes the background expand to fill the screen
+        //.frame(maxWidth: .infinity, maxHeight: .infinity)
         /// changes the app background from white to a custom color
         //.background(.appBackground)
+        //.tint(.white)
     }
 }
 
