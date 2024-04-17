@@ -31,7 +31,7 @@ Add background color to the app
 
 * Assets -> + -> Color Set -> "appBackground"
 * Click on "appBackground"
-* Inspector pane -> Color RGB settings
+* Inspector pane -> Color RGB settings -> Adjust to suit
 * ContentView -> Struct ContentView: View -> .background(.appBackground)
 
 - - - -
