@@ -1,4 +1,4 @@
-8th Draft - Refactored and commented by Claude
+8th Draft - Refactored and commented by Anthropic AI: [Claude](https://www.anthropic.com)
 
 - - - -
 
