@@ -27,6 +27,13 @@ How to create folders to organize app files
 
 - - - -
 
+Add background color to the app
+
+* Assests -> + -> Color Set
+* Inspector pane -> Color RGB settings
+
+- - - -
+
 Keyboard shortcuts
 * Splat (command) a = select all
 * Splat c = copy
