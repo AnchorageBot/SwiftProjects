@@ -14,4 +14,6 @@ Glossary and Concepts
 
 * [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols)
 
+* [Ternary Conditional Operator](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Ternary-Conditional-Operator)
+
 * [ZStack - A view that overlays its subviews, aligning them in both axes](https://developer.apple.com/documentation/swiftui/zstack) 
