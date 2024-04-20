@@ -16,4 +16,6 @@ Glossary and Concepts
 
 * [Ternary Conditional Operator](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Ternary-Conditional-Operator)
 
+* [Toggle](https://developer.apple.com/documentation/swiftui/toggle)
+
 * [ZStack - A view that overlays its subviews, aligning them in both axes](https://developer.apple.com/documentation/swiftui/zstack) 
