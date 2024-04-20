@@ -73,9 +73,10 @@ struct ContentView: View {
             /// Because a toggle controls an on/off state, its binding is a Bool.
             Toggle("Remove picked names", isOn: $shouldRemovePickedName)
             
-            /// Use .randomElement() with an array to get one of its elements at random. If the array is empty, you’ll get the special Swift value nil, which indicates a non-value.
+           
             Button {
-                
+                /// The possibility of a non-value introduces a risk to your code. if let is a kind of if statement that lets you safely work with potentially nil values. In this case, if the condition is met — the array returned a random name — you can use randomName in the first block of code. If the condition is not met — the array returned nil — the code in the else block runs.
+                /// Use .randomElement() with an array to get one of its elements at random. If the array is empty, you’ll get the special Swift value nil, which indicates a non-value.
                 if let randomName = names.randomElement() {
                     pickedName = randomName
                     
