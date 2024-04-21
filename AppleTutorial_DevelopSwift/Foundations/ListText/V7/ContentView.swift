@@ -11,7 +11,11 @@
  
 Abstract:
 The primary role of a content view is to display the app's data.
-This code represents the app's main content view. The view is built using SwiftUI, which allows for a declarative and concise way of constructing the user interface.
+
+This code represents the app's main content view. The view is built using SwiftUI,
+which allows for a declarative and concise way of constructing the user interface.
+
+These changes aim to improve the code's readability, maintainability, and adherence to Swift best practices and conventions.
 
 References:
  - Swift Lists and text fields https://developer.apple.com/tutorials/develop-in-swift/create-dynamic-content
