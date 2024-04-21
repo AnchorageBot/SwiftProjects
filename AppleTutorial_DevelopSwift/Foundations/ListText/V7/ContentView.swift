@@ -90,7 +90,10 @@ struct ContentView: View {
         }
         .padding()
     }
-    
+
+    /// Extracted the functionality for adding a name and picking a random name
+    /// into separate methods (addName() and pickRandomName()) to improve code organization and reusability.
+ 
     /// Adds the name entered in the text field to the names array if it's not empty
     private func addName() {
         guard !nameToAdd.isEmpty else { return }
