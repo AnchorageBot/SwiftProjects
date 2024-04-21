@@ -2,7 +2,7 @@ Glossary and Concepts
 
 - - - -
 
-* [Date](https://developer.apple.com/documentation/foundation/date)
+* [Date - Structure](https://developer.apple.com/documentation/foundation/date)
 
 * [Debugging](https://developer.apple.com/documentation/xcode/debugging)
 
