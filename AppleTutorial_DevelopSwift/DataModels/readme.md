@@ -8,7 +8,7 @@ What you’ll learn
 
 How to model your own data types in Swift to represent real-world concepts
 
-The fundamentals of SwiftData, which you can use to power apps with any kind of data you can imagine
+The fundamentals of [SwiftData](https://developer.apple.com/documentation/swiftdata), which you can use to power apps with any kind of data you can imagine
 
 How to work with Xcode previews to design an interface around your data model
 
