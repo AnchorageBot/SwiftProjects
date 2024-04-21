@@ -107,6 +107,7 @@ struct ContentView: View {
         pickedName = randomName
         
         if shouldRemovePickedName {
+            /// Used shorthand closure parameter names ($0) to simplify the closure in removeAll.
             names.removeAll { $0 == randomName }
         }
     }
