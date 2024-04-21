@@ -14,6 +14,8 @@ Glossary and Concepts
 
 * [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols)
 
+* [Swift Data](https://developer.apple.com/documentation/swiftdata)
+
 * [Ternary Conditional Operator](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Ternary-Conditional-Operator)
 
 * [Toggle](https://developer.apple.com/documentation/swiftui/toggle)
