@@ -95,6 +95,8 @@ struct ContentView: View {
     }
     
     /// Picks a random name from the names array and updates the pickedName state property
+    /// Used guard statements to handle optional values and early return if conditions are not met, 
+    /// improving code clarity and reducing nested if statements.
     /// If shouldRemovePickedName is true, removes the picked name from the names array
     private func pickRandomName() {
         guard let randomName = names.randomElement() else {
