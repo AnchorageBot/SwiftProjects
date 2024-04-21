@@ -2,4 +2,4 @@
 
 - - - -
 
-Commented and refactored by Anthropic AI Claude
+Commented and refactored by [Anthropic AI Claude](https://www.anthropic.com)
