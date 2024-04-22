@@ -8,6 +8,8 @@ Glossary and Concepts
 
 * [Declaring a custom view - Define views and assemble them into a view hierarchy](https://developer.apple.com/documentation/swiftui/declaring-a-custom-view)
 
+* [EnvironmentValues](https://developer.apple.com/documentation/swiftui/environmentvalues/)
+
 * [Managing assets with asset catalogs](https://developer.apple.com/documentation/xcode/managing-assets-with-asset-catalogs)
 
 * [NavigationStack](https://developer.apple.com/documentation/swiftui/navigationstack)
