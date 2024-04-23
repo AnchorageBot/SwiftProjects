@@ -4,6 +4,14 @@ Use SwiftData to store and load information for your app.
 
 - - - -
 
+Chapter 1
+
+Models and persistence
+
+Build a list of your friends’ birthdays, using SwiftData to save and retrieve that data across launches.
+
+- - - -
+
 What you’ll learn
 
 How to model your own data types in Swift to represent real-world concepts
