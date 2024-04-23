@@ -20,6 +20,9 @@
    https://developer.apple.com/documentation/xctest/xctestcase/checking_assumptions_with_assertions
  - XCTest Performance Testing
    https://developer.apple.com/documentation/xctest/performance_tests
+ - ModelContext and ModelContainer Documentation
+   https://developer.apple.com/documentation/swiftdata/modelcontext
+   https://developer.apple.com/documentation/swiftdata/modelcontainer
 */
 
 import XCTest
@@ -36,7 +39,8 @@ final class BirthdaysTests: XCTestCase {
     
     override func setUpWithError() throws {
         // Set up the model context for testing
-        context = ModelContext(for: Friend.self, inMemory: true)
+        let modelContainer = ModelContainer(for: Friend.self)
+        context = ModelContext(container: modelContainer)
     }
     
     override func tearDownWithError() throws {
@@ -54,11 +58,15 @@ final class BirthdaysTests: XCTestCase {
         let friend = Friend(name: name, birthday: birthday)
         context.insert(friend)
         
-        let fetchedFriends: [Friend] = context.fetch(FetchDescriptor<Friend>())
-        
-        XCTAssertEqual(fetchedFriends.count, 1, "Expected one friend entry after creation")
-        XCTAssertEqual(fetchedFriends.first?.name, name, "Expected friend name to match")
-        XCTAssertEqual(fetchedFriends.first?.birthday, birthday, "Expected friend birthday to match")
+        do {
+            let fetchedFriends: [Friend] = try context.fetch(FetchDescriptor<Friend>())
+            
+            XCTAssertEqual(fetchedFriends.count, 1, "Expected one friend entry after creation")
+            XCTAssertEqual(fetchedFriends.first?.name, name, "Expected friend name to match")
+            XCTAssertEqual(fetchedFriends.first?.birthday, birthday, "Expected friend birthday to match")
+        } catch {
+            XCTFail("Failed to fetch friends: \(error)")
+        }
     }
     
     func testDeleteFriend() throws {
@@ -68,9 +76,13 @@ final class BirthdaysTests: XCTestCase {
         
         context.delete(friend)
         
-        let fetchedFriends: [Friend] = context.fetch(FetchDescriptor<Friend>())
-        
-        XCTAssertEqual(fetchedFriends.count, 0, "Expected no friend entries after deletion")
+        do {
+            let fetchedFriends: [Friend] = try context.fetch(FetchDescriptor<Friend>())
+            
+            XCTAssertEqual(fetchedFriends.count, 0, "Expected no friend entries after deletion")
+        } catch {
+            XCTFail("Failed to fetch friends: \(error)")
+        }
     }
     
     func testBirthdayToday() throws {
