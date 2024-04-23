@@ -40,7 +40,11 @@ final class BirthdaysTests: XCTestCase {
     override func setUpWithError() throws {
         // Set up the model context for testing
         let modelContainer = ModelContainer(for: Friend.self)
-        context = try! ModelContext(modelContainer)
+        do {
+            context = try ModelContext(modelContainer)
+        } catch {
+            throw error
+        }
     }
     
     override func tearDownWithError() throws {
