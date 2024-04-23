@@ -23,3 +23,19 @@ Topics and skills covered
 * Displaying modal interfaces using sheets
 * Custom view initializers
 * Rendering views conditionally using Group
+
+- - - -
+
+Keyboard shortcuts
+
+* Splat (command) a = select all
+* Splat c = copy
+* Splat v = paste
+
+* Control + I = Align code
+
+* Command + /: Toggle comment/uncomment for the selected lines
+* Command + [: Shift the selected line or lines one tab to the left
+* Command + ]: Shift the selected line or lines one tab to the right
+* Command + Option + [: Fold the current block of code
+* Command + Option + ]: Unfold the current block of code
