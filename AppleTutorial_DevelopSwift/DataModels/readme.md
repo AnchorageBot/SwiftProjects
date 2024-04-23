@@ -21,3 +21,15 @@ Data modeling is the art of representing real-world concepts as models in your c
 The Pick-a-Pal app forgets its list of names because it uses a @State property to manage them. That’s fine for a prototype, but people expect apps to remember the data they’re working with. And suppose you wanted to track how many times each friend was chosen in Pick-a-Pal. Doing so by adding another array of built-in types would be cumbersome.
 
 To take your apps to the next level, you can create your own model types that better express your data and the relationships between them. Then you can add these models to SwiftData to get a powerful data store that persists data across the many times people open your app. SwiftData works with SwiftUI to manage a two-way connection between your views and the data they rely on.
+
+- - - -
+
+Topics and skills covered
+* Representing real-world concepts as data models
+* Using Date, DatePicker, and Calendar to work with dates
+* Positioning content on the screen using .safeAreaInset
+* Formatting dates in Text views
+* SwiftData @Model classes
+* SwiftData context
+* Using @Query to populate an interface
+* Using @Environment to get important values from parent views
