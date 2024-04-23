@@ -28,4 +28,6 @@ Glossary and Concepts
 
 * [Toggle Style](https://developer.apple.com/documentation/swiftui/togglestyle)
 
+* [XCTest](https://developer.apple.com/documentation/xctest)
+
 * [ZStack - A view that overlays its subviews, aligning them in both axes](https://developer.apple.com/documentation/swiftui/zstack) 
