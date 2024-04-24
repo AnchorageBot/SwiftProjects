@@ -12,7 +12,7 @@ The SwiftData app template gives you a head start by including an interface for 
 
 - - - -
 
-To create the project in Xcode
+To create the project in Xcode 15.3
 * File -> New -> Project
 * Template -> iOS -> Application -> App
 * Project Name -> FavoriteMovies
