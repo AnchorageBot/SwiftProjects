@@ -11,6 +11,6 @@ To create the project in Xcode
 * Storage -> SwiftData
 
 This autogenerates three files
-* FavoriteMoviewApp.swift
+* FavoriteMoviesApp.swift
 * ContentView.swift
 * Item.swift
