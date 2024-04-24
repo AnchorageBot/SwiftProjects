@@ -12,5 +12,5 @@ To create the project in Xcode
 
 This autogenerates three files
 * FavoriteMoviewApp.swift
-* ConentView.swift
+* ContentView.swift
 * Item.swift
