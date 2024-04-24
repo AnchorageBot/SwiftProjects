@@ -10,7 +10,7 @@ To create the project in Xcode
 * Language -> Swift
 * Storage -> SwiftData
 
-This auto creates three files
+This autogenerates three files
 * FavoriteMoviewApp.swift
 * ConentView.swift
 * Item.swift
