@@ -45,6 +45,7 @@ final class Movie {
     /// - Parameter timestamp: The timestamp value to be associated with the item.
     init(title: String, releaseDate: Date) {
         // Assign the provided releaseData value to the `timestamp` property of the class.
+        self.title = title   
         self.releaseData = releaseDate
     }
 }
