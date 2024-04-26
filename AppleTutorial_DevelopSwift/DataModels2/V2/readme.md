@@ -1,4 +1,4 @@
-2nd Draft
+2nd Draft - Following the Apple tutorial
 - - - -
 
 Section 2
