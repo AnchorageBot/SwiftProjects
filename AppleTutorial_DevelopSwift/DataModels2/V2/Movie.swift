@@ -1,5 +1,5 @@
 //
-//  MovieV1.swift
+//  Movie.swift
 //  FavoriteMovies
 //
 //  Created by ATS on 4/23/24
