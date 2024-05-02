@@ -1,3 +1,7 @@
+8th Draft - Following the Apple tutorial
+
+- - - -
+
 Section 7
 
 Use the toolbar to add actions
