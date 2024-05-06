@@ -9,6 +9,10 @@ Apple Download Files
   * ModuleCard.swift
   * ModuleDetail.swift
 * Globe folder (group)
+  * Globe.swift
+  * GlobeControls.swift
+  * GlobeModule.swift
+  * GlobeToggle.swift 
 * Orbit folder (group)
 * Solar System folder (group)
 * Reality Views folder (group)
