@@ -1,4 +1,4 @@
-Apple Download Files
+Apple App - Download Files
 
 - - - -
 
@@ -14,6 +14,9 @@ Apple Download Files
   * GlobeModule.swift
   * GlobeToggle.swift 
 * Orbit folder (group)
+  * Orbit.swift
+  * OrbitModule.swift
+  * OrbitToggle.swift 
 * Solar System folder (group)
 * Reality Views folder (group)
 * Entities folder (group)
