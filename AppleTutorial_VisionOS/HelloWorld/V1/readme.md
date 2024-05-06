@@ -18,6 +18,10 @@ Apple App - Download Files
   * OrbitModule.swift
   * OrbitToggle.swift 
 * Solar System folder (group)
+  * SolarSystem.swift
+  * SolarSystemControls.swift
+  * SolarSystemModule.swift
+  * SolarSystemToggle.swift
 * Reality Views folder (group)
 * Entities folder (group)
 * Systems folder (group)
