@@ -18,3 +18,4 @@ Apple Download Files
 * Model folder (group)
 * Settings folder (group)
 * Resources folder (group)
+* License.txt
