@@ -3,6 +3,9 @@ Apple Download Files
 - - - -
 * Modules
   * Modules.swift
+  * TableOfContents.swift
+  * ModuleCard.swift
+  * ModuleDetail.swift
 * Globe
 * Orbit
 * Solar System
