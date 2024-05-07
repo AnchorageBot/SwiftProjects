@@ -23,6 +23,9 @@ Apple App - Download Files
   * SolarSystemModule.swift
   * SolarSystemToggle.swift
 * Reality Views folder (group)
+  * Earth.swift
+  * Sun.swift
+  * Starfield.swift 
 * Entities folder (group)
 * Systems folder (group)
 * Modifiers folder (group)
