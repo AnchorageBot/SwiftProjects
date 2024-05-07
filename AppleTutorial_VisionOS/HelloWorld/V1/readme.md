@@ -27,6 +27,12 @@ Apple App - Download Files
   * Sun.swift
   * Starfield.swift 
 * Entities folder (group)
+  * EarthEntity.swift
+  * EarthEntity+Configuration.swift
+  * SatelliteEntity.swift
+  * SatelliteEntity+Configuration.swift
+  * Entity+Sunlight.swift
+  * Entity+Trace.swift
 * Systems folder (group)
 * Modifiers folder (group)
 * Model folder (group)
