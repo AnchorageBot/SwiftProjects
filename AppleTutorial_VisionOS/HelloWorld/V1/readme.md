@@ -43,6 +43,7 @@ Runs with Xcode 15.3 simulator (VisionOS 1.1)
 * Modifiers folder (group)
   * PlacementGesturesModifier.swift
   * DragRotationModifier.swift
+  * TextTypeModifier.swift
 * Model folder (group)
 * Settings folder (group)
 * Resources folder (group)
