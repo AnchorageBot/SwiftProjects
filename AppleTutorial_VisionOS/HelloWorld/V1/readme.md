@@ -38,6 +38,8 @@ Runs with Xcode 15.3 simulator (VisionOS 1.1)
   * Entity+Sunlight.swift
   * Entity+Trace.swift
 * Systems folder (group)
+  * RotationSystem.swift
+  * TraceSystem.swift 
 * Modifiers folder (group)
 * Model folder (group)
 * Settings folder (group)
