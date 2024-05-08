@@ -42,6 +42,7 @@ Runs with Xcode 15.3 simulator (VisionOS 1.1)
   * TraceSystem.swift 
 * Modifiers folder (group)
   * PlacementGesturesModifier.swift
+  * DragRotationModifier.swift
 * Model folder (group)
 * Settings folder (group)
 * Resources folder (group)
