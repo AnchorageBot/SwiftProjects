@@ -45,6 +45,8 @@ Runs with Xcode 15.3 simulator (VisionOS 1.1)
   * DragRotationModifier.swift
   * TextTypeModifier.swift
 * Model folder (group)
+  * ViewModel.swift
+  * Module.swift
 * Settings folder (group)
 * Resources folder (group)
 * License.txt
