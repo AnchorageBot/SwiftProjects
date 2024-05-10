@@ -12,3 +12,5 @@ Glossary and Concepts
   * Use state as the single source of truth for a given value type that you store in a view hierarchy. Create a state value in an App, Scene, or View by applying the @State attribute to a property declaration and providing an initial value.
 * [Observable](https://developer.apple.com/documentation/Observation/Observable)
   * A type that emits notifications to observers when underlying data changes. Conforming to this protocol signals to other APIs that the type supports observation.
+* [Section](https://developer.apple.com/documentation/swiftui/section)
+  * Use Section instances in views like List, Picker, and Form to organize content into separate sections. Each section has custom content that you provide on a per-instance basis. You can also provide headers and footers for each section. 
