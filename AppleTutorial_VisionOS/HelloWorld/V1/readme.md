@@ -51,6 +51,7 @@ Runs with Xcode 15.3 simulator (VisionOS 1.1)
   * SettingsButton.swift
   * GlobeSettings.swift
   * OrbitSettings.swift
-  * SolarSystemSettings
+  * SolarSystemSettings.swift
+  * EarthSettings.swift
 * Resources folder (group)
 * License.txt
