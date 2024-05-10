@@ -48,5 +48,7 @@ Runs with Xcode 15.3 simulator (VisionOS 1.1)
   * ViewModel.swift
   * Module.swift
 * Settings folder (group)
+  * SettingsButton.swift
+  *  
 * Resources folder (group)
 * License.txt
