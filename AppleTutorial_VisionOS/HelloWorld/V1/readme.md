@@ -54,5 +54,6 @@ Runs with Xcode 15.3 simulator (VisionOS 1.1)
   * SolarSystemSettings.swift
   * EarthSettings.swift
   * SatelliteSettings.swift
+  * SliderGridRow.swift
 * Resources folder (group)
 * License.txt
