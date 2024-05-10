@@ -1,5 +1,7 @@
 
-[Apple Vision OS Resources](https://developer.apple.com/visionos/resources/)
+[Apple VisionOS Pathway](https://developer.apple.com/visionos/pathway/)
+
+[Apple VisionOS Resources](https://developer.apple.com/visionos/resources/)
 
 - - - -
 
