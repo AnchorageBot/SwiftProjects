@@ -2,6 +2,8 @@ Glossary and Concepts
 
 - - - -
 
+* [@Bindable](https://developer.apple.com/documentation/swiftui/bindable)
+  * Use this property wrapper to create bindings to mutable properties of a data model object that conforms to the Observable protocol. 
 * [@Binding](https://developer.apple.com/documentation/swiftui/binding)
   * Use a binding to create a two-way connection between a property that stores data, and a view that displays and changes the data. A binding connects a property to a source of truth stored elsewhere, instead of storing data directly.
 * [@Environment](https://developer.apple.com/documentation/swiftui/environment)
