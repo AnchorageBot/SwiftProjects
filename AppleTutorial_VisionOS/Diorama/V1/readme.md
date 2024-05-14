@@ -23,3 +23,4 @@ Packages folder (group)
     * RegionSpecificComponent.swift
     * ShaderGraphMaterials.swift
     * Style.swift
+    * TrailAnimationSystem.swift
