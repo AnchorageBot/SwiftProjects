@@ -21,3 +21,4 @@ Packages folder (group)
     * PointOfInterestComponent.swift
     * RealityKitContent.swift
     * RegionSpecificComponent.swift
+    * ShaderGraphMaterials.swift
