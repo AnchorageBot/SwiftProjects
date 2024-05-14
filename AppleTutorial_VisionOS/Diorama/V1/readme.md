@@ -19,3 +19,4 @@ Packages folder (group)
     * BillboardComponent.swift
     * BillboardSystem.swift
     * PointOfInterestComponent.swift
+    * RealityKitContent.swift
