@@ -10,3 +10,4 @@ Diorama folder (group)
   * DioramaApp.swift
   * ContentView.swift
   * ViewModel.swift
+  * DioramaView
