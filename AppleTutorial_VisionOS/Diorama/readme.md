@@ -14,7 +14,7 @@ Diorama demonstrates many of RealityKit and Reality Composer Pro’s features. I
 
 - - - -
 
-[Object Capture](https://developer.apple.com/augmented-reality/object-capture/)
+[Object Capture - Apple](https://developer.apple.com/augmented-reality/object-capture/)
 
 - - - -
 
@@ -22,7 +22,7 @@ Reality Composer Pro
 
 - - - -
 
-[Reality Kit](https://developer.apple.com/augmented-reality/realitykit/)
+[Reality Kit - Apple](https://developer.apple.com/augmented-reality/realitykit/)
 
 - - - -
 
