@@ -22,3 +22,4 @@ Packages folder (group)
     * RealityKitContent.swift
     * RegionSpecificComponent.swift
     * ShaderGraphMaterials.swift
+    * Style.swift
