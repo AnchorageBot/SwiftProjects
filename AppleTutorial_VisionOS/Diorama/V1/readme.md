@@ -17,3 +17,4 @@ Packages folder (group)
     * CatalinaData
     * YosemiteData
     * BillboardComponent.swift
+    * BillboardSystem.swift
