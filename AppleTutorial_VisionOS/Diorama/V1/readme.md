@@ -14,4 +14,5 @@ Diorama folder (group)
   * 
 Packages folder (group)
   * RealityKitContent
-    * 
+    * CatalinaData
+    * YosemiteData
