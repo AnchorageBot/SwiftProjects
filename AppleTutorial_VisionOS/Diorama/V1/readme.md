@@ -16,3 +16,4 @@ Packages folder (group)
   * RealityKitContent
     * CatalinaData
     * YosemiteData
+    * BillboardComponent.swift
