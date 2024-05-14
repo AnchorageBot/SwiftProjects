@@ -18,3 +18,4 @@ Packages folder (group)
     * YosemiteData
     * BillboardComponent.swift
     * BillboardSystem.swift
+    * PointOfInterestComponent.swift
