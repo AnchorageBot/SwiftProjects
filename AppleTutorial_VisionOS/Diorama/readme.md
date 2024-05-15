@@ -30,4 +30,4 @@ Diorama demonstrates many of RealityKit and Reality Composer Pro’s features. I
 
 - - - -
 
-[Understand USD fundamentals](https://developer.apple.com/videos/play/wwdc2022/10129/)
+[Understand USD (Pixar's Universal Scene Description) fundamentals](https://developer.apple.com/videos/play/wwdc2022/10129/)
