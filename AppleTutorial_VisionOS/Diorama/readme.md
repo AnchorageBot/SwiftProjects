@@ -18,7 +18,7 @@ Diorama demonstrates many of RealityKit and Reality Composer Pro’s features. I
 
 - - - -
 
-Reality Composer Pro
+[Reality Composer Pro](https://developer.apple.com/videos/play/wwdc2023/10083)
 
 - - - -
 
