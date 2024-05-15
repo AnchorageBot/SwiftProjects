@@ -27,3 +27,7 @@ Diorama demonstrates many of RealityKit and Reality Composer Pro’s features. I
 - - - -
 
 [Shader Graph - Unity](https://unity.com/features/shader-graph)
+
+- - - -
+
+[Understand USD fundamentals](https://developer.apple.com/videos/play/wwdc2022/10129/)
