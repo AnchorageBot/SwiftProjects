@@ -18,12 +18,14 @@ Diorama folder (group)
   * FlockingSystem.swift
 
 Packages folder (group)
-  * RealityKitContent
+  * RealityKitContent.swift
     * Bird_Call_1.wav
     * Bird_Call_2.wav
-    * Bird_With_Audio.wav 
-    * CatalinaData
-    * YosemiteData
+    * Bird_With_Audio.usda
+    * Bird.usdz
+    * Catalina.usdz
+    * CatalinaData folder (group)
+    * YosemiteData folder (group)
     * BillboardComponent.swift
     * BillboardSystem.swift
     * PointOfInterestComponent.swift
