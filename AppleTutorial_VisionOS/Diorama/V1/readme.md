@@ -18,8 +18,10 @@ Diorama folder (group)
   * FlockingSystem.swift
 
 Packages folder (group)
-  * RealityKitContent.swift
-    * Bird_Call_1.wav
+  * RealityKitContent
+    * Package.swift
+    * Sources folder (group)
+      * Bird_Call_1.wav
     * Bird_Call_2.wav
     * Bird_With_Audio.usda
     * Bird.usdz
