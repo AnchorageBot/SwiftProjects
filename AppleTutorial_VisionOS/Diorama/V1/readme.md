@@ -13,6 +13,7 @@ Diorama folder (group)
   * DioramaView.swift
   * Components.swift
   * AttachmentsProvider.swift
+  * LearnMoreView.swift
   * 
 Packages folder (group)
   * RealityKitContent
