@@ -32,4 +32,5 @@ WWDC22 Videos
 
 WWDC21 Videos
 
-* [Create 3D Workflows with USD](https://developer.apple.com/videos/play/wwdc2021/10076/)
+* [Create 3D Workflows with USD](https://developer.apple.com/videos/play/wwdc2021/10077/)
+
