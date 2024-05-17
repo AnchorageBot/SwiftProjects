@@ -10,7 +10,8 @@ Diorama folder (group)
   * DioramaApp.swift
   * ContentView.swift
   * ViewModel.swift
-  * DioramaView
+  * DioramaView.swift
+  * Components.swift
   * 
 Packages folder (group)
   * RealityKitContent
