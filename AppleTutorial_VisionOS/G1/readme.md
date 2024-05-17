@@ -10,6 +10,8 @@ Glossary and Concepts
   * Use the Environment property wrapper to read a value stored in a view’s environment.
 * [@State](https://developer.apple.com/documentation/swiftui/state)
   * Use state as the single source of truth for a given value type that you store in a view hierarchy. Create a state value in an App, Scene, or View by applying the @State attribute to a property declaration and providing an initial value.
+ 
+* [High Efficiency Image Container - HEIC](https://www.adobe.com/creativecloud/file-types/image/raster/heic-file.html)
 * [Observable](https://developer.apple.com/documentation/Observation/Observable)
   * A type that emits notifications to observers when underlying data changes. Conforming to this protocol signals to other APIs that the type supports observation.
 * [Section](https://developer.apple.com/documentation/swiftui/section)
