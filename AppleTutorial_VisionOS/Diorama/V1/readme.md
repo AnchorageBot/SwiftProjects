@@ -19,6 +19,9 @@ Diorama folder (group)
 
 Packages folder (group)
   * RealityKitContent
+    * Bird_Call_1.wav
+    * Bird_Call_2.wav
+    * Bird_With_Audio.wav 
     * CatalinaData
     * YosemiteData
     * BillboardComponent.swift
