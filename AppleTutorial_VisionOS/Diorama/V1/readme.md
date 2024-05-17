@@ -22,18 +22,18 @@ Packages folder (group)
     * Package.swift
     * Sources folder (group)
       * Bird_Call_1.wav
-    * Bird_Call_2.wav
-    * Bird_With_Audio.usda
-    * Bird.usdz
-    * Catalina.usdz
-    * CatalinaData folder (group)
-    * YosemiteData folder (group)
-    * BillboardComponent.swift
-    * BillboardSystem.swift
-    * PointOfInterestComponent.swift
-    * RealityKitContent.swift
-    * RegionSpecificComponent.swift
-    * ShaderGraphMaterials.swift
-    * Style.swift
-    * TrailAnimationSystem.swift
-    * TrailComponent.swift
+      * Bird_Call_2.wav
+      * Bird_With_Audio.usda
+      * Bird.usdz
+      * Catalina.usdz
+      * CatalinaData folder (group)
+      * YosemiteData folder (group)
+      * BillboardComponent.swift
+      * BillboardSystem.swift
+      * PointOfInterestComponent.swift
+      * RealityKitContent.swift
+      * RegionSpecificComponent.swift
+      * ShaderGraphMaterials.swift
+      * Style.swift
+      * TrailAnimationSystem.swift
+      * TrailComponent.swift
