@@ -15,7 +15,7 @@ Diorama folder (group)
   * AttachmentsProvider.swift
   * LearnMoreView.swift
   * FlockingComponent.swift
-  * 
+  * FlockingSystem.swift
 
 Packages folder (group)
   * RealityKitContent
