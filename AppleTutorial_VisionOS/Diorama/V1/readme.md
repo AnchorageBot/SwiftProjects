@@ -15,6 +15,8 @@ Diorama folder (group)
   * AttachmentsProvider.swift
   * LearnMoreView.swift
   * FlockingComponent.swift
+  * 
+
 Packages folder (group)
   * RealityKitContent
     * CatalinaData
