@@ -34,3 +34,5 @@ WWDC21 Videos
 
 * [Create 3D Workflows with USD](https://developer.apple.com/videos/play/wwdc2021/10077/)
 
+* [Create 3D models with Object Capture](https://developer.apple.com/videos/play/wwdc2021/10076/)
+
