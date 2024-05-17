@@ -26,4 +26,4 @@ WWDC23 Videos
 
 WWDC22 Videos
 
-* 
+* [Understand USD (Pixar's Universal Scene Description) fundamentals](https://developer.apple.com/videos/play/wwdc2022/10129/)
