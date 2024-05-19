@@ -30,6 +30,7 @@ Packages folder (group)
         * DioramaCatalina_ao.png
         * DioramaCatalina_bc.png
         * DioramaCatalina_n.png
+        * DioramaCatalina_r.png
       * YosemiteData folder (group)
       * BillboardComponent.swift
       * BillboardSystem.swift
