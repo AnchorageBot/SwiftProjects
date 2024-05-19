@@ -27,7 +27,8 @@ Packages folder (group)
       * Bird.usdz
       * Catalina.usdz
       * CatalinaData folder (group)
-        * DioramaCatalina_ao.png 
+        * DioramaCatalina_ao.png
+        * DioramaCatalina_bc.png
       * YosemiteData folder (group)
       * BillboardComponent.swift
       * BillboardSystem.swift
