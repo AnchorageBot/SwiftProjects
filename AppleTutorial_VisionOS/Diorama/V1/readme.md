@@ -32,7 +32,7 @@ Packages folder (group)
         * DioramaCatalina_n.png
         * DioramaCatalina_r.png
         * DioramaCatalina_refit_h.png
-      * Cloud_A.usdz
+      * Cloud_A.usda
       * YosemiteData folder (group)
       * BillboardComponent.swift
       * BillboardSystem.swift
