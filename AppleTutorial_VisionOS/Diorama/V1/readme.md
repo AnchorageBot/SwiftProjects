@@ -43,6 +43,8 @@ Packages folder (group)
       * Location_Pin.usdz
       * Materials.usda
       * Ocean_Sounds.wav
+      * ParticleEmitterPresetTextures
+        * dustsheet.exr
       * YosemiteData folder (group)
       * BillboardComponent.swift
       * BillboardSystem.swift
