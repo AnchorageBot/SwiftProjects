@@ -35,6 +35,7 @@ Packages folder (group)
       * Cloud_A.usda
       * Cloud_B.usda
       * Cloud_C.usda
+      * Cloud_Chunk.usda
       * YosemiteData folder (group)
       * BillboardComponent.swift
       * BillboardSystem.swift
