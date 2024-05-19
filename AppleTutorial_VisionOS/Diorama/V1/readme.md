@@ -45,6 +45,7 @@ Packages folder (group)
       * Ocean_Sounds.wav
       * ParticleEmitterPresetTextures folder (group)
         * dustsheet.exr
+      * SmoothConcrete.usda
       * YosemiteData folder (group)
       * BillboardComponent.swift
       * BillboardSystem.swift
