@@ -41,6 +41,7 @@ Packages folder (group)
       * FlatTerrain.usdz
       * ForestSounds.wav
       * Location_Pin.usdz
+      * Materials.usda
       * YosemiteData folder (group)
       * BillboardComponent.swift
       * BillboardSystem.swift
