@@ -37,7 +37,7 @@ Packages folder (group)
       * Cloud_C.usda
       * Cloud_Chunk.usda
       * Diorama_Base.usdz
-      * DioramaAssembled.usdz
+      * DioramaAssembled.usda
       * YosemiteData folder (group)
       * BillboardComponent.swift
       * BillboardSystem.swift
