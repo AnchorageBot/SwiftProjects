@@ -39,6 +39,7 @@ Packages folder (group)
       * Diorama_Base.usdz
       * DioramaAssembled.usda
       * FlatTerrain.usdz
+      * ForestSounds.wav
       * YosemiteData folder (group)
       * BillboardComponent.swift
       * BillboardSystem.swift
