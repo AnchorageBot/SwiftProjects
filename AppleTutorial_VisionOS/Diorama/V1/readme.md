@@ -42,6 +42,7 @@ Packages folder (group)
       * ForestSounds.wav
       * Location_Pin.usdz
       * Materials.usda
+      * Ocean_Sounds.wav
       * YosemiteData folder (group)
       * BillboardComponent.swift
       * BillboardSystem.swift
