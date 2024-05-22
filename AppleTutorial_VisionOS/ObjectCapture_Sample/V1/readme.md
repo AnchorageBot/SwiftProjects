@@ -10,3 +10,4 @@ GuidedCapture folder (group)
 
 * AppDataModel.swift
 * AppleDataModel+Orbit.swift
+* License.txt
