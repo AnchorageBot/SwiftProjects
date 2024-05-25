@@ -14,4 +14,5 @@ GuidedCapture folder (group)
 * CaptureFolderManager.swift
 * CaptureOverlayView.swift
 * CaptureOverlayView+Buttons.swift
+* CaptureOverlayView+LocalizedString.swift
 * License.txt
