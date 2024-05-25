@@ -2,7 +2,7 @@ Apple Object Capture Sample Code - Download Files
 
 - - - -
 
-Runs with Xcode 15.3 simulator (VisionOS 1.1)
+Runs with Xcode 15.4, simulator (VisionOS 1.2)
 
 - - - -
 
