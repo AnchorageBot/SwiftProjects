@@ -13,4 +13,5 @@ GuidedCapture folder (group)
 * AppDataModel+Orbit.swift
 * CaptureFolderManager.swift
 * CaptureOverlayView.swift
+* CaptureOverlayView+Buttons.swift
 * License.txt
