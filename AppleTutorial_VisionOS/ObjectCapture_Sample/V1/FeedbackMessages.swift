@@ -12,7 +12,7 @@ import SwiftUI
 @available(iOS 17.0, *)
 /// Keeps the UI string conversions all in one place for simplicity
 final class FeedbackMessages {
-    /Users/stevenlyell/Desktop/Engineering/Apple_VisionOS/ScanningObjectsUsingObjectCapture/GuidedCapture/FeedbackMessages.swift
+    /Users/ATS/Desktop/Engineering/Apple_VisionOS/ScanningObjectsUsingObjectCapture/GuidedCapture/FeedbackMessages.swift
     /// Returns the human readable string to display for the given feedback.
     ///
     /// If there's more than one feedback entry, this method concatenates the entries together with a new line in between them.
