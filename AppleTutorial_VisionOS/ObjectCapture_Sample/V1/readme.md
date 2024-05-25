@@ -20,4 +20,5 @@ GuidedCapture folder (group)
 * FeedbackMessages.swift
 * FeedbackView.swift
 * GuidedCaptureSampleApp.swift
+* HelpPageView.swift
 * License.txt
