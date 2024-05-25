@@ -17,4 +17,5 @@ GuidedCapture folder (group)
 * CaptureOverlayView+LocalizedString.swift
 * CapturePrimaryView.swift
 * ContentView.swift
+* FeedbackMessages.swift
 * License.txt
