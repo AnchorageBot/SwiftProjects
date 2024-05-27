@@ -34,4 +34,5 @@ GuidedCapture folder (group)
 * ShotFileInfo.swift
 * TimedMessageList.swift
 * TutorialVideoView.swift
+* UntilProcessingCompleteFilter.swift
 * License.txt
