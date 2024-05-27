@@ -10,6 +10,10 @@ Implement a full scanning workflow for capturing objects on iOS devices.
 
 - - - -
 
+[Bring your world into augmented reality - WWDC22 Video](https://developer.apple.com/videos/play/wwdc2022/10128)
+
+- - - -
+
 [Create 3D models with Object Capture - WWDC21 Video](https://developer.apple.com/videos/play/wwdc2021/10076/)
 
 Object Capture provides a quick and easy way to create lifelike 3D models of real-world objects using just a few images. Learn how you can get started and bring your assets to life with Photogrammetry for macOS. And discover best practices with object selection and image capture to help you achieve the highest-quality results.
