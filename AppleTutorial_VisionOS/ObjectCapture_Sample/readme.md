@@ -19,3 +19,7 @@ Object Capture provides a quick and easy way to create lifelike 3D models of rea
 [Creating a Photogrammetry Command-Line App - Sample MacOS Code](https://developer.apple.com/documentation/realitykit/creating_a_photogrammetry_command-line_app)
 
 Generate 3D objects from images using RealityKit Object Capture.
+
+- - - -
+
+[AR Quick Look, meet Object Capture - WWDC21 Video](https://developer.apple.com/videos/play/wwdc2021/10078/)
