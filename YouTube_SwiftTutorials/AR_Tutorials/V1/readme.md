@@ -2,4 +2,8 @@
 
 Xcode
 
-* File -> New ->
+* File -> New -> Project - iOS -> Augmented Reality App
+  * Product Name: Sphere.swift
+  * Interface: SwiftUI
+  * Language: Swift
+  * Content Technology: Reality Kit 
