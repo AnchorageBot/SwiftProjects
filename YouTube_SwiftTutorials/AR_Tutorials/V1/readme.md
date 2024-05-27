@@ -24,3 +24,8 @@ iOS Device
 
 Mac
 * Cable (& dongle) to connect iOS Device
+
+- - - -
+
+Xcode
+* Product -> Run
