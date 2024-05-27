@@ -30,4 +30,5 @@ GuidedCapture folder (group)
 * OnboardingView.swift
 * PlayerView.swift
 * ProgressBarView.swift
+* ReconstructionPrimaryView.swift
 * License.txt
