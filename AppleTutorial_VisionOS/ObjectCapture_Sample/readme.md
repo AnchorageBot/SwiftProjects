@@ -4,7 +4,7 @@ Discover how you can offer an end-to-end Object Capture experience directly in y
 
 - - - -
 
-[Scanning objects using Object Capture - Code](https://developer.apple.com/documentation/realitykit/guided-capture-sample)
+[Scanning objects using Object Capture - iOS Code](https://developer.apple.com/documentation/realitykit/guided-capture-sample)
 
 Implement a full scanning workflow for capturing objects on iOS devices.
 
