@@ -21,7 +21,7 @@ struct ARViewContainer: UIViewRepresentable {
         
         let arView = ARView(frame: .zero)
 
-        // Create a cube model
+        // Create a green sphere model
         let mesh = MeshResource.generateSphere(radius: 0.05)
         let material = SimpleMaterial(color: .green, roughness: 0.15, isMetallic: true)
         let model = ModelEntity(mesh: mesh, materials: [material])
