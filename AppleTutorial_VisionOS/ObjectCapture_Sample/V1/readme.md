@@ -26,4 +26,5 @@ GuidedCapture folder (group)
 * OnboardingButtonView+LocalizedString.swift
 * OnboardingStateMachine.swift
 * OnboardingTutorialView.swift
+* nboardingTutorialView+LocalizedString.swift
 * License.txt
