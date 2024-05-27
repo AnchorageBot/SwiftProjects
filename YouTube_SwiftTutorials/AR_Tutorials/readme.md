@@ -4,7 +4,7 @@ Coding tutorials on using RealityKit/ARKit/SwiftUI for mobile Apple AR apps.
 
 - - - -
 
-V1
+V1, V2
 
 Build an AR App in Under 3 Minutes
 
