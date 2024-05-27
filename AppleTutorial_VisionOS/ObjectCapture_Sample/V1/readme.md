@@ -1,4 +1,6 @@
-Apple Object Capture iOS Sample Code - Download Files
+[Scanning objects using Object Capture - Sample iOS Code - Download Files](https://developer.apple.com/documentation/realitykit/guided-capture-sample)
+
+Implement a full scanning workflow for capturing objects on iOS devices.
 
 - - - -
 
