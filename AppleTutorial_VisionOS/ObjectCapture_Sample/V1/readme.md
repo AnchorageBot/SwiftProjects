@@ -33,4 +33,5 @@ GuidedCapture folder (group)
 * ReconstructionPrimaryView.swift
 * ShotFileInfo.swift
 * TimedMessageList.swift
+* TutorialVideoView.swift
 * License.txt
