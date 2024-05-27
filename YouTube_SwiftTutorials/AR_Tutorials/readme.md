@@ -18,4 +18,4 @@ Build an AR App in Under 3 Minutes
 
 V3
 
-RealityKit tutorial: Plane Detection and Raycasting
+Plane Detection and Raycasting
