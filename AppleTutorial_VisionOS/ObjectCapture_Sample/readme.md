@@ -8,8 +8,6 @@ Discover how to preview, prepare, convert, and create spatial content for your v
 
 Discover how you can offer an end-to-end Object Capture experience directly in your iOS apps to help people turn their objects into ready-to-use 3D models. Learn how you can create a fully automated Object Capture scan flow with our sample app and how you can assist people in automatically capturing the best content for their model. We'll also discuss LiDAR data and provide best practices for scanning objects.
 
-- - - -
-
 [Scanning objects using Object Capture - Sample iOS Code](https://developer.apple.com/documentation/realitykit/guided-capture-sample)
 
 Implement a full scanning workflow for capturing objects on iOS devices.
@@ -20,13 +18,15 @@ Implement a full scanning workflow for capturing objects on iOS devices.
 
 Follow along as we demonstrate how you can use Object Capture and RealityKit to bring real-world objects into an augmented reality game. We'll show you how to capture detailed items using the Object Capture framework, add them to a RealityKit project in Xcode, apply stylized shaders and animations, and use them as part of an AR experience. We'll also share best practices when working with ARKit, RealityKit, and Object Capture. 
 
+[Using object capture assets in RealityKit - Sample Code](https://developer.apple.com/documentation/realitykit/using_object_capture_assets_in_realitykit)
+
+Create a chess game using RealityKit and assets created using Object Capture.
+
 - - - -
 
 [Create 3D models with Object Capture - WWDC21 Video](https://developer.apple.com/videos/play/wwdc2021/10076/)
 
 Object Capture provides a quick and easy way to create lifelike 3D models of real-world objects using just a few images. Learn how you can get started and bring your assets to life with Photogrammetry for macOS. And discover best practices with object selection and image capture to help you achieve the highest-quality results.
-
-- - - -
 
 [Creating a Photogrammetry Command-Line App - Sample MacOS Code](https://developer.apple.com/documentation/realitykit/creating_a_photogrammetry_command-line_app)
 
