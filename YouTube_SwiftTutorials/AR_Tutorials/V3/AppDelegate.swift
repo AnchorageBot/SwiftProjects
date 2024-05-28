@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PlaneDetection.swift
 //
-//  Created by Steven Lyell on 5/27/24.
+//  Created by ATS on 5/27/24
 //
 
 import UIKit
