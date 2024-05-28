@@ -7,11 +7,7 @@ Xcode 15.4
 - - - -
 
 Modified file
-* ContentView.swift
-
-- - - -
-Modifications
-* Green sphere
+* ContentView.swift - Green sphere
 
         let mesh = MeshResource.generateSphere(radius: 0.05)
         let material = SimpleMaterial(color: .green, roughness: 0.15, isMetallic: true)
