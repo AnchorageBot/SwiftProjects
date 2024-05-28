@@ -5,7 +5,7 @@
 Xcode 15.4
 
 * File -> New -> Project - iOS -> Augmented Reality App
-  * Product Name: Sphere.swift
+  * Product Name: PlaneDetection.swift
   * Interface: SwiftUI
   * Language: Swift
   * Content Technology: Reality Kit 
