@@ -16,7 +16,7 @@ Build an AR App in Under 3 Minutes
 
 - - - -
 
-V3, V4
+V3
 
 Plane Detection and Raycasting
 
