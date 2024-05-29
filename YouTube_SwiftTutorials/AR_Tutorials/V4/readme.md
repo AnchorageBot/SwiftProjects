@@ -1,4 +1,4 @@
-[RealityKit tutorial: Plane Detection and Raycasting - Nikhil Jacob - YouTube](https://youtu.be/T1u1tyMlMLM?si=QQtj0IFs18EW6ZXi)
+[RealityKit tutorial: Rotate and Scale an Object With Gestures! - Nikhil Jacob - YouTube](https://youtu.be/0yiF6I0JtiM?si=ewB9UnCar_aU7fW1)
 
 - - - -
 
