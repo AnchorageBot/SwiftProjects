@@ -21,3 +21,7 @@ V3, V4
 Plane Detection and Raycasting
 
 - - - -
+
+V5
+
+ Rotate and Scale an Object With Gestures
