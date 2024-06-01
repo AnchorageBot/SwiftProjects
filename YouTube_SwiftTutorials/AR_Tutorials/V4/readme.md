@@ -5,3 +5,7 @@ Tutorial uses [UIKit](https://developer.apple.com/documentation/uikit) which was
 - - - -
 
 Xcode 15.4
+
+- - - -
+
+TutorialViewCommented.swift
