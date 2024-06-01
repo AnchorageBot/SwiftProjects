@@ -14,7 +14,7 @@ Tutorial Xcode File - Uses UIKit - Commented by Claude AI
 
 - - - -
 
-Files reviewed and/or modified by Claude AI
+Files reviewed, commented, and/or modified by Claude AI
 
 * AppDelegate.swift
 * ContentView.swift
