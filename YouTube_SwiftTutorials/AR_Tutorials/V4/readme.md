@@ -8,6 +8,13 @@ Xcode 15.4
 
 - - - -
 
-Tutorial Xcode File - Commented by Claude AI
+Tutorial Xcode File - Uses UIKit - Commented by Claude AI
 
 * TutorialViewCommented.swift
+
+- - - -
+
+Files reviewed and/or modified by Claude AI
+
+* AppDelegate.swift
+* ContentView.swift
