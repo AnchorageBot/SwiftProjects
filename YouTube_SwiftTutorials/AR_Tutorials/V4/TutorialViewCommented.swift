@@ -6,7 +6,7 @@
     //  File was named ViewController.swift
     //  File was part of a storyboard
 //
-//  Transcribed by ATS on 5/31/24
+//  Transcribed by ATS from the YouTube tutorial on 5/31/24
 //  Made with Xcode 15.4
 //
 //  Extensively commented by Claude AI on 5/31/2024
