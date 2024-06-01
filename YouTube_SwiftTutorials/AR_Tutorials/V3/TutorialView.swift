@@ -3,8 +3,9 @@
 //  PlaneDetection.swift
 //
 //  Created by Nikhil Kurian Jacob on 01/07/2021
+    //  RealityKit tutorial: Plane Detection and Raycasting - Nikhil Jacob - YouTube
     //  File was named ViewController.swift
-    //  File was part of a storyboard 
+    //  File was part of a storyboard
 //  Transcribed by ATS on 5/31/24
 //  Made with Xcode 15.4
 //
