@@ -1,6 +1,5 @@
 //
 //  TutorialViewCommented.swift
-//  PlaneDetection.swift
 //
 //  Created by Nikhil Kurian Jacob on 01/07/2021
     //  RealityKit tutorial: Plane Detection and Raycasting - Nikhil Jacob - YouTube
