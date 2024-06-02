@@ -28,6 +28,6 @@ Plane Detection and Raycasting
 
 - - - -
 
-V5
+V5, V6
 
  Rotate and Scale an Object With Gestures
