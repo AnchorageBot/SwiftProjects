@@ -6,7 +6,7 @@ Translated from python to swift by Anthropic's AI Claude
 
 - - - -
 
-Running the Swift Script on Xcode 15.4 (Mac):
+Running the Swift Scripts on Xcode 15.4 (Mac):
 * Open Xcode on your Mac.
 * Create a new playground by selecting "File" -> "New" -> "Playground" from the menu bar.
 * Choose a name for your playground, select the platform as "macOS", and choose the "Blank" template. Then click "Next".
@@ -15,7 +15,7 @@ Running the Swift Script on Xcode 15.4 (Mac):
 * To execute the script, click the "Run" button in the bottom-left corner of the playground editor or press "Shift+Command+Enter".
 * The output will be displayed in the console area on the right side of the playground editor.
 
-Running the Swift Script on Swift Playgrounds (iPad):
+Running the Swift Scripts on Swift Playgrounds (iPad):
 * Open the Swift Playgrounds app on your iPad.
 * Tap the "+" button in the top-left corner to create a new playground.
 * Choose the "Blank" template and tap "Next".
