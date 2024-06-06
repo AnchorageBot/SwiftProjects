@@ -1,4 +1,8 @@
-Anthropic's AI Claude
+Python script originally by Clinton Sheppard
+
+Modifications by ATS
+
+Translated from python to swift by Anthropic's AI Claude
 
 - - - -
 
