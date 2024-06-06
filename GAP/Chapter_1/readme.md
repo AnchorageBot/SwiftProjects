@@ -15,7 +15,7 @@ Running the Swift Scripts on Xcode 15.4 (Mac):
 * To execute the script, click the "Run" button in the bottom-left corner of the playground editor or press "Shift+Command+Enter".
 * The output will be displayed in the console area on the right side of the playground editor.
 
-Running the Swift Scripts on Swift Playgrounds (iPad):
+Running the Swift Scripts on Swift Playgrounds 4.5.1 (iPad):
 * Open the Swift Playgrounds app on your iPad.
 * Tap the "+" button in the top-left corner to create a new playground.
 * Choose the "Blank" template and tap "Next".
