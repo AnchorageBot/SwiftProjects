@@ -2,11 +2,13 @@
 // Script was modified by prompting Anthropic's AI Claude
 // Made with Xcode 15.4 on 5 June, 2024
 
-// Abstract:
-// This script demonstrates the use of a genetic algorithm to guess a target phrase.
-// It generates an initial random guess and iteratively mutates it to improve its fitness.
-// The fitness is determined by comparing each character of the guess with the corresponding
-// character of the target phrase. The algorithm continues until the guess matches the target.
+/* 
+Abstract:
+ - This script demonstrates the use of a genetic algorithm to guess a target phrase.
+ - It generates an initial random guess and iteratively mutates it to improve its fitness.
+ - The fitness is determined by comparing each character of the guess with the corresponding
+  character of the target phrase. The algorithm continues until the guess matches the target.
+*/
 
 import Foundation
 
