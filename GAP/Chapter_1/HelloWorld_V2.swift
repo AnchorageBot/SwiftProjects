@@ -1,3 +1,7 @@
+// An adaptation from Clinton Sheppard's Genetic Algorithms with python book 
+// Script was modified by prompting Anthropic's AI Claude
+// Made with Xcode 15.4 on 5 June, 2024
+
 // Abstract:
 // This script demonstrates the use of a genetic algorithm to guess a target phrase.
 // It generates an initial random guess and iteratively mutates it to improve its fitness.
