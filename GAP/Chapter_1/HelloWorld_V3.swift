@@ -1,4 +1,4 @@
-// An adaptation from Clinton Sheppard's Genetic Algorithms with python book 
+// This script is an adaptation from Clinton Sheppard's Genetic Algorithms with python book 
 // Script was modified by prompting Anthropic's AI Claude
 // Made with Xcode 15.4 on 7 June, 2024
 
