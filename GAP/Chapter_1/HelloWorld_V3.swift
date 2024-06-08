@@ -1,4 +1,6 @@
-import Foundation
+// An adaptation from Clinton Sheppard's Genetic Algorithms with python book 
+// Script was modified by prompting Anthropic's AI Claude
+// Made with Xcode 15.4 on 7 June, 2024
 
 /*
 Abstract:
@@ -21,8 +23,9 @@ It converts the parent string to an array of characters, randomly selects an ind
 * The example usage section demonstrates how to use the functions by generating an initial guess, calculating its fitness, mutating
 the guess, and calculating the fitness of the mutated guess.
 
-
 */
+
+import Foundation
 
 // Genome: Set of possible string values representing the possible universe of characters.
 // It includes lowercase letters, uppercase letters, and some special characters.
