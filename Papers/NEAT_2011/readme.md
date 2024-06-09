@@ -2,9 +2,11 @@
 
 - - - -
 
+Neuroevolution is a method for optimizing neural network weights and topologies using evolutionary computation.
+
 NeuroEvolution of Augmenting Topologies (NEAT)
 
-NEAT is a method for evolving speciated neural networks of arbitrary structures and sizes. NEAT leverages the evolution of structure to make neuroevolution more efficient
+NEAT is a method for evolving speciated neural networks of arbitrary structures and sizes. NEAT leverages the evolution of structure to make neuroevolution more efficient.
 
 - - - -
 
