@@ -1,6 +1,7 @@
 /*
 
 Abstract:
+
 This Swift script is a conversion of a Python script that simulates heat transfer along a rod using the heat equation.
 The script sets up the necessary parameters, such as rod length, material properties, boundary conditions, and simulation time.
 It then initializes arrays for time and distance along the rod, as well as an array to store the temperature solution. The script
