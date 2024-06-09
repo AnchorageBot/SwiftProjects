@@ -17,7 +17,8 @@ Comments:
 - The shape of the temperature solution array is printed.
 - The boundary conditions are applied to the temperature solution array by setting the left and right values for each time step.
 - The temperature solution array is printed.
-- A comment is added to indicate that graphing the solution requires a separate graphing library, such as Charts or Core Plot, which are not part of the standard Swift libraries.
+- A comment is added to indicate that graphing the solution requires a separate graphing library, such as Charts or Core Plot,
+which are not part of the standard Swift libraries.
 
 Made with Xcode 15.4 in June of 2024 with the assistance of Anthropic's AI Claude
 
