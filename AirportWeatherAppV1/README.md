@@ -2,7 +2,7 @@
 
 Apple Developer Resources: 
 
-  - [Meet WeatherKit](https://developer.apple.com/videos/play/wwdc2022/10003/)
+  - [Meet WeatherKit - WWDC22](https://developer.apple.com/videos/play/wwdc2022/10003/)
 
   - [WeatherKit Framework](https://developer.apple.com/documentation/WeatherKit)
 
