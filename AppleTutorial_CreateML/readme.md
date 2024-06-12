@@ -8,13 +8,11 @@ Swift Programming Language
 
 [Create ML](https://developer.apple.com/machine-learning/create-ml/)
 
-Create ML takes the complexity out of model training while producing powerful Core ML models.
+ * Create ML takes the complexity out of model training while producing powerful Core ML models.
 
-- - - -
+ * How-to use the Create ML App in Xcode
 
-How-to use the Create ML App in Xcode
-
-* Xcode -> Open Developer Tool -> Create ML
+   * Xcode -> Open Developer Tool -> Create ML
 
 - - - -
 
