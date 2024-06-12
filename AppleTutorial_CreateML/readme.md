@@ -12,6 +12,10 @@ Create ML takes the complexity out of model training while producing powerful Co
 
 - - - -
 
+Xcode -> Opend Developer Tool -> Create ML
+
+- - - -
+
 Apple Create ML Sample App Code
 
 * [Training a Create ML Model to Classify Flowers](https://developer.apple.com/documentation/vision/training_a_create_ml_model_to_classify_flowers)
