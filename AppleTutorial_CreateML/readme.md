@@ -20,7 +20,7 @@ Create ML
 
 - - - -
 
-Apple Create ML Sample App Code
+Sample App Code
 
 * [Training a Create ML Model to Classify Flowers](https://developer.apple.com/documentation/vision/training_a_create_ml_model_to_classify_flowers)
 
