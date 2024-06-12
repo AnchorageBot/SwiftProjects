@@ -6,9 +6,7 @@ Swift Programming Language
 
 - - - -
 
-Create ML
-
-* [Create machine learning models for use in your app](https://developer.apple.com/machine-learning/create-ml/)
+[Create ML](https://developer.apple.com/machine-learning/create-ml/)
 
 Create ML takes the complexity out of model training while producing powerful Core ML models.
 
