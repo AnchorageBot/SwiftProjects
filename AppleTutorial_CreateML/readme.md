@@ -4,13 +4,19 @@ Swift Programming Language
 
 * [Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
 
+- - - -
+
 Create ML
 
 * [Create machine learning models for use in your app](https://developer.apple.com/machine-learning/create-ml/)
 
+- - - -
+
 Apple Create ML Sample App Code
 
 * [Training a Create ML Model to Classify Flowers](https://developer.apple.com/documentation/vision/training_a_create_ml_model_to_classify_flowers)
+
+- - - -
 
 WWDC23 Videos
 
