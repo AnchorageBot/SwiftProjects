@@ -22,6 +22,8 @@ WWDC24 Videos
 
 * [Explore machine learning on Apple platforms](https://youtu.be/p_hyo2FRil4?si=OoPeFSkNQ5hSHZCv)
 
+* [What’s new in Create ML](https://youtu.be/yjblfqwR37s?si=8IhaG7VAKut7hXCR)
+
 WWDC23 Videos
 
 * [Discover machine learning enhancements in Create ML](https://developer.apple.com/videos/play/wwdc2023/10044)
