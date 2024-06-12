@@ -6,10 +6,14 @@ Swift Programming Language
 
 - - - -
 
-[Apple Core ML](https://developer.apple.com/machine-learning/core-ml/)
+Apple Core ML
 
 * Core ML is optimized for on-device performance of a broad variety of model 
     types by leveraging Apple hardware and minimizing memory footprint and power consumption.
+  
+* [Overview](https://developer.apple.com/machine-learning/core-ml/)
+  
+* Documentation
 
 - - - -
 
