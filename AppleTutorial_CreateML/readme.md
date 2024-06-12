@@ -12,7 +12,9 @@ Create ML takes the complexity out of model training while producing powerful Co
 
 - - - -
 
-Xcode -> Opend Developer Tool -> Create ML
+How-to use the Create ML App in Xcode
+
+* Xcode -> Open Developer Tool -> Create ML
 
 - - - -
 
