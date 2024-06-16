@@ -2,23 +2,12 @@ Dr. Mohammad Samara
 
 - - - -
 
-Physics-Informed Neural Networks (PINNs)
-
-Translated from python to swift via Anthropic's AI, Claude
-
-- - - -
-
-We will cover the fundamentals of Solving partial differential equations (PDEs) and how to solve them using
-finite difference method as well as Physics-Informed Neural Networks (PINNs).
-
-- - - -
-
-- - - -
-
 [Physics-Informed Neural Networks (PINNs)](https://www.udemy.com/course/physics-informed-neural-network-pinns/?couponCode=OF53124)
 
 
 We will cover the fundamentals of Solving partial differential equations (PDEs) and how to solve them using finite difference method as well as Physics-Informed Neural Networks (PINNs).
+
+Translated from python to swift via Anthropic's AI, Claude
 
 - - - -
 
