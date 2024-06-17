@@ -7,7 +7,10 @@
 //  Made with Xcode 15.4
 //
 
-/* Abstract: This file contains the main content view of the app, which displays a tab view with three tabs: Initial Conditions,
+/* 
+Abstract: 
+
+This file contains the main content view of the app, which displays a tab view with three tabs: Initial Conditions,
 Final U Velocity, and Final V Velocity. It also creates an instance of the BurgersEquationSimulation class and starts the
 simulation when the view appears.
 */
