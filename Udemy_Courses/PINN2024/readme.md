@@ -59,6 +59,14 @@ Additional examples:
   * [KTH-FlowAI - Github](https://github.com/KTH-FlowAI)
     
 - - - -
+
+Fun tangents:
+
+* [Partial Differential Equations Related to Fluid Mechanics - Dr. Eduard Feireisl](https://youtu.be/qIxVvecPSbc?si=97Gy2Zw02wJXeDV1)
+
+* [Analysis of open fluid systems with uncertain data - Dr. Eduard Feireisl](https://youtu.be/izHpSwQPdVQ?si=jVz9x5HJSBQNI1JU)
+
+- - - -
  
 Integrated Development Environment
 
