@@ -62,6 +62,8 @@ Additional examples:
 
 Fun tangents:
 
+* [Partial Differential Equations Series - Dr. Christopher Lum](https://youtube.com/playlist?list=PLxdnSsBqCrrFvek-n1MKhFaDARSdKWPnx&si=MzTnzjGgu_DkYgP0)
+
 * [Partial Differential Equations Related to Fluid Mechanics - Dr. Eduard Feireisl](https://youtu.be/qIxVvecPSbc?si=97Gy2Zw02wJXeDV1)
 
 * [Analysis of open fluid systems with uncertain data - Dr. Eduard Feireisl](https://youtu.be/izHpSwQPdVQ?si=jVz9x5HJSBQNI1JU)
