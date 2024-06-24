@@ -21,7 +21,9 @@ Apple Core ML
   * User inputs required data
   * User receiveds prediction output
     
-* A model is the result of applying a machine learning algorithm to a set of training data. 
+* A model is the result of applying a machine learning algorithm to a set of training data.
+
+* [Apple CoreML Models](https://developer.apple.com/machine-learning/models/)
 
 - - - -
 
