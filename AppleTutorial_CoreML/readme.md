@@ -20,7 +20,7 @@ Apple Core ML
     
 * A model is the result of applying a machine learning algorithm to a set of training data.
 
-* [Apple CoreML Models](https://developer.apple.com/machine-learning/models/)
+  * [Apple CoreML Models](https://developer.apple.com/machine-learning/models/)
 
 - - - -
 
