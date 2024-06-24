@@ -18,7 +18,7 @@ Apple Core ML
 
 * Typical workflow - on device
   * Add a model to the project
-  * Load the model file in the app
+  * Load the (.mlmodel) model file in the app
   * User inputs required data
   * User receives prediction output
     
