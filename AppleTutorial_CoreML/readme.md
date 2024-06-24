@@ -13,7 +13,7 @@ Apple Core ML
   
 * [Overview](https://developer.apple.com/machine-learning/core-ml/)
   
-* Documentation
+* [Documentation](https://developer.apple.com/documentation/coreml)
 
 * Typical workflow
   * Add a model to the project
