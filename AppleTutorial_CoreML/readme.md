@@ -11,6 +11,10 @@ Apple Core ML
 * [Overview](https://developer.apple.com/machine-learning/core-ml/)
   
 * [Documentation](https://developer.apple.com/documentation/coreml)
+    
+* A model is the result of applying a machine learning algorithm to a set of training data.
+
+  * [Apple Core ML Models](https://developer.apple.com/machine-learning/models/)
 
 * Typical workflow - on device
   * Add a model to the project
@@ -18,10 +22,6 @@ Apple Core ML
   * User inputs required data
   * User receives prediction output
     
-* A model is the result of applying a machine learning algorithm to a set of training data.
-
-  * [Apple Core ML Models](https://developer.apple.com/machine-learning/models/)
-
 - - - -
 
 Apple CoreML Sample App Code
