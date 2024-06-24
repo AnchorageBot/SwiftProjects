@@ -20,6 +20,8 @@ Apple Core ML
   * Load the model file in the app
   * User inputs required data
   * User receiveds prediction output
+    
+* A model is the result of applying a machine learning algorithm to a set of training data. 
 
 - - - -
 
