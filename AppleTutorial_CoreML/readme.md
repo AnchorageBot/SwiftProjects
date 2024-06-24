@@ -15,11 +15,11 @@ Apple Core ML
   
 * [Documentation](https://developer.apple.com/documentation/coreml)
 
-* Typical workflow
+* Typical workflow - on device
   * Add a model to the project
   * Load the model file in the app
-  * Input required data
-  * Use the prediction output
+  * User inputs required data
+  * User receiveds prediction output
 
 - - - -
 
