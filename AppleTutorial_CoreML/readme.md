@@ -15,6 +15,12 @@ Apple Core ML
   
 * Documentation
 
+* Typical workflow
+  * Add a model to the project
+  * Load the model file in the app
+  * Input required data
+  * Use the prediction output
+
 - - - -
 
 Apple CoreML Sample App Code
