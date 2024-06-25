@@ -7,3 +7,14 @@ AI is increasingly essential for every developer—and you don’t need to be a 
 * I: Fundamentals and Tools—Learn AI basics, our task-based approach, and discover how to build or find a dataset.
 * II: Task Based AI—Build vision, audio, text, motion, and augmentation-related features; learn how to convert preexisting models.
 * III: Beyond—Discover the theory behind task-based practice, explore AI and ML methods, and learn how you can build it all from scratch
+
+- - - -
+
+Datasets
+
+* [Google Dataset Search](https://datasetsearch.research.google.com)
+
+* [Google Public Data Explorer](https://www.google.com/publicdata/directory)
+
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+
