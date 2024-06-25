@@ -16,5 +16,7 @@ Datasets
 
 * [Google Public Data Explorer](https://www.google.com/publicdata/directory)
 
+* [Hugging Face Datasets](https://huggingface.co/docs/datasets/en/index)
+
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 
