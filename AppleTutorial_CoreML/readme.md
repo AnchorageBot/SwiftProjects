@@ -6,7 +6,7 @@ Swift Programming Language
 
 - - - -
 
-Apple Core ML
+Apple Core ML - Use Core ML to integrate machine learning models into your app
   
 * [Overview](https://developer.apple.com/machine-learning/core-ml/)
   
