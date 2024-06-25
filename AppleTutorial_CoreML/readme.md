@@ -18,7 +18,7 @@ Apple Core ML
  
   * [Apple Turi Create - Github](https://github.com/apple/turicreate)
  
-  * [Microsoft MMdnn](https://github.com/microsoft/MMdnn)
+  * [Microsoft MMdnn Github](https://github.com/microsoft/MMdnn)
 
 * Typical workflow - on device
   * Add a model to the project
