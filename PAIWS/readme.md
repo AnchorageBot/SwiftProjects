@@ -8,6 +8,8 @@ AI is increasingly essential for every developer—and you don’t need to be a 
 * II: Task Based AI—Build vision, audio, text, motion, and augmentation-related features; learn how to convert preexisting models.
 * III: Beyond—Discover the theory behind task-based practice, explore AI and ML methods, and learn how you can build it all from scratch
 
+[PAIWS - Github](https://github.com/AIwithSwift)
+
 - - - -
 
 Datasets
