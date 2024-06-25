@@ -15,6 +15,10 @@ Apple Core ML
 * A model is the result of applying a machine learning algorithm to a set of training data.
 
   * [Apple Core ML Models](https://developer.apple.com/machine-learning/models/)
+ 
+  * [Apple Turi Create - Github](https://github.com/apple/turicreate)
+ 
+  * [Microsoft MMdnn](https://github.com/microsoft/MMdnn)
 
 * Typical workflow - on device
   * Add a model to the project
