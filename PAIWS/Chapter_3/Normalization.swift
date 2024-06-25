@@ -13,6 +13,7 @@ func normalise(_ value: Double, upperBound: Double) -> Double {
     }
 
     // function normalizes only positive values
+    // used to assess the health of fish
 
     length = normalise(length, upperBound: maxLength)
     weight = normalise(weight, upperBound: maxWeight)
