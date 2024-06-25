@@ -6,7 +6,7 @@ Swift Programming Language
 
 - - - -
 
-Create ML - Use Create ML with familiar tools like Swift and macOS playgrounds to create and train custom machine learning models on your Mac.
+Create ML - Create and train custom machine learning models on your Mac
 
  * [Overview](https://developer.apple.com/machine-learning/create-ml/)
 
