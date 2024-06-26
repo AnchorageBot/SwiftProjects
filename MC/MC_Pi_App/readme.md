@@ -11,7 +11,7 @@ falling inside a quarter circle to the total number of points.
 
 - - - -
 
-Open Xcode:
+To run the app:
 * Launch Xcode on your Mac. If you don't have it installed, you can download it from the App Store.
 
 * Create a new project:
