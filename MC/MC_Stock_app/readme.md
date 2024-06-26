@@ -3,7 +3,10 @@ Made with Anthropic's AI Claude
 - - - -
 
 Abstract:
-* xxxxx
+* This Swift app demonstrates the use of Monte Carlo simulation to estimate future stock prices.
+* It simulates 30 trading days of Apple stock prices multiple times, using geometric Brownian motion.
+* The app calculates and displays the mean estimated price, as well as a range of possible prices.
+* It also visualizes the simulated price paths using SwiftUI and Charts.
 
 - - - -
 
