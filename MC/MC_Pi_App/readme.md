@@ -6,6 +6,7 @@ Made with Anthropic's AI Claude
 * This Swift script demonstrates a Monte Carlo simulation to estimate the value of pi.
 * It uses random point generation within a 1x1 square and determines the ratio of points
 falling inside a quarter circle to the total number of points.
+* This ratio approximates pi.
 * The result is visualized using SwiftUI and Charts, showing the estimated value of pi and a scatter plot of the points.
 
 - - - -
