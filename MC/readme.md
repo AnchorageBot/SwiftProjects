@@ -10,7 +10,14 @@ are often implemented using computer simulations, and they can provide approxima
 
 - - - -
 
-Anthropic's AI Claude 
+Monte Carlo Method - Anthropic's AI Claude 
+
+At its core, the Monte Carlo method is a statistical technique that uses random sampling to obtain numerical results. It's named after the famous casino in Monaco, which is fitting given its reliance on randomness and probability.
+Key aspects of the Monte Carlo method:
+
+* Random sampling: It generates a large number of random samples.
+* Simulation: It uses these samples to simulate a process or solve a problem.
+* Statistical analysis: It analyzes the results to draw conclusions or make estimations.
 
 - - - -
 
