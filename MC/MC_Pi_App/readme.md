@@ -44,7 +44,7 @@ To run the app:
   * Replace its content with the "MonteCarloPiApp.swift" in this respository
 
 * Run the app:
-  * Choose a simulator from the scheme menu in the top left corner of Xcode (e.g., "iPhone 14 Pro")
+  * Choose a simulator from the scheme menu in the top left corner of Xcode (e.g., "iPhone 15 Pro")
   * Click the "Run" button (play icon) or press Cmd+R
 
 * Interact with the app:
