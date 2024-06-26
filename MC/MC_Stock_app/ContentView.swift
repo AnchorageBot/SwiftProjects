@@ -1,4 +1,10 @@
-
+//
+//  ContentView.swift
+//  MonteCarloStock
+//
+//  Created by ATS and Claude on 6/25/24
+//  Made with Xcode 15.4
+//
 
 // Abstract:
 // This Swift app demonstrates the use of Monte Carlo simulation to estimate future stock prices.
