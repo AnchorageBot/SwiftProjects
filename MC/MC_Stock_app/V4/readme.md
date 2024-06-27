@@ -2,4 +2,4 @@
 
 - - - -
 
-Added user inputs
+Added user inputs for initial price, number of days, volatility, and drift
