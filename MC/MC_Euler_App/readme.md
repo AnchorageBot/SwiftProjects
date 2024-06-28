@@ -39,6 +39,10 @@ To run the app:
   * In the Project Navigator, find the file named "MonteCarloSimulationApp.swift"
   * Replace its content with the "MonteCarloSimulationApp.swift" in this respository
 
+* Add two swift files
+  * MonteCarloSimulation.swift
+  * ContextView.swift
+
 * Run the app:
   * Choose a simulator from the scheme menu in the top left corner of Xcode (e.g., "iPhone 15 Pro")
   * Click the "Run" button (play icon) or press Cmd+R
