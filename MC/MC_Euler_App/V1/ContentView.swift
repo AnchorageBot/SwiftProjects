@@ -1,4 +1,3 @@
-
 // ContentView.swift
 
 //
@@ -11,20 +10,31 @@
 // It manages the UI for running simulations, displaying results, and showing context information.
 // The view includes a visualization of random numbers with y-axes and buttons for user interaction.
 
+// Import the SwiftUI framework
 import SwiftUI
 
+// Define the main ContentView struct
 struct ContentView: View {
+    // State variable to toggle between simulation and context views
     @State private var showingContext = false
+    // State variable to store the estimated value of e
     @State private var estimatedE: Double?
+    // State variable to store random numbers for visualization
     @State private var randomNumbers: [CGFloat] = Array(repeating: 0, count: 100)
     
+    // Define the body of the view
     var body: some View {
+        // Create a vertical stack of views
         VStack {
+            // Conditionally display either ContextView or SimulationView
             if showingContext {
+                // Display ContextView if showingContext is true
                 ContextView(showingContext: $showingContext, runSimulation: runSimulation)
             } else {
+                // Display SimulationView if showingContext is false
                 SimulationView(estimatedE: estimatedE, randomNumbers: randomNumbers)
                 
+                // Button to run the simulation
                 Button(action: runSimulation) {
                     Text("Run Simulation")
                         .padding()
@@ -34,6 +44,7 @@ struct ContentView: View {
                 }
                 .padding()
                 
+                // Button to show context
                 Button(action: { showingContext = true }) {
                     Text("Show Context")
                         .padding()
@@ -45,20 +56,30 @@ struct ContentView: View {
         }
     }
     
+    // Private function to run the Monte Carlo simulation
     private func runSimulation() {
+        // Create a new MonteCarloSimulation instance
         let simulation = MonteCarloSimulation()
+        // Estimate the value of e and store it
         self.estimatedE = simulation.estimateE(iterations: 1_000_000)
+        // Get random numbers for visualization
         self.randomNumbers = simulation.getVisualizationNumbers(count: 100)
+        // Set showingContext to false to display simulation results
         self.showingContext = false
     }
 }
 
+// Define the SimulationView struct
 struct SimulationView: View {
+    // Properties to store the estimated value of e and random numbers
     let estimatedE: Double?
     let randomNumbers: [CGFloat]
     
+    // Define the body of the view
     var body: some View {
+        // Create a vertical stack of views
         VStack {
+            // Conditionally display the estimated value of e or a prompt
             if let e = estimatedE {
                 Text("Estimated value of e: \(e, specifier: "%.6f")")
                     .font(.title)
@@ -117,8 +138,11 @@ struct SimulationView: View {
     }
 }
 
+// Define the YAxisView struct
 struct YAxisView: View {
+    // Define the body of the view
     var body: some View {
+        // Create a vertical stack for y-axis labels
         VStack {
             Text("1.0")
             Spacer()
