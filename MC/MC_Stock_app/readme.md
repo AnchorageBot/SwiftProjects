@@ -49,7 +49,7 @@ To run the app:
 * Interact with the app:
   * Once the app launches in the simulator, you'll see the UI we designed
   * Click the "Run Simulation" button to perform the Monte Carlo estimation of pi
-  * The graph will update, showing the randomly generated points and the estimated value of pi
+  * The graph will update, showing the randomly generated points and the estimated value of a stock
 
 Remember that this is an iOS app, so it's designed to run on iOS devices or simulators. If you want to run it as a macOS app instead, you'll need to create a macOS project and make some minor adjustments to the UI code to fit the macOS environment.
 
