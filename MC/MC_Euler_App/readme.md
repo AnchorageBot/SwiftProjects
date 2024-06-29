@@ -1,4 +1,4 @@
-Made with Anthropic's AI Claude
+Made with [Anthropic's AI Claude](https://claude.ai/login)
 
 - - - -
 
