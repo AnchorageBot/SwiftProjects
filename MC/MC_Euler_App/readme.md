@@ -10,7 +10,7 @@ Abstract:
   - Count how many random numbers were needed to run the experiment
 * We repeat this experiment many times (default: 1,000,000 iterations)
 * The average approximates e
-  * count of numbers needed in an experiment divided by the total number of experiments
+  * total count of all the random numbers needed in all of the experiments divided by the total number of experiments
                 
 * The more iterations we perform, the more accurate our estimate becomes
 
