@@ -1,3 +1,11 @@
+1. Unit Testing:
+
+* Use [XCTest framework](https://developer.apple.com/documentation/xctest) to write unit tests
+* Test individual components and functions in isolation
+* Aim for high code coverage
+
+- - - -
+
 # Monte Carlo Stock Price Simulator - Unit Testing Guide
 
 This guide provides instructions on how to add and run unit tests for the Monte Carlo Stock Price Simulator app using Xcode.
