@@ -12,13 +12,13 @@ This guide provides instructions on how to add and run unit tests for the Monte 
 
 ## Adding Unit Tests to Your Xcode Project
 
-1. Open your Xcode project for the Monte Carlo Pi Estimation app.
+1. Open your Xcode project for the Monte Carlo Stock app.
 
 2. In Xcode, go to File > New > Target.
 
 3. In the new target window, select "Unit Testing Bundle" under the iOS tab.
 
-4. Click "Next" and name your test target (e.g., "MonteCarloPiTests").
+4. Click "Next" and name your test target (e.g., "MonteCarloStockTests").
 
 5. Click "Finish" to create the new test target.
 
@@ -26,7 +26,7 @@ This guide provides instructions on how to add and run unit tests for the Monte 
 
 7. Select "New File" from the context menu.
 
-8. Choose "Swift File" and name it "MonteCarloPiTests.swift".
+8. Choose "Swift File" and name it "MonteCarloStockTests.swift".
 
 9. Copy the provided unit test code into this new file.
 
