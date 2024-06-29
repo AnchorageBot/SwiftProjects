@@ -2,8 +2,6 @@ Made with [Anthropic's AI Claude](https://claude.ai/login)
 
 - - - -
 
----
-
 _Note: This app is for educational purposes only and should not be used for actual financial decision-making._
 
 - - - -
