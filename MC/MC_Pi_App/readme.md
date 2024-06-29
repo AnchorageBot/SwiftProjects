@@ -2,54 +2,65 @@ Made with [Anthropic's AI Claude](https://claude.ai/login)
 
 - - - -
 
-Abstract:
-* This Swift script demonstrates a Monte Carlo simulation to estimate the value of pi.
-* It uses random point generation within a 1x1 square and determines the ratio of points
-falling inside a quarter circle to the total number of points.
-* This ratio approximates pi.
-* The result is visualized using SwiftUI and Charts, showing the estimated value of pi and a scatter plot of the points.
+# Monte Carlo Pi Estimation
 
-- - - -
+This Swift app demonstrates a Monte Carlo simulation to estimate the value of pi using SwiftUI and Charts.
 
-To run the app:
-* Launch Xcode on your Mac. If you don't have it installed, you can download it from the App Store.
+## Abstract
 
-* Create a new project:
-  * Click "File" > "New" > "Project"
-  * Choose "iOS" as the platform
-  * Select "App" under the Application section
-  * Click "Next"
+The Monte Carlo method is a statistical technique that uses random sampling to obtain numerical results. In this app:
 
-* Configure the project:
-  * Enter a name for your project (e.g., "MonteCarloPi")
-  * Choose a location to save the project
-  * Ensure "Interface" is set to "SwiftUI" and "Language" is set to "Swift"
-  * Click "Create"
+- Random points are generated within a 1x1 square.
+- The ratio of points falling inside a quarter circle to the total number of points is calculated.
+- This ratio approximates pi/4, allowing us to estimate pi.
+- The result is visualized using SwiftUI and Charts, showing the estimated value of pi and a scatter plot of the points.
 
-* Replace the default ContentView.swift:
-  * In the Project Navigator (left sidebar), find and select the "ContentView.swift" file
-  * Delete all the existing code in this file
-  * Paste the entire script we created into this file
+## Features
 
-* Add the Charts framework:
-  * Click on your project name in the Project Navigator
-  * Select your target under the "TARGETS" section
-  * Go to the "General" tab
-  * Scroll down to "Frameworks, Libraries, and Embedded Content"
-  * Click the "+" button
-  * Search for "Charts" and add it
+- Interactive UI to run the simulation
+- Real-time visualization of the Monte Carlo process
+- Display of the estimated value of pi
+- Context view explaining the Monte Carlo method
+- Accessibility features for improved usability
 
-* Update the main app file:
-  * In the Project Navigator, find the file named "MonteCarloPiApp.swift"
-  * Replace its content with the "MonteCarloPiApp.swift" in this respository
+## Installation
 
-* Run the app:
-  * Choose a simulator from the scheme menu in the top left corner of Xcode (e.g., "iPhone 15 Pro")
-  * Click the "Run" button (play icon) or press Cmd+R
+1. Ensure you have Xcode installed on your Mac. If not, download it from the App Store.
+2. Clone this repository or download the source code.
 
-* Interact with the app:
-  * Once the app launches in the simulator, you'll see the UI we designed
-  * Click the "Run Simulation" button to perform the Monte Carlo estimation of pi
-  * The graph will update, showing the randomly generated points and the estimated value of pi
+## Running the App
 
-Remember that this is an iOS app, so it's designed to run on iOS devices or simulators. If you want to run it as a macOS app instead, you'll need to create a macOS project and make some minor adjustments to the UI code to fit the macOS environment.
+1. Open the project in Xcode.
+2. Choose a simulator or connected device as the run target.
+3. Click the "Run" button or press Cmd+R to build and run the app.
+
+## Usage
+
+1. Launch the app on your simulator or device.
+2. Click the "Run Simulation" button to perform the Monte Carlo estimation of pi.
+3. Observe the updated graph showing randomly generated points and the estimated value of pi.
+4. Toggle between the simulation view and context view for more information about the method.
+
+## Files
+
+- `MonteCarloPiApp.swift`: Main app file setting up the app structure.
+- `ContentView.swift`: Primary view containing the simulation UI and logic.
+- `ContextView.swift`: View providing additional information about the Monte Carlo method.
+
+## Requirements
+
+- iOS 15.0+
+- Xcode 15.4+
+- Swift 5.5+
+
+## Made with
+
+[Anthropic's AI Claude](https://claude.ai/login)
+
+## License
+
+[Specify your license here]
+
+## Contributing
+
+[Provide instructions for how others can contribute to your project]
