@@ -1,84 +1,75 @@
-Unit Testing:
+# Monte Carlo Stock Price Simulator
 
-* Use [XCTest framework](https://developer.apple.com/documentation/xctest) to write unit tests
-* Test individual components and functions in isolation
-* Aim for high code coverage
+## Overview
 
-- - - -
+This Swift app demonstrates the use of Monte Carlo simulation to estimate future stock prices. Built with SwiftUI and Charts, it provides an interactive interface for users to explore potential stock price outcomes based on various parameters.
 
-# Monte Carlo Stock App - Unit Testing Guide
+## Features
 
-This guide provides instructions on how to add and run unit tests for the Monte Carlo Pi Estimation app using Xcode.
+- Simulates stock prices using geometric Brownian motion
+- Configurable parameters: initial price, number of days, volatility, and drift
+- Runs 1000 simulations for each set of parameters
+- Displays mean estimated price and 95% confidence interval
+- Visualizes 100 simulated price paths using SwiftUI Charts
+- Includes a glossary of key financial terms
 
-## Adding Unit Tests to Your Xcode Project
+## Requirements
 
-1. Open your Xcode project for the Monte Carlo Stock app.
+- Xcode 15.4 or later
+- iOS 16.0 or later
+- Swift 5.0 or later
 
-2. In Xcode, go to File > New > Target.
+## Installation
 
-3. In the new target window, select "Unit Testing Bundle" under the iOS tab.
+1. Clone this repository or download the source code.
+2. Open the project in Xcode.
+3. Ensure the Charts framework is added to your project:
+   - Select your project in the Project Navigator
+   - Choose your target under the "TARGETS" section
+   - Go to the "General" tab
+   - Scroll to "Frameworks, Libraries, and Embedded Content"
+   - If Charts is not listed, click the "+" button and add it
 
-4. Click "Next" and name your test target (e.g., "MonteCarloStockTests").
+## Usage
 
-5. Click "Finish" to create the new test target.
+1. Launch the app on an iOS simulator or device.
+2. Adjust the simulation parameters:
+   - Initial Price: Starting stock price
+   - Number of Days: Simulation duration (1-30 days)
+   - Annual Volatility: Stock price variability (as a percentage)
+   - Annual Drift: Expected annual return (as a percentage)
+3. Tap "Run Simulation" to generate new results.
+4. View the mean estimated price and confidence interval.
+5. Explore the chart showing 100 simulated price paths.
+6. Access the Glossary for definitions of key terms.
 
-6. In the project navigator, right-click on your new test target folder.
+## Code Structure
 
-7. Select "New File" from the context menu.
+- `ContentView.swift`: Main view containing user inputs, simulation logic, and results display
+- `GlossaryView.swift`: View presenting definitions of key financial terms
+- `MonteCarloStockApp.swift`: Main app file defining the app structure
 
-8. Choose "Swift File" and name it "MonteCarloStockTests.swift".
+## Unit Testing
 
-9. Copy the provided unit test code into this new file.
+This project uses the XCTest framework for unit testing. To run the tests:
 
-10. Ensure the import statement at the top of the file matches your main target name:
-    ```swift
-    @testable import YourMainTargetName
-    ```
+1. Open the project in Xcode.
+2. Use the keyboard shortcut `Cmd + U` or go to Product > Test in the Xcode menu.
 
-## Running the Unit Tests
+For more detailed instructions on adding and running unit tests, see the [Unit Testing Guide](TESTING.md).
 
-1. To run all tests:
-   - Use the keyboard shortcut `Cmd + U`
-   - Or go to Product > Test in the Xcode menu
+## Contributing
 
-2. To run a specific test:
-   - Click the diamond-shaped icon next to the test function you want to run
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-3. To run tests in a specific file:
-   - Right-click on the file in the project navigator
-   - Select "Run 'TestFileName'" from the context menu
+## License
 
-## Interpreting Test Results
+This project is open source and available under the [MIT License](LICENSE).
 
-- Green checkmark: The test passed
-- Red X: The test failed
-- Gray diamond: The test didn't run
+## Acknowledgements
 
-## Acting on Test Results
+Created by ATS and Claude, with assistance from [Anthropic's AI Claude](https://www.anthropic.com).
 
-1. If all tests pass:
-   - Your implementation is working as expected
-   - You can proceed with confidence
+---
 
-2. If a test fails:
-   - Xcode will show you which assertion failed
-   - Review the error message and the line of code where the failure occurred
-   - Debug your implementation to address the failing test
-
-3. If you see unexpected results:
-   - Review your test implementation to ensure it's correct
-   - Consider edge cases that might not be covered
-
-4. Iterative process:
-   - Fix any issues in your main code or tests
-   - Re-run the tests
-   - Repeat until all tests pass
-
-## Maintaining and Updating Tests
-
-- As you add new features or modify existing ones, update your tests accordingly
-- Regularly run your test suite to catch any regressions
-- Consider adding new tests for edge cases or scenarios you hadn't previously considered
-
-Remember, thorough testing leads to more robust and reliable code. Happy testing!
-
+_Note: This app is for educational purposes only and should not be used for actual financial decision-making._
