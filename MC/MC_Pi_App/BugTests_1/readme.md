@@ -1,3 +1,11 @@
+Unit Testing:
+
+* Use XCTest framework to write unit tests
+* Test individual components and functions in isolation
+* Aim for high code coverage
+
+- - - -
+
 # Monte Carlo Pi Estimation App - Unit Testing Guide
 
 This guide provides instructions on how to add and run unit tests for the Monte Carlo Pi Estimation app using Xcode.
