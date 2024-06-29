@@ -10,7 +10,7 @@ Abstract:
   - Count how many numbers were needed
 * We repeat this experiment many times (default: 1,000,000 iterations)
 * The average approximates e
-  * count of numbers needed divided total number of experiments experiments
+  * count of numbers needed in an experiment divided by the total number of experiments
                 
 * The more iterations we perform, the more accurate our estimate becomes
 
