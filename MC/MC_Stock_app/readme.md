@@ -2,52 +2,61 @@ Made with [Anthropic's AI Claude](https://claude.ai/login)
 
 - - - -
 
-Abstract:
-* This Swift app demonstrates the use of Monte Carlo simulation to estimate future stock prices.
-* It simulates 30 trading days of Apple stock prices multiple times, using geometric Brownian motion.
-* The app calculates and displays the mean estimated price, as well as a range of possible prices.
-* It also visualizes the simulated price paths using SwiftUI and Charts.
+# Monte Carlo Stock Price Simulator
 
-- - - -
+## Overview
 
-To run the app:
-* Launch Xcode on your Mac. If you don't have it installed, you can download it from the App Store.
+This Swift app demonstrates the use of Monte Carlo simulation to estimate future stock prices. Built with SwiftUI and Charts, it provides an interactive interface for users to explore potential stock price outcomes based on various parameters.
 
-* Create a new project:
-  * Click "File" > "New" > "Project"
-  * Choose "iOS" as the platform
-  * Select "App" under the Application section
-  * Click "Next"
+## Features
 
-* Configure the project:
-  * Enter a name for your project (e.g., "MonteCarloStock")
-  * Choose a location to save the project
-  * Ensure "Interface" is set to "SwiftUI" and "Language" is set to "Swift"
-  * Click "Create"
+- Simulates stock prices using geometric Brownian motion
+- Configurable parameters: initial price, number of days, volatility, and drift
+- Runs 1000 simulations for each set of parameters
+- Displays mean estimated price and 95% confidence interval
+- Visualizes 100 simulated price paths using SwiftUI Charts
+- Includes a glossary of key financial terms
 
-* Replace the default ContentView.swift:
-  * In the Project Navigator (left sidebar), find and select the "ContentView.swift" file
-  * Delete all the existing code in this file
-  * Paste the entire script we created into this file
+## Requirements
 
-* Add the Charts framework:
-  * Click on your project name in the Project Navigator
-  * Select your target under the "TARGETS" section
-  * Go to the "General" tab
-  * Scroll down to "Frameworks, Libraries, and Embedded Content"
-  * Click the "+" button
-  * Search for "Charts" and add it
+- Xcode 15.4 or later
+- iOS 16.0 or later
+- Swift 5.0 or later
 
-* Update the main app file:
-  * In the Project Navigator, find the file named "MonteCarloStockApp.swift"
-  * Replace its content with the "MonteCarloPiApp.swift" in this respository
+## Installation
 
-* Run the app:
-  * Choose a simulator from the scheme menu in the top left corner of Xcode (e.g., "iPhone 15 Pro")
-  * Click the "Run" button (play icon) or press Cmd+R
+1. Clone this repository or download the source code.
+2. Open the project in Xcode.
+3. Ensure the Charts framework is added to your project:
+   - Select your project in the Project Navigator
+   - Choose your target under the "TARGETS" section
+   - Go to the "General" tab
+   - Scroll to "Frameworks, Libraries, and Embedded Content"
+   - If Charts is not listed, click the "+" button and add it
 
-* Interact with the app:
-  * Once the app launches in the simulator, you'll see the UI we designed
+## Usage
 
-Remember that this is an iOS app, so it's designed to run on iOS devices or simulators. If you want to run it as a macOS app instead, you'll need to create a macOS project and make some minor adjustments to the UI code to fit the macOS environment.
+1. Launch the app on an iOS simulator or device.
+2. Adjust the simulation parameters:
+   - Initial Price: Starting stock price
+   - Number of Days: Simulation duration (1-30 days)
+   - Annual Volatility: Stock price variability (as a percentage)
+   - Annual Drift: Expected annual return (as a percentage)
+3. Tap "Run Simulation" to generate new results.
+4. View the mean estimated price and confidence interval.
+5. Explore the chart showing 100 simulated price paths.
+6. Access the Glossary for definitions of key terms.
 
+## Code Structure
+
+- `ContentView.swift`: Main view containing user inputs, simulation logic, and results display
+- `GlossaryView.swift`: View presenting definitions of key financial terms
+- `MonteCarloStockApp.swift`: Main app file defining the app structure
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+_Note: This app is for educational purposes only and should not be used for actual financial decision-making._
