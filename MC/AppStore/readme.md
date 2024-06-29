@@ -2,8 +2,6 @@ How-to submit an app to the Apple App Store
 
 - - - -
 
-# Steps to Post a New App to Apple's App Store
-
 1. **Prepare Your App**
    - Ensure your app is fully tested and bug-free
    - Optimize for different iOS devices and screen sizes
