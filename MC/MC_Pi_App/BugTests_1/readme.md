@@ -1,4 +1,4 @@
-Unit Testing:
+1. Unit Testing:
 
 * Use [XCTest framework](https://developer.apple.com/documentation/xctest) to write unit tests
 * Test individual components and functions in isolation
