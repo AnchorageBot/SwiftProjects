@@ -9,7 +9,8 @@ Abstract:
   - Sum these numbers until the sum exceeds 1
   - Count how many numbers were needed
 * We repeat this experiment many times (default: 1,000,000 iterations)
-* The average count of numbers needed across all experiments approximates e
+* The average approximates e
+  * count of numbers needed divided total number of experiments experiments
                 
 * The more iterations we perform, the more accurate our estimate becomes
 
