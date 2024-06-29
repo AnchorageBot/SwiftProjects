@@ -6,8 +6,8 @@ Abstract:
 * This Swift script demonstrates a Monte Carlo simulation to estimate the mathematical constant e (Euler's number)
 * We repeatedly perform the following experiment:
   - Generate random numbers between 0 and 1
-  - Sum these numbers until the sum exceeds 1
-  - Count how many numbers were needed to run the experiment
+  - Sum these random numbers until the sum exceeds 1
+  - Count how many random numbers were needed to run the experiment
 * We repeat this experiment many times (default: 1,000,000 iterations)
 * The average approximates e
   * count of numbers needed in an experiment divided by the total number of experiments
