@@ -53,10 +53,6 @@ The Monte Carlo method is a statistical technique that uses random sampling to o
 - Xcode 15.4+
 - Swift 5.5+
 
-## Made with
-
-[Anthropic's AI Claude](https://claude.ai/login)
-
 ## License
 
 MiT
