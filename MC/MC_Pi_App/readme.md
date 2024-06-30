@@ -55,5 +55,5 @@ The Monte Carlo method is a statistical technique that uses random sampling to o
 
 ## License
 
-MiT
+This project is open source and available under the [MIT License](LICENSE).
 
