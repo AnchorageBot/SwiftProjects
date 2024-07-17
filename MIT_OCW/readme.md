@@ -1,3 +1,5 @@
-[MIT OpenCourseWare](https://ocw.mit.edu)
+[MIT OpenCourseWare - Homepage](https://ocw.mit.edu)
 
-Free and open collection of material from thousands of MIT courses, covering the entire MIT curriculum.
+[MIT OpenCourseWare - YouTube](http://www.youtube.com/@mitocw)
+
+Free and open collection of material from thousands of MIT courses, covering the entire MIT curriculum
