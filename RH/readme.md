@@ -2,19 +2,22 @@ Riemann Hypothesis
 - - - -
 Posits that the zeta function is only zero for negative even integers and at some points on the vertical line with real part 1/2
 - - - -
-Tutors
+
+References
 
 * [Bernhard Riemann - Wiki](https://en.wikipedia.org/wiki/Bernhard_Riemann)
 
 * [Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics - John Derbyshire](https://www.goodreads.com/book/show/218392.Prime_Obsession)
-
-* [Anthropic's AI Claude](https://claude.ai/login)
 
 * [The Riemann Hypothesis, Explained - Dr. Alex Kontorovich - Quanta - YouTube](https://youtu.be/zlm1aajH6gY?si=qWrzLEK5SmoNeMjo)
 
 * [Riemann Hypothesis - Dr. Edward Frenkel - Numberphile - YouTube](https://youtu.be/d6c6uIyieoo?si=gcDPAMUE7LsEy7O2)
 
 * [Riemann Hypothesis - Clay Mathematics Institute](https://www.claymath.org/millennium/riemann-hypothesis/)
+
+Tutors
+
+* [Anthropic's AI Claude](https://claude.ai/login)
 
 - - - -
 
