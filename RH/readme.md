@@ -25,8 +25,6 @@ Riemann's Zeta Function Formula
 
 ζ(s) = (e^(a+bs))/(s-1) · ∏(ζ(α)=0) (1 - s/α) e^(s/α)
 
-Glossary for Riemann's Zeta Function Formula
-
 | Symbol | Meaning |
 |--------|---------|
 | ζ(s)   | Riemann zeta function of s |
