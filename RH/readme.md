@@ -15,6 +15,8 @@ References
 
 * [Riemann Hypothesis - Clay Mathematics Institute](https://www.claymath.org/millennium/riemann-hypothesis/)
 
+* [Zeta and Related Functions - Digital Library of Mathematical Functions - NIST](https://dlmf.nist.gov/25#PT2)
+
 Tutors
 
 * [Anthropic's AI Claude](https://claude.ai/login)
@@ -33,4 +35,5 @@ Riemann's Zeta Function Formula
 | a, b   | Constants |
 | ∏      | Product notation |
 | α      | Non-trivial zeros of the zeta function |
+
 
