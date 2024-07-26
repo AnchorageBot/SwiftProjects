@@ -11,6 +11,8 @@ References
 
 * [The Riemann Hypothesis, Explained - Dr. Alex Kontorovich - Quanta - YouTube](https://youtu.be/zlm1aajH6gY?si=qWrzLEK5SmoNeMjo)
 
+* [The Rieman Hypothesis (RH) Saga - Peak Math -YouTube](https://youtube.com/playlist?list=PL300nJOfVNKZH3H-2J_g1bZRYOx-dQUp3&si=WoY6k4w15jdE_S7k)
+
 * [Riemann Hypothesis - Dr. Edward Frenkel - Numberphile - YouTube](https://youtu.be/d6c6uIyieoo?si=gcDPAMUE7LsEy7O2)
 
 * [Riemann Hypothesis - Clay Mathematics Institute](https://www.claymath.org/millennium/riemann-hypothesis/)
@@ -35,5 +37,4 @@ Riemann's Zeta Function Formula
 | a, b   | Constants |
 | ∏      | Product notation |
 | α      | Non-trivial zeros of the zeta function |
-
 
