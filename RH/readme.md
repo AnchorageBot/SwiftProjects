@@ -15,6 +15,8 @@ References
 
 * [Riemann Hypothesis - Dr. Edward Frenkel - Numberphile - YouTube](https://youtu.be/d6c6uIyieoo?si=gcDPAMUE7LsEy7O2)
 
+* [Riemann's Hypothesis - Brian Conrey - aimath](https://aimath.org/~kaur/publications/90.pdf)
+
 * [Riemann Hypothesis - Clay Mathematics Institute](https://www.claymath.org/millennium/riemann-hypothesis/)
 
 * [Zeta and Related Functions - Digital Library of Mathematical Functions - NIST](https://dlmf.nist.gov/25#PT2)
@@ -37,4 +39,3 @@ Riemann's Zeta Function Formula
 | a, b   | Constants |
 | ∏      | Product notation |
 | α      | Non-trivial zeros of the zeta function |
-
