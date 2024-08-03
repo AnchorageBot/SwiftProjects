@@ -4,3 +4,14 @@ Ten minute tutorial about on-device machine learning using swift
 
 - - - -
 [Paul Hudson's Github](https://github.com/twostraws)
+
+- - - -
+
+How to access Create ML
+
+1. Open Xcode
+2. Select 'Xcode' on the Menu tab
+3. Select 'Open Devekoper Tool' on the drop down
+4. Select 'Create ML'  on the next drop down
+
+- - - -
