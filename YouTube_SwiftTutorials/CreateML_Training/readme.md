@@ -22,3 +22,5 @@ Create ML Selections
 2. Template -> Tabular Regression
 3. Next
 4. Name project
+5. Next
+6. Create
