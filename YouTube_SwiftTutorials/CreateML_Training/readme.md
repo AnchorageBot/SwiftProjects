@@ -16,7 +16,7 @@ How to access Create ML
 
 - - - -
 
-Create ML Selections
+Create ML Selections - Create a New Project
 
 1. New Document
 2. Template -> Tabular Regression
