@@ -35,3 +35,4 @@ Select and Analyze Data
 4. Open
 5. Select target and features
 6. Select algorithm
+7. Train (button towards the top left)
