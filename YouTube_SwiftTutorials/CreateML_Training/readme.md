@@ -15,3 +15,8 @@ How to access Create ML
 4. Select 'Create ML'  on the next drop down
 
 - - - -
+
+Create ML Selections
+
+1. New Document
+2. Template -> Tabular Regression
