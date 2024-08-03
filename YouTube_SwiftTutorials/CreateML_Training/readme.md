@@ -34,3 +34,4 @@ Select and Analyze Data
 3. Select your .csv file
 4. Open
 5. Select target and features
+6. Select algorithm
