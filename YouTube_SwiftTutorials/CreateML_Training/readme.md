@@ -20,3 +20,5 @@ Create ML Selections
 
 1. New Document
 2. Template -> Tabular Regression
+3. Next
+4. Name project
