@@ -32,3 +32,5 @@ Select and Analyze Data
 1. Data
 2. Training Data
 3. Select your .csv file
+4. Open
+5. Select target and features
