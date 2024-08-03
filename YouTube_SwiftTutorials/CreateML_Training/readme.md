@@ -7,7 +7,7 @@ Ten minute tutorial about on-device machine learning using swift
 
 - - - -
 
-How to access Create ML
+How to access Create ML from Xcode
 
 1. Open Xcode
 2. Select 'Xcode' on the Menu tab
