@@ -24,3 +24,11 @@ Create ML Selections - Create a New Project
 4. Name project
 5. Next
 6. Create
+
+- - - -
+
+Select and Analyze Data
+
+1. Data
+2. Training Data
+3. Select your .csv file
