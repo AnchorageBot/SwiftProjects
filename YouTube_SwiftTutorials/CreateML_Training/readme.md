@@ -27,7 +27,7 @@ Create ML Selections - Create a New Project
 
 - - - -
 
-Select and Analyze Data
+Training Button (Top Left) - Select & Train Model on Data
 
 1. Data
 2. Training Data
@@ -36,3 +36,9 @@ Select and Analyze Data
 5. Select target and features
 6. Select algorithm
 7. Train (button towards the top left)
+
+- - - -
+
+Evaluation Button (Top Middle)
+
+1. Validation Button (Max Error & Root Mean Square Error results)
