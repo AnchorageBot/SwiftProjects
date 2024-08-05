@@ -1,6 +1,6 @@
 [Training a model with Create ML – BetterRest SwiftUI Tutorial 4/7 - Paul Hudson - YouTube](https://youtu.be/gqlmd8p0Inc?si=1yNTHERWNuHmpK04)
 
-10 minute tutorial on how to use Create ML, which uses machine learning, to create a mathematical model
+10 minute tutorial on how to use Apple's Create ML, which uses machine learning, to create a mathematical model
 
 The tutorial was used to make a mathematical model of the [Vix index (wiki)](https://en.wikipedia.org/wiki/VIX)
 
