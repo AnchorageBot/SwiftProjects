@@ -1,6 +1,6 @@
 [Training a model with Create ML – BetterRest SwiftUI Tutorial 4/7 - Paul Hudson - YouTube](https://youtu.be/gqlmd8p0Inc?si=1yNTHERWNuHmpK04)
 
-Ten minute tutorial about on-device machine learning using swift - Learn how to use Create ML to create a mathematical model made with machine learning 
+10 minute tutorial on how to use Create ML, which uses machine learning, to create a mathematical model
 
 - - - -
 [Paul Hudson's Github](https://github.com/twostraws)
