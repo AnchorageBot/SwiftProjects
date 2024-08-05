@@ -2,6 +2,8 @@
 
 14 Minute tutorial on how to incorporate a mathematical model, made with Create ML which uses machine learning, into a SwiftUI app
 
+The tutorial was used to make a SwiftUI app of the [Vix index (wiki)](https://en.wikipedia.org/wiki/VIX)
+
 - - - -
 [Paul Hudson's Github](https://github.com/twostraws)
 
