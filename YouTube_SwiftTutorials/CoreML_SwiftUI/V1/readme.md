@@ -2,4 +2,4 @@
 
 - - - - 
 
-Vix Index Predition app
+Vix Index Prediction app
