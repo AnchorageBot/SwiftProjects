@@ -23,7 +23,7 @@ This SwiftUI App will predict the value of the Vix Index by taking into account 
 
  ... and then provides a prediction of a Vix closing value for the next day.
  
- The scrip incorporates a mathematical model (24_07_VixData_Auto.mlmodel), made with Create ML which uses machine learning, into this SwiftUI app using Apple's CoreML
+ This SwiftUI app incorporates a mathematical model (24_07_VixData_Auto.mlmodel), made with Create ML which uses machine learning, into the app using Apple's CoreML
  
 */
 
