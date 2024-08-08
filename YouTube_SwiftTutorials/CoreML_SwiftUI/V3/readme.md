@@ -1,4 +1,8 @@
-3rd Draft
+3rd Draft - Needs to be refactored
+
+Shows error:
+
+* Sorry, there was a problem calculating a VIX estimate: Predicted feature named 'EstVix' was not output by pipeline 
 
 - - - - 
 
