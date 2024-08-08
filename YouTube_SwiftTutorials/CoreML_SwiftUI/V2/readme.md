@@ -13,3 +13,4 @@ Anthropic's AI Claude
 To do
 * Update the VixDataCSV.csv file (rename adjusted close column to EstVix column)
 * Update 24_07_VixData_Auto.mlmodel to include the new .csv file
+* Add the updated 24_07_VixData_Auto.mlmodel file to Xcode
