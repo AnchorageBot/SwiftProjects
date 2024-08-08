@@ -15,5 +15,5 @@ Drag a copy of 24_07_VixData_Auto.mlmodel into Xcode and drop it next to the Vix
 - - - -
 
 Uses updated files (included):
-* VixDataCSV.csv
-* 24_07_VixData_Auto.mlmodel
+* Vix2407CSV.csv
+* Vix2407Auto.mlmodel
