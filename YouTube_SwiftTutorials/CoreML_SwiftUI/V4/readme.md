@@ -1,4 +1,4 @@
-4th Draft - Configured to chase error
+4th Draft - Configured to chase error via additional logging
 
 - - - -
 
