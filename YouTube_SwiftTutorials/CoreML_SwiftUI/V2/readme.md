@@ -15,4 +15,5 @@ Drag a copy of 24_07_VixData_Auto.mlmodel into Xcode and drop it next to the Vix
 - - - -
 
 To do
-* Update the VixDataCSV.csv file (rename adjusted close column to EstVix column) and update 24_07_VixData_Auto.mlmodel to include the new .csv file
+* Update the VixDataCSV.csv file (rename adjusted close column to EstVix column)
+* Update 24_07_VixData_Auto.mlmodel to include the new .csv file
