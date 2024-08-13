@@ -36,7 +36,13 @@ Apple CoreML Sample App Code
 
 * [Detecting Hand Poses with Vision](https://developer.apple.com/documentation/vision/detecting_hand_poses_with_vision)
 
+* [Understanding a Dice Roll with Vision and Object Detection](https://developer.apple.com/documentation/coreml/model_integration_samples/understanding_a_dice_roll_with_vision_and_object_detection)
+
 - - - -
+
+WWDC 2019 Videos
+
+*[Creating Great Apps using Core ML and ARK Kit](https://developer.apple.com/wwdc19/228)
 
 WWDC 2020 Videos
 
