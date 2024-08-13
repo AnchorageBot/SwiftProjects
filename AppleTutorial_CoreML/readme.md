@@ -42,7 +42,7 @@ Apple CoreML Sample App Code
 
 WWDC 2019 Videos
 
-*[Creating Great Apps using Core ML and ARK Kit](https://developer.apple.com/wwdc19/228)
+* [Creating Great Apps using Core ML and ARK Kit](https://developer.apple.com/wwdc19/228)
 
 WWDC 2020 Videos
 
