@@ -1,7 +1,9 @@
 6th Draft - Still chasing a bug
 
-Error
+Errors:
 * Sorry, there was a problem calculating a VIX estimate: Predicted feature 'EstVix' was not output by pipeline
+* Prediction Error
+  * The operation couldn't be completed. (VixRefresh.VixPredictionError error 1)
 
 Xcode debugging methods
 * Finder Menu -> Go -> Library -> Developer -> Xcode -> DerivedData (move this folder to the trashcan & empty the trashcan)
