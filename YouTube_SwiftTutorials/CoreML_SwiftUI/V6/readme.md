@@ -4,7 +4,7 @@ Error
 * Sorry, there was a problem calculating a VIX estimate: Predicted feature 'EstVix' was not output by pipeline
 
 Xcode debugging methods
-* Finder -> Go -> Library -> Developer -> Xcode -> DerivedData (move this folder to the trashcan & empty the trashcan)
+* Finder Menu -> Go -> Library -> Developer -> Xcode -> DerivedData (move this folder to the trashcan & empty the trashcan)
 * Xcode Menu -> Product -> Clean Build Folder
 * Xcode Menu -> Product -> Build
 
