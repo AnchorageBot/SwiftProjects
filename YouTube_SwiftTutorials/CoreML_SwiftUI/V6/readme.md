@@ -6,6 +6,7 @@ Error
 Xcode debugging methods
 * Xcode Menu -> Product -> Clean Build Folder
 * Xcode Menu -> Product -> Build
+* Finder -> Go -> Library -> Developer -> Xcode -> DerivedData
 
 - - - -
 
