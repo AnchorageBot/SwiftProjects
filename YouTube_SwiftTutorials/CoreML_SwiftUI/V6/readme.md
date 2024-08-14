@@ -1,4 +1,4 @@
-6th Draft
+6th Draft - Still chasing a bug
 
 Error
 * Sorry, there was a problem calculating a VIX estimate: Predicted feature 'EstVix' was not output by pipeline
@@ -6,7 +6,7 @@ Error
 Xcode debugging methods
 * Xcode Menu -> Product -> Clean Build Folder
 * Xcode Menu -> Product -> Build
-* Finder -> Go -> Library -> Developer -> Xcode -> DerivedData
+* Finder -> Go -> Library -> Developer -> Xcode -> DerivedData (move this folder to the trashcan & empty the trashcan)
 
 - - - -
 
