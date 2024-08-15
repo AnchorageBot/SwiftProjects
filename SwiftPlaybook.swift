@@ -20,7 +20,7 @@ Each concept is implemented and explained throughout the code.
 
 To use this app:
 
-1. Create a new SwiftUI project in Xcode.
+1. Create a new SwiftUI iOS App project in Xcode.
 2. Replace the contents of your ContentView.swift file with this code.
 3. Run the app in the simulator or on a device.
  */
