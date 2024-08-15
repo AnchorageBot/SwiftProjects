@@ -8,7 +8,14 @@
 // ATS Project
 // Tutor: Anthropic's AI Claude
 
-// Replace the contents of your SwiftPlaybookApp.swift file with this file 
+/*
+To use this app:
+
+1. Create a new SwiftUI iOS App project in Xcode.
+2. Replace the contents of your SwiftPlaybookApp.swift file with this file 
+2. Replace the contents of your ContentView.swift file with the SwiftPlaybook.swift file in this repository
+3. Run the app in the simulator or on a device.
+*/
 
 import SwiftUI
 
