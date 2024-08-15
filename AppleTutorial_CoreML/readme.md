@@ -38,6 +38,8 @@ Apple CoreML Sample App Code
 
 * [Integrating a Core ML Model into Your App](https://developer.apple.com/documentation/coreml/integrating-a-core-ml-model-into-your-app)
 
+* [Model Integration Samples](https://developer.apple.com/documentation/coreml/model-integration-samples)
+
 * [Understanding a Dice Roll with Vision and Object Detection](https://developer.apple.com/documentation/coreml/model_integration_samples/understanding_a_dice_roll_with_vision_and_object_detection)
 
 - - - -
