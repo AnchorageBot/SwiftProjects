@@ -21,7 +21,7 @@ Each concept is implemented and explained throughout the code.
 To use this app:
 
 1. Create a new SwiftUI project in Xcode.
-2. Replace the contents of your main Swift file with this code.
+2. Replace the contents of your ContentView.swift file with this code.
 3. Run the app in the simulator or on a device.
  */
 
@@ -214,7 +214,7 @@ class AppSettings: ObservableObject {
  Concept 3: Functions
  Functions are used throughout the app for various purposes.
  The main app structure is a function-like construct that returns a Scene.
- */
+
 @main
 struct ToyApp: App {
     @StateObject private var appSettings = AppSettings()
@@ -226,6 +226,7 @@ struct ToyApp: App {
         }
     }
 }
+*/
 
 /**
  Note: Concepts 5 (State and Binding) and 9 (Lists and Navigation) are used throughout the app.
