@@ -2,4 +2,4 @@ Glossary
 
 - - - -
 
-[Apple Core ML Documentation](https://developer.apple.com/documentation/coreml)
+[Apple Core ML Framework Documentation](https://developer.apple.com/documentation/coreml)
