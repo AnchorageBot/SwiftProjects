@@ -1,1 +1,265 @@
+# SwiftUI Coding Solutions Playbook
+Author: Anthropic's AI Claude
 
+This playbook covers some of the most common SwiftUI patterns and solutions. 
+
+## Table of Contents
+1. Structs
+2. Classes
+3. Functions
+4. Views
+5. State and Binding
+6. ObservableObject
+7. Environment Objects
+8. View Modifiers
+9. Lists and Navigation
+10. Gestures
+
+## 1. Structs
+
+Structs are value types and are commonly used in SwiftUI for model data.
+
+```swift
+struct User {
+    let id: UUID
+    var name: String
+    var age: Int
+}
+
+// Usage
+let user = User(id: UUID(), name: "John Doe", age: 30)
+```
+
+## 2. Classes
+
+Classes are reference types and are used when you need inheritance or reference semantics.
+
+```swift
+class UserManager {
+    static let shared = UserManager()
+    private init() {}
+    
+    var currentUser: User?
+    
+    func login(user: User) {
+        currentUser = user
+    }
+    
+    func logout() {
+        currentUser = nil
+    }
+}
+```
+
+## 3. Functions
+
+Functions in Swift can be standalone or part of a type.
+
+```swift
+func greet(_ name: String) -> String {
+    return "Hello, \(name)!"
+}
+
+// Usage
+let greeting = greet("Alice")
+```
+
+## 4. Views
+
+Views are the building blocks of your SwiftUI interface.
+
+```swift
+struct ContentView: View {
+    var body: some View {
+        VStack {
+            Text("Welcome to SwiftUI")
+                .font(.title)
+            Button("Tap me") {
+                print("Button tapped")
+            }
+        }
+    }
+}
+```
+
+## 5. State and Binding
+
+`@State` is used for local state, while `@Binding` allows you to pass mutable state to child views.
+
+```swift
+struct CounterView: View {
+    @State private var count = 0
+    
+    var body: some View {
+        VStack {
+            Text("Count: \(count)")
+            Button("Increment") {
+                count += 1
+            }
+            CounterButtonView(count: $count)
+        }
+    }
+}
+
+struct CounterButtonView: View {
+    @Binding var count: Int
+    
+    var body: some View {
+        Button("Decrement") {
+            count -= 1
+        }
+    }
+}
+```
+
+## 6. ObservableObject
+
+`ObservableObject` is used for more complex state management across multiple views.
+
+```swift
+class UserViewModel: ObservableObject {
+    @Published var user: User?
+    
+    func fetchUser() {
+        // Simulating an API call
+        DispatchQueue.main.asyncAfter(deadline: .now() + 1) {
+            self.user = User(id: UUID(), name: "Jane Doe", age: 28)
+        }
+    }
+}
+
+struct UserView: View {
+    @StateObject private var viewModel = UserViewModel()
+    
+    var body: some View {
+        VStack {
+            if let user = viewModel.user {
+                Text("Name: \(user.name)")
+                Text("Age: \(user.age)")
+            } else {
+                Text("Loading...")
+            }
+        }
+        .onAppear {
+            viewModel.fetchUser()
+        }
+    }
+}
+```
+
+## 7. Environment Objects
+
+Environment objects allow you to share data throughout your app's view hierarchy.
+
+```swift
+class AppSettings: ObservableObject {
+    @Published var isDarkMode = false
+}
+
+@main
+struct MyApp: App {
+    @StateObject private var appSettings = AppSettings()
+    
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+                .environmentObject(appSettings)
+        }
+    }
+}
+
+struct ContentView: View {
+    @EnvironmentObject var appSettings: AppSettings
+    
+    var body: some View {
+        Toggle("Dark Mode", isOn: $appSettings.isDarkMode)
+    }
+}
+```
+
+## 8. View Modifiers
+
+Custom view modifiers allow you to encapsulate common view modifications.
+
+```swift
+struct RoundedBackground: ViewModifier {
+    func body(content: Content) -> some View {
+        content
+            .padding()
+            .background(Color.blue)
+            .cornerRadius(10)
+    }
+}
+
+extension View {
+    func roundedBackground() -> some View {
+        self.modifier(RoundedBackground())
+    }
+}
+
+// Usage
+Text("Hello, World!")
+    .roundedBackground()
+```
+
+## 9. Lists and Navigation
+
+SwiftUI makes it easy to create lists and navigation hierarchies.
+
+```swift
+struct Item: Identifiable {
+    let id = UUID()
+    let name: String
+}
+
+struct ListView: View {
+    let items = [Item(name: "Apple"), Item(name: "Banana"), Item(name: "Cherry")]
+    
+    var body: some View {
+        NavigationView {
+            List(items) { item in
+                NavigationLink(destination: DetailView(item: item)) {
+                    Text(item.name)
+                }
+            }
+            .navigationTitle("Fruits")
+        }
+    }
+}
+
+struct DetailView: View {
+    let item: Item
+    
+    var body: some View {
+        Text("Details for \(item.name)")
+    }
+}
+```
+
+## 10. Gestures
+
+SwiftUI provides a declarative way to handle gestures.
+
+```swift
+struct GestureView: View {
+    @State private var offset = CGSize.zero
+    
+    var body: some View {
+        Circle()
+            .fill(Color.blue)
+            .frame(width: 100, height: 100)
+            .offset(offset)
+            .gesture(
+                DragGesture()
+                    .onChanged { gesture in
+                        offset = gesture.translation
+                    }
+                    .onEnded { _ in
+                        withAnimation {
+                            offset = .zero
+                        }
+                    }
+            )
+    }
+}
+```
