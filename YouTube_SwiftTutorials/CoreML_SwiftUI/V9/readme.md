@@ -1,3 +1,3 @@
-9th Draft - App runs, however still needs work to improve it
+9th Draft - Vix App now runs, however still needs work to improve it
 
 - - - -
