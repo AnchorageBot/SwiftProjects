@@ -1,4 +1,4 @@
-Anthropic's AI Claude provides a compare/contrast between V6 and V7
+Anthropic's AI Claude provides a compare/contrast between V6 and V7 and .mlmodel suggestions
 
 - - - - 
 
