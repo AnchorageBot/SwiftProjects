@@ -2,10 +2,4 @@
 
 - - - -
 
-Vix Index Prediction app
-
-Tutor:
-
-Anthropic's AI Claude
-
-- - - -
+Files from Paul Hudson's Github, Project 4
