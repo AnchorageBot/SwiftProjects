@@ -2,7 +2,7 @@
 
 10 minute tutorial on how to use Apple's Create ML, which uses machine learning, to create a mathematical model
 
-The tutorial was used to make a mathematical model of the [Vix index (wiki)](https://en.wikipedia.org/wiki/VIX)
+The tutorial was used to make several mathematical models of the [Vix index (wiki)](https://en.wikipedia.org/wiki/VIX)
 
 - - - -
 [Paul Hudson's Github](https://github.com/twostraws)
