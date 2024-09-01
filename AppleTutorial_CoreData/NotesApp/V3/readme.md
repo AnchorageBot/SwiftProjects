@@ -6,4 +6,4 @@ Tutor: Anthropic's AI Claude
 
 - - - -
 
-3rd Draft - Build issues have been refactored, app runs but needs additional design work
+3rd Draft - Refactored app, Build issues have been resolved and app runs howeveer it needs additional design work
