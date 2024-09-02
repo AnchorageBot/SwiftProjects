@@ -1,5 +1,7 @@
 Pattern Playbook - Swift UI Notes App Playbook - Common Programming Solutions and Patterns
 
+Tutor: Anthropic's AI Claude
+
 - - - -
 
 This playbook will cover common patterns and techniques used in the app, which can be helpful
