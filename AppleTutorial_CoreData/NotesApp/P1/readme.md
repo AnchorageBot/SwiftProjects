@@ -161,8 +161,3 @@ struct NotesAppV1App: App {
 ```
 This pattern shows how to set up the main app structure in SwiftUI, including injecting the Core Data context into the environment.
 ```
-
-This playbook covers the main programming solutions and patterns used in your Swift UI Notes app. It includes code snippets and brief
- explanations for each pattern, making it a handy reference for common SwiftUI and Core Data operations.
-
-
