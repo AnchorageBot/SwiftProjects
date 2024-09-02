@@ -5,8 +5,9 @@ Pattern Playbook
 This playbook will cover common patterns and techniques used in the app, which can be helpful
 for future reference or when expanding the app's functionality.
 
+- - - -
 
-# Swift UI Notes App Playbook
+Swift UI Notes App Playbook
 ---
 ## Common Programming Solutions and Patterns
 
