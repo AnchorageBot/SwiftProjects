@@ -1,5 +1,5 @@
 Glossary
----
+- - - -
 Swift UI Notes App - Key Concepts and Terms
 
 * [@Environment](https://developer.apple.com/documentation/swiftui/environment)
