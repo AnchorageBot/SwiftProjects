@@ -1,4 +1,7 @@
 Glossary - Swift UI Notes App - Key Concepts and Terms
+
+Tutor: Anthropic's AI Claude
+
 - - - -
 
 * [@Environment](https://developer.apple.com/documentation/swiftui/environment)
