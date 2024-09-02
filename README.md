@@ -91,7 +91,7 @@ Integrated Development Environments
 
 * [Xcode - Mac](https://developer.apple.com/xcode/)
 
-Apple APIs
+Apple Frameworks
 
 * [Core ML and Create ML](https://developer.apple.com/machine-learning/)
 
