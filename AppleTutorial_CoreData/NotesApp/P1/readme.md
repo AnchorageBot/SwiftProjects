@@ -1,4 +1,4 @@
-Pattern Playbook
+Pattern Playbook - Swift UI Notes App Playbook - Common Programming Solutions and Patterns
 
 - - - -
 
@@ -6,10 +6,6 @@ This playbook will cover common patterns and techniques used in the app, which c
 for future reference or when expanding the app's functionality.
 
 - - - -
-
-Swift UI Notes App Playbook
----
-## Common Programming Solutions and Patterns
 
 ### 1. Setting Up the Core Data Stack
 
