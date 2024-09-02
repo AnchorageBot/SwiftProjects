@@ -1,6 +1,5 @@
-Glossary
+Glossary - Swift UI Notes App - Key Concepts and Terms
 - - - -
-Swift UI Notes App - Key Concepts and Terms
 
 * [@Environment](https://developer.apple.com/documentation/swiftui/environment)
   * A property wrapper type for accessing values from the view's environment.
