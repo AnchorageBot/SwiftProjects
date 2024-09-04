@@ -12,6 +12,8 @@ Tutor: Anthropic's AI Claude
 
 8th Draft - Customizes app testing
 
+- - - -
+
 To get the NotesAppV1Tests.swift file working:
 
 1. Create a new unit test target:
