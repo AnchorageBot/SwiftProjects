@@ -14,4 +14,9 @@ Tutor: Anthropic's AI Claude
 
 - - - -
 
-In Xcode, go to File > New > File, select Unit Test Case Class, and name it "NotesAppV1Tests".
+1. In Xcode, go to File > New > File, select Unit Test Case Class, and name it "NotesAppV1Tests".
+
+2. Make sure your test file is in the correct target:
+
+ * In Xcode, click on the "NotesAppV1Tests.swift" file in the project navigator.
+ * In the File Inspector (the rightmost pane), under "Target Membership", ensure that the checkbox next to your test target (likely named "NotesAppV1Tests") is checked.
