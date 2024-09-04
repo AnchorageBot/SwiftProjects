@@ -39,3 +39,10 @@ To get the NotesAppV1Tests.swift file working:
 5. Clean and rebuild:
    - Go to Product > Clean Build Folder
    - Build the project again
+
+- - - -
+
+To run all tests:
+
+ * Click on the "Product" menu in the top menu bar
+ * Select "Test" (or use the keyboard shortcut Cmd + U)
