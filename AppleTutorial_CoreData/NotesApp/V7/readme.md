@@ -11,3 +11,7 @@ Tutor: Anthropic's AI Claude
 - - - -
 
 7th Draft - Incorporates app testing
+
+- - - -
+
+In Xcode, go to File > New > File, select Unit Test Case Class, and name it "NotesAppV1Tests".
