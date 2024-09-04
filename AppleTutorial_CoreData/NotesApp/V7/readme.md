@@ -20,3 +20,11 @@ Tutor: Anthropic's AI Claude
 
  * In Xcode, click on the "NotesAppV1Tests.swift" file in the project navigator.
  * In the File Inspector (the rightmost pane), under "Target Membership", ensure that the checkbox next to your test target (likely named "NotesAppV1Tests") is checked.
+
+3. Make sure your test target is set up correctly:
+
+ * In Xcode, click on your project in the project navigator.
+ * Select your test target (likely "NotesAppV1Tests") under TARGETS.
+ * Go to the "Build Phases" tab.
+ * Expand "Link Binary With Libraries".
+ * If XCTest.framework is not listed, click the "+" button, search for "XCTest.framework", and add it.
