@@ -6,11 +6,15 @@ Test coverage
 
 Swift Testing Framework - Documentation 
 
+* Xcode 16+
+
 * [Create and run tests for your Swift packages and Xcode projects.](https://developer.apple.com/documentation/testing)
 
 - - - -
 
 XC Test Framework - Documentation 
+
+* Xcode 5.0+
 
 * [Create and run unit tests, performance tests, and UI tests for your Xcode project.](https://developer.apple.com/documentation/xctest)
 
