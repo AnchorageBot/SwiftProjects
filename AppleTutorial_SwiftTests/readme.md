@@ -6,7 +6,7 @@ Test coverage
 
 Swift Testing Framework - Documentation 
 
-* Xcode 16+
+* Xcode 16.0+
 
 * [Create and run tests for your Swift packages and Xcode projects.](https://developer.apple.com/documentation/testing)
 
