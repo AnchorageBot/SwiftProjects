@@ -12,7 +12,9 @@ Swift Testing Framework - Documentation
 
 XC Test Framework - Documentation 
 
-[Create and run unit tests, performance tests, and UI tests for your Xcode project.](https://developer.apple.com/documentation/xctest) 
+* [Create and run unit tests, performance tests, and UI tests for your Xcode project.](https://developer.apple.com/documentation/xctest)
+
+* [Migrating a test from XCTest](https://developer.apple.com/documentation/testing/migratingfromxctest)
 
 - - - - 
 
