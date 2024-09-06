@@ -1,4 +1,4 @@
-3rd Draft - Add test
+3rd Draft - Add test for 'happy path'
 
 - - - - 
 
