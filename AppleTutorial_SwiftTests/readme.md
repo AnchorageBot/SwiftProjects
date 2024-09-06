@@ -1,12 +1,18 @@
-Framework - Swift Testing - Documentation 
+Test coverage
 
-* [Test Coverage](https://developer.apple.com/documentation/Xcode/test-coverage)
+* [Develop and run tests to detect logic failures, UI problems, and performance regressions.](https://developer.apple.com/documentation/Xcode/test-coverage)
+
+- - - -
+
+Swift Testing Framework - Documentation 
 
 * [Create and run tests for your Swift packages and Xcode projects.](https://developer.apple.com/documentation/testing)
 
 - - - -
 
-Framework - [XCTest](https://developer.apple.com/documentation/xctest) - Documentation
+XC Test Framework - Documentation 
+
+[Create and run unit tests, performance tests, and UI tests for your Xcode project.](https://developer.apple.com/documentation/xctest) 
 
 - - - - 
 
