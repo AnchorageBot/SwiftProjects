@@ -8,7 +8,9 @@ Swift Data
 
 * [Overview](https://developer.apple.com/xcode/swiftdata/)
 
-* [Documentation](https://developer.apple.com/documentation/swiftdata) 
+* [Documentation](https://developer.apple.com/documentation/swiftdata)
+
+* Write your model code declaratively to add managed persistence and efficient model fetching
 
 WWDC23 Videos
 
