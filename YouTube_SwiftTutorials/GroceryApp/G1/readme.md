@@ -13,3 +13,5 @@ Glossary of Terms
 [Xcode - Creating, Tuning, Debugging, and more](https://developer.apple.com/documentation/xcode)
 
 - - - -
+
+[SwiftData Framework](https://developer.apple.com/xcode/swiftdata/)
