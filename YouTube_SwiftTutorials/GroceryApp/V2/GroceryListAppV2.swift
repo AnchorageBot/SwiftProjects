@@ -1,6 +1,6 @@
 //
-// GroceryList
-// GroceryListApp.swift
+// GroceryListV2
+// GroceryListAppV2.swift
 //
 // Created on 9/10/24
 // Swift Version 5.0
@@ -15,7 +15,7 @@ import SwiftData
 
 @main
 
-struct GroceryListApp: App {
+struct GroceryListAppV2: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
