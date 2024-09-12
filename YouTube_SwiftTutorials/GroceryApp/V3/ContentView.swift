@@ -28,81 +28,75 @@ import SwiftUI
 import SwiftData
 
 struct ContentView: View {
-    // MARK: - Properties
-    
-    /// The SwiftData model context for managing data operations
     @Environment(\.modelContext) private var context
-    
-    /// State variable to hold the text for new items
     @State private var newItemString = ""
-    
-    /// Query to fetch all GroceryListItems from SwiftData
     @Query private var items: [GroceryListItem]
-    
-    // MARK: - Body
     
     var body: some View {
         NavigationView {
             VStack {
-                // Input field and save button
                 inputSection
-                
-                // List of grocery items
                 itemsList
             }
             .navigationTitle("Grocery List")
         }
     }
     
-    // MARK: - View Components
-    
-    /// Input section for adding new items
     private var inputSection: some View {
-        VStack {
+        HStack {
             TextField("Add item", text: $newItemString)
                 .textFieldStyle(RoundedBorderTextFieldStyle())
             
-            Button("Save", action: saveItem)
-                .disabled(newItemString.isEmpty)
+            Button(action: saveItem) {
+                Image(systemName: "plus.circle.fill")
+            }
+            .disabled(newItemString.isEmpty)
         }
         .padding()
     }
     
-    /// List view for displaying grocery items
     private var itemsList: some View {
         List {
             ForEach(items) { item in
-                Text(item.title)
+                HStack {
+                    VStack(alignment: .leading) {
+                        Text(item.title)
+                            .font(.headline)
+                        Text(item.subtitle)
+                            .font(.subheadline)
+                            .foregroundColor(.secondary)
+                    }
+                    Spacer()
+                    Text(item.formattedDate)
+                        .font(.caption)
+                }
             }
             .onDelete(perform: deleteItems)
         }
         .overlay {
             if items.isEmpty {
                 Text("No items")
+                    .foregroundColor(.secondary)
             }
         }
     }
     
-    // MARK: - Helper Methods
-    
-    /// Saves a new item to the list
     private func saveItem() {
         guard !newItemString.isEmpty else { return }
         
-        let newItem = GroceryListItem(title: newItemString, subtitle: "Buy this ASAP", date: Date())
+        let newItem = GroceryListItem(title: newItemString, subtitle: "Buy this ASAP")
         context.insert(newItem)
         newItemString = ""
     }
     
-    /// Deletes items at the specified offsets from the list
     private func deleteItems(at offsets: IndexSet) {
-        for index in offsets {
-            context.delete(items[index])
+        withAnimation {
+            for index in offsets {
+                context.delete(items[index])
+            }
         }
     }
 }
-
-// MARK: - Preview
 
 #Preview {
     ContentView()
