@@ -8,3 +8,4 @@ This app will assist with making a grocery list
 
 - - - -
 
+Tutor: Anthropic's AI Claude
