@@ -10,18 +10,22 @@
 // Tutor: Anthropic's AI Claude
 //
 
+/*
+Abstract:
+This file contains the main app structure for the GroceryListV2 app.
+It sets up the app's entry point and configures the SwiftData model container.
+*/
 
 import SwiftUI
 import SwiftData
 
 @main
-
 struct GroceryListAppV2: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
-        /// inject a container to hold things
+        // Inject a container to hold the SwiftData models
         .modelContainer(for: GroceryListItem.self)
     }
 }
