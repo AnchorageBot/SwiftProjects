@@ -10,11 +10,16 @@
 // Tutor: Anthropic's AI Claude
 //
 
+/*
+Abstract:
+This file defines the GroceryListItem model class.
+It represents a single item in the grocery list and is managed by SwiftData.
+*/
+
 import Foundation
 import SwiftData
 
 @Model
-
 class GroceryListItem {
     let title: String
     let subtitle: String
