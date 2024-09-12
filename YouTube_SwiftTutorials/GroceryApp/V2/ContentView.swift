@@ -11,80 +11,74 @@
 //
 
 /*
- 
- Abstract:
- 
- Creates a grocery list
- 
- App strategy
- * Model: Data
- * Container: Where things are saved
- * Context: How user interacts with the app
- 
- */
+Abstract:
+This file contains the main view of the GroceryListV2 app.
+It manages the user interface for adding, displaying, and deleting grocery list items.
+
+App strategy:
+* Model: Data (GroceryListItem)
+* Container: Where things are saved (SwiftData modelContainer)
+* Context: How user interacts with the app (Environment modelContext)
+*/
 
 import SwiftUI
 import SwiftData
 
 struct ContentView: View {
     
+    // Access the SwiftData model context
     @Environment(\.modelContext) var context
     
+    // State variable to hold the text for a new item
     @State var newItemString = ""
     
+    // Query to fetch all GroceryListItems
     @Query var items: [GroceryListItem]
     
     var body: some View {
-        
         NavigationView {
-            
             VStack {
+                // Text field for adding new items
                 TextField("Add item", text: $newItemString)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
                 
+                // Button to save new items
                 Button("Save") {
                     guard !newItemString.isEmpty else {
                         return
                     }
                     
+                    // Create and insert a new item
                     let newItem = GroceryListItem(title: newItemString, subtitle: "Buy this ASAP", date: Date())
-                    
                     context.insert(newItem)
                     
+                    // Clear the text field
                     newItemString = ""
-                    
                 }
                 
-                    
+                // List of grocery items
                 List {
                     ForEach(items) { item in
                         Text(item.title)
                     }
-//                        VStack {
-//                            Text(item.title)
-//                            Text(item.subtitle)
-//                            Text(item.date.formatted())
-//                        }
-                        .onDelete {
-                            indexSet in indexSet.forEach({ index in context.delete(items[index])
-                            })
-                    }
-                }
-                    
-                .overlay {
-                    if items.isEmpty {
-                        Text("No items")
+                    .onDelete { indexSet in
+                        // Delete selected items
+                        indexSet.forEach { index in
+                            context.delete(items[index])
                         }
                     }
                 }
-            
-            .navigationTitle("Grocery List")
+                .overlay {
+                    // Show a message when the list is empty
+                    if items.isEmpty {
+                        Text("No items")
+                    }
+                }
             }
-            
-            //.padding()
+            .navigationTitle("Grocery List")
         }
     }
-
+}
 
 #Preview {
     ContentView()
