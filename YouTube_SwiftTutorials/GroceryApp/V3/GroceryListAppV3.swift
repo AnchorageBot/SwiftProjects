@@ -1,6 +1,6 @@
 //
-// GroceryList
-// GroceryListApp.swift
+// GroceryListV3
+// GroceryListAppV3.swift
 //
 // Created on 9/10/24
 // Swift Version 5.0
