@@ -27,14 +27,10 @@ import SwiftData
 
 @main
 struct GroceryListApp: App {
-    // MARK: - App Body
-    
     var body: some Scene {
         WindowGroup {
-            // Set ContentView as the root view of the app
             ContentView()
         }
-        // Configure SwiftData model container
         .modelContainer(for: GroceryListItem.self)
     }
 }
