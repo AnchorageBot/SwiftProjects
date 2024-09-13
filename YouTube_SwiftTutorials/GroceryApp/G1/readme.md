@@ -21,4 +21,4 @@ Glossary of Terms
 - - - -
 
 [ModelConfiguration](https://developer.apple.com/documentation/swiftdata/modelconfiguration)
-  A type that describes the configuration of an app’s schema or specific group of models.
+* A type that describes the configuration of an app’s schema or specific group of models.
