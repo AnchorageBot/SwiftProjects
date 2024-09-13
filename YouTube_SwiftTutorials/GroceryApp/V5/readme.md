@@ -4,5 +4,7 @@
 
 "Failed to produce diagnostic for expression; please submit a bug report"
 
+https://www.swift.org/contributing/#reporting-bugs
+
 * ItemDetailView.swift
 * Line 40
