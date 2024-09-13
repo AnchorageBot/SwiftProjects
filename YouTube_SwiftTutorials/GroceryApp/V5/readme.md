@@ -2,4 +2,4 @@
 
 - - - -
 
-"Failed to produce diagnostic for expression; please submit a bug repor"
+"Failed to produce diagnostic for expression; please submit a bug report"
