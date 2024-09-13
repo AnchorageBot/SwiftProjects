@@ -2,10 +2,9 @@
 
 Tutor: Afraz Siddiqui - iOS Academy YouTube
 
+Tutor: Anthropic's AI Claude
+
 - - - -
 
 This app will assist with making a grocery list
 
-- - - -
-
-Tutor: Anthropic's AI Claude
