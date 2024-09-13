@@ -3,3 +3,6 @@
 - - - -
 
 "Failed to produce diagnostic for expression; please submit a bug report"
+
+ItemDetailView.swift
+Line 40
