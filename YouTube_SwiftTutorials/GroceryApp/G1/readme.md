@@ -12,7 +12,7 @@ Glossary of Terms
 
 [SwiftData Framework](https://developer.apple.com/xcode/swiftdata/)
 
-  SwiftData makes it easy to persist data using declarative code. You can query and filter data using regular Swift code. And it’s designed     to integrate seamlessly with SwiftUI.
+* SwiftData makes it easy to persist data using declarative code. You can query and filter data using regular Swift code. And it’s designed     to integrate seamlessly with SwiftUI.
 
 [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
