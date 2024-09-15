@@ -30,6 +30,19 @@
 import SwiftUI
 import SwiftData
 
+// func isOdd
+    //do
+    //guard
+
+// func isEven
+    //do
+    //guard
+
+// func isPrime
+    //do
+    //guard
+
+
 /// The main view of the BasicMath app.
 struct ContentView: View {
     
