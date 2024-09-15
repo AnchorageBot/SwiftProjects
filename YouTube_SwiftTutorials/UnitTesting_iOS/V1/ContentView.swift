@@ -58,7 +58,7 @@ struct ContentView: View {
                         }
                         
                         // Create and insert a new item
-                        let newItem = MathListItem(title: newItemString, subtitle: "Cool number", date: Date())
+                        let newItem = NumberListItem(title: newItemString, subtitle: "Cool number", date: Date())
                         context.insert(newItem)
                         
                         // Clear the text field
