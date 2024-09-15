@@ -1,1 +1,3 @@
-2nd Draft
+2nd Draft - 
+
+Haven't started the tutorial yet
