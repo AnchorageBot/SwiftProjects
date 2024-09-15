@@ -14,7 +14,7 @@
  
  Abstract: 
  
- This app show cases how to run unit tests on basic math functions
+ This app wortks through how to run unit tests on basic math functions
  
  This file contains the main app structure for the BasicMathV1 app.
  It sets up the app's entry point and configures the SwiftData model container.
