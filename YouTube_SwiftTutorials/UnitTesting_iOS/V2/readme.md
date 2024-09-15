@@ -1,4 +1,4 @@
-2nd Draft - app builds
+2nd Draft - app builds - needs design work
 
 Haven't started the tutorial yet
 
