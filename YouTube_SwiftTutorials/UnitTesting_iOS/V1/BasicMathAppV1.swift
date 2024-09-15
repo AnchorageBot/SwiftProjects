@@ -3,7 +3,7 @@
 // BasicMathAppV1.swift
 //
 // Created on 9/15/24
-// Swift Version 5.0
+// Swift Version 5.0+
 //
 // ATS Project
 //  Tutor: Anthropic's AI Claude
