@@ -2,4 +2,4 @@
 
 - - - -
 
-Plus some free-form work, for good or ill
+Tutorial plus some free-form work, for good or ill
