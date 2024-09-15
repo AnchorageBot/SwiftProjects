@@ -2,6 +2,6 @@
 
 In this tutorial we will learn how to take advantage of UI Testing to automate a lot of the manual testing that we would normally have to do.
 
-Github
+Tutorial files on Github 
 
 * https://github.com/thecodepro/ios-ui-testing-tutorial
