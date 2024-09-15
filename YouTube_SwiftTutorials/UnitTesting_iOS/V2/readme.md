@@ -1,4 +1,4 @@
-2nd Draft - app builds - needs design work
+2nd Draft - app builds - needs design work - needs unit tests
 
 Haven't started the tutorial yet
 
