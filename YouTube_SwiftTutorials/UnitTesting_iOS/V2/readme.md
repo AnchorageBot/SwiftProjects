@@ -4,7 +4,7 @@ Haven't started the tutorial yet
 
 - - - -
 
-Error message:
+Resolve error message:
 
 "Logging Error: Failed to initialize logging system. Log messages may be missing. If this issue persists, try setting IDEPreferLogStreaming=YES in the active scheme actions environment variables."
 
