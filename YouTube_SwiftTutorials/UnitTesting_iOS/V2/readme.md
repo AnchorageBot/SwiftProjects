@@ -16,3 +16,9 @@ This error is not directly related to your app's code. It's an Xcode logging iss
 * In the "Environment Variables" section, add a new variable:
 * Name: IDEPreferLogStreaming
 * Value: YES
+
+- - - -
+
+Create Glossary (GV2.md) and Code Pattern (CPV2.md) files in Xcode 
+
+* File -> iOS -> Documentation -> Empty
