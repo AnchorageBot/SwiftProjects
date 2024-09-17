@@ -1,4 +1,4 @@
-Code Pattern Breakout
+Code Pattern Breakout - Prime Number Algorithm
 
 - - - -
 
