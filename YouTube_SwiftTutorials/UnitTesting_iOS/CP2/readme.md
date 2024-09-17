@@ -17,7 +17,7 @@ Code Pattern Breakout
         return true
     }
 
-```swift
+```
 
 Let's go through it step by step:
 
