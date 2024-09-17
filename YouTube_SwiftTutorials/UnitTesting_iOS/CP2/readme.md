@@ -2,7 +2,7 @@ Code Pattern Breakout
 
 - - - -
 
-'''swift
+```swift
 
 /// Checks if a number is prime
     /// - Parameter number: The number to check
@@ -17,7 +17,7 @@ Code Pattern Breakout
         return true
     }
 
-'''swift
+```swift
 
 Let's go through it step by step:
 
