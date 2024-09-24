@@ -1,3 +1,3 @@
 4th Draft - Following along with the tutorial 
-* addNumbers func
-* addNumbers func testAddNumbers is set to fail
+* func addNumbers is located in the MathStuffOp.swift file
+* func testAddNumbers is set to fail, and is located in the MathStuffV1Tests.swift file
