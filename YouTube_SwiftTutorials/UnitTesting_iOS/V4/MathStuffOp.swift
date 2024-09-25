@@ -16,11 +16,10 @@ public class MathStuffOperations {
     
     func addNumbers(_ a: Int, _ b: Int) -> Int {
         return a + b
+        }
         
 //    func subtractNumbers(_ a: Int, _ b: Int) -> Int {
 //            return a - b
 //        }
-        
-    }
-    
+          
 }
