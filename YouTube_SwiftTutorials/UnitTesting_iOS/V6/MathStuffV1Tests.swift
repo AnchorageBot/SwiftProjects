@@ -32,7 +32,7 @@ class MathStuffOperationsTests: XCTestCase {
         let result = math.subtractNumbers(4, 2)
         
         XCTAssertEqual(result, 2)
-         //Test
+         // Test succeeded
     }
     
 }
