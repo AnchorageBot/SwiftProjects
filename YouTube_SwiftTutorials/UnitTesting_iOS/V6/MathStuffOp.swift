@@ -20,7 +20,7 @@ public class MathStuffOperations {
         }
         
     func subtractNumbers(_ a: Int, _ b: Int) -> Int {
-            return a - b
+        return a - b
         }
         
 }
