@@ -2,4 +2,4 @@
 
 [GitHub - AfrazCodes](https://github.com/AfrazCodes/RickAndMortyiOSApp)
 
-[The Rick and Mority API])https://rickandmortyapi.com)
+[The Rick and Mority API](https://rickandmortyapi.com)
