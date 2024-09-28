@@ -8,3 +8,7 @@
   * Product Name: RickAndMorty
   * Interface -> Storyboard
   * Language -> Swift
+
+- - - -
+
+2:35 - Delete Storyboard
