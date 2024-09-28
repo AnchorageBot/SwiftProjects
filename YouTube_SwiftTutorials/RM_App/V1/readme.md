@@ -11,4 +11,4 @@
 
 - - - -
 
-2:35 - Delete Storyboard
+[2:35 - Delete Storyboard](https://youtu.be/fTGA8cjbf5Y?si=wh9PSBYHcsM5jrkq)
