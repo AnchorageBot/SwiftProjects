@@ -34,6 +34,11 @@ struct MathStuffV1Tests {
         let mathOperations = MathStuffOperations()
         #expect(mathOperations.addNumbers(1, 2) == 3)
     }
+
+    @Test("Subtract Numbers Test")
+    func testSubNumbers() async throws {
+        let mathOperations = MathStuffOperations()
+        #expect(mathOperations.subtractNumbers(3, 2) == 1)
 }
 
 //import XCTest
