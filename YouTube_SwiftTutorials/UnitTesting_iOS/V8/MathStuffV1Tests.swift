@@ -22,13 +22,19 @@ import Testing
 @testable import MathStuffV1
 
 struct MathStuffV1Tests {
+    
     @Test
     func testText() throws {
         let mathOperations = MathStuffOperations()
         #expect(mathOperations.text() == "Hello, World!")
     }
+    
+    @Test
+    func testAddNumbers() throws {
+        let mathOperations = MathStuffOperations()
+        #expect(mathOperations.addNumbers(1, 2) == 3)
+    }
 }
-
 
 //import XCTest
 //@testable import MathStuffV1
