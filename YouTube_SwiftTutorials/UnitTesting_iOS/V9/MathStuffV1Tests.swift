@@ -30,7 +30,7 @@ struct MathStuffV1Tests {
     /// Test case for the text() function in MathStuffOperations
     ///
     /// This test verifies that the text() function returns the expected greeting.
-    @Test
+    @Test("Hello World Test")
     func testText() throws {
         // Create an instance of MathStuffOperations
         let mathOperations = MathStuffOperations()
@@ -42,7 +42,7 @@ struct MathStuffV1Tests {
     /// Test case for the addNumbers(_:_:) function in MathStuffOperations
     ///
     /// This test checks if the addNumbers function correctly adds two integers.
-    @Test
+    @Test("Add Numbers Test")
     func testAddNumbers() throws {
         // Create an instance of MathStuffOperations
         let mathOperations = MathStuffOperations()
