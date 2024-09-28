@@ -1,4 +1,4 @@
-8th Draft - Chaning testing frameworks; from Apple XCTeest to Testing
+8th Draft - Changing testing frameworks; from Apple XCTeest to Testing
 
 - - - -
 
