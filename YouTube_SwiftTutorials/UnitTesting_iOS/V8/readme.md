@@ -1,4 +1,4 @@
-8th Draft - Changing testing frameworks; from Apple XCTest to Testing
+8th Draft - Migrating testing frameworks; from Apple XCTest to Testing
 
 - - - -
 
