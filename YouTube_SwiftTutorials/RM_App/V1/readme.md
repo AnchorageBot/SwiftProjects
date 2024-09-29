@@ -5,7 +5,6 @@
 [1:00 - Create new project](https://youtu.be/fTGA8cjbf5Y?si=bvOBEPL3nXeoL5RS)
 
 Xcode
-
 * Create New Project -> Choose a template for your project -> iOS -> App
 * Choose options for your new project:
   * Product Name: RickAndMorty
@@ -15,3 +14,7 @@ Xcode
 - - - -
 
 [2:35 - Delete Storyboard](https://youtu.be/fTGA8cjbf5Y?si=wh9PSBYHcsM5jrkq)
+
+Xcode
+* Project Navigator (Left hand side of screen)
+* Click on first file -> Info -> Custom iOS Target Properties 
