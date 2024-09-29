@@ -32,6 +32,7 @@ Xcode
 * Folders
   * APIClient
   * Controllers
+    * Core 
   * Managers
   * Models
   * Resources
