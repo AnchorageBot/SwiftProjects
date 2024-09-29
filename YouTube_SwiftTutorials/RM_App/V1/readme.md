@@ -29,11 +29,11 @@ Xcode
 
 Xcode
 * File -> New -> Folder
-* Folder
+* Folders
   * APIClients
   * Controllers
   * Managers
   * Models
+  * Resources
   * Views
   * ViewModels
-  *  
