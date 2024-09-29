@@ -30,7 +30,7 @@ Xcode
 Xcode
 * File -> New -> Folder
 * Folders
-  * APIClients
+  * APIClient
   * Controllers
   * Managers
   * Models
