@@ -22,3 +22,18 @@ Xcode
 * Custom iOS Target Properties -> Application Scene Manifest -> Scene Configuration
 * Scene Configuration -> Window Application Session Role -> Item 0 (Default Configuration)
   * Delete main storyboard file
+
+- - - -
+
+[5:33 - Add & Organize Project Folder](https://youtu.be/fTGA8cjbf5Y?si=qRm9V90iDsd6Np8X)
+
+Xcode
+* File -> New -> Folder
+* Folder
+  * APIClients
+  * Controllers
+  * Managers
+  * Models
+  * Views
+  * ViewModels
+  *  
