@@ -45,5 +45,5 @@ Xcode
 
 Xcode
 * File -> New File From Template -> iOS -> Cocoa Touch Class
-  * Class: ViewController
+  * Class: RMCharacterViewController
   * Subclass of: UIViewController  
