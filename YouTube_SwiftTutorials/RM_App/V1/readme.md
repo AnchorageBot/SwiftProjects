@@ -38,3 +38,10 @@ Xcode
   * Resources
   * Views
   * ViewModels
+
+- - - -
+
+[9:49 - Add a cocoa touch file](https://youtu.be/fTGA8cjbf5Y?si=sjQsezLeB8Gi_xrE)
+
+Xcode
+* File -> New File From Template -> iOS -> Cocoa Toucn Class
