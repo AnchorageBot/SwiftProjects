@@ -48,3 +48,7 @@ Xcode
   * Class: RMCharacterViewController
   * Subclass of: UIViewController
   * Targets: RickAndMorty
+
+- - - -
+
+Stopped working on tutorial at 11:54
