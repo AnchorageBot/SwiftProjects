@@ -17,4 +17,8 @@ Xcode
 
 Xcode
 * Project Navigator (Left hand side of screen)
-* Click on first file -> Info (center of screen) -> Custom iOS Target Properties 
+* Click on first file -> Info (center of screen) -> Custom iOS Target Properties
+  * Delete main storyboard file
+* Custom iOS Target Properties -> Application Scene Manifest -> Scene Configuration
+* Scene Configuration -> Window Application Session Role -> Item 0 (Default Configuration)
+  * Delete main storyboard file
