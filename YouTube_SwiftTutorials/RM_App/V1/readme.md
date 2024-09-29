@@ -25,7 +25,7 @@ Xcode
 
 - - - -
 
-[5:33 - Add & Organize Project Folder](https://youtu.be/fTGA8cjbf5Y?si=qRm9V90iDsd6Np8X)
+[5:33 - Add & Organize Project Folders](https://youtu.be/fTGA8cjbf5Y?si=qRm9V90iDsd6Np8X)
 
 Xcode
 * File -> New -> Folder
