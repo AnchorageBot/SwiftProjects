@@ -17,4 +17,4 @@ Xcode
 
 Xcode
 * Project Navigator (Left hand side of screen)
-* Click on first file -> Info -> Custom iOS Target Properties 
+* Click on first file -> Info (center of screen) -> Custom iOS Target Properties 
