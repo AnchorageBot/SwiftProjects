@@ -2,7 +2,7 @@
 
 - - - -
 
-[1:00 - Create new project](https://youtu.be/fTGA8cjbf5Y?si=bvOBEPL3nXeoL5RS)
+1:00 - Create new project
 
 Xcode
 * Create New Project -> Choose a template for your project -> iOS -> App
@@ -13,7 +13,7 @@ Xcode
 
 - - - -
 
-[2:35 - Delete Storyboard](https://youtu.be/fTGA8cjbf5Y?si=wh9PSBYHcsM5jrkq)
+2:35 - Delete Storyboard
 
 Xcode
 * Project Navigator (Left hand side of screen)
@@ -25,7 +25,7 @@ Xcode
 
 - - - -
 
-[5:33 - Add & Organize Project Folders](https://youtu.be/fTGA8cjbf5Y?si=qRm9V90iDsd6Np8X)
+5:33 - Add & Organize Project Folders
 
 Xcode
 * File -> New -> Folder
@@ -41,7 +41,7 @@ Xcode
 
 - - - -
 
-[9:49 - Add a cocoa touch file](https://youtu.be/fTGA8cjbf5Y?si=sjQsezLeB8Gi_xrE)
+9:49 - Add a cocoa touch file
 
 Xcode
 * File -> New File From Template -> iOS -> Cocoa Touch Class
