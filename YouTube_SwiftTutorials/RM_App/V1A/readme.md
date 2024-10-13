@@ -12,5 +12,6 @@ Started at 14:48
 
 19:18
 
-* command (Splat) space bar - searched for SF Symbols
-  * person.fill 
+* command (splat) space bar - searched for SF Symbols
+  * person
+  * shift-command(splat)-c = copy 
