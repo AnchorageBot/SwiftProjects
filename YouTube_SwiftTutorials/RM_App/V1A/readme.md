@@ -8,11 +8,11 @@
 
 Started at 14:48
 
-* Updated View Controllers
+* Updating View Controllers
 
 19:18
 
-* command (splat) space bar - searched for SF Symbols
+* command (splat) space bar - searching for SF Symbols
   * shift-command(splat)-c = copy
   * person
   * tv
