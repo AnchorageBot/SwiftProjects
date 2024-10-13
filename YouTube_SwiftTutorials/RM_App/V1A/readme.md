@@ -8,4 +8,8 @@
 
 Started at 14:48
 
-Updated View Controllers
+* Updated View Controllers
+
+19:18
+
+* Command (Splat) space bar - search for SF Symbols
