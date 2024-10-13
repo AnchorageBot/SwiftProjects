@@ -12,4 +12,4 @@ Started at 14:48
 
 19:18
 
-* Command (Splat) space bar - search for SF Symbols
+* Command (Splat) space bar - searched for SF Symbols
