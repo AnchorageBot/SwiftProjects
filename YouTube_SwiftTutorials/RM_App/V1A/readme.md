@@ -20,3 +20,5 @@ Started at 14:48
   * tv
   * globe
   * gear
+
+Stopped at 21:29
