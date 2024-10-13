@@ -15,4 +15,5 @@ Started at 14:48
 * command (splat) space bar - searched for SF Symbols
   * shift-command(splat)-c = copy
   * person
+  * tv
   * globe
