@@ -12,7 +12,7 @@ Started at 14:48
 
 19:18
 
-* command (splat) space bar - searching for SF Symbols
+* command (splat) space bar - searching for SF Symbols (version 6.0)
   * shift-command(splat)-c = copy
   * command(splat) c = copy
   * command(splat) v = paste
