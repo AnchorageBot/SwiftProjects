@@ -17,3 +17,4 @@ Started at 14:48
   * person
   * tv
   * globe
+  * gear
