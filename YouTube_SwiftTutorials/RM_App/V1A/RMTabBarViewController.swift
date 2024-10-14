@@ -13,6 +13,7 @@
 
 import UIKit
 
+// Controller to house tabs and and root tab controllers
 final class RMTabBarViewController: UITabBarController {
 
     override func viewDidLoad() {
@@ -36,8 +37,8 @@ final class RMTabBarViewController: UITabBarController {
         let nav2 = UINavigationController(rootViewController: episodesVC)
         let nav3 = UINavigationController(rootViewController: locationsVC)
         let nav4 = UINavigationController(rootViewController: settingsVC)
-
-        // Image data references SF Symbols library        
+        
+        // Image data references SF Symbols library
         nav1.tabBarItem = UITabBarItem(title: "Characters",
                                        //image: UIImage(systemName: "􀉩"),
                                        image: UIImage(systemName: "person"),
@@ -64,4 +65,3 @@ final class RMTabBarViewController: UITabBarController {
     }
     
 }
-
