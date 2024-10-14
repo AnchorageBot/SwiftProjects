@@ -106,6 +106,7 @@ Keyboard shortcuts
 * Command + ]: Shift the selected line or lines one tab to the right
 * Command + Option + [: Fold the current block of code
 * Command + Option + ]: Unfold the current block of code
+* Command B: Build app
 
 - - - -
 
