@@ -10,9 +10,9 @@ Started at 14:48
 
 * Updating View Controllers
 
-19:18
+SF Symbols (version 6.0) work 19:18
 
-* command (splat) space bar - searching for SF Symbols (version 6.0)
+* command (splat) space bar - searching for SF Symbols 
   * shift-command(splat)-c = copy
   * command(splat) c = copy
   * command(splat) v = paste
