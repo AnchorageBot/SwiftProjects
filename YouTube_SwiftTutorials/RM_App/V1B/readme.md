@@ -8,7 +8,7 @@
 
 - - - -
 
-* Started at 29:35
+* Started tutorial at 29:35
 
 * API Client Folder work at 31:21
   * Xcode -> File -> New -> File From Template -> Swift File
