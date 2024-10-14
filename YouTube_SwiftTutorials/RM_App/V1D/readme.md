@@ -7,3 +7,5 @@
 * [Rick and Morty APi](https://rickandmortyapi.com/documentation)
 
 - - - -
+
+Started tutorial at 48:17
