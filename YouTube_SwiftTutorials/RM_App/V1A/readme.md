@@ -21,4 +21,4 @@ Started at 14:48
   * globe
   * gear
 
-Stopped at 21:29
+Ended tutorial at 21:29
