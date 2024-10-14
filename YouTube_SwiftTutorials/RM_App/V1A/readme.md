@@ -6,19 +6,19 @@
 
 - - - -
 
-Started at 14:48
+* Started at 14:48
 
-* Updating View Controllers
+  * Updating View Controllers
 
-SF Symbols (version 6.0) work 19:18
+* SF Symbols (version 6.0) work 19:18
 
-* command (splat) space bar - searching for SF Symbols 
-  * shift-command(splat)-c = copy
-  * command(splat) c = copy
-  * command(splat) v = paste
-  * person
-  * tv
-  * globe
-  * gear
+  * command (splat) space bar - searching for SF Symbols 
+   * shift-command(splat)-c = copy
+   * command(splat) c = copy
+   * command(splat) v = paste
+   * person
+   * tv
+   * globe
+   * gear
 
-Ended tutorial at 21:29
+* Ended tutorial at 21:29
