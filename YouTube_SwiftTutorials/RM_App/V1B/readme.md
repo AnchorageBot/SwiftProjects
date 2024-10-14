@@ -12,3 +12,5 @@
 
 * API Client Folder work at 31:21
   * Xcode -> File -> New -> File From Template -> Swift File
+
+* Ended tutorial at 38:54
