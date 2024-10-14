@@ -8,4 +8,4 @@
 
 - - - -
 
-Started tutorial at 48:17
+* Started tutorial at 48:17
