@@ -9,3 +9,6 @@
 - - - -
 
 Started tutorial at 40:42
+
+Copy/paste API Character Schema json data (the results array) at 42:59
+  * https://rickandmortyapi.com/documentation/#character-schema
