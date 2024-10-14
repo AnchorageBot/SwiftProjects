@@ -9,4 +9,4 @@
 - - - -
 
 * Started tutorial at 48:17
- * Update Models folder with additional files 
+  * Update Models folder with additional files 
