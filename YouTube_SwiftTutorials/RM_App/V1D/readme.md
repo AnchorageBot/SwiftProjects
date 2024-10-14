@@ -11,4 +11,4 @@
 * Started tutorial at 48:17
   * Update Models folder with additional files
 *  Copy/paste API Location Schema json data (the results array) at 52:37
-  *  https://rickandmortyapi.com/documentation/#location-schema
+   *  https://rickandmortyapi.com/documentation/#location-schema
