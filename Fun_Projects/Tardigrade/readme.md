@@ -1,5 +1,5 @@
 
-Tardigrades known colloquially as water bears or moss piglets, are a phylum of eight-legged segmented micro-animals.
+Tardigrades, known colloquially as water bears or moss piglets, are a phylum of eight-legged segmented micro-animals.
 
 Tardigrades are often found on lichens and mosses— for example, by soaking a piece of moss in water
 
