@@ -10,3 +10,5 @@ Tardigrades are among the most resilient animals known, with individual species 
 - - - -
 
 [Foldscope - An origami microscope](https://foldscope.com)
+
+[How to make a origami crane](https://www.origami.org/origami-crane/)
