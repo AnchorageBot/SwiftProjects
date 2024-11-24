@@ -9,4 +9,4 @@ Tardigrades are among the most resilient animals known, with individual species 
 
 - - - -
 
-[Foldscope - An oragami microscope](https://foldscope.com)
+[Foldscope - An origami microscope](https://foldscope.com)
