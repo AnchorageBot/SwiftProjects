@@ -8,7 +8,7 @@
 // ATS Project - Assisted by Claude
 // Kodeco Tutorial
 // Understanding Data Flow in SwiftUI
-// Module 1
+// Module 1 - Exercise 1
 
 import SwiftUI
 
