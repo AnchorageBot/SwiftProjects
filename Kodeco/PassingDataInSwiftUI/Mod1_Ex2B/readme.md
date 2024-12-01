@@ -63,9 +63,9 @@ Claude's high level overview of how ContentView.swift interacts with each file i
 
  ```mermaid
 flowchart TD
-    A[PDSUI_ModuleOne_Ex2App.swift] -->|1. Initializes & injects entries array| B[ContentView.swift]
-    C[FinancialEntry.swift] -->|2. Provides data model structure| B
-    B -->|3. Creates row for each entry| D[FinancialEntryRow.swift]
+    A[PDSUI_ModuleOne_Ex2App.swift] --> B[ContentView.swift]
+    C[FinancialEntry.swift] --> B
+    B --> D[FinancialEntryRow.swift]
     
     subgraph Main View Container
     B
@@ -103,22 +103,4 @@ This makes ContentView the central hub of the application because it:
 - Handles the main UI layout and organization
 
 
-```mermaid
-flowchart TD
-    A[PDSUI_ModuleOne_Ex2App.swift] --> B[ContentView.swift]
-    C[FinancialEntry.swift] --> B
-    B --> D[FinancialEntryRow.swift]
-    
-    note right of A: Initializes & injects entries array
-    note right of C: Provides data model structure
-    note right of D: Creates row for each entry
-    
-    subgraph Main View Container
-    B
-    end
-    
-    style A fill:#dfd,stroke:#333
-    style B fill:#dfd,stroke:#333
-    style C fill:#dfd,stroke:#333
-    style D fill:#dfd,stroke:#333
-```
+
