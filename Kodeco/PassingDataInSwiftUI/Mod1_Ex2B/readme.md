@@ -10,15 +10,23 @@ Claude's high-level overview of how data flows through this SwiftUI budget track
 
 
 
- ```mermaid
+```mermaid
 flowchart TD
-    A[PDSUI_ModuleOne_Ex2App.swift] --> B[ContentView.swift]
-    C[FinancialEntry.swift] --> B
-    B --> D[FinancialEntryRow.swift]
+    A[PDSUI_ModuleOne_Ex2App] -->|Initializes entries array| B[ContentView]
+    B -->|Passes single entry| C[FinancialEntryRow]
     
-    subgraph Main View Container
-    B
+    subgraph Data Model
+    D[FinancialEntry Struct]
     end
+    
+    subgraph Views
+    B
+    C
+    end
+    
+    D -->|Defines structure for| A
+    D -->|Used by| B
+    D -->|Displays| C
     
     style A fill:#dfd,stroke:#333
     style B fill:#dfd,stroke:#333
