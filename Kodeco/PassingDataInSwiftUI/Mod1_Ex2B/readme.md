@@ -1,1 +1,1 @@
- A more maintainable structure
+ A more maintainable app structure
