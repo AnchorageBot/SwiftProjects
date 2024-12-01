@@ -85,8 +85,6 @@ flowchart TD
 ```
 
 
-Here's how ContentView.swift interacts with each file in the app:
-
 1. **Interaction with PDSUI_ModuleOne_Ex2App.swift**:
    - The app file serves as the entry point and configuration center
    - It initializes the sample entries array
