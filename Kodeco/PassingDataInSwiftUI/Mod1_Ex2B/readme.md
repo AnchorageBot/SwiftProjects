@@ -62,3 +62,25 @@ Here's how the data flows through the application:
 
 This is a one-directional data flow pattern, where data is passed down through the view hierarchy. The app uses immutable data (`let` properties) which means the financial entries can't be modified after creation, ensuring data consistency throughout the view hierarchy.
 
+- - - -
+
+Claude's high level overview of how ContentView.swift interacts with each file in the app
+
+
+
+ ```mermaid
+flowchart TD
+    A[PDSUI_ModuleOne_Ex2App.swift] -->|1. Initializes & injects entries array| B[ContentView.swift]
+    C[FinancialEntry.swift] -->|2. Provides data model structure| B
+    B -->|3. Creates row for each entry| D[FinancialEntryRow.swift]
+    
+    subgraph Main View Container
+    B
+    end
+    
+    style A fill:#dfd,stroke:#333
+    style B fill:#dfd,stroke:#333
+    style C fill:#dfd,stroke:#333
+    style D fill:#dfd,stroke:#333
+```
+
