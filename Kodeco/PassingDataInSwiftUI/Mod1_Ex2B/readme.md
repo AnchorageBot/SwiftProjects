@@ -26,6 +26,25 @@ flowchart TD
     style D fill:#dfd,stroke:#333
 ```
 
+```mermaid
+flowchart TD
+    A[PDSUI_ModuleOne_Ex2App.swift] --> B[ContentView.swift]
+    C[FinancialEntry.swift] --> B
+    B --> D[FinancialEntryRow.swift]
+    
+    note right of A: Initializes & injects entries array
+    note right of C: Provides data model structure
+    note right of D: Creates row for each entry
+    
+    subgraph Main View Container
+    B
+    end
+    
+    style A fill:#dfd,stroke:#333
+    style B fill:#dfd,stroke:#333
+    style C fill:#dfd,stroke:#333
+    style D fill:#dfd,stroke:#333
+```
 
 Here's how the data flows through the application:
 
