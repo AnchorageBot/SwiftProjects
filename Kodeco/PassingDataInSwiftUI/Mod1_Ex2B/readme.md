@@ -84,3 +84,30 @@ flowchart TD
     style D fill:#dfd,stroke:#333
 ```
 
+
+Here's how ContentView.swift interacts with each file in the app:
+
+1. **Interaction with PDSUI_ModuleOne_Ex2App.swift**:
+   - The app file serves as the entry point and configuration center
+   - It initializes the sample entries array
+   - Injects this array into ContentView through its initializer: `ContentView(entries: entries)`
+   - Sets up ContentView as the root view of the application
+
+2. **Interaction with FinancialEntry.swift**:
+   - ContentView relies on the FinancialEntry struct as its primary data model
+   - The entries array in ContentView is typed as `[FinancialEntry]`
+   - ContentView uses FinancialEntry's Identifiable conformance for its ForEach loop
+   - The data structure defined in FinancialEntry determines what information ContentView can display
+
+3. **Interaction with FinancialEntryRow.swift**:
+   - ContentView creates FinancialEntryRow instances for each entry in its list
+   - Passes individual FinancialEntry instances to each row: `FinancialEntryRow(entry: entry)`
+   - Manages the layout and organization of these rows within its List and Section structure
+
+This makes ContentView the central hub of the application because it:
+- Receives the data from the app's entry point
+- Uses the data model structure
+- Manages the creation and organization of row views
+- Provides the navigation structure
+- Handles the main UI layout and organization
+
