@@ -1,1 +1,1 @@
-
+ A more maintainable structure
