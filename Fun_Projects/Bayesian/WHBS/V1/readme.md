@@ -2,6 +2,8 @@
 
 - - - -
 
+```mermaid
+
 flowchart TD
     subgraph UI["User Interface Layer"]
         CV[ContentView]
@@ -32,3 +34,4 @@ flowchart TD
     class CV,PR viewClass
     class PC,CR vmClass
 
+'''
