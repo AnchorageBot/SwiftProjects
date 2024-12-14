@@ -2,8 +2,19 @@
 
 - - - -
 
-'''mermaid
+# BayesCalculator
 
+A SwiftUI app that demonstrates Bayesian probability calculations through an interactive phone location example.
+
+## Overview
+
+This app helps users understand Bayesian probability by solving a practical problem: determining the likely location of a phone based on noise observations. Users can input observation data for different rooms and see how probabilities update based on new evidence.
+
+## Architecture
+
+The app follows MVVM (Model-View-ViewModel) architecture with unidirectional data flow:
+
+```mermaid
 flowchart TB
     subgraph App["BayesCalculatorApp"]
         CV[ContentView]
@@ -28,32 +39,22 @@ flowchart TB
         FH[FormattingHelpers]
     end
 
-    %% Main data flow
     CV --> BEV
     CV --> RDV
     CV --> PR
     CV <--> PC
-    
-    %% ViewModel interactions
     PC <--> RD
     PC --> CR
-    
-    %% View component relationships
     RDV <--> RD
     PR --> FH
-    
-    %% Helper usage
     FH --> RDV
     FH --> PR
 
-    %% Styling
-    classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px;
-    classDef viewModel fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
-    classDef models fill:#e8f5e9,stroke:#388e3c,stroke-width:2px;
-    classDef helpers fill:#fff3e0,stroke:#f57c00,stroke-width:2px;
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px
+    classDef viewModel fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
+    classDef models fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
+    classDef helpers fill:#fff3e0,stroke:#f57c00,stroke-width:2px
     
-    class PC viewModel;
-    class RD,CR models;
-    class FH helpers;
-
-    '''
+    class PC viewModel
+    class RD,CR models
+    class FH helpers
