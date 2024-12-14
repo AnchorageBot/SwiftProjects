@@ -16,29 +16,44 @@ The app follows MVVM (Model-View-ViewModel) architecture with unidirectional dat
 
 ```mermaid
 flowchart TB
+    %% Node definitions with improved contrast
     subgraph App["BayesCalculatorApp"]
-        CV[ContentView]
+        style App fill:#2d2d2d,stroke:#666,color:#fff
+        CV["ContentView"]
+        style CV fill:#363636,stroke:#666,color:#fff
     end
 
     subgraph Views["Views Layer"]
-        BEV[BayesianExplanationView]
-        RDV[RoomDataView]
-        PR[ProbabilityRow]
+        style Views fill:#2d2d2d,stroke:#666,color:#fff
+        BEV["BayesianExplanationView"]
+        RDV["RoomDataView"]
+        PR["ProbabilityRow"]
+        style BEV fill:#363636,stroke:#666,color:#fff
+        style RDV fill:#363636,stroke:#666,color:#fff
+        style PR fill:#363636,stroke:#666,color:#fff
     end
 
     subgraph ViewModel["ViewModel Layer"]
-        PC[ProbabilityCalculator]
+        style ViewModel fill:#2d2d2d,stroke:#666,color:#fff
+        PC["ProbabilityCalculator"]
+        style PC fill:#1a3f4d,stroke:#0288d1,color:#fff
     end
 
     subgraph Models["Data Models"]
-        RD[RoomData]
-        CR[CalculationResults]
+        style Models fill:#2d2d2d,stroke:#666,color:#fff
+        RD["RoomData"]
+        CR["CalculationResults"]
+        style RD fill:#1e3b1e,stroke:#388e3c,color:#fff
+        style CR fill:#1e3b1e,stroke:#388e3c,color:#fff
     end
 
     subgraph Helpers["Helper Components"]
-        FH[FormattingHelpers]
+        style Helpers fill:#2d2d2d,stroke:#666,color:#fff
+        FH["FormattingHelpers"]
+        style FH fill:#3d2e15,stroke:#f57c00,color:#fff
     end
 
+    %% Connections
     CV --> BEV
     CV --> RDV
     CV --> PR
@@ -50,11 +65,5 @@ flowchart TB
     FH --> RDV
     FH --> PR
 
-    classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px
-    classDef viewModel fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
-    classDef models fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
-    classDef helpers fill:#fff3e0,stroke:#f57c00,stroke-width:2px
-    
-    class PC viewModel
-    class RD,CR models
-    class FH helpers
+    %% Link styling
+    linkStyle default stroke:#666,stroke-width:2px
