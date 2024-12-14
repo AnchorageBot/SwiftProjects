@@ -3,7 +3,6 @@
 - - - -
 
 '''
-mermaid
 
 flowchart TB
     subgraph App["BayesCalculatorApp"]
