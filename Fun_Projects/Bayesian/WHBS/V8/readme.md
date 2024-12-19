@@ -16,4 +16,8 @@ Prior should be 0 with no observations
 * testEdgeCases(): Expectation failed: (calculator.results.likelihoodNB → 0.1) == (0 → 0.0)
 Likelihood should be 0 with no observations
 
+* testEdgeCases(): Expectation failed: (calculator.results.posteriorBN → 0.7500000000000001) == (0 → 0.0)
+Posterior should be 0 with no observations
+
+
 
