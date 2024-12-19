@@ -14,6 +14,8 @@ BayesCalculator/
 ├── Views/
 │   ├── ContentView.swift
 │   ├── BayesianExplanationView.swift
+|   |-- CalculatorUsageView.swift
+|   |-- PhoneLocationProblemView.swift
 │   ├── Components/
 │   │   ├── RoomDataView.swift
 │   │   └── ProbabilityRow.swift
