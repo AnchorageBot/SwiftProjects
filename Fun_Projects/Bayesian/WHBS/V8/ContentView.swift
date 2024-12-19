@@ -39,6 +39,13 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             List {
+
+                // MARK: Explanation Section
+                Section {
+                    Text("In this application, we're using Bayes' Theorem to solve a practical problem: determining the likely location of a phone based on noise observations.")
+                            .fixedSize(horizontal: false, vertical: true)
+                    }
+                
                 // MARK: About Section
                 NavigationLink(destination: BayesianExplanationView()) {
                     Label("About Bayesian Analysis", systemImage: "info.circle")
