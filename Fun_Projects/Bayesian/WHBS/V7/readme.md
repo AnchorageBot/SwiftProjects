@@ -2,7 +2,8 @@
 
 - - - -
 
-```
+'''
+
 BayesCalculator/
 ├── App/
 │   └── BayesCalculatorApp.swift
@@ -14,8 +15,8 @@ BayesCalculator/
 ├── Views/
 │   ├── ContentView.swift
 │   ├── BayesianExplanationView.swift
-|   |-- CalculatorUsageView.swift
-|   |-- PhoneLocationProblemView.swift
+│   ├── CalculatorUsageView.swift
+│   ├── PhoneLocationProblemView.swift
 │   ├── Components/
 │   │   ├── RoomDataView.swift
 │   │   └── ProbabilityRow.swift
@@ -24,4 +25,5 @@ BayesCalculator/
 └── Tests/
     ├── BayesCalculatorTests/
     └── BayesCalculatorUITests/
-```
+
+'''
