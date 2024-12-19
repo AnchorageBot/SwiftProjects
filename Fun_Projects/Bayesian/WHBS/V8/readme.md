@@ -2,6 +2,14 @@
 
 - - - -
 
+// Abstract:
+// This test suite validates the core functionality of the BayesCalculator
+// app, including probability calculations, data validation, and formatting
+// helpers. It ensures accurate Bayesian analysis calculations and proper
+// handling of edge cases.
+
+- - - -
+
 Test results:
 
 * testRoomDataValidation(): Expectation failed: (negativeNoise.noise → -5.0) == (0 → 0.0)
