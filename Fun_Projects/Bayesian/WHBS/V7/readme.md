@@ -2,7 +2,6 @@
 
 - - - -
 
-'''
 
 BayesCalculator/
 ├── App/
@@ -26,4 +25,4 @@ BayesCalculator/
     ├── BayesCalculatorTests/
     └── BayesCalculatorUITests/
 
-'''
+
