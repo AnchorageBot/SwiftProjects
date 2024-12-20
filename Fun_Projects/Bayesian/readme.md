@@ -10,8 +10,8 @@ Pierre-Simon Laplace pioneered and popularized what is now called Bayesian proba
 
 - - - -
 
-[Probability is not Likelihood. Find out why!!! - StatQuest with Josh Starmer - YouTube](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
-
 [Likelihood vs probability - StatQuest with Josh Staarmer - Youtube Short](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
+
+[Probability is not Likelihood. Find out why!!! - StatQuest with Josh Starmer - YouTube](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
 
 [Maximum Likelihood, clearly explained!!!  - StatQuest with Josh Starmer - YouTube](https://youtu.be/XepXtl9YKwc?si=9536F7JOTWsFmJUL)
