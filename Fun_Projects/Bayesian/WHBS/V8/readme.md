@@ -32,5 +32,14 @@ Posterior should be 0 with no observations
 
 BayesCalculatorUITests.swift results:
 
+* testNavigationFlows(): XCTAssertTrue failed - About link should be visible
+
+* testInputValidation(): XCTAssertTrue failed - Validation alert should appear for invalid input
+
+* testAccessibilityLabels(): XCTAssertTrue failed - Room name field should be accessible
+
+
+
+
 
 
