@@ -11,7 +11,7 @@ handling of edge cases.
 
 - - - -
 
-Test results:
+BayesCalculatorTests.swift results:
 
 * testRoomDataValidation(): Expectation failed: (negativeNoise.noise → -5.0) == (0 → 0.0)
 Negative noise should be set to 0
@@ -27,6 +27,9 @@ Likelihood should be 0 with no observations
 
 * testEdgeCases(): Expectation failed: (calculator.results.posteriorBN → 0.7500000000000001) == (0 → 0.0)
 Posterior should be 0 with no observations
+
+- - - -
+
 
 
 
