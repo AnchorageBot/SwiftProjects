@@ -9,3 +9,5 @@ treatment of a non-trivial problem of statistical data analysis using what is no
 Pierre-Simon Laplace pioneered and popularized what is now called Bayesian probability.
 
 - - - -
+
+[Probability is not Likelihood. Find out why!!! - StatQuest with Josh Starmer - YouTube](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
