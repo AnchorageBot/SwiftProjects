@@ -15,3 +15,8 @@ Pierre-Simon Laplace pioneered and popularized what is now called Bayesian proba
 [Probability is not Likelihood. Find out why!!! - StatQuest with Josh Starmer - YouTube](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
 
 [Maximum Likelihood, clearly explained!!!  - StatQuest with Josh Starmer - YouTube](https://youtu.be/XepXtl9YKwc?si=9536F7JOTWsFmJUL)
+
+- - - -
+
+Probability is a number between 0 and 1 (including both) that represents a degree of belief in a fact or prediction.
+
