@@ -9,8 +9,6 @@ app, including probability calculations, data validation, and formatting
 helpers. It ensures accurate Bayesian analysis calculations and proper
 handling of edge cases.
 
-- - - -
-
 BayesCalculatorTests.swift results:
 
 * testRoomDataValidation(): Expectation failed: (negativeNoise.noise → -5.0) == (0 → 0.0)
