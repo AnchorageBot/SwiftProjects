@@ -10,14 +10,6 @@ Pierre-Simon Laplace pioneered and popularized what is now called Bayesian proba
 
 - - - -
 
-[Likelihood vs probability - StatQuest with Josh Staarmer - Youtube Short](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
-
-[Probability is not Likelihood. Find out why!!! - StatQuest with Josh Starmer - YouTube](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
-
-[Maximum Likelihood, clearly explained!!!  - StatQuest with Josh Starmer - YouTube](https://youtu.be/XepXtl9YKwc?si=9536F7JOTWsFmJUL)
-
-- - - -
-
 [Think Bayes: Bayesian Statistics in Python - Allen B. Downey](https://greenteapress.com/wp/think-bayes/)
 
 - - - -
@@ -29,3 +21,15 @@ Probability is a number between 0 and 1 (including both) that represents a degre
 Likelihood is the probability of the data under the hypothesis - Past events
 
 * [Likelihood is the hypothetical probability that an event that has already occurred would yield a specific outcome. The concept differs from that of a probability in that a probability refers to the occurrence of future events, while a likelihood refers to past events with known outcomes. - Wolfram Mathworld](https://mathworld.wolfram.com/Likelihood.html)
+
+- - - -
+
+[The better way to do statistics - Very Normal - YouTube](https://youtu.be/3jP4H0kjtng?si=n7N31Vpzak0g9vYK)
+
+[Likelihood vs probability - StatQuest with Josh Staarmer - Youtube Short](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
+
+[Probability is not Likelihood. Find out why!!! - StatQuest with Josh Starmer - YouTube](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
+
+[Maximum Likelihood, clearly explained!!!  - StatQuest with Josh Starmer - YouTube](https://youtu.be/XepXtl9YKwc?si=9536F7JOTWsFmJUL)
+
+- - - -
