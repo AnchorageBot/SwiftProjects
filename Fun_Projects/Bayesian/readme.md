@@ -20,3 +20,5 @@ Pierre-Simon Laplace pioneered and popularized what is now called Bayesian proba
 
 Probability is a number between 0 and 1 (including both) that represents a degree of belief in a fact or prediction.
 
+*  [In common usage, the word "probability" is used to mean the chance that a particular event (or set of events) will occur expressed on a linear scale from 0 (impossibility) to 1 (certainty), also expressed as a percentage between 0 and 100%. - Wolfram Mathworld](https://mathworld.wolfram.com/Probability.html)
+
