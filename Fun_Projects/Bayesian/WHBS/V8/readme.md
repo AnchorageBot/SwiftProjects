@@ -28,6 +28,13 @@ Posterior should be 0 with no observations
 
 - - - -
 
+Abstract:
+
+This test suite validates the user interface functionality of the BayesCalculator app
+through automated UI testing. It verifies navigation flows, data input handling,
+probability calculation updates, and accessibility features. The tests ensure
+the app provides a reliable and user-friendly interface for Bayesian analysis.
+
 BayesCalculatorUITests.swift results:
 
 * testNavigationFlows(): XCTAssertTrue failed - About link should be visible
