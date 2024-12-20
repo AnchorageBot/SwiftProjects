@@ -30,6 +30,7 @@ Posterior should be 0 with no observations
 
 - - - -
 
+BayesCalculatorUITests.swift results:
 
 
 
