@@ -43,7 +43,17 @@ BayesCalculatorUITests.swift results:
 
 * testAccessibilityLabels(): XCTAssertTrue failed - Room name field should be accessible
 
+- - - -
 
+The main issues were:
+
+* Improper handling of negative values in RoomData
+  
+* Incorrect expectations for zero observation cases
+  
+* UI element timing and visibility issues
+  
+* Missing or incorrect accessibility identifiers
 
 
 
