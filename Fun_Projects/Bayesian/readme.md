@@ -9,8 +9,9 @@ treatment of a non-trivial problem of statistical data analysis using what is no
 Pierre-Simon Laplace pioneered and popularized what is now called Bayesian probability.
 
 - - - -
+Books
 
-[Think Bayes: Bayesian Statistics in Python - Allen B. Downey](https://greenteapress.com/wp/think-bayes/)
+* [Think Bayes: Bayesian Statistics in Python - Allen B. Downey](https://greenteapress.com/wp/think-bayes/)
 
 - - - -
 
@@ -24,12 +25,16 @@ Likelihood is the probability of the data under the hypothesis - Past events
 
 - - - -
 
-[The better way to do statistics - Very Normal - YouTube](https://youtu.be/3jP4H0kjtng?si=n7N31Vpzak0g9vYK)
+Videos:
 
-[Likelihood vs probability - StatQuest with Josh Staarmer - Youtube Short](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
+* [What the Heck is Bayesian Stats ?? : Data Science Basics - ritvikmath](https://youtu.be/-1dYY43DRMA?si=ndcXyssfNPWsTiqn)
 
-[Probability is not Likelihood. Find out why!!! - StatQuest with Josh Starmer - YouTube](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
+* [The better way to do statistics - Very Normal - YouTube](https://youtu.be/3jP4H0kjtng?si=n7N31Vpzak0g9vYK)
 
-[Maximum Likelihood, clearly explained!!!  - StatQuest with Josh Starmer - YouTube](https://youtu.be/XepXtl9YKwc?si=9536F7JOTWsFmJUL)
+* [Likelihood vs probability - StatQuest with Josh Staarmer - Youtube Short](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
+
+* [Probability is not Likelihood. Find out why!!! - StatQuest with Josh Starmer - YouTube](https://youtu.be/pYxNSUDSFH4?si=HJHmHJU_PnTWB1UP)
+
+* [Maximum Likelihood, clearly explained!!!  - StatQuest with Josh Starmer - YouTube](https://youtu.be/XepXtl9YKwc?si=9536F7JOTWsFmJUL)
 
 - - - -
