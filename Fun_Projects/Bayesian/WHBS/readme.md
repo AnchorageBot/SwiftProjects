@@ -7,3 +7,7 @@ Tutor: Anthropic's AI Claude
 - - - -
 
 Xcode simulator set on the iPhone 16 Pro Max
+
+- - - -
+
+Used testing to include Xcode UI testing record feature
