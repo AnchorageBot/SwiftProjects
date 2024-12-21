@@ -3,3 +3,7 @@
 - - - -
 
 Tutor: Anthropic's AI Claude
+
+- - - -
+
+Xcode simulator set on the iPhone 16 Pro Max
