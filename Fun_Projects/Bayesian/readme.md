@@ -9,11 +9,6 @@ treatment of a non-trivial problem of statistical data analysis using what is no
 Pierre-Simon Laplace pioneered and popularized what is now called Bayesian probability.
 
 - - - -
-Books
-
-* [Think Bayes: Bayesian Statistics in Python - Allen B. Downey](https://greenteapress.com/wp/think-bayes/)
-
-- - - -
 
 Probability is a number between 0 and 1 (including both) that represents a degree of belief in a fact or prediction - Future events
 
@@ -22,6 +17,12 @@ Probability is a number between 0 and 1 (including both) that represents a degre
 Likelihood is the probability of the data under the hypothesis - Past events
 
 * [Likelihood is the hypothetical probability that an event that has already occurred would yield a specific outcome. The concept differs from that of a probability in that a probability refers to the occurrence of future events, while a likelihood refers to past events with known outcomes. - Wolfram Mathworld](https://mathworld.wolfram.com/Likelihood.html)
+
+- - - -
+
+Books
+
+* [Think Bayes: Bayesian Statistics in Python - Allen B. Downey](https://greenteapress.com/wp/think-bayes/)
 
 - - - -
 
