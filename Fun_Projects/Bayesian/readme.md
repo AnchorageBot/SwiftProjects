@@ -37,4 +37,6 @@ Videos:
 
 * [Maximum Likelihood, clearly explained!!!  - StatQuest with Josh Starmer - YouTube](https://youtu.be/XepXtl9YKwc?si=9536F7JOTWsFmJUL)
 
+* [Bayesian Statistics | Full University Course - Nerd's Academy - YouTube](https://youtu.be/ERjV-xUI5Sw?si=WzyVAoSVwtaVolnz)
+
 - - - -
