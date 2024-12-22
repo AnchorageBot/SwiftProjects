@@ -55,6 +55,10 @@ The main issues were:
   
 * Missing or incorrect accessibility identifiers
 
+- - - -
+
+[Swift Testing Framework](https://developer.apple.com/documentation/Testing)
+
 
 
 
