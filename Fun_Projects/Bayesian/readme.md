@@ -12,10 +12,10 @@ Pierre-Simon Laplace pioneered and popularized what is now called Bayesian proba
 
 P(A|B) = P(B|A) × P(A) / P(B)
 
-P(A|B) is the posterior probability
-P(B|A) is the likelihood
-P(A) is the prior probability
-P(B) is the evidence
+* P(A|B) is the posterior probability
+* P(B|A) is the likelihood
+* P(A) is the prior probability
+* P(B) is the evidence
 
 - - - -
 
