@@ -23,11 +23,12 @@ Failing Tests with their specific issues:
 These failures appear to be related to:
 - Element identification issues
 - Timing/synchronization issues
+- Possibly different element labels in the actual UI versus our test expectations
 
 - - - -
 
 [Swift Testing Framework](https://developer.apple.com/documentation/Testing)
 
 [XCTest Framework](https://developer.apple.com/documentation/xctest)
-- Possibly different element labels in the actual UI versus our test expectations
+
 
