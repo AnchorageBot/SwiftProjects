@@ -1,4 +1,4 @@
-Experiments with your sock drawer
+Experiments to run with your sock drawer
 
 - - - -
 
