@@ -6,6 +6,8 @@ Tutor: Google's Gemini 2.0
 
 - - - -
 
+```
+
 SockDrawerApp
 ├── SockDrawerApp.swift
 ├── Views
