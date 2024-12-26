@@ -2,18 +2,4 @@ Diophantine equations are polynomial equations, usually with two or more unknown
 
 - - - -
 
-Tutor: Google's Gemini 2.0
 
-- - - -
-
-```
-
-SockDrawerApp
-├── SockDrawerApp.swift
-├── Views
-│   ├── AboutView.swift
-│   ├── DiophantineExplanationView.swift
-│   ├── SolutionView.swift
-│   └── SockDataInputView.swift
-└── Models
-    └── SockProblemSolver.swift
