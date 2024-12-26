@@ -14,6 +14,7 @@ Tutor: Google's Gemini 2.0
 
 SockDrawerApp
 ├── SockDrawerApp.swift
+├── ContentView.swift 
 ├── Views
 │   ├── AboutView.swift
 │   ├── DiophantineExplanationView.swift
