@@ -6,7 +6,7 @@ Our problem involves finding whole numbers of socks (you can't have half a sock!
 
 - - - -
 
-Tutor: Google's Gemini 2.0
+Tutor: Google's Gemini 2.0 Experimental
 
 - - - -
 
