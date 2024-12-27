@@ -6,6 +6,10 @@ Tutor: Google's Gemini 2.0 Experimental
 
 - - - -
 
+The problem involves finding the smallest number of socks in a drawer such that the probability of drawing two red socks is 1/2
+
+- - - -
+
 ```
 
 SockDrawerApp
