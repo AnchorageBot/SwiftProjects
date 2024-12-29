@@ -2,4 +2,5 @@ Diophantine equations are polynomial equations, usually with two or more unknown
 
 - - - -
 
+[Diaphantus's Arithmetica problems & solutions - Cataloged by Joseph Muscat](https://staff.um.edu.mt/jmus1/Diophantus.pdf)
 
