@@ -12,7 +12,7 @@ CardsApp
 ├── Views
 │   ├── CardsListView.swift
 │   ├── CardThumbnail.swift
-│   ├── xxxx.swift
+│   ├── SingleCardView.swift
 │   └── xxxx.swift
 ├── Assets.xcassets
 └── Tests
