@@ -28,3 +28,6 @@ struct CardsListView: View {
     }
 }
 
+#Preview {
+    CardsListView()
+}
