@@ -14,23 +14,19 @@
 
 import SwiftUI
 
-/// Main view of the application
-/// Provides the primary user interface for the Cards app
+/// The main content view of the application, responsible for displaying the card list.
 struct ContentView: View {
-    
-    /// The main view body
-    /// Organizes content into collapsible sections with iOS native styling
+    /// The main content of the ContentView.
     var body: some View {
-        NavigationView { // Embed in NavigationView for proper fullScreenCover presentation
-                    CardsListView()
-                        // Optional: Adds a navigation title
-                        .navigationTitle("Cards")
-                        // This centers the title
-                        .navigationBarTitleDisplayMode(.inline)
-                }
-            }
+        NavigationView { // Embeds the content in a NavigationView to enable navigation features (like fullScreenCover presentation).
+            CardsListView() // Displays the list of card thumbnails.
+                .navigationTitle("Cards") // Sets the title of the navigation bar.
+                .navigationBarTitleDisplayMode(.inline) // Centers the navigation bar title.
         }
+    }
+}
 
+/// A preview provider for the ContentView, used in Xcode's canvas.
 #Preview {
     ContentView()
 }
