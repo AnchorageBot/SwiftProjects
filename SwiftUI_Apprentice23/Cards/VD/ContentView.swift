@@ -19,6 +19,7 @@ struct ContentView: View {
     /// The main content of the ContentView.
     var body: some View {
         NavigationView { // Embeds the content in a NavigationView to enable navigation features (like fullScreenCover presentation).
+            /// references the CardsListView.swift file
             CardsListView() // Displays the list of card thumbnails.
                 .navigationTitle("Cards") // Sets the title of the navigation bar.
                 .navigationBarTitleDisplayMode(.inline) // Centers the navigation bar title.
