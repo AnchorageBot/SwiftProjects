@@ -23,6 +23,7 @@ struct CardsListView: View {
         ScrollView(showsIndicators: false) { // Creates a scroll view, hiding the scroll indicators.
             VStack { // Arranges the card thumbnails vertically.
                 ForEach(0..<10) { _ in // Iterates 10 times to create 10 card thumbnails.
+                    /// references the CardThumbnail.swift file
                     CardThumbnail() // Creates a single card thumbnail view.
                         .onTapGesture { // Adds a tap gesture recognizer to each thumbnail.
                             isPresented = true // When tapped, sets isPresented to true, triggering the full-screen presentation.
@@ -31,6 +32,7 @@ struct CardsListView: View {
             }
         }
         .fullScreenCover(isPresented: $isPresented) { // Presents a full-screen modal view when isPresented is true.
+            /// references the SingleCardView.swift file
             SingleCardView() // The view to present in full screen.
         }
     }
