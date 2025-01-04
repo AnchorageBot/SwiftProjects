@@ -6,6 +6,9 @@ Tutor: Google's Gemini 2.0 Experimental
 
 - - - -
 
+CardsApp.swift
+* references the ContentView.swift file
+
 ContentView.swift
 * references the CardsListView.swift file
 
