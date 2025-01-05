@@ -1,1 +1,5 @@
-[Learn to Program w/Swift for App Dev (2021) - Dr. John Gallaugher](https://youtu.be/1a_gRtECKFk?si=gFu8QkrqiQbpO3El)
+Videos
+
+* [Learn to Program w/Swift for App Dev (2021) - Dr. John Gallaugher - YouTube](https://youtu.be/1a_gRtECKFk?si=gFu8QkrqiQbpO3El)
+
+* [Build Apps w/Swift + SwiftUI - Dr. John Gallaugher - YouTube](https://youtube.com/playlist?list=PL9VJ9OpT-IPSM6dFSwQCIl409gNBsqKTe&si=wTRIXWVbr41EhxM0)
