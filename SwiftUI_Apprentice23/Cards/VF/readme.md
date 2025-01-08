@@ -8,14 +8,14 @@ CardsApp
 ├── CardsApp.swift
 ├── ContentView.swift
 ├── ToolbarSelection.swift
-├── BottomToolbar.swift
+├── xxxx.swift
 ├── Models
 │   └── xxxx.swift
 ├── Views
 │   ├── CardsListView.swift
 │   ├── CardThumbnail.swift
 │   ├── SingleCardView.swift
-│   └── xxxx.swift
+│   └── BottomToolbar.swift
 ├── Assets.xcassets
 └── Tests
     ├── CardsTests
