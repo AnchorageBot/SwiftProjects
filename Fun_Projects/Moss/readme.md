@@ -29,3 +29,7 @@ https://doi.org/10.1017/CBO9781139171304)
     * Pleurocarpus mosses
     * The Bryologist, JSTOR
 
+- - - -
+
+Videos
+* [The Weird World of Bryophytes - Mugsy Explains](https://youtu.be/3pJlsAZDbQ0?si=0uvtPXeeLZb9ituJ)
