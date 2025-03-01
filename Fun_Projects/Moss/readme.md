@@ -33,3 +33,5 @@ https://doi.org/10.1017/CBO9781139171304)
 
 Videos
 * [The Weird World of Bryophytes - Mugsy Explains](https://youtu.be/3pJlsAZDbQ0?si=0uvtPXeeLZb9ituJ)
+
+* [Why Don't These Plants Need Seeds? (Moss and Ferns): Crash Course Botany #8 - CrashCourse](https://youtu.be/usKrCTtArNc?si=NEmzoNmP8m9WRF9M)
