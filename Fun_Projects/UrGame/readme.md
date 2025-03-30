@@ -37,6 +37,8 @@ The game represents a fascinating blend of luck and strategy that has entertaine
 
 [Cracking Ancient Codes: Cuneiform Writing - with Irving Finkel - The Royal Institution](https://youtu.be/PfYYraMgiBA?si=UfEUPJI1GkIZiaRQ)
 
+[The Complete and Concise History of the Sumerians and Early Bronze Age Mesopotamia (7000-2000 BC) - History with Cy](https://youtu.be/szFjxmY7jQA?si=YH8_W0lWBNPS-gWM)
+
 - - - -
 
 [Dr Jon Taylor on Reading the Library of Ashurbanipal - The British Institute for the Study of Iraq](https://youtu.be/IfCVMzm1rfc?si=_NuWSll3y-SBmAEu)
