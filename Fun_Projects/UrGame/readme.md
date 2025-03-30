@@ -26,3 +26,7 @@ The game combines strategy and luck:
 - The first player to move all seven pieces off the board wins
 
 The game represents a fascinating blend of luck and strategy that has entertained people across millennia and cultures, making it a remarkable artifact of human recreational history.
+
+- - - - 
+
+[The Babylonian Map of the World with Irving Finkel | Curator’s Corner S9 Ep5 - The British Museum](https://youtu.be/LUxFzh8r384?si=fP_foXR4zk71sd7e)
