@@ -37,7 +37,11 @@ The game represents a fascinating blend of luck and strategy that has entertaine
 
 [Cracking Ancient Codes: Cuneiform Writing - with Irving Finkel - The Royal Institution](https://youtu.be/PfYYraMgiBA?si=UfEUPJI1GkIZiaRQ)
 
+- - - -
+
 [Dr Jon Taylor on Reading the Library of Ashurbanipal - The British Institute for the Study of Iraq](https://youtu.be/IfCVMzm1rfc?si=_NuWSll3y-SBmAEu)
+
+[The Fascinating Story behind the Library of Ashurbanipal at Nineveh (History of Ancient Assyria) - History with Cy](https://youtu.be/xfNCc5kPX5o?si=-MOrC870GDAyUOex)
 * Sargon II - 721 - 705 BC
 * Sennacherib - 704 - 681 BC
 * Essarhaddon - 680 - 669 BC
