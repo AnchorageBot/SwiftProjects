@@ -34,3 +34,5 @@ The game represents a fascinating blend of luck and strategy that has entertaine
 - - - - 
 
 [The Babylonian Map of the World with Irving Finkel | Curator’s Corner S9 Ep5 - The British Museum](https://youtu.be/LUxFzh8r384?si=fP_foXR4zk71sd7e)
+
+[Cracking Ancient Codes: Cuneiform Writing - with Irving Finkel - The Royal Institution](https://youtu.be/PfYYraMgiBA?si=UfEUPJI1GkIZiaRQ)
