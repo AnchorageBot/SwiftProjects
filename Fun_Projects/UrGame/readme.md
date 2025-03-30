@@ -1,6 +1,6 @@
 [Tom Scott vs Irving Finkel: The Royal Game of Ur | PLAYTHROUGH | International Tabletop Day 2017 - The British Museum](https://youtu.be/WZskjLq040I?si=YbxKlbCSkFc2v29R)
 
-# The Royal Game of Ur - Anthropic's AI Claude
+## The Royal Game of Ur - Anthropic's AI Claude
 
 The Royal Game of Ur is one of the oldest known board games in the world, with a fascinating history spanning thousands of years.
 
