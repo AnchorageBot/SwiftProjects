@@ -18,3 +18,5 @@ Videos
 * [The Insane Biology of: The Tardigrade - Real Science](https://youtu.be/9lZpF0oatYA?si=Q5xJfO0K7UeNIR5c)
 
 * [How to assemble your Foldscope](https://youtu.be/L-tFJRGQBIo?si=GybCoBfwHnU8Nxl-)
+
+* [Foldscope viewing methods](https://youtu.be/0iRCceGCGus?si=1Blf-qu0PqpEq_U4)
