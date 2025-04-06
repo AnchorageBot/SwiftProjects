@@ -4,6 +4,8 @@ A KPI, or Key Performance Indicator, is a quantifiable measure that helps track 
 
 A CSAT, or Customer Satisfaction Score, measures how satisfied customers are with a product, service, or interaction, typically through surveys asking customers to rate their experience on a scale
 
+The MCP protocol is a standardized, open protocol that streamlines how AI applications (like chatbots or IDE assistants) interact with external tools, data sources, and systems, enabling seamless integration and context sharing
+
 - - - -
 
 Market research videos
