@@ -4,4 +4,8 @@ A KPI, or Key Performance Indicator, is a quantifiable measure that helps track 
 
 A CSAT, or Customer Satisfaction Score, measures how satisfied customers are with a product, service, or interaction, typically through surveys asking customers to rate their experience on a scale
 
-[The Top 100 GenAI Products, Ranked and Explained - a16z](https://youtu.be/c0_7ffZte80?si=WcBabXTwX21dG8Si)
+Market research videos
+
+* [The Top 100 GenAI Products, Ranked and Explained - a16z](https://youtu.be/c0_7ffZte80?si=WcBabXTwX21dG8Si)
+
+* [Automating Developer Email with MCP and AI Agents - a16z](https://youtu.be/8fxX1IuWIek?si=tpdUF9PoXvUB8Coz)
