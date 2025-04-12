@@ -9,3 +9,5 @@ Anthropic's AI Claude:
 * //Views/SudokuGameView.swift - The main game view that combines all components
 
 - - - -
+
+Has issues, will not compile, and needs to be refactored
