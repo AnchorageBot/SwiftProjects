@@ -19,11 +19,24 @@
 import SwiftUI
 
 // MARK: - App Entry Point
+
+// Uses SudokuGameView() as the entry point
+//@main
+//struct SudokuApp_V1: App {
+//    var body: some Scene {
+//        WindowGroup {
+//            SudokuGameView()
+//        }
+//    }
+//}
+
+
+// Uses ContentView() as the entry point
 @main
 struct SudokuApp_V1: App {
     var body: some Scene {
         WindowGroup {
-            SudokuGameView()
+            ContentView()
         }
     }
 }
