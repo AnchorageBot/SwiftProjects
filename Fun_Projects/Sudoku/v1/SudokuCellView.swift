@@ -11,6 +11,7 @@
 
 import SwiftUI
 
+// MARK: - View
 struct SudokuCellView: View {
     let value: Int
     let row: Int
