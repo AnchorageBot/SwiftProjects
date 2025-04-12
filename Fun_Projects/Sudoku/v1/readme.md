@@ -2,7 +2,7 @@ Anthropic's AI Claude:
 - - - -
 
 * //SudokuApp_V1.swift - The main app entry point
-* //ContentView.swift - Main Content View*
+* //ContentView.swift - Main Content View
 * //Models/SudokuGame.swift - The game model with logic for puzzle generation
 * //Views/SudokuCellView.swift - The view for individual Sudoku cells
 * //Views/SudokuGridView.swift - The view for the entire 9x9 grid
