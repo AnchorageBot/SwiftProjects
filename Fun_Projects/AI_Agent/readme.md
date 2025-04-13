@@ -10,7 +10,7 @@ arrange or represent in a schematic form.
 
 - - - -
 
-CRUD - create, read, update, and delete
+CRUD - create, read, update, and delete functions
 
 - - - -
 
