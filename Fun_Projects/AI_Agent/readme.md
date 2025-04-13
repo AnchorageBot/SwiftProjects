@@ -16,6 +16,12 @@ CRUD - create, read, update, and delete
 
 LEAN for office work
 
+1) Defining Value
+2) Mapping the Value Stream
+3) Creating Flow
+4) Establishing a Pull System
+5) Pursuing Perfection (Continuous Improvement)
+
 - - - -
 [Satya Nadella | BG2 w/ Bill Gurley & Brad Gerstner - Bg2 Pod](https://youtu.be/9NtsnzRFJ_o?si=84syI8cP1inHSgBX)
 
