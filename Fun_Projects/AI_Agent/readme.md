@@ -2,4 +2,4 @@
 
 * [Microsoft Dynamics365](https://www.microsoft.com/en-us/dynamics-365)
 
-* [Apple Intelligenc](https://www.apple.com/apple-intelligence/)
+* [Apple Intelligence](https://www.apple.com/apple-intelligence/)
