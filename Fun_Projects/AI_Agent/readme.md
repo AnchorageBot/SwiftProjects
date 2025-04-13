@@ -1,4 +1,4 @@
-UI for AI
+UI for AI APIs
 - - - -
 sche·ma·tize
 /ˈskēməˌtīz/
