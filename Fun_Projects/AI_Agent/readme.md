@@ -1,3 +1,5 @@
 [Satya Nadella | BG2 w/ Bill Gurley & Brad Gerstner - Bg2 Pod](https://youtu.be/9NtsnzRFJ_o?si=84syI8cP1inHSgBX)
 
-* [Dynamics365](https://www.microsoft.com/en-us/dynamics-365)
+* [Microsoft Dynamics365](https://www.microsoft.com/en-us/dynamics-365)
+
+* [Apple Intelligenc](https://www.apple.com/apple-intelligence/)
