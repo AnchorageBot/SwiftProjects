@@ -14,7 +14,7 @@ CRUD - create, read, update, and delete
 
 - - - -
 
-LEAN for office work - What are the give/gets?
+LEAN for (x) work - What are the give/gets?
 
 1) Defining Value
 2) Mapping the Value Stream
