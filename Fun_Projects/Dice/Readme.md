@@ -1,6 +1,7 @@
-| Platonic Solid | Archaeological Example & Location                                     | Approximate Age (Years from 2025) |
+| Platonic Solid | Archaeological Example & Location                                     | Approximate Age (Years 2025) |
 |----------------|-----------------------------------------------------------------------|---------------------------------------------------|
 | Tetrahedron    | Neolithic Carved Stone Ball, Scotland                                 | ~5225                                             |
+| Tetrahedron    | Tetrahedral die for Royal Game of Ur, Mesopotamia (e.g., Ur)          | ~4625                                             |
 | Tetrahedron    | Baked-clay pyramid-shaped object, Jaketown Site, Mississippi, USA     | ~2675                                             |
 | Cube           | Neolithic Carved Stone Ball, Scotland                                 | ~5225                                             |
 | Cube           | Cubical die, Indus Valley (e.g., Mohenjo-Daro, Harappa)               | ~4525                                             |
