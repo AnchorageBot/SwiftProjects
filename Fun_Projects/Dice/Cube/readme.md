@@ -1,1 +1,1 @@
-
+The cube has six faces, twelve edges, and eight vertices. Because of such properties, it is categorized as one of the five Platonic solids, a polyhedron in which all the regular polygons are congruent and the same number of faces meet at each vertex. - Wiki
