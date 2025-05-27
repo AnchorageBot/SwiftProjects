@@ -1,1 +1,1 @@
-just a thought piece that needs to be checked for validity
+just a thought piece that needs to be thoroughly checked for validity
