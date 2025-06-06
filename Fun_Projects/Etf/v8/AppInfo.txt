@@ -1,0 +1,276 @@
+# ETF Portfolio Analyzer v8 - App Information
+
+## Overview
+ETF Portfolio Analyzer is a SwiftUI-based iOS application that helps investors analyze their ETF portfolio performance. The app calculates individual ETF returns, accounts for expenses and dividends, and provides comprehensive portfolio analytics with weighted performance metrics.
+
+## Version 8 Features
+- **Separate screens for each ETF** - Eliminates scrolling issues with dedicated input screens
+- **Fixed results display** - ScrollView ensures all ETF results are fully visible
+- **Clear navigation flow** - Portfolio list → ETF details → Analysis results
+- **Real-time validation** - Visual feedback for completed/incomplete ETFs
+- **Professional calculations** - CAGR, weighted returns, expense tracking
+
+## High-Level Summary
+
+### Purpose
+The app enables users to:
+- Track up to 10 ETF investments
+- Calculate total returns including capital appreciation and dividend yield
+- Account for expense ratios impact on returns
+- View annualized performance metrics (CAGR)
+- Analyze portfolio allocation and weighted returns
+- Share detailed analysis reports
+
+### Key Features
+1. **Individual ETF Screens** - Full-screen form for each ETF's data
+2. **Status Overview** - Main list shows completion status for all ETFs
+3. **Real-time Calculations** - See gains/losses as you type
+4. **Expandable Results** - Detailed breakdown for each ETF
+5. **Share Functionality** - Export analysis as formatted text report
+6. **Scrollable Results** - All content visible without cutoff (v8 fix)
+
+## Navigation Flow
+
+```
+┌─────────────────────────┐
+│   Portfolio List View   │ ← Main Screen
+│  - Number of ETFs       │
+│  - ETF Status List      │
+│  - Analyze Button       │
+└───────────┬─────────────┘
+            │ Tap ETF
+            ▼
+┌─────────────────────────┐
+│  ETF Detail Screen      │ ← Individual ETF Input
+│  - Name                 │
+│  - Expense/Yield %      │
+│  - Shares & Prices      │
+│  - Purchase/Current Date│
+│  - Live Summary         │
+└───────────┬─────────────┘
+            │ Back
+            ▼
+┌─────────────────────────┐
+│   Portfolio List View   │ ← All ETFs Complete
+│  ✓ All ETFs Valid       │
+│  [Analyze Portfolio]    │
+└───────────┬─────────────┘
+            │ Analyze
+            ▼
+┌─────────────────────────┐
+│     Results View        │ ← Analysis Complete
+│  ScrollView Container   │ ← v8: Fixed display
+│  - Portfolio Summary    │
+│  - Allocation %         │
+│  - Individual Results   │
+│  - Share Report         │
+└─────────────────────────┘
+```
+
+## Data Flow Diagram
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                          USER INPUT                              │
+│                                                                  │
+│  Portfolio List View:                                           │
+│  └─> Sets number of ETFs (1-10)                               │
+│                                                                  │
+│  ETF Detail Screen (for each ETF):                             │
+│  └─> Name, Expense %, Yield %                                 │
+│  └─> Shares, Buy Price, Current Price                         │
+│  └─> Purchase Date, Analysis Date                             │
+└────────────────────────────┬───────────────────────────────────┘
+                             │ Binding Updates
+                             ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                      ContentView                                 │
+│                                                                  │
+│  @StateObject viewModel: PortfolioViewModel                    │
+│  @State showingResults: Bool                                    │
+│                                                                  │
+│  Navigation Logic:                                               │
+│  - Shows PortfolioListView or ResultsView                      │
+│  - Passes viewModel to child views                             │
+└────────────────────────────┬───────────────────────────────────┘
+                             │ Data Binding
+                             ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                   PortfolioViewModel                             │
+│                                                                  │
+│  @Published Properties:                                          │
+│  - etfInputs: [ETFInput] ← User inputs stored here            │
+│  - individualResults: [ETFAnalysisResult]                      │
+│  - portfolioSummary: PortfolioSummaryResult?                   │
+│  - numberOfETFs: Int                                           │
+│                                                                  │
+│  Key Methods:                                                    │
+│  - analyze() → Triggers calculation                            │
+│  - clearAll() → Resets all data                               │
+│  - allInputsValid → Computed validation                        │
+└────────────────────────────┬───────────────────────────────────┘
+                             │ analyze() called
+                             ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                   PortfolioCalculator                            │
+│                                                                  │
+│  Pure Functions (no side effects):                              │
+│                                                                  │
+│  1. analyzeETF(ETFInput) → ETFAnalysisResult?                  │
+│     For each ETF:                                              │
+│     - Days held = endDate - startDate                         │
+│     - Initial = shares × startPrice                           │
+│     - Current = shares × endPrice                             │
+│     - Capital gain = current - initial                        │
+│     - Yield income = initial × yield% × years                 │
+│     - Gross return = capital gain + yield                     │
+│     - Expenses = initial × expense% × years                   │
+│     - Net return = gross - expenses                           │
+│     - Annual return = CAGR formula                            │
+│                                                                  │
+│  2. analyzePortfolio([ETFAnalysisResult]) → PortfolioSummary   │
+│     - Sum all individual metrics                               │
+│     - Weight = ETF initial / total initial                    │
+│     - Weighted return = Σ(ETF return × weight)               │
+│     - Allocation% = ETF current / total current              │
+└────────────────────────────┬───────────────────────────────────┘
+                             │ Results returned
+                             ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                        ResultsView (v8)                          │
+│                                                                  │
+│  Container: ScrollView (fixed from List in v7)                  │
+│  └─> Ensures all content is visible and scrollable             │
+│                                                                  │
+│  Displays:                                                       │
+│  1. Portfolio Summary Section                                    │
+│     - Total invested, current value                            │
+│     - Net return (color coded)                                 │
+│     - Weighted annual return %                                 │
+│                                                                  │
+│  2. Allocation Section                                          │
+│     - Each ETF's % of portfolio                               │
+│                                                                  │
+│  3. Individual ETF Results (Expandable Cards)                  │
+│     - Header: name, return, initial→current, annual%          │
+│     - Expandable: all detailed calculations                    │
+│                                                                  │
+│  4. Action Buttons (Full Width)                                │
+│     - Share report → generates text                           │
+│     - Modify inputs → back to input mode                      │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+## Key Architecture Patterns
+
+### MVVM (Model-View-ViewModel)
+- **Models**: ETFInput, ETFAnalysisResult, PortfolioSummaryResult
+- **View Model**: PortfolioViewModel (ObservableObject)
+- **Views**: ContentView, PortfolioListView, ETFDetailScreen, ResultsView
+- **Calculator**: PortfolioCalculator (Business Logic Layer)
+
+### State Management
+- **@StateObject**: ContentView owns the ViewModel
+- **@ObservedObject**: Child views observe ViewModel changes
+- **@Binding**: Two-way data flow for ETF inputs
+- **@State**: Local view state (showingResults, expandedETFs)
+- **@FocusState**: Keyboard focus management
+
+## v8 Specific Changes
+
+### Results Display Fix
+**Problem**: List view was cutting off content at the bottom, making some ETF details invisible
+
+**Solution**: 
+```swift
+// v7 (Problem)
+List {
+    // Content would get cut off
+}
+
+// v8 (Fixed)
+ScrollView {
+    VStack(spacing: 0) {
+        // All content is now scrollable
+    }
+}
+```
+
+### Visual Improvements
+- ETF result cards have rounded corners and better spacing
+- Action buttons are full-width for easier tapping
+- Better visual hierarchy with consistent padding
+
+## Calculation Formulas
+
+### Individual ETF Metrics
+```
+Capital Appreciation = (Current Price - Purchase Price) × Shares
+Annual Yield Amount = Initial Investment × (Yield % / 100)
+Total Yield Income = Annual Yield Amount × Years Held
+Gross Return = Capital Appreciation + Total Yield Income
+Annual Expense = Initial Investment × (Expense % / 100)
+Total Expenses = Annual Expense × Years Held
+Net Return = Gross Return - Total Expenses
+
+Annualized Return (CAGR) = ((Final Value / Initial Value)^(1/Years)) - 1
+Where: Years = Days Held / 365
+```
+
+### Portfolio Metrics
+```
+Total Values = Sum of all ETF values
+ETF Weight = ETF Initial Investment / Total Initial Investment
+Weighted Return = Sum of (ETF Annualized Return × ETF Weight)
+Allocation % = (ETF Current Value / Total Current Value) × 100
+```
+
+## Validation Rules
+An ETF input is valid when ALL of these are true:
+- Name is not empty (after trimming whitespace)
+- Expense ratio ≥ 0
+- Annual yield ≥ 0
+- Shares > 0
+- Start price > 0
+- End price > 0
+- End date ≥ Start date
+
+## User Experience Flow
+
+1. **Start**: User sees portfolio list with one empty ETF
+2. **Configure**: Tap ETF → Enter all details → See live preview
+3. **Add More**: Increase ETF count → Configure each one
+4. **Review**: Main list shows all ETFs with status indicators
+5. **Analyze**: When all valid → Tap Analyze button
+6. **Results**: View summary → Expand individual ETFs → Share report
+7. **Iterate**: Modify inputs → Re-analyze as needed
+
+## Technical Stack
+- **Language**: Swift 6.0
+- **Framework**: SwiftUI
+- **Minimum iOS**: 16.0 (NavigationStack, .scrollDismissesKeyboard)
+- **Architecture**: MVVM
+- **State Management**: Combine + ObservableObject
+- **Navigation**: NavigationStack with programmatic navigation
+
+## Development Team
+- Original Development: ATS Project
+- AI Assistance: Google Gemini Advanced 2.5 Pro
+- v3-v8 Refactoring: Claude (Anthropic)
+- Created: May 21, 2025
+- Latest Update: May 31, 2025 (v8)
+
+## Version History
+- v1-v2: Original implementation
+- v3: Separate views, enhanced navigation
+- v4: (Skipped)
+- v5: Simplified navigation, direct number input, unified results
+- v6: List-based UI for better scrolling
+- v7: Individual screens per ETF, eliminated scrolling issues
+- v8: Fixed results display with ScrollView, improved visual design
+
+## Known Issues Resolved
+- v5: Input screen scrolling issues when keyboard appeared
+- v6: List-based approach helped but still had issues with multiple ETFs
+- v7: Solved input issues with separate screens but results were cut off
+- **v8: All display issues resolved with ScrollView implementation**
